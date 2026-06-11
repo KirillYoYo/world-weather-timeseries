@@ -1,0 +1,58 @@
+@use './variables' as *;
+
+$themes: (
+    light: (
+        bg: $color-alabaster,
+        bg-elevated: #ffffff,
+        text: $color-ink-black,
+        text-muted: $color-lavender,
+        border: $color-lavender,
+        primary: $color-dusk-blue,
+        primary-soft: rgba($color-dusk-blue, 0.12),
+    ),
+    dark: (
+        bg: $color-ink-black,
+        bg-elevated: $color-prussian,
+        text: $color-alabaster,
+        text-muted: $color-lavender,
+        border: $color-prussian,
+        primary: $color-dusk-blue,
+        primary-soft: rgba($color-dusk-blue, 0.25),
+    ),
+);
+
+@function theme-color($token, $scheme: light) {
+    $scheme-map: map-get($themes, $scheme);
+
+    @if $scheme-map == null {
+        @error 'Unknown color scheme: #{$scheme}';
+    }
+
+    $value: map-get($scheme-map, $token);
+
+    @if $value == null {
+        @error 'Unknown color token: #{$token} in scheme #{$scheme}';
+    }
+
+    @return $value;
+}
+
+:root {
+    --bg: #{theme-color(bg, light)};
+    --bg-elevated: #{theme-color(bg-elevated, light)};
+    --text: #{theme-color(text, light)};
+    --text-muted: #{theme-color(text-muted, light)};
+    --border: #{theme-color(border, light)};
+    --primary: #{theme-color(primary, light)};
+    --primary-soft: #{theme-color(primary-soft, light)};
+}
+
+[data-theme='dark'] {
+    --bg: #{theme-color(bg, dark)};
+    --bg-elevated: #{theme-color(bg-elevated, dark)};
+    --text: #{theme-color(text, dark)};
+    --text-muted: #{theme-color(text-muted, dark)};
+    --border: #{theme-color(border, dark)};
+    --primary: #{theme-color(primary, dark)};
+    --primary-soft: #{theme-color(primary-soft, dark)};
+}

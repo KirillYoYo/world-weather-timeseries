@@ -1,0 +1,30 @@
+@use './styles/variables' as *; // общие sass‑переменные (палитра, радиусы, шрифты)
+@use './styles/theme'; // подключаем тему, чтобы на :root появились CSS‑переменные
+
+.app-menu {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    z-index: 3;
+
+    > div {
+        cursor: pointer;
+        padding: 10px 0;
+    }
+}
+
+html,
+body,
+#root,
+.ant-layout {
+    height: 100%;
+}
+
+body {
+    margin: 0; // убираем дефолтные отступы браузера
+    padding: 0; // сбрасываем внутренние отступы
+    min-height: 100%; // гарантируем минимальную высоту
+    font-family: $font-family-base; // подключаем общий стек шрифтов из переменных
+    background-color: var(--bg); // фон берём из текущей цветовой схемы
+    color: var(--text); // основной цвет текста тоже из схемы
+}
