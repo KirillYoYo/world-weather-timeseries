@@ -1,93 +1,71 @@
-import React, { useEffect, useState } from 'react';
-import {GeoJSON2SVG} from 'geojson2svg';
-// import {FeatureCollection, GeoJsonTypes} from "geojson";
-// import { GeoJSON } from 'geojson';
-import {CountryFeatureCollection} from "@/types";
-
-const continentColors: Record<string, string> = {
-    'Africa': '#F4A460',        // песочный
-    'Asia': '#FFD700',           // золотой
-    'Europe': '#87CEEB',         // небесно-голубой
-    'North America': '#98FB98',  // бледно-зеленый
-    'South America': '#DDA0DD',  // сливовый
-    'Antarctica': '#E0E0E0',     // серый
-    'Australia': '#F08080'       // коралловый
-};
-
-const getColorByContinent = (continent: string): string => {
-    return continentColors[continent] || '#CCCCCC';
-};
+// MainPage.tsx
+import React from 'react'
+import { useGeoJsonData } from './hooks/useGeoJsonData'
+import { useMapInteraction } from './hooks/useMapInteraction'
+import { useContinentColors } from './hooks/useContinentColors'
+import { WorldMap } from './CountryPath'
+import { MapControls } from './MapControls'
+import { MapTips } from './MapTips'
 
 const MainPage = () => {
-    const [paths, setPaths] = useState<string[]>([]);
-    const [data, setData] = useState<CountryFeatureCollection>([] as unknown as CountryFeatureCollection);
-    const [error, setError] = useState(null);
-    const [loading, setLoading] = useState(true);
+    const { data, paths, loading, error } = useGeoJsonData('/world_110.json')
+    const { getColorByContinent, getHoverColor } = useContinentColors()
 
-    useEffect(() => {
-        const loadMap = async () => {
-            try {
-                const response = await fetch('/world_110.json');
-                const geoJsonData: CountryFeatureCollection = await response.json();
-                setData(geoJsonData);
-                console.log('geoJsonData', geoJsonData)
+    const {
+        scale,
+        position,
+        isPanning,
+        containerRef,
+        handleWheel,
+        handleMouseDown,
+        handleMouseMove,
+        handleMouseUp,
+        handleMouseLeave,
+        resetView,
+    } = useMapInteraction()
 
-                if (!response.ok) {
-                    console.warn(`HTTP error! status: ${response.status}`)
-                }
-
-                const converter = new GeoJSON2SVG({
-                    mapExtent: {left: -180, bottom: -90, right: 180, top: 90},
-                    viewportSize: {width: 1000, height: 600},
-                });
-
-                const svg = converter.convert(geoJsonData);
-
-                setPaths(svg);
-            } catch (err: any) {
-                console.error('Error:', err);
-                setError(err.message);
-            } finally {
-                setLoading(false);
-            }
-        };
-
-        loadMap();
-    }, []);
-
-    if (loading) return <div>Loading map...</div>;
-    if (error) return <div style={{ color: 'red' }}>Error: {error}</div>;
-
-    const handleCountryClick = (data: any) => {
-        console.log('click on', data)
+    const handleCountryClick = (countryName: string) => {
+        console.log('Clicked on:', countryName)
     }
 
+    if (loading) return <div>Loading map...</div>
+    if (error) return <div style={{ color: 'red' }}>Error: {error}</div>
+
     return (
-        <div style={{ height: '100%' }}>
-            <svg width={'100%'} height={'80%'}>
-                {paths.map((pathStr, index) => {
-                    // Извлекаем d атрибут из строки <path d="..."/>
-                    const dMatch = pathStr.match(/d="([^"]*)"/);
-                    const pathD = dMatch ? dMatch[1] : '';
-                    const currentData = data.features[index]
+        <div style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
+            <MapControls scale={scale} onReset={resetView} />
 
-                    return (
-                        <path
-                            key={index}
-                            d={pathD}
-                            fill={getColorByContinent(currentData.properties.CONTINENT)}
-                            stroke="#333"
-                            strokeWidth="0.5"
-                            onClick={() => handleCountryClick(currentData.properties.ADMIN)}
-                            onMouseEnter={(e: React.MouseEvent<SVGPathElement, MouseEvent>) => e.currentTarget.setAttribute('fill', '#ffcccc')}
-                            onMouseLeave={(e) => e.currentTarget.setAttribute('fill', getColorByContinent(currentData.properties.CONTINENT))}
-                            style={{ cursor: 'pointer' }}
-                        />
-                    );
-                })}
-            </svg>
+            <div
+                ref={containerRef}
+                style={{
+                    height: '80%',
+                    overflow: 'hidden',
+                    cursor: isPanning ? 'grabbing' : 'grab',
+                    border: '1px solid #ddd',
+                    borderRadius: '4px',
+                    position: 'relative',
+                    backgroundColor: '#f5f5f5',
+                }}
+                onWheel={handleWheel}
+                onMouseDown={handleMouseDown}
+                onMouseMove={handleMouseMove}
+                onMouseUp={handleMouseUp}
+                onMouseLeave={handleMouseLeave}
+            >
+                <WorldMap
+                    paths={paths}
+                    data={data}
+                    scale={scale}
+                    position={position}
+                    getColorByContinent={getColorByContinent}
+                    getHoverColor={getHoverColor}
+                    onCountryClick={handleCountryClick}
+                />
+            </div>
+
+            <MapTips />
         </div>
-    );
-};
+    )
+}
 
-export default MainPage;
+export default MainPage
