@@ -11,18 +11,7 @@ const MainPage = () => {
     const { data, paths, loading, error } = useGeoJsonData('/world_110.json')
     const { getColorByContinent, getHoverColor } = useContinentColors()
 
-    const {
-        scale,
-        position,
-        isPanning,
-        containerRef,
-        handleWheel,
-        handleMouseDown,
-        handleMouseMove,
-        handleMouseUp,
-        handleMouseLeave,
-        resetView,
-    } = useMapInteraction()
+    const { scale, position, resetView } = useMapInteraction()
 
     const handleCountryClick = (countryName: string) => {
         console.log('Clicked on:', countryName)
@@ -33,35 +22,11 @@ const MainPage = () => {
 
     return (
         <div style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
-            <MapControls scale={scale} onReset={resetView} />
-
-            <div
-                ref={containerRef}
-                style={{
-                    height: '80%',
-                    overflow: 'hidden',
-                    cursor: isPanning ? 'grabbing' : 'grab',
-                    border: '1px solid #ddd',
-                    borderRadius: '4px',
-                    position: 'relative',
-                    backgroundColor: '#f5f5f5',
-                }}
-                onWheel={handleWheel}
-                onMouseDown={handleMouseDown}
-                onMouseMove={handleMouseMove}
-                onMouseUp={handleMouseUp}
-                onMouseLeave={handleMouseLeave}
-            >
-                <WorldMap
-                    paths={paths}
-                    data={data}
-                    scale={scale}
-                    position={position}
-                    getColorByContinent={getColorByContinent}
-                    getHoverColor={getHoverColor}
-                    onCountryClick={handleCountryClick}
-                />
-            </div>
+            <WorldMap
+            // getColorByContinent={getColorByContinent}
+            // getHoverColor={getHoverColor}
+            // onCountryClick={handleCountryClick}
+            />
 
             <MapTips />
         </div>
