@@ -2,7 +2,7 @@ import type { LayerProps } from 'react-map-gl/maplibre'
 
 // For more information on data-driven styles, see https://maplibre.org/maplibre-style-spec/expressions/
 export const dataLayer: LayerProps = {
-    id: 'data-layer',
+    id: 'data',
     'source-layer': 'data',
     type: 'fill',
     paint: {
@@ -38,6 +38,11 @@ export const labelLayer: LayerProps = {
         'text-transform': 'uppercase', // опционально
         'text-offset': [0, 0],
         'text-anchor': 'center',
+        // 'symbol-placement': 'point',
+        // 'text-allow-overlap': false,
+        // 'text-ignore-placement': false,
+        // 'symbol-avoid-edges': true,
+        // 'symbol-z-order': 'auto',
     },
     // filter: ['==', ['get', 'geounit'], ['get', 'name']],
     // filter: ['!=', ['get', 'type'], 'Dependency'],

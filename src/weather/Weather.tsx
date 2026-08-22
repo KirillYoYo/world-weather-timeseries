@@ -6,15 +6,17 @@ import { Map as MapGlMap, Source, Layer, MapRef } from 'react-map-gl/maplibre'
 import { useGeojsonVtProtocol } from '../hooks/useGeojsonVtProtocol'
 import 'maplibre-gl/dist/maplibre-gl.css'
 
-import { borderLayer, dataLayer, labelLayer } from './map-style'
+import { borderLayer, dataLayer } from './map-style'
 import { getCountryAtCenter } from './utils'
 import { FeatureCollection } from '../types'
-import union from '@turf/union'
+import { Feature } from 'geojson'
 
 export default function Weather() {
     const [geoData, setGeoData] = useState(null)
     const mapRef = useRef<MapRef | null>(null)
+    const [labelData, setLabelData] = useState<FeatureCollection | null>(null)
     const [countries, setCountries] = useState<FeatureCollection | null>(null)
+    const [continentData, setContinentData] = useState<FeatureCollection | null>(null)
     const [downloadedCountries, setDownloadedCountries] = useState<string[]>([])
 
     const tileIndex = useMemo(() => {
@@ -39,7 +41,23 @@ export default function Weather() {
         }
         fetchData().then(res => {
             // todo слой для лейблов
-            // const labelFeatures = res.features.map(el => {})
+            const labelFeatures = res.features.map((f: any) => ({
+                type: 'Feature',
+                geometry: {
+                    type: 'Point',
+                    coordinates: [f.properties.label_x, f.properties.label_y],
+                },
+                properties: {
+                    name: f.properties.name,
+                    name_en: f.properties.name_en,
+                    // при необходимости скопируйте другие поля (adm0_iso и т.д.)
+                },
+            }))
+            const labelGeoData = { type: 'FeatureCollection', features: labelFeatures }
+            const continentFeatures = buildContinentsPoints(res.features)
+
+            setContinentData(continentFeatures)
+            setLabelData(labelGeoData as FeatureCollection)
             setGeoData(res)
         })
     }, [])
@@ -72,6 +90,7 @@ export default function Weather() {
 
         if (curZoom > 3.6 && closestCountry && closestCountry.properties) {
             const iso = closestCountry.properties.adm0_iso
+            const t = new Date().getMilliseconds()
             if (downloadedCountries.includes(iso)) {
                 return
             }
@@ -81,7 +100,8 @@ export default function Weather() {
                 console.warn(`Страна ${iso} не найдена (${response.status})`)
             } else {
                 const data = (await response.json()) as FeatureCollection
-                setDownloadedCountries([...downloadedCountries, iso])
+                console.log('downloaded at', new Date().getMilliseconds() - t)
+                setDownloadedCountries([iso])
                 setCountries(data)
             }
         }
@@ -103,7 +123,6 @@ export default function Weather() {
         setTimeout(() => {
             // todo убрать костыль с timeout
             updateVisibleCountries()
-            console.log('123123', map.getSource('data'))
         }, 500)
 
         return () => {
@@ -130,7 +149,49 @@ export default function Weather() {
                     <Source type="vector" tiles={['geojsonvt://{z}/{x}/{y}']}>
                         <Layer {...dataLayer} />
                         <Layer {...borderLayer} />
-                        <Layer {...labelLayer} />
+                    </Source>
+                )}
+                {labelData && (
+                    <Source id="country-labels" type="geojson" data={labelData}>
+                        <Layer
+                            minzoom={3}
+                            id="country-label-layer"
+                            type="symbol"
+                            layout={{
+                                'text-field': ['get', 'name_en'],
+                                'text-font': ['Montserrat Medium'],
+                                'text-size': 12,
+                                'text-transform': 'uppercase',
+                                'symbol-placement': 'point',
+                            }}
+                            paint={{
+                                'text-color': '#333',
+                                'text-halo-color': '#fff',
+                                'text-halo-width': 1,
+                            }}
+                        />
+                    </Source>
+                )}
+                {continentData && (
+                    <Source id="continent-points" type="geojson" data={continentData}>
+                        <Layer
+                            id="continent-label-layer"
+                            type="symbol"
+                            minzoom={0}
+                            maxzoom={3}
+                            layout={{
+                                'text-field': ['get', 'name'],
+                                'text-font': ['Montserrat Medium'],
+                                'text-size': 14,
+                                'text-transform': 'uppercase',
+                                'symbol-placement': 'point',
+                            }}
+                            paint={{
+                                'text-color': '#333',
+                                'text-halo-color': '#fff',
+                                'text-halo-width': 1,
+                            }}
+                        />
                     </Source>
                 )}
                 {countries && (
@@ -138,11 +199,66 @@ export default function Weather() {
                         <Layer
                             id="test-all"
                             type="fill"
-                            paint={{ 'fill-color': 'red', 'fill-opacity': 0.7 }}
+                            paint={{ 'fill-color': 'red', 'fill-opacity': 0.5 }}
+                        />
+                        <Layer
+                            minzoom={3}
+                            id="state-labels"
+                            type="symbol"
+                            layout={{
+                                'text-field': ['get', 'shapeName'],
+                                'text-font': ['Montserrat Medium'],
+                                'text-size': 12,
+                                'text-transform': 'uppercase',
+                                'symbol-placement': 'point', // размещаем по центру каждого полигона
+                            }}
+                            paint={{
+                                'text-color': '#000',
+                                'text-halo-color': '#fff',
+                                'text-halo-width': 1,
+                            }}
                         />
                     </Source>
                 )}
             </MapGlMap>
         </>
     )
+}
+
+function buildContinentsPoints(features: any[]): FeatureCollection {
+    const continentsMap = new Map<string, { lats: number[]; lngs: number[]; name: string }>()
+
+    features.forEach((f: any) => {
+        const continent = f.properties.continent
+        if (!continent) return
+        if (!continentsMap.has(continent)) {
+            continentsMap.set(continent, { lats: [], lngs: [], name: continent })
+        }
+        const entry = continentsMap.get(continent)!
+        // Используем label_x (долгота) и label_y (широта)
+        const x = f.properties.label_x
+        const y = f.properties.label_y
+        if (x != null && y != null) {
+            entry.lngs.push(x)
+            entry.lats.push(y)
+        }
+    })
+
+    const featuresС: Feature[] = []
+    for (const [continent, data] of continentsMap.entries()) {
+        const avgLng = data.lngs.reduce((a, b) => a + b, 0) / data.lngs.length
+        const avgLat = data.lats.reduce((a, b) => a + b, 0) / data.lats.length
+        featuresС.push({
+            type: 'Feature',
+            geometry: {
+                type: 'Point',
+                coordinates: [avgLng, avgLat],
+            },
+            properties: {
+                name: continent,
+            },
+        })
+    }
+
+    return { type: 'FeatureCollection', features: featuresС }
 }
