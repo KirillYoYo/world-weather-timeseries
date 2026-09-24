@@ -62,50 +62,53 @@ export default function Weather() {
         })
     }, [])
 
-    const updateVisibleCountries = useCallback(async () => {
-        const map = mapRef.current?.getMap()
-        if (!map) return
+    const updateVisibleCountries = useCallback(
+        async isoName => {
+            const map = mapRef.current?.getMap()
+            if (!map) return
 
-        const curZoom = map.getZoom()
-        const center = map.getCenter() // { lat, lng }
+            const curZoom = map.getZoom()
+            const center = map.getCenter() // { lat, lng }
 
-        const features = map.queryRenderedFeatures({ layers: ['data'] })
+            const features = map.queryRenderedFeatures({ layers: ['data'] })
 
-        if (!features) return
+            if (!features) return
 
-        const uniqueCountriesMap = new Map()
-        features.forEach(feature => {
-            const name = feature.properties?.name
-            if (name && !uniqueCountriesMap.has(name)) {
-                uniqueCountriesMap.set(name, {
-                    properties: feature.properties,
-                    geometry: feature.geometry,
-                })
+            const uniqueCountriesMap = new Map()
+            features.forEach(feature => {
+                const name = feature.properties?.name
+                if (name && !uniqueCountriesMap.has(name)) {
+                    uniqueCountriesMap.set(name, {
+                        properties: feature.properties,
+                        geometry: feature.geometry,
+                    })
+                }
+            })
+
+            const countries = Array.from(uniqueCountriesMap.values())
+
+            const closestCountry = getCountryAtCenter(map, center, countries)
+
+            if ((curZoom > 3.6 && closestCountry && closestCountry.properties) || isoName) {
+                const iso = isoName || closestCountry.properties.adm0_iso
+                const t = new Date().getMilliseconds()
+                if (downloadedCountries.includes(iso)) {
+                    return
+                }
+                console.log('Загружаем страну:', iso)
+                const response = await fetch(`/countries/${iso}.json`)
+                if (!response.ok) {
+                    console.warn(`Страна ${iso} не найдена (${response.status})`)
+                } else {
+                    const data = (await response.json()) as FeatureCollection
+                    console.log('downloaded at', new Date().getMilliseconds() - t)
+                    setDownloadedCountries([iso])
+                    setCountries(data)
+                }
             }
-        })
-
-        const countries = Array.from(uniqueCountriesMap.values())
-
-        const closestCountry = getCountryAtCenter(map, center, countries)
-
-        if (curZoom > 3.6 && closestCountry && closestCountry.properties) {
-            const iso = closestCountry.properties.adm0_iso
-            const t = new Date().getMilliseconds()
-            if (downloadedCountries.includes(iso)) {
-                return
-            }
-            console.log('Загружаем страну:', iso)
-            const response = await fetch(`/countries/${iso}.json`)
-            if (!response.ok) {
-                console.warn(`Страна ${iso} не найдена (${response.status})`)
-            } else {
-                const data = (await response.json()) as FeatureCollection
-                console.log('downloaded at', new Date().getMilliseconds() - t)
-                setDownloadedCountries([iso])
-                setCountries(data)
-            }
-        }
-    }, [mapRef, downloadedCountries])
+        },
+        [mapRef, downloadedCountries]
+    )
 
     useEffect(() => {
         const map = mapRef.current?.getMap()
@@ -118,7 +121,8 @@ export default function Weather() {
         const map = mapRef.current?.getMap()
         if (!map) return
 
-        map.on('moveend', updateVisibleCountries)
+        // todo убрать, сейчас нужно для загрузки провиция на скролле
+        map.on('moveend', () => updateVisibleCountries(null))
 
         setTimeout(() => {
             // todo убрать костыль с timeout
@@ -133,6 +137,12 @@ export default function Weather() {
     console.log('geoData', geoData)
     console.log('countries', countries)
 
+    const onClick = event => {
+        const feature = event.features[0]
+        console.log('click')
+        updateVisibleCountries(feature.properties.adm0_iso)
+    }
+
     return (
         <>
             <MapGlMap
@@ -144,6 +154,7 @@ export default function Weather() {
                 }}
                 interactiveLayerIds={['data']}
                 onLoad={() => onLoad()}
+                onClick={onClick}
             >
                 {protocolReady && (
                     <Source type="vector" tiles={['geojsonvt://{z}/{x}/{y}']}>
