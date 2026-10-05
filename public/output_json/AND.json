@@ -1,0 +1,366 @@
+{
+  "Sant Julia de Loria": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Canillo": {
+    "average_temp": 5.0,
+    "average_prec": 100.31,
+    "1": {
+      "temp": -3.7,
+      "prec": 114.12
+    },
+    "2": {
+      "temp": -1.74,
+      "prec": 83.47
+    },
+    "3": {
+      "temp": -0.49,
+      "prec": 115.58
+    },
+    "4": {
+      "temp": 1.63,
+      "prec": 104.7
+    },
+    "5": {
+      "temp": 6.07,
+      "prec": 101.29
+    },
+    "6": {
+      "temp": 11.32,
+      "prec": 128.66
+    },
+    "7": {
+      "temp": 14.71,
+      "prec": 55.93
+    },
+    "8": {
+      "temp": 14.99,
+      "prec": 73.45
+    },
+    "9": {
+      "temp": 11.11,
+      "prec": 92.24
+    },
+    "10": {
+      "temp": 6.68,
+      "prec": 139.22
+    },
+    "11": {
+      "temp": 1.44,
+      "prec": 128.86
+    },
+    "12": {
+      "temp": -1.97,
+      "prec": 66.22
+    }
+  },
+  "Ordino": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "La Massana": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Encamp": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Escaldes-Engordany": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Andorra la Vella": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "Black River": {
+    "average_temp": 23.68,
+    "average_prec": 129.07,
+    "1": {
+      "temp": 26.11,
+      "prec": 300.4
+    },
+    "2": {
+      "temp": 26.19,
+      "prec": 163.04
+    },
+    "3": {
+      "temp": 25.96,
+      "prec": 233.03
+    },
+    "4": {
+      "temp": 25.14,
+      "prec": 257.51
+    },
+    "5": {
+      "temp": 23.47,
+      "prec": 104.68
+    },
+    "6": {
+      "temp": 21.66,
+      "prec": 85.04
+    },
+    "7": {
+      "temp": 20.87,
+      "prec": 68.78
+    },
+    "8": {
+      "temp": 20.86,
+      "prec": 62.94
+    },
+    "9": {
+      "temp": 21.64,
+      "prec": 39.55
+    },
+    "10": {
+      "temp": 22.87,
+      "prec": 47.11
+    },
+    "11": {
+      "temp": 24.05,
+      "prec": 83.82
+    },
+    "12": {
+      "temp": 25.39,
+      "prec": 102.97
+    }
+  },
+  "Flacq": {
+    "average_temp": 24.19,
+    "average_prec": 131.28,
+    "1": {
+      "temp": 26.59,
+      "prec": 297.67
+    },
+    "2": {
+      "temp": 26.68,
+      "prec": 162.25
+    },
+    "3": {
+      "temp": 26.44,
+      "prec": 234.95
+    },
+    "4": {
+      "temp": 25.58,
+      "prec": 263.71
+    },
+    "5": {
+      "temp": 23.89,
+      "prec": 119.79
+    },
+    "6": {
+      "temp": 22.1,
+      "prec": 92.0
+    },
+    "7": {
+      "temp": 21.34,
+      "prec": 74.83
+    },
+    "8": {
+      "temp": 21.38,
+      "prec": 65.29
+    },
+    "9": {
+      "temp": 22.21,
+      "prec": 40.52
+    },
+    "10": {
+      "temp": 23.45,
+      "prec": 46.69
+    },
+    "11": {
+      "temp": 24.71,
+      "prec": 76.69
+    },
+    "12": {
+      "temp": 25.87,
+      "prec": 100.92
+    }
+  },
+  "Grand Port": {
+    "average_temp": 22.93,
+    "average_prec": 138.86,
+    "1": {
+      "temp": 25.51,
+      "prec": 304.2
+    },
+    "2": {
+      "temp": 25.61,
+      "prec": 165.04
+    },
+    "3": {
+      "temp": 25.33,
+      "prec": 242.55
+    },
+    "4": {
+      "temp": 24.41,
+      "prec": 282.99
+    },
+    "5": {
+      "temp": 22.66,
+      "prec": 125.62
+    },
+    "6": {
+      "temp": 20.77,
+      "prec": 103.12
+    },
+    "7": {
+      "temp": 19.95,
+      "prec": 81.05
+    },
+    "8": {
+      "temp": 20.01,
+      "prec": 73.03
+    },
+    "9": {
+      "temp": 20.8,
+      "prec": 46.32
+    },
+    "10": {
+      "temp": 22.11,
+      "prec": 51.17
+    },
+    "11": {
+      "temp": 23.36,
+      "prec": 86.15
+    },
+    "12": {
+      "temp": 24.67,
+      "prec": 105.11
+    }
+  },
+  "Moka": {
+    "average_temp": 22.57,
+    "average_prec": 137.65,
+    "1": {
+      "temp": 25.17,
+      "prec": 310.64
+    },
+    "2": {
+      "temp": 25.29,
+      "prec": 168.28
+    },
+    "3": {
+      "temp": 24.99,
+      "prec": 244.67
+    },
+    "4": {
+      "temp": 24.11,
+      "prec": 275.6
+    },
+    "5": {
+      "temp": 22.31,
+      "prec": 118.94
+    },
+    "6": {
+      "temp": 20.38,
+      "prec": 96.06
+    },
+    "7": {
+      "temp": 19.62,
+      "prec": 76.52
+    },
+    "8": {
+      "temp": 19.62,
+      "prec": 70.38
+    },
+    "9": {
+      "temp": 20.39,
+      "prec": 45.13
+    },
+    "10": {
+      "temp": 21.73,
+      "prec": 51.26
+    },
+    "11": {
+      "temp": 22.92,
+      "prec": 87.9
+    },
+    "12": {
+      "temp": 24.29,
+      "prec": 106.49
+    }
+  },
+  "Pamplemousses": {
+    "average_temp": 24.53,
+    "average_prec": 125.81,
+    "1": {
+      "temp": 26.93,
+      "prec": 301.89
+    },
+    "2": {
+      "temp": 26.98,
+      "prec": 162.75
+    },
+    "3": {
+      "temp": 26.73,
+      "prec": 229.1
+    },
+    "4": {
+      "temp": 25.98,
+      "prec": 247.75
+    },
+    "5": {
+      "temp": 24.23,
+      "prec": 103.88
+    },
+    "6": {
+      "temp": 22.44,
+      "prec": 81.51
+    },
+    "7": {
+      "temp": 21.71,
+      "prec": 64.89
+    },
+    "8": {
+      "temp": 21.64,
+      "prec": 59.55
+    },
+    "9": {
+      "temp": 22.56,
+      "prec": 37.45
+    },
+    "10": {
+      "temp": 23.84,
+      "prec": 44.18
+    },
+    "11": {
+      "temp": 25.06,
+      "prec": 76.07
+    },
+    "12": {
+      "temp": 26.31,
+      "prec": 100.71
+    }
+  },
+  "Plaines Wilhems": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Port Louis": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Rivière du Rempart": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Savanne": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Rodrigues": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "St. Brandon": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Agaléga": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  }
+}

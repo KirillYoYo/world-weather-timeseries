@@ -1,0 +1,522 @@
+{
+  "Vieux Fort": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Anse la Raya": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Castries": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Gros Islet": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Dennery": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Micoud": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Soufrière": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Choiseul": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Laborie": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Canaries": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  }
+}

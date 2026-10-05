@@ -1,0 +1,158 @@
+{
+  "Moheli": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Anjouan": {
+    "average_temp": 23.54,
+    "average_prec": 133.66,
+    "1": {
+      "temp": 24.3,
+      "prec": 339.27
+    },
+    "2": {
+      "temp": 24.78,
+      "prec": 224.04
+    },
+    "3": {
+      "temp": 24.65,
+      "prec": 172.39
+    },
+    "4": {
+      "temp": 24.62,
+      "prec": 222.22
+    },
+    "5": {
+      "temp": 24.05,
+      "prec": 109.54
+    },
+    "6": {
+      "temp": 22.68,
+      "prec": 55.59
+    },
+    "7": {
+      "temp": 21.93,
+      "prec": 69.43
+    },
+    "8": {
+      "temp": 21.74,
+      "prec": 20.4
+    },
+    "9": {
+      "temp": 22.22,
+      "prec": 69.48
+    },
+    "10": {
+      "temp": 22.89,
+      "prec": 47.18
+    },
+    "11": {
+      "temp": 23.95,
+      "prec": 112.04
+    },
+    "12": {
+      "temp": 24.69,
+      "prec": 162.31
+    }
+  },
+  "Grande Comore": {
+    "average_temp": 22.6,
+    "average_prec": 175.92,
+    "1": {
+      "temp": 23.7,
+      "prec": 371.98
+    },
+    "2": {
+      "temp": 23.98,
+      "prec": 266.84
+    },
+    "3": {
+      "temp": 23.86,
+      "prec": 212.89
+    },
+    "4": {
+      "temp": 23.62,
+      "prec": 313.5
+    },
+    "5": {
+      "temp": 22.87,
+      "prec": 169.17
+    },
+    "6": {
+      "temp": 21.49,
+      "prec": 138.62
+    },
+    "7": {
+      "temp": 20.8,
+      "prec": 158.03
+    },
+    "8": {
+      "temp": 20.59,
+      "prec": 59.3
+    },
+    "9": {
+      "temp": 21.17,
+      "prec": 63.65
+    },
+    "10": {
+      "temp": 22.12,
+      "prec": 61.1
+    },
+    "11": {
+      "temp": 23.09,
+      "prec": 99.74
+    },
+    "12": {
+      "temp": 23.95,
+      "prec": 196.18
+    }
+  }
+}

@@ -39,9 +39,15 @@ export default function Weather() {
             const response = await fetch('/world_50.geo.json')
             return response.json()
         }
-        fetchData().then(res => {
+        async function getCountriesTemp() {
+            const response = await fetch('/all_countries_data.json')
+            return response.json()
+        }
+        Promise.all([fetchData(), getCountriesTemp()]).then(res => {
+            const worldData = res[0]
+            const tempData = res[1]
             // todo слой для лейблов
-            const labelFeatures = res.features.map((f: any) => ({
+            const labelFeatures = worldData.features.map((f: any) => ({
                 type: 'Feature',
                 geometry: {
                     type: 'Point',
@@ -50,15 +56,23 @@ export default function Weather() {
                 properties: {
                     name: f.properties.name,
                     name_en: f.properties.name_en,
+                    average_temp: tempData[f?.properties.adm0_iso]?.average_temp,
                     // при необходимости скопируйте другие поля (adm0_iso и т.д.)
                 },
             }))
             const labelGeoData = { type: 'FeatureCollection', features: labelFeatures }
-            const continentFeatures = buildContinentsPoints(res.features)
+            const worldDataWithTemp = worldData.features.map(f => ({
+                ...f,
+                properties: {
+                    ...f.properties,
+                    average_temp: tempData[f?.properties.adm0_iso]?.average_temp,
+                },
+            }))
+            const continentFeatures = buildContinentsPoints(worldDataWithTemp)
 
             setContinentData(continentFeatures)
             setLabelData(labelGeoData as FeatureCollection)
-            setGeoData(res)
+            setGeoData({ ...worldData, features: worldDataWithTemp })
         })
     }, [])
 
@@ -96,11 +110,27 @@ export default function Weather() {
                     return
                 }
                 console.log('Загружаем страну:', iso)
+                // todo зарефакторить на promise
                 const response = await fetch(`/countries/${iso}.json`)
+                const response2 = await fetch(`/output_json/${iso}.json`)
                 if (!response.ok) {
                     console.warn(`Страна ${iso} не найдена (${response.status})`)
                 } else {
                     const data = (await response.json()) as FeatureCollection
+                    const dataTemp = (await response2.json()) as FeatureCollection
+
+                    data.features.forEach((feature, i) => {
+                        data.features[i] = {
+                            ...feature,
+                            properties: {
+                                ...feature.properties,
+                                temp: dataTemp[feature.properties.shapeName],
+                            },
+                        }
+                    })
+
+                    console.log('data', data)
+                    console.log('dataTemp', dataTemp)
                     console.log('downloaded at', new Date().getMilliseconds() - t)
                     setDownloadedCountries([iso])
                     setCountries(data)
@@ -162,14 +192,20 @@ export default function Weather() {
                         <Layer {...borderLayer} />
                     </Source>
                 )}
-                {labelData && (
+                {protocolReady && labelData && (
                     <Source id="country-labels" type="geojson" data={labelData}>
                         <Layer
                             minzoom={3}
                             id="country-label-layer"
                             type="symbol"
                             layout={{
-                                'text-field': ['get', 'name_en'],
+                                'text-field': [
+                                    'concat',
+                                    ['get', 'name'],
+                                    ' — ',
+                                    ['to-string', ['get', 'average_temp']],
+                                    '°C',
+                                ],
                                 'text-font': ['Montserrat Medium'],
                                 'text-size': 12,
                                 'text-transform': 'uppercase',
@@ -210,23 +246,51 @@ export default function Weather() {
                         <Layer
                             id="test-all"
                             type="fill"
-                            paint={{ 'fill-color': 'red', 'fill-opacity': 0.5 }}
+                            paint={{
+                                'fill-color': [
+                                    'interpolate',
+                                    ['linear'],
+                                    ['coalesce', ['get', 'average_temp', ['get', 'temp']], 0], // ← INPUT целиком обёрнут
+                                    -10,
+                                    '#313695',
+                                    0,
+                                    '#4575b4',
+                                    10,
+                                    '#74add1',
+                                    15,
+                                    '#abd9e9',
+                                    20,
+                                    '#fdae61',
+                                    25,
+                                    '#f46d43',
+                                    30,
+                                    '#d73027',
+                                    40,
+                                    '#a50026',
+                                ],
+                                'fill-opacity': 1,
+                            }}
                         />
                         <Layer
                             minzoom={3}
                             id="state-labels"
                             type="symbol"
                             layout={{
-                                'text-field': ['get', 'shapeName'],
+                                'text-field': [
+                                    'concat',
+                                    ['to-string', ['round', ['get', 'average_temp']]],
+                                    '°C',
+                                ],
                                 'text-font': ['Montserrat Medium'],
                                 'text-size': 12,
                                 'text-transform': 'uppercase',
-                                'symbol-placement': 'point', // размещаем по центру каждого полигона
+                                'symbol-placement': 'point',
+                                'text-allow-overlap': false,
                             }}
                             paint={{
                                 'text-color': '#000',
                                 'text-halo-color': '#fff',
-                                'text-halo-width': 1,
+                                'text-halo-width': 1.5,
                             }}
                         />
                     </Source>

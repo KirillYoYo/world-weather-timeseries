@@ -1,0 +1,1666 @@
+{
+  "Acklins": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Biminis": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Berry Islands": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Black Point": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Cat Island": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Central Abaco": {
+    "average_temp": 25.67,
+    "average_prec": 120.61,
+    "1": {
+      "temp": 21.13,
+      "prec": 58.15
+    },
+    "2": {
+      "temp": 22.57,
+      "prec": 73.1
+    },
+    "3": {
+      "temp": 24.49,
+      "prec": 54.19
+    },
+    "4": {
+      "temp": 25.24,
+      "prec": 64.45
+    },
+    "5": {
+      "temp": 26.44,
+      "prec": 118.87
+    },
+    "6": {
+      "temp": 27.7,
+      "prec": 183.45
+    },
+    "7": {
+      "temp": 28.99,
+      "prec": 151.0
+    },
+    "8": {
+      "temp": 29.46,
+      "prec": 127.59
+    },
+    "9": {
+      "temp": 28.4,
+      "prec": 233.35
+    },
+    "10": {
+      "temp": 26.61,
+      "prec": 197.63
+    },
+    "11": {
+      "temp": 24.65,
+      "prec": 116.54
+    },
+    "12": {
+      "temp": 22.4,
+      "prec": 69.0
+    }
+  },
+  "Central Andros": {
+    "average_temp": 26.35,
+    "average_prec": 114.55,
+    "1": {
+      "temp": 22.41,
+      "prec": 43.91
+    },
+    "2": {
+      "temp": 23.77,
+      "prec": 48.39
+    },
+    "3": {
+      "temp": 25.25,
+      "prec": 26.97
+    },
+    "4": {
+      "temp": 25.93,
+      "prec": 56.37
+    },
+    "5": {
+      "temp": 27.38,
+      "prec": 127.97
+    },
+    "6": {
+      "temp": 28.2,
+      "prec": 225.74
+    },
+    "7": {
+      "temp": 29.38,
+      "prec": 129.89
+    },
+    "8": {
+      "temp": 29.34,
+      "prec": 126.16
+    },
+    "9": {
+      "temp": 28.57,
+      "prec": 220.41
+    },
+    "10": {
+      "temp": 27.37,
+      "prec": 202.99
+    },
+    "11": {
+      "temp": 25.35,
+      "prec": 110.32
+    },
+    "12": {
+      "temp": 23.23,
+      "prec": 55.42
+    }
+  },
+  "Central Eleuthera": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "City of Freeport": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Crooked Island": {
+    "average_temp": 26.83,
+    "average_prec": 66.73,
+    "1": {
+      "temp": 23.31,
+      "prec": 24.45
+    },
+    "2": {
+      "temp": 24.78,
+      "prec": 19.5
+    },
+    "3": {
+      "temp": 25.56,
+      "prec": 22.46
+    },
+    "4": {
+      "temp": 26.23,
+      "prec": 43.98
+    },
+    "5": {
+      "temp": 27.26,
+      "prec": 74.53
+    },
+    "6": {
+      "temp": 27.98,
+      "prec": 102.83
+    },
+    "7": {
+      "temp": 29.32,
+      "prec": 57.14
+    },
+    "8": {
+      "temp": 29.57,
+      "prec": 95.72
+    },
+    "9": {
+      "temp": 28.9,
+      "prec": 90.93
+    },
+    "10": {
+      "temp": 27.75,
+      "prec": 113.34
+    },
+    "11": {
+      "temp": 26.4,
+      "prec": 96.65
+    },
+    "12": {
+      "temp": 24.89,
+      "prec": 59.26
+    }
+  },
+  "East Grand Bahama": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Exuma": {
+    "average_temp": 26.78,
+    "average_prec": 87.81,
+    "1": {
+      "temp": 22.99,
+      "prec": 31.37
+    },
+    "2": {
+      "temp": 24.43,
+      "prec": 26.43
+    },
+    "3": {
+      "temp": 25.81,
+      "prec": 15.86
+    },
+    "4": {
+      "temp": 26.32,
+      "prec": 31.91
+    },
+    "5": {
+      "temp": 27.23,
+      "prec": 134.43
+    },
+    "6": {
+      "temp": 28.29,
+      "prec": 158.58
+    },
+    "7": {
+      "temp": 29.62,
+      "prec": 84.67
+    },
+    "8": {
+      "temp": 29.68,
+      "prec": 93.73
+    },
+    "9": {
+      "temp": 28.75,
+      "prec": 129.93
+    },
+    "10": {
+      "temp": 27.77,
+      "prec": 189.17
+    },
+    "11": {
+      "temp": 26.02,
+      "prec": 107.88
+    },
+    "12": {
+      "temp": 24.5,
+      "prec": 49.78
+    }
+  },
+  "Grand Cay": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Harbour Island": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Hope Town": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Inagua": {
+    "average_temp": 27.15,
+    "average_prec": 68.17,
+    "1": {
+      "temp": 24.55,
+      "prec": 48.42
+    },
+    "2": {
+      "temp": 25.3,
+      "prec": 33.78
+    },
+    "3": {
+      "temp": 26.08,
+      "prec": 35.26
+    },
+    "4": {
+      "temp": 26.68,
+      "prec": 28.68
+    },
+    "5": {
+      "temp": 27.64,
+      "prec": 90.03
+    },
+    "6": {
+      "temp": 28.53,
+      "prec": 49.4
+    },
+    "7": {
+      "temp": 29.02,
+      "prec": 24.41
+    },
+    "8": {
+      "temp": 29.38,
+      "prec": 84.78
+    },
+    "9": {
+      "temp": 29.04,
+      "prec": 75.38
+    },
+    "10": {
+      "temp": 27.94,
+      "prec": 100.7
+    },
+    "11": {
+      "temp": 26.47,
+      "prec": 156.66
+    },
+    "12": {
+      "temp": 25.19,
+      "prec": 90.57
+    }
+  },
+  "Long Island": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Mangrove Cay": {
+    "average_temp": 26.32,
+    "average_prec": 106.53,
+    "1": {
+      "temp": 22.34,
+      "prec": 39.81
+    },
+    "2": {
+      "temp": 23.8,
+      "prec": 42.02
+    },
+    "3": {
+      "temp": 25.24,
+      "prec": 20.2
+    },
+    "4": {
+      "temp": 25.89,
+      "prec": 48.14
+    },
+    "5": {
+      "temp": 27.42,
+      "prec": 126.97
+    },
+    "6": {
+      "temp": 28.13,
+      "prec": 221.55
+    },
+    "7": {
+      "temp": 29.36,
+      "prec": 110.45
+    },
+    "8": {
+      "temp": 29.35,
+      "prec": 104.75
+    },
+    "9": {
+      "temp": 28.54,
+      "prec": 203.66
+    },
+    "10": {
+      "temp": 27.25,
+      "prec": 207.25
+    },
+    "11": {
+      "temp": 25.33,
+      "prec": 99.04
+    },
+    "12": {
+      "temp": 23.18,
+      "prec": 54.48
+    }
+  },
+  "Mayaguana": {
+    "average_temp": 26.88,
+    "average_prec": 67.63,
+    "1": {
+      "temp": 23.95,
+      "prec": 37.19
+    },
+    "2": {
+      "temp": 24.99,
+      "prec": 29.32
+    },
+    "3": {
+      "temp": 25.52,
+      "prec": 32.78
+    },
+    "4": {
+      "temp": 26.09,
+      "prec": 31.9
+    },
+    "5": {
+      "temp": 27.17,
+      "prec": 86.36
+    },
+    "6": {
+      "temp": 28.1,
+      "prec": 62.26
+    },
+    "7": {
+      "temp": 29.28,
+      "prec": 39.22
+    },
+    "8": {
+      "temp": 29.43,
+      "prec": 105.69
+    },
+    "9": {
+      "temp": 28.9,
+      "prec": 76.78
+    },
+    "10": {
+      "temp": 27.83,
+      "prec": 118.93
+    },
+    "11": {
+      "temp": 26.48,
+      "prec": 128.13
+    },
+    "12": {
+      "temp": 24.86,
+      "prec": 63.03
+    }
+  },
+  "Moore's Island": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "New Providence": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "North Abaco": {
+    "average_temp": 25.61,
+    "average_prec": 133.79,
+    "1": {
+      "temp": 20.94,
+      "prec": 63.43
+    },
+    "2": {
+      "temp": 22.39,
+      "prec": 83.56
+    },
+    "3": {
+      "temp": 24.27,
+      "prec": 59.77
+    },
+    "4": {
+      "temp": 25.15,
+      "prec": 79.43
+    },
+    "5": {
+      "temp": 26.37,
+      "prec": 134.02
+    },
+    "6": {
+      "temp": 27.65,
+      "prec": 202.77
+    },
+    "7": {
+      "temp": 29.11,
+      "prec": 169.13
+    },
+    "8": {
+      "temp": 29.47,
+      "prec": 146.41
+    },
+    "9": {
+      "temp": 28.48,
+      "prec": 273.39
+    },
+    "10": {
+      "temp": 26.72,
+      "prec": 193.39
+    },
+    "11": {
+      "temp": 24.56,
+      "prec": 126.49
+    },
+    "12": {
+      "temp": 22.27,
+      "prec": 73.73
+    }
+  },
+  "North Andros": {
+    "average_temp": 26.14,
+    "average_prec": 121.79,
+    "1": {
+      "temp": 22.14,
+      "prec": 44.86
+    },
+    "2": {
+      "temp": 23.43,
+      "prec": 55.84
+    },
+    "3": {
+      "temp": 24.91,
+      "prec": 36.29
+    },
+    "4": {
+      "temp": 25.66,
+      "prec": 65.3
+    },
+    "5": {
+      "temp": 27.1,
+      "prec": 129.28
+    },
+    "6": {
+      "temp": 28.05,
+      "prec": 225.13
+    },
+    "7": {
+      "temp": 29.29,
+      "prec": 149.34
+    },
+    "8": {
+      "temp": 29.27,
+      "prec": 148.3
+    },
+    "9": {
+      "temp": 28.49,
+      "prec": 237.02
+    },
+    "10": {
+      "temp": 27.18,
+      "prec": 200.66
+    },
+    "11": {
+      "temp": 25.18,
+      "prec": 116.33
+    },
+    "12": {
+      "temp": 22.96,
+      "prec": 53.1
+    }
+  },
+  "North Eleuthera": {
+    "average_temp": 25.99,
+    "average_prec": 93.72,
+    "1": {
+      "temp": 22.2,
+      "prec": 35.08
+    },
+    "2": {
+      "temp": 23.32,
+      "prec": 45.43
+    },
+    "3": {
+      "temp": 24.86,
+      "prec": 24.9
+    },
+    "4": {
+      "temp": 25.51,
+      "prec": 41.97
+    },
+    "5": {
+      "temp": 26.42,
+      "prec": 92.43
+    },
+    "6": {
+      "temp": 27.53,
+      "prec": 147.29
+    },
+    "7": {
+      "temp": 28.9,
+      "prec": 113.31
+    },
+    "8": {
+      "temp": 29.37,
+      "prec": 102.88
+    },
+    "9": {
+      "temp": 28.37,
+      "prec": 176.06
+    },
+    "10": {
+      "temp": 27.07,
+      "prec": 198.75
+    },
+    "11": {
+      "temp": 25.13,
+      "prec": 94.31
+    },
+    "12": {
+      "temp": 23.2,
+      "prec": 52.23
+    }
+  },
+  "Ragged Island": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Rum Cay": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "San Salvador": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "South Abaco": {
+    "average_temp": 25.82,
+    "average_prec": 110.12,
+    "1": {
+      "temp": 21.58,
+      "prec": 51.83
+    },
+    "2": {
+      "temp": 22.87,
+      "prec": 68.51
+    },
+    "3": {
+      "temp": 24.62,
+      "prec": 59.42
+    },
+    "4": {
+      "temp": 25.17,
+      "prec": 48.27
+    },
+    "5": {
+      "temp": 26.46,
+      "prec": 100.1
+    },
+    "6": {
+      "temp": 27.7,
+      "prec": 162.61
+    },
+    "7": {
+      "temp": 29.04,
+      "prec": 133.68
+    },
+    "8": {
+      "temp": 29.6,
+      "prec": 119.16
+    },
+    "9": {
+      "temp": 28.35,
+      "prec": 193.42
+    },
+    "10": {
+      "temp": 26.81,
+      "prec": 221.39
+    },
+    "11": {
+      "temp": 24.91,
+      "prec": 106.26
+    },
+    "12": {
+      "temp": 22.7,
+      "prec": 56.77
+    }
+  },
+  "South Andros": {
+    "average_temp": 26.48,
+    "average_prec": 99.43,
+    "1": {
+      "temp": 22.62,
+      "prec": 32.95
+    },
+    "2": {
+      "temp": 24.1,
+      "prec": 35.53
+    },
+    "3": {
+      "temp": 25.44,
+      "prec": 17.49
+    },
+    "4": {
+      "temp": 26.04,
+      "prec": 44.48
+    },
+    "5": {
+      "temp": 27.52,
+      "prec": 129.93
+    },
+    "6": {
+      "temp": 28.2,
+      "prec": 212.42
+    },
+    "7": {
+      "temp": 29.4,
+      "prec": 95.72
+    },
+    "8": {
+      "temp": 29.43,
+      "prec": 92.13
+    },
+    "9": {
+      "temp": 28.66,
+      "prec": 185.79
+    },
+    "10": {
+      "temp": 27.37,
+      "prec": 202.29
+    },
+    "11": {
+      "temp": 25.55,
+      "prec": 94.11
+    },
+    "12": {
+      "temp": 23.44,
+      "prec": 50.32
+    }
+  },
+  "South Eleuthera": {
+    "average_temp": 26.36,
+    "average_prec": 90.63,
+    "1": {
+      "temp": 22.7,
+      "prec": 33.24
+    },
+    "2": {
+      "temp": 24.06,
+      "prec": 34.89
+    },
+    "3": {
+      "temp": 25.26,
+      "prec": 18.21
+    },
+    "4": {
+      "temp": 25.89,
+      "prec": 38.1
+    },
+    "5": {
+      "temp": 26.81,
+      "prec": 91.48
+    },
+    "6": {
+      "temp": 27.9,
+      "prec": 148.29
+    },
+    "7": {
+      "temp": 29.15,
+      "prec": 101.85
+    },
+    "8": {
+      "temp": 29.55,
+      "prec": 100.74
+    },
+    "9": {
+      "temp": 28.67,
+      "prec": 166.89
+    },
+    "10": {
+      "temp": 27.28,
+      "prec": 207.83
+    },
+    "11": {
+      "temp": 25.35,
+      "prec": 96.29
+    },
+    "12": {
+      "temp": 23.62,
+      "prec": 49.77
+    }
+  },
+  "Spanish Wells": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "West Grand Bahama": {
+    "average_temp": 25.79,
+    "average_prec": 144.37,
+    "1": {
+      "temp": 21.32,
+      "prec": 55.25
+    },
+    "2": {
+      "temp": 22.67,
+      "prec": 99.94
+    },
+    "3": {
+      "temp": 24.34,
+      "prec": 91.39
+    },
+    "4": {
+      "temp": 25.11,
+      "prec": 85.79
+    },
+    "5": {
+      "temp": 26.67,
+      "prec": 132.14
+    },
+    "6": {
+      "temp": 28.12,
+      "prec": 206.71
+    },
+    "7": {
+      "temp": 29.55,
+      "prec": 184.88
+    },
+    "8": {
+      "temp": 29.54,
+      "prec": 196.07
+    },
+    "9": {
+      "temp": 28.4,
+      "prec": 313.82
+    },
+    "10": {
+      "temp": 26.93,
+      "prec": 191.23
+    },
+    "11": {
+      "temp": 24.65,
+      "prec": 116.28
+    },
+    "12": {
+      "temp": 22.22,
+      "prec": 58.9
+    }
+  }
+}

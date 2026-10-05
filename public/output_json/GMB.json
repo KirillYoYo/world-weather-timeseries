@@ -1,0 +1,418 @@
+{
+  "Banjul": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Basse": {
+    "average_temp": 28.47,
+    "average_prec": 78.6,
+    "1": {
+      "temp": 25.59,
+      "prec": 0.0
+    },
+    "2": {
+      "temp": 28.07,
+      "prec": 0.55
+    },
+    "3": {
+      "temp": 30.2,
+      "prec": 0.0
+    },
+    "4": {
+      "temp": 31.77,
+      "prec": 0.87
+    },
+    "5": {
+      "temp": 32.74,
+      "prec": 10.04
+    },
+    "6": {
+      "temp": 30.37,
+      "prec": 105.92
+    },
+    "7": {
+      "temp": 27.85,
+      "prec": 164.61
+    },
+    "8": {
+      "temp": 27.05,
+      "prec": 265.09
+    },
+    "9": {
+      "temp": 27.06,
+      "prec": 294.32
+    },
+    "10": {
+      "temp": 28.23,
+      "prec": 97.62
+    },
+    "11": {
+      "temp": 27.19,
+      "prec": 3.46
+    },
+    "12": {
+      "temp": 25.54,
+      "prec": 0.78
+    }
+  },
+  "Brikama": {
+    "average_temp": 27.68,
+    "average_prec": 101.09,
+    "1": {
+      "temp": 26.03,
+      "prec": 0.24
+    },
+    "2": {
+      "temp": 27.37,
+      "prec": 0.6
+    },
+    "3": {
+      "temp": 27.92,
+      "prec": 0.0
+    },
+    "4": {
+      "temp": 28.5,
+      "prec": 0.0
+    },
+    "5": {
+      "temp": 29.06,
+      "prec": 2.45
+    },
+    "6": {
+      "temp": 29.3,
+      "prec": 72.28
+    },
+    "7": {
+      "temp": 28.06,
+      "prec": 218.68
+    },
+    "8": {
+      "temp": 27.43,
+      "prec": 425.83
+    },
+    "9": {
+      "temp": 27.43,
+      "prec": 363.16
+    },
+    "10": {
+      "temp": 27.98,
+      "prec": 124.96
+    },
+    "11": {
+      "temp": 27.2,
+      "prec": 4.36
+    },
+    "12": {
+      "temp": 25.84,
+      "prec": 0.47
+    }
+  },
+  "Janjanbureh": {
+    "average_temp": 28.67,
+    "average_prec": 73.4,
+    "1": {
+      "temp": 26.35,
+      "prec": 0.0
+    },
+    "2": {
+      "temp": 28.31,
+      "prec": 0.5
+    },
+    "3": {
+      "temp": 29.91,
+      "prec": 0.2
+    },
+    "4": {
+      "temp": 31.35,
+      "prec": 0.05
+    },
+    "5": {
+      "temp": 32.07,
+      "prec": 5.06
+    },
+    "6": {
+      "temp": 30.6,
+      "prec": 91.52
+    },
+    "7": {
+      "temp": 27.91,
+      "prec": 163.25
+    },
+    "8": {
+      "temp": 27.58,
+      "prec": 258.47
+    },
+    "9": {
+      "temp": 27.63,
+      "prec": 268.11
+    },
+    "10": {
+      "temp": 28.44,
+      "prec": 88.23
+    },
+    "11": {
+      "temp": 27.65,
+      "prec": 4.46
+    },
+    "12": {
+      "temp": 26.18,
+      "prec": 0.91
+    }
+  },
+  "Kanifing": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Kerewan": {
+    "average_temp": 28.27,
+    "average_prec": 79.1,
+    "1": {
+      "temp": 26.42,
+      "prec": 0.28
+    },
+    "2": {
+      "temp": 27.88,
+      "prec": 0.1
+    },
+    "3": {
+      "temp": 28.67,
+      "prec": 0.0
+    },
+    "4": {
+      "temp": 29.79,
+      "prec": 0.0
+    },
+    "5": {
+      "temp": 30.45,
+      "prec": 1.75
+    },
+    "6": {
+      "temp": 30.05,
+      "prec": 63.54
+    },
+    "7": {
+      "temp": 28.27,
+      "prec": 169.29
+    },
+    "8": {
+      "temp": 27.76,
+      "prec": 326.59
+    },
+    "9": {
+      "temp": 27.77,
+      "prec": 290.87
+    },
+    "10": {
+      "temp": 28.47,
+      "prec": 91.61
+    },
+    "11": {
+      "temp": 27.65,
+      "prec": 4.2
+    },
+    "12": {
+      "temp": 26.09,
+      "prec": 0.93
+    }
+  },
+  "Kuntaur": {
+    "average_temp": 28.7,
+    "average_prec": 70.29,
+    "1": {
+      "temp": 26.43,
+      "prec": 0.0
+    },
+    "2": {
+      "temp": 28.44,
+      "prec": 0.74
+    },
+    "3": {
+      "temp": 29.97,
+      "prec": 0.14
+    },
+    "4": {
+      "temp": 31.36,
+      "prec": 0.42
+    },
+    "5": {
+      "temp": 32.08,
+      "prec": 3.95
+    },
+    "6": {
+      "temp": 30.64,
+      "prec": 90.51
+    },
+    "7": {
+      "temp": 27.98,
+      "prec": 154.54
+    },
+    "8": {
+      "temp": 27.59,
+      "prec": 247.7
+    },
+    "9": {
+      "temp": 27.61,
+      "prec": 254.85
+    },
+    "10": {
+      "temp": 28.32,
+      "prec": 85.5
+    },
+    "11": {
+      "temp": 27.69,
+      "prec": 4.03
+    },
+    "12": {
+      "temp": 26.33,
+      "prec": 1.07
+    }
+  },
+  "Mansakonko": {
+    "average_temp": 28.19,
+    "average_prec": 77.2,
+    "1": {
+      "temp": 26.28,
+      "prec": 0.0
+    },
+    "2": {
+      "temp": 27.88,
+      "prec": 0.09
+    },
+    "3": {
+      "temp": 28.94,
+      "prec": 0.0
+    },
+    "4": {
+      "temp": 30.15,
+      "prec": 0.0
+    },
+    "5": {
+      "temp": 30.8,
+      "prec": 2.68
+    },
+    "6": {
+      "temp": 30.04,
+      "prec": 76.1
+    },
+    "7": {
+      "temp": 27.89,
+      "prec": 170.02
+    },
+    "8": {
+      "temp": 27.54,
+      "prec": 300.74
+    },
+    "9": {
+      "temp": 27.49,
+      "prec": 278.28
+    },
+    "10": {
+      "temp": 28.14,
+      "prec": 93.3
+    },
+    "11": {
+      "temp": 27.3,
+      "prec": 4.87
+    },
+    "12": {
+      "temp": 25.79,
+      "prec": 0.29
+    }
+  }
+}

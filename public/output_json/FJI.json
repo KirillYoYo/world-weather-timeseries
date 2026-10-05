@@ -1,0 +1,210 @@
+{
+  "Northern": {
+    "average_temp": 26.04,
+    "average_prec": 265.15,
+    "1": {
+      "temp": 27.27,
+      "prec": 489.28
+    },
+    "2": {
+      "temp": 27.33,
+      "prec": 365.94
+    },
+    "3": {
+      "temp": 27.06,
+      "prec": 558.05
+    },
+    "4": {
+      "temp": 26.56,
+      "prec": 212.25
+    },
+    "5": {
+      "temp": 25.78,
+      "prec": 210.72
+    },
+    "6": {
+      "temp": 25.04,
+      "prec": 127.41
+    },
+    "7": {
+      "temp": 24.9,
+      "prec": 89.6
+    },
+    "8": {
+      "temp": 24.42,
+      "prec": 117.08
+    },
+    "9": {
+      "temp": 24.9,
+      "prec": 141.11
+    },
+    "10": {
+      "temp": 25.62,
+      "prec": 219.95
+    },
+    "11": {
+      "temp": 26.44,
+      "prec": 241.53
+    },
+    "12": {
+      "temp": 27.11,
+      "prec": 408.93
+    }
+  },
+  "Eastern": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Central": {
+    "average_temp": 24.56,
+    "average_prec": 295.6,
+    "1": {
+      "temp": 26.21,
+      "prec": 532.07
+    },
+    "2": {
+      "temp": 26.41,
+      "prec": 388.63
+    },
+    "3": {
+      "temp": 26.05,
+      "prec": 637.33
+    },
+    "4": {
+      "temp": 25.33,
+      "prec": 236.46
+    },
+    "5": {
+      "temp": 24.13,
+      "prec": 298.55
+    },
+    "6": {
+      "temp": 23.17,
+      "prec": 132.71
+    },
+    "7": {
+      "temp": 22.91,
+      "prec": 108.12
+    },
+    "8": {
+      "temp": 22.39,
+      "prec": 134.32
+    },
+    "9": {
+      "temp": 23.09,
+      "prec": 159.63
+    },
+    "10": {
+      "temp": 24.08,
+      "prec": 240.05
+    },
+    "11": {
+      "temp": 25.07,
+      "prec": 255.15
+    },
+    "12": {
+      "temp": 25.93,
+      "prec": 424.22
+    }
+  },
+  "Western": {
+    "average_temp": 24.7,
+    "average_prec": 260.03,
+    "1": {
+      "temp": 26.31,
+      "prec": 508.5
+    },
+    "2": {
+      "temp": 26.37,
+      "prec": 388.08
+    },
+    "3": {
+      "temp": 26.01,
+      "prec": 630.11
+    },
+    "4": {
+      "temp": 25.26,
+      "prec": 168.8
+    },
+    "5": {
+      "temp": 24.22,
+      "prec": 191.05
+    },
+    "6": {
+      "temp": 23.25,
+      "prec": 101.72
+    },
+    "7": {
+      "temp": 23.12,
+      "prec": 64.85
+    },
+    "8": {
+      "temp": 22.65,
+      "prec": 100.15
+    },
+    "9": {
+      "temp": 23.4,
+      "prec": 119.29
+    },
+    "10": {
+      "temp": 24.36,
+      "prec": 206.52
+    },
+    "11": {
+      "temp": 25.33,
+      "prec": 204.35
+    },
+    "12": {
+      "temp": 26.11,
+      "prec": 436.89
+    }
+  }
+}

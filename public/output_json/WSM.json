@@ -1,0 +1,574 @@
+{
+  "A'ana": {
+    "average_temp": 25.67,
+    "average_prec": 326.7,
+    "1": {
+      "temp": 26.25,
+      "prec": 568.02
+    },
+    "2": {
+      "temp": 25.92,
+      "prec": 594.72
+    },
+    "3": {
+      "temp": 26.45,
+      "prec": 263.96
+    },
+    "4": {
+      "temp": 26.25,
+      "prec": 278.07
+    },
+    "5": {
+      "temp": 26.01,
+      "prec": 281.44
+    },
+    "6": {
+      "temp": 25.23,
+      "prec": 258.23
+    },
+    "7": {
+      "temp": 25.01,
+      "prec": 192.92
+    },
+    "8": {
+      "temp": 24.73,
+      "prec": 199.37
+    },
+    "9": {
+      "temp": 25.05,
+      "prec": 250.79
+    },
+    "10": {
+      "temp": 25.49,
+      "prec": 316.08
+    },
+    "11": {
+      "temp": 25.71,
+      "prec": 329.99
+    },
+    "12": {
+      "temp": 25.95,
+      "prec": 386.84
+    }
+  },
+  "Aiga-i-le-Tai": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Atua": {
+    "average_temp": 25.82,
+    "average_prec": 332.62,
+    "1": {
+      "temp": 26.38,
+      "prec": 611.04
+    },
+    "2": {
+      "temp": 26.03,
+      "prec": 624.75
+    },
+    "3": {
+      "temp": 26.64,
+      "prec": 273.38
+    },
+    "4": {
+      "temp": 26.42,
+      "prec": 257.78
+    },
+    "5": {
+      "temp": 26.15,
+      "prec": 263.4
+    },
+    "6": {
+      "temp": 25.45,
+      "prec": 267.64
+    },
+    "7": {
+      "temp": 25.22,
+      "prec": 176.74
+    },
+    "8": {
+      "temp": 24.88,
+      "prec": 186.67
+    },
+    "9": {
+      "temp": 25.19,
+      "prec": 226.45
+    },
+    "10": {
+      "temp": 25.62,
+      "prec": 324.68
+    },
+    "11": {
+      "temp": 25.78,
+      "prec": 365.02
+    },
+    "12": {
+      "temp": 26.14,
+      "prec": 413.89
+    }
+  },
+  "Fa'asaleleage": {
+    "average_temp": 26.19,
+    "average_prec": 313.97,
+    "1": {
+      "temp": 26.66,
+      "prec": 603.65
+    },
+    "2": {
+      "temp": 26.46,
+      "prec": 552.86
+    },
+    "3": {
+      "temp": 26.89,
+      "prec": 255.9
+    },
+    "4": {
+      "temp": 26.85,
+      "prec": 250.6
+    },
+    "5": {
+      "temp": 26.55,
+      "prec": 253.58
+    },
+    "6": {
+      "temp": 25.74,
+      "prec": 251.92
+    },
+    "7": {
+      "temp": 25.54,
+      "prec": 171.26
+    },
+    "8": {
+      "temp": 25.22,
+      "prec": 184.11
+    },
+    "9": {
+      "temp": 25.65,
+      "prec": 230.51
+    },
+    "10": {
+      "temp": 26.0,
+      "prec": 300.95
+    },
+    "11": {
+      "temp": 26.27,
+      "prec": 318.16
+    },
+    "12": {
+      "temp": 26.4,
+      "prec": 394.18
+    }
+  },
+  "Gaga'emauga": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Gaga'ifomauga": {
+    "average_temp": 22.88,
+    "average_prec": 325.34,
+    "1": {
+      "temp": 23.53,
+      "prec": 671.0
+    },
+    "2": {
+      "temp": 23.16,
+      "prec": 569.9
+    },
+    "3": {
+      "temp": 23.6,
+      "prec": 275.64
+    },
+    "4": {
+      "temp": 23.4,
+      "prec": 284.59
+    },
+    "5": {
+      "temp": 23.12,
+      "prec": 250.3
+    },
+    "6": {
+      "temp": 22.48,
+      "prec": 230.55
+    },
+    "7": {
+      "temp": 22.11,
+      "prec": 157.55
+    },
+    "8": {
+      "temp": 21.9,
+      "prec": 178.42
+    },
+    "9": {
+      "temp": 22.24,
+      "prec": 229.71
+    },
+    "10": {
+      "temp": 22.75,
+      "prec": 313.66
+    },
+    "11": {
+      "temp": 23.09,
+      "prec": 324.08
+    },
+    "12": {
+      "temp": 23.21,
+      "prec": 418.71
+    }
+  },
+  "Palauli": {
+    "average_temp": 25.38,
+    "average_prec": 318.47,
+    "1": {
+      "temp": 25.87,
+      "prec": 608.02
+    },
+    "2": {
+      "temp": 25.65,
+      "prec": 539.61
+    },
+    "3": {
+      "temp": 26.08,
+      "prec": 258.86
+    },
+    "4": {
+      "temp": 26.0,
+      "prec": 273.45
+    },
+    "5": {
+      "temp": 25.67,
+      "prec": 268.46
+    },
+    "6": {
+      "temp": 24.92,
+      "prec": 253.38
+    },
+    "7": {
+      "temp": 24.7,
+      "prec": 168.14
+    },
+    "8": {
+      "temp": 24.48,
+      "prec": 191.37
+    },
+    "9": {
+      "temp": 24.8,
+      "prec": 235.64
+    },
+    "10": {
+      "temp": 25.23,
+      "prec": 309.22
+    },
+    "11": {
+      "temp": 25.55,
+      "prec": 314.82
+    },
+    "12": {
+      "temp": 25.63,
+      "prec": 400.73
+    }
+  },
+  "Satupa'itea": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Tuamasaga": {
+    "average_temp": 24.99,
+    "average_prec": 353.91,
+    "1": {
+      "temp": 25.58,
+      "prec": 671.87
+    },
+    "2": {
+      "temp": 25.24,
+      "prec": 670.59
+    },
+    "3": {
+      "temp": 25.79,
+      "prec": 280.97
+    },
+    "4": {
+      "temp": 25.57,
+      "prec": 275.99
+    },
+    "5": {
+      "temp": 25.33,
+      "prec": 289.22
+    },
+    "6": {
+      "temp": 24.54,
+      "prec": 271.1
+    },
+    "7": {
+      "temp": 24.31,
+      "prec": 183.64
+    },
+    "8": {
+      "temp": 24.01,
+      "prec": 197.17
+    },
+    "9": {
+      "temp": 24.35,
+      "prec": 249.31
+    },
+    "10": {
+      "temp": 24.81,
+      "prec": 318.42
+    },
+    "11": {
+      "temp": 25.01,
+      "prec": 399.35
+    },
+    "12": {
+      "temp": 25.34,
+      "prec": 439.25
+    }
+  },
+  "Va'a-o-Fonoti": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Vaisigano": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  }
+}

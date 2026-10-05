@@ -1,0 +1,314 @@
+{
+  "Southern District": {
+    "average_temp": 21.29,
+    "average_prec": 14.25,
+    "1": {
+      "temp": 12.38,
+      "prec": 46.27
+    },
+    "2": {
+      "temp": 13.23,
+      "prec": 32.2
+    },
+    "3": {
+      "temp": 15.89,
+      "prec": 13.59
+    },
+    "4": {
+      "temp": 20.68,
+      "prec": 6.55
+    },
+    "5": {
+      "temp": 23.88,
+      "prec": 2.7
+    },
+    "6": {
+      "temp": 26.54,
+      "prec": 0.0
+    },
+    "7": {
+      "temp": 28.95,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 29.2,
+      "prec": 0.0
+    },
+    "9": {
+      "temp": 27.39,
+      "prec": 0.07
+    },
+    "10": {
+      "temp": 23.87,
+      "prec": 2.01
+    },
+    "11": {
+      "temp": 18.89,
+      "prec": 33.24
+    },
+    "12": {
+      "temp": 14.56,
+      "prec": 34.32
+    }
+  },
+  "Central District": {
+    "average_temp": 20.97,
+    "average_prec": 48.96,
+    "1": {
+      "temp": 13.55,
+      "prec": 188.79
+    },
+    "2": {
+      "temp": 13.89,
+      "prec": 89.62
+    },
+    "3": {
+      "temp": 15.64,
+      "prec": 39.1
+    },
+    "4": {
+      "temp": 19.73,
+      "prec": 18.28
+    },
+    "5": {
+      "temp": 22.09,
+      "prec": 4.77
+    },
+    "6": {
+      "temp": 24.82,
+      "prec": 0.0
+    },
+    "7": {
+      "temp": 27.52,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 28.23,
+      "prec": 0.0
+    },
+    "9": {
+      "temp": 26.88,
+      "prec": 0.71
+    },
+    "10": {
+      "temp": 23.83,
+      "prec": 8.74
+    },
+    "11": {
+      "temp": 19.63,
+      "prec": 107.78
+    },
+    "12": {
+      "temp": 15.86,
+      "prec": 129.69
+    }
+  },
+  "Jerusalem District": {
+    "average_temp": 19.44,
+    "average_prec": 39.89,
+    "1": {
+      "temp": 11.58,
+      "prec": 148.86
+    },
+    "2": {
+      "temp": 11.97,
+      "prec": 86.38
+    },
+    "3": {
+      "temp": 13.95,
+      "prec": 37.38
+    },
+    "4": {
+      "temp": 18.43,
+      "prec": 16.17
+    },
+    "5": {
+      "temp": 21.31,
+      "prec": 5.01
+    },
+    "6": {
+      "temp": 23.68,
+      "prec": 0.0
+    },
+    "7": {
+      "temp": 26.1,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 26.65,
+      "prec": 0.0
+    },
+    "9": {
+      "temp": 25.31,
+      "prec": 0.03
+    },
+    "10": {
+      "temp": 22.46,
+      "prec": 6.06
+    },
+    "11": {
+      "temp": 17.91,
+      "prec": 89.34
+    },
+    "12": {
+      "temp": 13.94,
+      "prec": 89.47
+    }
+  },
+  "Tel Aviv": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Haifa": {
+    "average_temp": 20.91,
+    "average_prec": 52.7,
+    "1": {
+      "temp": 13.19,
+      "prec": 214.26
+    },
+    "2": {
+      "temp": 13.67,
+      "prec": 90.84
+    },
+    "3": {
+      "temp": 15.23,
+      "prec": 42.93
+    },
+    "4": {
+      "temp": 19.3,
+      "prec": 18.61
+    },
+    "5": {
+      "temp": 21.99,
+      "prec": 7.93
+    },
+    "6": {
+      "temp": 24.98,
+      "prec": 0.0
+    },
+    "7": {
+      "temp": 27.8,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 28.64,
+      "prec": 0.0
+    },
+    "9": {
+      "temp": 27.16,
+      "prec": 1.24
+    },
+    "10": {
+      "temp": 23.95,
+      "prec": 8.58
+    },
+    "11": {
+      "temp": 19.48,
+      "prec": 110.07
+    },
+    "12": {
+      "temp": 15.57,
+      "prec": 137.9
+    }
+  },
+  "Northern District": {
+    "average_temp": 20.62,
+    "average_prec": 52.33,
+    "1": {
+      "temp": 12.41,
+      "prec": 218.64
+    },
+    "2": {
+      "temp": 12.97,
+      "prec": 100.2
+    },
+    "3": {
+      "temp": 14.7,
+      "prec": 54.22
+    },
+    "4": {
+      "temp": 19.09,
+      "prec": 25.96
+    },
+    "5": {
+      "temp": 22.16,
+      "prec": 13.31
+    },
+    "6": {
+      "temp": 25.24,
+      "prec": 0.04
+    },
+    "7": {
+      "temp": 27.95,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 28.66,
+      "prec": 0.0
+    },
+    "9": {
+      "temp": 26.93,
+      "prec": 1.44
+    },
+    "10": {
+      "temp": 23.69,
+      "prec": 8.56
+    },
+    "11": {
+      "temp": 18.9,
+      "prec": 89.26
+    },
+    "12": {
+      "temp": 14.74,
+      "prec": 116.29
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "Yap": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Chuuk": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Pohnpei": {
+    "average_temp": 27.28,
+    "average_prec": 449.61,
+    "1": {
+      "temp": 27.22,
+      "prec": 315.65
+    },
+    "2": {
+      "temp": 27.5,
+      "prec": 313.18
+    },
+    "3": {
+      "temp": 27.32,
+      "prec": 457.69
+    },
+    "4": {
+      "temp": 27.09,
+      "prec": 530.83
+    },
+    "5": {
+      "temp": 27.26,
+      "prec": 651.11
+    },
+    "6": {
+      "temp": 27.29,
+      "prec": 426.78
+    },
+    "7": {
+      "temp": 27.27,
+      "prec": 515.78
+    },
+    "8": {
+      "temp": 27.44,
+      "prec": 411.3
+    },
+    "9": {
+      "temp": 27.2,
+      "prec": 398.19
+    },
+    "10": {
+      "temp": 27.18,
+      "prec": 423.67
+    },
+    "11": {
+      "temp": 27.19,
+      "prec": 475.35
+    },
+    "12": {
+      "temp": 27.39,
+      "prec": 475.77
+    }
+  },
+  "Kosrae": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  }
+}

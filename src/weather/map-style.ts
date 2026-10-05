@@ -6,13 +6,30 @@ export const dataLayer: LayerProps = {
     'source-layer': 'data',
     type: 'fill',
     paint: {
-        'fill-color': 'rgba(234, 241, 233, 0.5)',
+        'fill-color': [
+            'interpolate',
+            ['linear'],
+            ['coalesce', ['to-number', ['get', 'average_temp']], 0],
+            -20,
+            '#313695',
+            0,
+            '#74add1',
+            15,
+            '#fee090',
+            30,
+            '#a50026',
+        ],
         'fill-opacity': 1,
-
-        'fill-translate': [0, 0],
-        'fill-translate-anchor': 'map',
-        'fill-antialias': true,
+        'fill-outline-color': '#ffffff',
     },
+    // paint: {
+    //     'fill-color': 'rgba(234, 241, 233, 0.5)',
+    //     'fill-opacity': 1,
+    //
+    //     'fill-translate': [0, 0],
+    //     'fill-translate-anchor': 'map',
+    //     'fill-antialias': true,
+    // },
 }
 
 export const borderLayer: LayerProps = {

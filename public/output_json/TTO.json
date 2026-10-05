@@ -1,0 +1,730 @@
+{
+  "Tobago": {
+    "average_temp": 26.36,
+    "average_prec": 181.37,
+    "1": {
+      "temp": 25.23,
+      "prec": 118.96
+    },
+    "2": {
+      "temp": 25.27,
+      "prec": 96.32
+    },
+    "3": {
+      "temp": 25.61,
+      "prec": 77.65
+    },
+    "4": {
+      "temp": 26.28,
+      "prec": 115.66
+    },
+    "5": {
+      "temp": 26.93,
+      "prec": 94.14
+    },
+    "6": {
+      "temp": 26.72,
+      "prec": 241.8
+    },
+    "7": {
+      "temp": 26.82,
+      "prec": 225.56
+    },
+    "8": {
+      "temp": 26.98,
+      "prec": 244.41
+    },
+    "9": {
+      "temp": 27.35,
+      "prec": 202.02
+    },
+    "10": {
+      "temp": 27.09,
+      "prec": 305.43
+    },
+    "11": {
+      "temp": 26.4,
+      "prec": 293.97
+    },
+    "12": {
+      "temp": 25.59,
+      "prec": 160.48
+    }
+  },
+  "Princes Town": {
+    "average_temp": 27.06,
+    "average_prec": 151.67,
+    "1": {
+      "temp": 25.95,
+      "prec": 93.4
+    },
+    "2": {
+      "temp": 26.13,
+      "prec": 59.52
+    },
+    "3": {
+      "temp": 26.51,
+      "prec": 67.4
+    },
+    "4": {
+      "temp": 27.29,
+      "prec": 92.13
+    },
+    "5": {
+      "temp": 27.81,
+      "prec": 92.97
+    },
+    "6": {
+      "temp": 27.27,
+      "prec": 234.67
+    },
+    "7": {
+      "temp": 27.23,
+      "prec": 206.84
+    },
+    "8": {
+      "temp": 27.54,
+      "prec": 242.39
+    },
+    "9": {
+      "temp": 27.94,
+      "prec": 159.39
+    },
+    "10": {
+      "temp": 27.68,
+      "prec": 213.56
+    },
+    "11": {
+      "temp": 27.1,
+      "prec": 227.33
+    },
+    "12": {
+      "temp": 26.22,
+      "prec": 130.48
+    }
+  },
+  "Rio Claro-Mayaro": {
+    "average_temp": 27.01,
+    "average_prec": 173.19,
+    "1": {
+      "temp": 25.96,
+      "prec": 106.07
+    },
+    "2": {
+      "temp": 26.1,
+      "prec": 69.21
+    },
+    "3": {
+      "temp": 26.45,
+      "prec": 79.49
+    },
+    "4": {
+      "temp": 27.19,
+      "prec": 115.07
+    },
+    "5": {
+      "temp": 27.73,
+      "prec": 104.11
+    },
+    "6": {
+      "temp": 27.21,
+      "prec": 244.82
+    },
+    "7": {
+      "temp": 27.19,
+      "prec": 229.83
+    },
+    "8": {
+      "temp": 27.57,
+      "prec": 266.35
+    },
+    "9": {
+      "temp": 27.88,
+      "prec": 179.8
+    },
+    "10": {
+      "temp": 27.68,
+      "prec": 272.06
+    },
+    "11": {
+      "temp": 26.91,
+      "prec": 249.14
+    },
+    "12": {
+      "temp": 26.19,
+      "prec": 162.28
+    }
+  },
+  "Couva-Tabaquite-Talparo": {
+    "average_temp": 26.95,
+    "average_prec": 166.39,
+    "1": {
+      "temp": 25.84,
+      "prec": 93.45
+    },
+    "2": {
+      "temp": 26.02,
+      "prec": 62.4
+    },
+    "3": {
+      "temp": 26.42,
+      "prec": 74.26
+    },
+    "4": {
+      "temp": 27.19,
+      "prec": 104.19
+    },
+    "5": {
+      "temp": 27.72,
+      "prec": 99.78
+    },
+    "6": {
+      "temp": 27.18,
+      "prec": 247.73
+    },
+    "7": {
+      "temp": 27.18,
+      "prec": 240.24
+    },
+    "8": {
+      "temp": 27.49,
+      "prec": 259.38
+    },
+    "9": {
+      "temp": 27.75,
+      "prec": 175.23
+    },
+    "10": {
+      "temp": 27.58,
+      "prec": 264.75
+    },
+    "11": {
+      "temp": 26.93,
+      "prec": 246.38
+    },
+    "12": {
+      "temp": 26.13,
+      "prec": 128.86
+    }
+  },
+  "San Fernando": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Siparia": {
+    "average_temp": 27.11,
+    "average_prec": 141.54,
+    "1": {
+      "temp": 25.93,
+      "prec": 86.99
+    },
+    "2": {
+      "temp": 26.22,
+      "prec": 55.2
+    },
+    "3": {
+      "temp": 26.7,
+      "prec": 60.7
+    },
+    "4": {
+      "temp": 27.4,
+      "prec": 88.46
+    },
+    "5": {
+      "temp": 27.84,
+      "prec": 91.68
+    },
+    "6": {
+      "temp": 27.32,
+      "prec": 217.85
+    },
+    "7": {
+      "temp": 27.32,
+      "prec": 196.02
+    },
+    "8": {
+      "temp": 27.57,
+      "prec": 222.87
+    },
+    "9": {
+      "temp": 28.0,
+      "prec": 144.4
+    },
+    "10": {
+      "temp": 27.63,
+      "prec": 219.54
+    },
+    "11": {
+      "temp": 27.16,
+      "prec": 205.04
+    },
+    "12": {
+      "temp": 26.25,
+      "prec": 109.74
+    }
+  },
+  "Point Fortin": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Penal-Debe": {
+    "average_temp": 27.05,
+    "average_prec": 144.32,
+    "1": {
+      "temp": 25.88,
+      "prec": 88.78
+    },
+    "2": {
+      "temp": 26.14,
+      "prec": 57.51
+    },
+    "3": {
+      "temp": 26.67,
+      "prec": 63.05
+    },
+    "4": {
+      "temp": 27.34,
+      "prec": 91.86
+    },
+    "5": {
+      "temp": 27.82,
+      "prec": 85.6
+    },
+    "6": {
+      "temp": 27.18,
+      "prec": 221.89
+    },
+    "7": {
+      "temp": 27.24,
+      "prec": 196.74
+    },
+    "8": {
+      "temp": 27.51,
+      "prec": 227.26
+    },
+    "9": {
+      "temp": 27.99,
+      "prec": 150.9
+    },
+    "10": {
+      "temp": 27.61,
+      "prec": 224.39
+    },
+    "11": {
+      "temp": 27.05,
+      "prec": 208.48
+    },
+    "12": {
+      "temp": 26.16,
+      "prec": 115.41
+    }
+  },
+  "Diego Martin": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Port of Spain": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "San Juan-Laventille": {
+    "average_temp": 26.7,
+    "average_prec": 150.22,
+    "1": {
+      "temp": 25.55,
+      "prec": 95.62
+    },
+    "2": {
+      "temp": 25.77,
+      "prec": 63.46
+    },
+    "3": {
+      "temp": 26.15,
+      "prec": 66.71
+    },
+    "4": {
+      "temp": 26.87,
+      "prec": 87.72
+    },
+    "5": {
+      "temp": 27.51,
+      "prec": 84.2
+    },
+    "6": {
+      "temp": 26.96,
+      "prec": 215.39
+    },
+    "7": {
+      "temp": 26.99,
+      "prec": 197.85
+    },
+    "8": {
+      "temp": 27.21,
+      "prec": 229.56
+    },
+    "9": {
+      "temp": 27.46,
+      "prec": 164.9
+    },
+    "10": {
+      "temp": 27.36,
+      "prec": 232.85
+    },
+    "11": {
+      "temp": 26.67,
+      "prec": 235.34
+    },
+    "12": {
+      "temp": 25.87,
+      "prec": 128.98
+    }
+  },
+  "Tunapuna-Piarco": {
+    "average_temp": 25.93,
+    "average_prec": 167.68,
+    "1": {
+      "temp": 24.73,
+      "prec": 110.12
+    },
+    "2": {
+      "temp": 24.95,
+      "prec": 78.53
+    },
+    "3": {
+      "temp": 25.31,
+      "prec": 76.65
+    },
+    "4": {
+      "temp": 26.01,
+      "prec": 103.98
+    },
+    "5": {
+      "temp": 26.71,
+      "prec": 92.83
+    },
+    "6": {
+      "temp": 26.3,
+      "prec": 230.05
+    },
+    "7": {
+      "temp": 26.31,
+      "prec": 216.77
+    },
+    "8": {
+      "temp": 26.51,
+      "prec": 253.91
+    },
+    "9": {
+      "temp": 26.69,
+      "prec": 185.34
+    },
+    "10": {
+      "temp": 26.66,
+      "prec": 263.63
+    },
+    "11": {
+      "temp": 25.89,
+      "prec": 251.86
+    },
+    "12": {
+      "temp": 25.09,
+      "prec": 148.52
+    }
+  },
+  "Sangre Grande": {
+    "average_temp": 26.6,
+    "average_prec": 178.76,
+    "1": {
+      "temp": 25.49,
+      "prec": 116.85
+    },
+    "2": {
+      "temp": 25.68,
+      "prec": 81.87
+    },
+    "3": {
+      "temp": 26.03,
+      "prec": 81.06
+    },
+    "4": {
+      "temp": 26.7,
+      "prec": 112.52
+    },
+    "5": {
+      "temp": 27.33,
+      "prec": 98.99
+    },
+    "6": {
+      "temp": 26.91,
+      "prec": 241.52
+    },
+    "7": {
+      "temp": 26.92,
+      "prec": 237.61
+    },
+    "8": {
+      "temp": 27.2,
+      "prec": 270.08
+    },
+    "9": {
+      "temp": 27.37,
+      "prec": 187.82
+    },
+    "10": {
+      "temp": 27.31,
+      "prec": 283.52
+    },
+    "11": {
+      "temp": 26.44,
+      "prec": 266.03
+    },
+    "12": {
+      "temp": 25.77,
+      "prec": 167.26
+    }
+  },
+  "Chaguanas": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  }
+}

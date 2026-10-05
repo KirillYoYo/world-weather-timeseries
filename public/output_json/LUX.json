@@ -1,0 +1,626 @@
+{
+  "Canton Echternach": {
+    "average_temp": 11.05,
+    "average_prec": 69.32,
+    "1": {
+      "temp": 2.81,
+      "prec": 78.75
+    },
+    "2": {
+      "temp": 5.39,
+      "prec": 80.76
+    },
+    "3": {
+      "temp": 6.85,
+      "prec": 59.76
+    },
+    "4": {
+      "temp": 9.38,
+      "prec": 46.33
+    },
+    "5": {
+      "temp": 13.7,
+      "prec": 66.85
+    },
+    "6": {
+      "temp": 18.32,
+      "prec": 63.12
+    },
+    "7": {
+      "temp": 18.93,
+      "prec": 76.13
+    },
+    "8": {
+      "temp": 19.57,
+      "prec": 63.97
+    },
+    "9": {
+      "temp": 15.9,
+      "prec": 68.65
+    },
+    "10": {
+      "temp": 11.59,
+      "prec": 81.47
+    },
+    "11": {
+      "temp": 6.37,
+      "prec": 68.51
+    },
+    "12": {
+      "temp": 3.8,
+      "prec": 77.47
+    }
+  },
+  "Canton Grevenmacher": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Canton Remich": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Canton Mersch": {
+    "average_temp": 10.8,
+    "average_prec": 71.82,
+    "1": {
+      "temp": 2.67,
+      "prec": 88.01
+    },
+    "2": {
+      "temp": 5.17,
+      "prec": 85.7
+    },
+    "3": {
+      "temp": 6.66,
+      "prec": 62.36
+    },
+    "4": {
+      "temp": 9.1,
+      "prec": 46.85
+    },
+    "5": {
+      "temp": 13.36,
+      "prec": 68.53
+    },
+    "6": {
+      "temp": 17.99,
+      "prec": 63.37
+    },
+    "7": {
+      "temp": 18.51,
+      "prec": 72.32
+    },
+    "8": {
+      "temp": 19.21,
+      "prec": 63.57
+    },
+    "9": {
+      "temp": 15.68,
+      "prec": 70.89
+    },
+    "10": {
+      "temp": 11.41,
+      "prec": 85.39
+    },
+    "11": {
+      "temp": 6.19,
+      "prec": 70.86
+    },
+    "12": {
+      "temp": 3.69,
+      "prec": 84.0
+    }
+  },
+  "Canton Capellen": {
+    "average_temp": 10.83,
+    "average_prec": 80.89,
+    "1": {
+      "temp": 2.84,
+      "prec": 112.78
+    },
+    "2": {
+      "temp": 5.29,
+      "prec": 102.4
+    },
+    "3": {
+      "temp": 6.68,
+      "prec": 77.12
+    },
+    "4": {
+      "temp": 9.01,
+      "prec": 49.2
+    },
+    "5": {
+      "temp": 13.34,
+      "prec": 69.95
+    },
+    "6": {
+      "temp": 18.01,
+      "prec": 71.0
+    },
+    "7": {
+      "temp": 18.56,
+      "prec": 66.93
+    },
+    "8": {
+      "temp": 19.14,
+      "prec": 61.65
+    },
+    "9": {
+      "temp": 15.68,
+      "prec": 72.26
+    },
+    "10": {
+      "temp": 11.53,
+      "prec": 101.49
+    },
+    "11": {
+      "temp": 6.21,
+      "prec": 83.22
+    },
+    "12": {
+      "temp": 3.7,
+      "prec": 102.73
+    }
+  },
+  "Canton Luxembourg": {
+    "average_temp": 11.06,
+    "average_prec": 72.65,
+    "1": {
+      "temp": 2.75,
+      "prec": 88.0
+    },
+    "2": {
+      "temp": 5.39,
+      "prec": 85.69
+    },
+    "3": {
+      "temp": 6.92,
+      "prec": 64.54
+    },
+    "4": {
+      "temp": 9.36,
+      "prec": 45.72
+    },
+    "5": {
+      "temp": 13.67,
+      "prec": 70.52
+    },
+    "6": {
+      "temp": 18.41,
+      "prec": 67.75
+    },
+    "7": {
+      "temp": 19.02,
+      "prec": 69.54
+    },
+    "8": {
+      "temp": 19.62,
+      "prec": 64.03
+    },
+    "9": {
+      "temp": 15.98,
+      "prec": 69.68
+    },
+    "10": {
+      "temp": 11.63,
+      "prec": 90.6
+    },
+    "11": {
+      "temp": 6.3,
+      "prec": 70.64
+    },
+    "12": {
+      "temp": 3.69,
+      "prec": 85.15
+    }
+  },
+  "Canton Redange": {
+    "average_temp": 10.66,
+    "average_prec": 78.27,
+    "1": {
+      "temp": 2.82,
+      "prec": 107.33
+    },
+    "2": {
+      "temp": 5.16,
+      "prec": 98.56
+    },
+    "3": {
+      "temp": 6.54,
+      "prec": 72.48
+    },
+    "4": {
+      "temp": 8.81,
+      "prec": 49.66
+    },
+    "5": {
+      "temp": 13.14,
+      "prec": 69.7
+    },
+    "6": {
+      "temp": 17.68,
+      "prec": 67.36
+    },
+    "7": {
+      "temp": 18.16,
+      "prec": 67.1
+    },
+    "8": {
+      "temp": 18.93,
+      "prec": 60.96
+    },
+    "9": {
+      "temp": 15.46,
+      "prec": 71.35
+    },
+    "10": {
+      "temp": 11.31,
+      "prec": 94.53
+    },
+    "11": {
+      "temp": 6.21,
+      "prec": 80.88
+    },
+    "12": {
+      "temp": 3.67,
+      "prec": 99.34
+    }
+  },
+  "Canton Diekirch": {
+    "average_temp": 10.48,
+    "average_prec": 75.55,
+    "1": {
+      "temp": 2.58,
+      "prec": 98.39
+    },
+    "2": {
+      "temp": 4.9,
+      "prec": 92.11
+    },
+    "3": {
+      "temp": 6.29,
+      "prec": 67.21
+    },
+    "4": {
+      "temp": 8.62,
+      "prec": 51.7
+    },
+    "5": {
+      "temp": 12.96,
+      "prec": 70.09
+    },
+    "6": {
+      "temp": 17.51,
+      "prec": 64.39
+    },
+    "7": {
+      "temp": 18.04,
+      "prec": 73.33
+    },
+    "8": {
+      "temp": 18.76,
+      "prec": 62.65
+    },
+    "9": {
+      "temp": 15.36,
+      "prec": 74.77
+    },
+    "10": {
+      "temp": 11.14,
+      "prec": 86.55
+    },
+    "11": {
+      "temp": 6.1,
+      "prec": 76.21
+    },
+    "12": {
+      "temp": 3.53,
+      "prec": 89.22
+    }
+  },
+  "Canton Esch-sur-Alzette": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Canton Clervaux": {
+    "average_temp": 9.93,
+    "average_prec": 84.48,
+    "1": {
+      "temp": 2.29,
+      "prec": 111.32
+    },
+    "2": {
+      "temp": 4.42,
+      "prec": 102.97
+    },
+    "3": {
+      "temp": 5.67,
+      "prec": 77.34
+    },
+    "4": {
+      "temp": 7.94,
+      "prec": 60.58
+    },
+    "5": {
+      "temp": 12.29,
+      "prec": 76.44
+    },
+    "6": {
+      "temp": 16.8,
+      "prec": 72.08
+    },
+    "7": {
+      "temp": 17.35,
+      "prec": 83.1
+    },
+    "8": {
+      "temp": 18.2,
+      "prec": 69.81
+    },
+    "9": {
+      "temp": 14.77,
+      "prec": 81.89
+    },
+    "10": {
+      "temp": 10.71,
+      "prec": 93.54
+    },
+    "11": {
+      "temp": 5.67,
+      "prec": 87.46
+    },
+    "12": {
+      "temp": 3.05,
+      "prec": 97.21
+    }
+  },
+  "Canton Wiltz": {
+    "average_temp": 10.15,
+    "average_prec": 82.04,
+    "1": {
+      "temp": 2.37,
+      "prec": 111.59
+    },
+    "2": {
+      "temp": 4.5,
+      "prec": 102.95
+    },
+    "3": {
+      "temp": 5.89,
+      "prec": 75.44
+    },
+    "4": {
+      "temp": 8.19,
+      "prec": 55.86
+    },
+    "5": {
+      "temp": 12.62,
+      "prec": 73.14
+    },
+    "6": {
+      "temp": 17.16,
+      "prec": 69.09
+    },
+    "7": {
+      "temp": 17.7,
+      "prec": 73.16
+    },
+    "8": {
+      "temp": 18.41,
+      "prec": 66.19
+    },
+    "9": {
+      "temp": 15.0,
+      "prec": 76.21
+    },
+    "10": {
+      "temp": 10.95,
+      "prec": 93.96
+    },
+    "11": {
+      "temp": 5.81,
+      "prec": 86.05
+    },
+    "12": {
+      "temp": 3.23,
+      "prec": 100.84
+    }
+  },
+  "Canton Vianden": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "Redonda": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Saint Philip": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Saint John": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Barbuda": {
+    "average_temp": 27.38,
+    "average_prec": 77.24,
+    "1": {
+      "temp": 26.02,
+      "prec": 56.03
+    },
+    "2": {
+      "temp": 25.94,
+      "prec": 57.72
+    },
+    "3": {
+      "temp": 26.57,
+      "prec": 39.92
+    },
+    "4": {
+      "temp": 26.78,
+      "prec": 46.92
+    },
+    "5": {
+      "temp": 27.43,
+      "prec": 66.75
+    },
+    "6": {
+      "temp": 27.92,
+      "prec": 65.95
+    },
+    "7": {
+      "temp": 28.33,
+      "prec": 93.85
+    },
+    "8": {
+      "temp": 28.56,
+      "prec": 98.61
+    },
+    "9": {
+      "temp": 28.72,
+      "prec": 115.51
+    },
+    "10": {
+      "temp": 28.22,
+      "prec": 107.9
+    },
+    "11": {
+      "temp": 27.41,
+      "prec": 118.99
+    },
+    "12": {
+      "temp": 26.59,
+      "prec": 58.73
+    }
+  },
+  "Saint Mary": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Saint Paul": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "Saint Peter": {
+    "average_temp": 27.33,
+    "average_prec": 88.32,
+    "1": {
+      "temp": 25.7,
+      "prec": 66.07
+    },
+    "2": {
+      "temp": 25.85,
+      "prec": 53.91
+    },
+    "3": {
+      "temp": 26.01,
+      "prec": 39.78
+    },
+    "4": {
+      "temp": 26.78,
+      "prec": 44.79
+    },
+    "5": {
+      "temp": 27.67,
+      "prec": 67.37
+    },
+    "6": {
+      "temp": 28.37,
+      "prec": 83.34
+    },
+    "7": {
+      "temp": 28.47,
+      "prec": 118.17
+    },
+    "8": {
+      "temp": 28.75,
+      "prec": 121.88
+    },
+    "9": {
+      "temp": 28.77,
+      "prec": 139.01
+    },
+    "10": {
+      "temp": 28.16,
+      "prec": 124.86
+    },
+    "11": {
+      "temp": 27.23,
+      "prec": 138.01
+    },
+    "12": {
+      "temp": 26.26,
+      "prec": 62.7
+    }
+  },
+  "Saint George": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  }
+}
