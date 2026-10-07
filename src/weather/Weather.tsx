@@ -5,6 +5,8 @@ import 'maplibre-gl/dist/maplibre-gl.css'
 
 import { useGeojsonVtProtocol } from '../hooks/useGeojsonVtProtocol'
 import { boundsOf, countryAt, indexCountries, loadProvinces, loadWorld, WORLD_VIEW } from './data'
+import FilterBar from './FilterBar'
+import { DEFAULT_FILTER, monthTitle, type WeatherFilter } from './filter'
 import {
     countryFillLayer,
     countryLabelsClose,
@@ -34,6 +36,7 @@ export default function Weather() {
     const [provinceLabels, setProvinceLabels] = useState<MapFeatureCollection | null>(null)
     const [selection, setSelection] = useState<Selection | null>(null)
     const [error, setError] = useState<string | null>(null)
+    const [filter, setFilter] = useState<WeatherFilter>(DEFAULT_FILTER)
 
     const countryIndex = useMemo(() => (countries ? indexCountries(countries) : []), [countries])
     const tileIndex = useMemo(() => {
@@ -46,6 +49,18 @@ export default function Weather() {
         })
     }, [countries])
     const tilesReady = useGeojsonVtProtocol(tileIndex, mapRef, mapReady)
+    const selectedIso = selection?.iso ?? null
+    const countryFill = useMemo(() => countryFillLayer(filter), [filter])
+    const overviewLabels = useMemo(
+        () => countryLabelsOverview(selectedIso, filter),
+        [selectedIso, filter]
+    )
+    const closeLabels = useMemo(
+        () => countryLabelsClose(selectedIso, filter),
+        [selectedIso, filter]
+    )
+    const provinceFill = useMemo(() => provinceFillLayer(filter), [filter])
+    const provinceLabelsStyle = useMemo(() => provinceLabelLayer(filter), [filter])
 
     useEffect(() => {
         let cancelled = false
@@ -147,30 +162,31 @@ export default function Weather() {
             >
                 {mapReady && labels && (
                     <Source id="country-labels" type="geojson" data={labels}>
-                        <Layer {...countryLabelsOverview(selection?.iso ?? null)} />
-                        <Layer {...countryLabelsClose(selection?.iso ?? null)} />
+                        <Layer {...overviewLabels} />
+                        <Layer {...closeLabels} />
                     </Source>
                 )}
                 {tilesReady && (
                     <Source id="countries" type="vector" tiles={['geojsonvt://{z}/{x}/{y}']}>
-                        <Layer {...countryFillLayer} beforeId="country-labels" />
+                        <Layer {...countryFill} beforeId="country-labels" />
                         <Layer {...countryLineLayer} beforeId="country-labels" />
                     </Source>
                 )}
                 {provinces && (
                     <Source id="provinces" type="geojson" data={provinces}>
-                        <Layer {...provinceFillLayer} beforeId="country-labels" />
+                        <Layer {...provinceFill} beforeId="country-labels" />
                         <Layer {...provinceLineLayer} beforeId="country-labels" />
                     </Source>
                 )}
                 {provinceLabels && (
                     <Source id="province-label-points" type="geojson" data={provinceLabels}>
-                        <Layer {...provinceLabelLayer} />
+                        <Layer {...provinceLabelsStyle} />
                     </Source>
                 )}
             </Map>
+            <FilterBar value={filter} onChange={setFilter} />
             <aside className="weather-panel">
-                <h1>Средняя температура</h1>
+                <h1>{filter.month == null ? 'Средняя температура' : monthTitle(filter.month)}</h1>
                 <div className="weather-scale" />
                 <div className="weather-ticks">
                     <span>-20°</span>
