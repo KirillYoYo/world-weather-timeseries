@@ -4,727 +4,1455 @@
     "average_prec": 181.37,
     "1": {
       "temp": 25.23,
-      "prec": 118.96
+      "prec": 118.96,
+      "srad": 16758.0,
+      "wind": 4.219047546386719,
+      "tmax": 28.499999618530275,
+      "tmin": 21.950000381469728
     },
     "2": {
       "temp": 25.27,
-      "prec": 96.32
+      "prec": 96.32,
+      "srad": 19216.0,
+      "wind": 4.437036991119385,
+      "tmax": 28.549999618530272,
+      "tmin": 21.999999618530275
     },
     "3": {
       "temp": 25.61,
-      "prec": 77.65
+      "prec": 77.65,
+      "srad": 20918.0,
+      "wind": 4.542327880859375,
+      "tmax": 28.883333206176758,
+      "tmin": 22.333333206176757
     },
     "4": {
       "temp": 26.28,
-      "prec": 115.66
+      "prec": 115.66,
+      "srad": 21408.0,
+      "wind": 4.56243371963501,
+      "tmax": 29.333333587646486,
+      "tmin": 23.233333587646484
     },
     "5": {
       "temp": 26.93,
-      "prec": 94.14
+      "prec": 94.14,
+      "srad": 20025.0,
+      "wind": 4.4883599281311035,
+      "tmax": 29.849999618530273,
+      "tmin": 24.000000381469725
     },
     "6": {
       "temp": 26.72,
-      "prec": 241.8
+      "prec": 241.8,
+      "srad": 18545.0,
+      "wind": 4.375661373138428,
+      "tmax": 29.633333206176758,
+      "tmin": 23.8
     },
     "7": {
       "temp": 26.82,
-      "prec": 225.56
+      "prec": 225.56,
+      "srad": 19240.0,
+      "wind": 3.8306877613067627,
+      "tmax": 29.96666603088379,
+      "tmin": 23.683333969116212
     },
     "8": {
       "temp": 26.98,
-      "prec": 244.41
+      "prec": 244.41,
+      "srad": 20025.0,
+      "wind": 3.440211772918701,
+      "tmax": 30.300000381469726,
+      "tmin": 23.65
     },
     "9": {
       "temp": 27.35,
-      "prec": 202.02
+      "prec": 202.02,
+      "srad": 20132.0,
+      "wind": 3.421164035797119,
+      "tmax": 30.766666412353516,
+      "tmin": 23.93333320617676
     },
     "10": {
       "temp": 27.09,
-      "prec": 305.43
+      "prec": 305.43,
+      "srad": 18636.0,
+      "wind": 3.4735450744628906,
+      "tmax": 30.433333587646484,
+      "tmin": 23.750000381469725
     },
     "11": {
       "temp": 26.4,
-      "prec": 293.97
+      "prec": 293.97,
+      "srad": 16840.0,
+      "wind": 3.5835978984832764,
+      "tmax": 29.699999618530274,
+      "tmin": 23.099999618530273
     },
     "12": {
       "temp": 25.59,
-      "prec": 160.48
-    }
+      "prec": 160.48,
+      "srad": 15502.0,
+      "wind": 3.8560845851898193,
+      "tmax": 28.8,
+      "tmin": 22.383333587646483
+    },
+    "average_srad": 18937.083333333332,
+    "average_wind": 4.019179880619049,
+    "average_tmax": 29.559722073872887,
+    "average_tmin": 23.151388994852706
   },
   "Princes Town": {
     "average_temp": 27.06,
     "average_prec": 151.67,
     "1": {
       "temp": 25.95,
-      "prec": 93.4
+      "prec": 93.4,
+      "srad": 16368.0,
+      "wind": 3.5120314359664917,
+      "tmax": 29.94375,
+      "tmin": 21.9625
     },
     "2": {
       "temp": 26.13,
-      "prec": 59.52
+      "prec": 59.52,
+      "srad": 18736.0,
+      "wind": 3.816111922264099,
+      "tmax": 30.38125,
+      "tmin": 21.88125
     },
     "3": {
       "temp": 26.51,
-      "prec": 67.4
+      "prec": 67.4,
+      "srad": 20113.5,
+      "wind": 3.914005160331726,
+      "tmax": 30.7625,
+      "tmin": 22.25625
     },
     "4": {
       "temp": 27.29,
-      "prec": 92.13
+      "prec": 92.13,
+      "srad": 20112.0,
+      "wind": 3.937717318534851,
+      "tmax": 31.29375,
+      "tmin": 23.29375
     },
     "5": {
       "temp": 27.81,
-      "prec": 92.97
+      "prec": 92.97,
+      "srad": 18895.5,
+      "wind": 3.7891411781311035,
+      "tmax": 31.6875,
+      "tmin": 23.925
     },
     "6": {
       "temp": 27.27,
-      "prec": 234.67
+      "prec": 234.67,
+      "srad": 17549.5,
+      "wind": 3.4710733890533447,
+      "tmax": 30.94375,
+      "tmin": 23.5875
     },
     "7": {
       "temp": 27.23,
-      "prec": 206.84
+      "prec": 206.84,
+      "srad": 18516.5,
+      "wind": 2.9513635635375977,
+      "tmax": 30.96875,
+      "tmin": 23.49375
     },
     "8": {
       "temp": 27.54,
-      "prec": 242.39
+      "prec": 242.39,
+      "srad": 19221.5,
+      "wind": 2.749725818634033,
+      "tmax": 31.55625,
+      "tmin": 23.53125
     },
     "9": {
       "temp": 27.94,
-      "prec": 159.39
+      "prec": 159.39,
+      "srad": 19727.0,
+      "wind": 2.860021471977234,
+      "tmax": 31.88125,
+      "tmin": 24.00625
     },
     "10": {
       "temp": 27.68,
-      "prec": 213.56
+      "prec": 213.56,
+      "srad": 18619.5,
+      "wind": 2.922966957092285,
+      "tmax": 31.78125,
+      "tmin": 23.575
     },
     "11": {
       "temp": 27.1,
-      "prec": 227.33
+      "prec": 227.33,
+      "srad": 16823.0,
+      "wind": 2.987305760383606,
+      "tmax": 30.83125,
+      "tmin": 23.3625
     },
     "12": {
       "temp": 26.22,
-      "prec": 130.48
-    }
+      "prec": 130.48,
+      "srad": 15018.5,
+      "wind": 3.1439813375473022,
+      "tmax": 29.98125,
+      "tmin": 22.45
+    },
+    "average_srad": 18308.375,
+    "average_wind": 3.3379537761211395,
+    "average_tmax": 31.001041666666666,
+    "average_tmin": 23.110416666666666
   },
   "Rio Claro-Mayaro": {
     "average_temp": 27.01,
     "average_prec": 173.19,
     "1": {
       "temp": 25.96,
-      "prec": 106.07
+      "prec": 106.07,
+      "srad": 16575.5,
+      "wind": 3.669076681137085,
+      "tmax": 29.641666603088378,
+      "tmin": 22.27291660308838
     },
     "2": {
       "temp": 26.1,
-      "prec": 69.21
+      "prec": 69.21,
+      "srad": 18775.5,
+      "wind": 3.96318256855011,
+      "tmax": 29.93041648864746,
+      "tmin": 22.267916679382324
     },
     "3": {
       "temp": 26.45,
-      "prec": 79.49
+      "prec": 79.49,
+      "srad": 20661.0,
+      "wind": 4.0620574951171875,
+      "tmax": 30.2,
+      "tmin": 22.700833129882813
     },
     "4": {
       "temp": 27.19,
-      "prec": 115.07
+      "prec": 115.07,
+      "srad": 20835.5,
+      "wind": 4.0906431674957275,
+      "tmax": 30.78791675567627,
+      "tmin": 23.596249961853026
     },
     "5": {
       "temp": 27.73,
-      "prec": 104.11
+      "prec": 104.11,
+      "srad": 19430.5,
+      "wind": 3.9421491622924805,
+      "tmax": 31.144166564941408,
+      "tmin": 24.307500076293945
     },
     "6": {
       "temp": 27.21,
-      "prec": 244.82
+      "prec": 244.82,
+      "srad": 17964.0,
+      "wind": 3.6527280807495117,
+      "tmax": 30.47291660308838,
+      "tmin": 23.952499771118163
     },
     "7": {
       "temp": 27.19,
-      "prec": 229.83
+      "prec": 229.83,
+      "srad": 18795.5,
+      "wind": 3.1209332942962646,
+      "tmax": 30.58291664123535,
+      "tmin": 23.804166793823242
     },
     "8": {
       "temp": 27.57,
-      "prec": 266.35
+      "prec": 266.35,
+      "srad": 19653.0,
+      "wind": 2.906719923019409,
+      "tmax": 31.39375,
+      "tmin": 23.752083206176756
     },
     "9": {
       "temp": 27.88,
-      "prec": 179.8
+      "prec": 179.8,
+      "srad": 19963.5,
+      "wind": 3.0092488527297974,
+      "tmax": 31.699166297912598,
+      "tmin": 24.065833282470702
     },
     "10": {
       "temp": 27.68,
-      "prec": 272.06
+      "prec": 272.06,
+      "srad": 18584.0,
+      "wind": 3.0660263299942017,
+      "tmax": 31.4,
+      "tmin": 23.95249996185303
     },
     "11": {
       "temp": 26.91,
-      "prec": 249.14
+      "prec": 249.14,
+      "srad": 16892.5,
+      "wind": 3.1361786127090454,
+      "tmax": 30.42666664123535,
+      "tmin": 23.4
     },
     "12": {
       "temp": 26.19,
-      "prec": 162.28
-    }
+      "prec": 162.28,
+      "srad": 15276.0,
+      "wind": 3.3025468587875366,
+      "tmax": 29.76499996185303,
+      "tmin": 22.607916641235352
+    },
+    "average_srad": 18617.208333333332,
+    "average_wind": 3.4934575855731964,
+    "average_tmax": 30.620381879806516,
+    "average_tmin": 23.390034675598145
   },
   "Couva-Tabaquite-Talparo": {
     "average_temp": 26.95,
     "average_prec": 166.39,
     "1": {
       "temp": 25.84,
-      "prec": 93.45
+      "prec": 93.45,
+      "srad": 16682.666666666668,
+      "wind": 3.5125433603922525,
+      "tmax": 29.725,
+      "tmin": 21.954166666666666
     },
     "2": {
       "temp": 26.02,
-      "prec": 62.4
+      "prec": 62.4,
+      "srad": 18917.333333333332,
+      "wind": 3.79859987894694,
+      "tmax": 30.133333333333333,
+      "tmin": 21.916666666666664
     },
     "3": {
       "temp": 26.42,
-      "prec": 74.26
+      "prec": 74.26,
+      "srad": 20499.0,
+      "wind": 3.9077847798665366,
+      "tmax": 30.508333333333336,
+      "tmin": 22.333333333333332
     },
     "4": {
       "temp": 27.19,
-      "prec": 104.19
+      "prec": 104.19,
+      "srad": 20551.333333333332,
+      "wind": 3.919898271560669,
+      "tmax": 30.98333333333333,
+      "tmin": 23.395833333333332
     },
     "5": {
       "temp": 27.72,
-      "prec": 99.78
+      "prec": 99.78,
+      "srad": 19199.666666666668,
+      "wind": 3.790948232014974,
+      "tmax": 31.37916666666667,
+      "tmin": 24.05833333333333
     },
     "6": {
       "temp": 27.18,
-      "prec": 247.73
+      "prec": 247.73,
+      "srad": 17858.333333333332,
+      "wind": 3.498534838358561,
+      "tmax": 30.71666666666667,
+      "tmin": 23.65
     },
     "7": {
       "temp": 27.18,
-      "prec": 240.24
+      "prec": 240.24,
+      "srad": 18732.333333333332,
+      "wind": 2.982121547063192,
+      "tmax": 30.791666666666668,
+      "tmin": 23.56666666666667
     },
     "8": {
       "temp": 27.49,
-      "prec": 259.38
+      "prec": 259.38,
+      "srad": 19503.333333333332,
+      "wind": 2.7445343335469565,
+      "tmax": 31.40833333333333,
+      "tmin": 23.562500000000004
     },
     "9": {
       "temp": 27.75,
-      "prec": 175.23
+      "prec": 175.23,
+      "srad": 19792.333333333332,
+      "wind": 2.838390270868937,
+      "tmax": 31.59583333333333,
+      "tmin": 23.904166666666665
     },
     "10": {
       "temp": 27.58,
-      "prec": 264.75
+      "prec": 264.75,
+      "srad": 18347.0,
+      "wind": 2.901920954386393,
+      "tmax": 31.575,
+      "tmin": 23.591666666666665
     },
     "11": {
       "temp": 26.93,
-      "prec": 246.38
+      "prec": 246.38,
+      "srad": 16733.333333333332,
+      "wind": 2.9751582940419516,
+      "tmax": 30.65,
+      "tmin": 23.208333333333336
     },
     "12": {
       "temp": 26.13,
-      "prec": 128.86
-    }
+      "prec": 128.86,
+      "srad": 15226.333333333334,
+      "wind": 3.1472527980804443,
+      "tmax": 29.8375,
+      "tmin": 22.42083333333333
+    },
+    "average_srad": 18503.583333333336,
+    "average_wind": 3.3348072965939846,
+    "average_tmax": 30.77534722222222,
+    "average_tmin": 23.130208333333332
   },
   "San Fernando": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Siparia": {
     "average_temp": 27.11,
     "average_prec": 141.54,
     "1": {
       "temp": 25.93,
-      "prec": 86.99
+      "prec": 86.99,
+      "srad": 16082.0,
+      "wind": 3.7008583545684814,
+      "tmax": 29.983333587646484,
+      "tmin": 21.883333206176758
     },
     "2": {
       "temp": 26.22,
-      "prec": 55.2
+      "prec": 55.2,
+      "srad": 18640.0,
+      "wind": 4.047210216522217,
+      "tmax": 30.6,
+      "tmin": 21.833333206176757
     },
     "3": {
       "temp": 26.7,
-      "prec": 60.7
+      "prec": 60.7,
+      "srad": 20276.0,
+      "wind": 4.127467632293701,
+      "tmax": 31.2,
+      "tmin": 22.2
     },
     "4": {
       "temp": 27.4,
-      "prec": 88.46
+      "prec": 88.46,
+      "srad": 20350.0,
+      "wind": 4.192274570465088,
+      "tmax": 31.6,
+      "tmin": 23.2
     },
     "5": {
       "temp": 27.84,
-      "prec": 91.68
+      "prec": 91.68,
+      "srad": 19142.0,
+      "wind": 4.012017250061035,
+      "tmax": 31.85,
+      "tmin": 23.833333206176757
     },
     "6": {
       "temp": 27.32,
-      "prec": 217.85
+      "prec": 217.85,
+      "srad": 17688.0,
+      "wind": 3.669957160949707,
+      "tmax": 31.06666679382324,
+      "tmin": 23.583333206176757
     },
     "7": {
       "temp": 27.32,
-      "prec": 196.02
+      "prec": 196.02,
+      "srad": 18545.0,
+      "wind": 3.115879774093628,
+      "tmax": 31.216666793823244,
+      "tmin": 23.416666793823243
     },
     "8": {
       "temp": 27.57,
-      "prec": 222.87
+      "prec": 222.87,
+      "srad": 19376.0,
+      "wind": 2.938626527786255,
+      "tmax": 31.583333206176757,
+      "tmin": 23.55
     },
     "9": {
       "temp": 28.0,
-      "prec": 144.4
+      "prec": 144.4,
+      "srad": 19854.0,
+      "wind": 3.056652307510376,
+      "tmax": 32.0,
+      "tmin": 24.0
     },
     "10": {
       "temp": 27.63,
-      "prec": 219.54
+      "prec": 219.54,
+      "srad": 18383.0,
+      "wind": 3.1188840866088867,
+      "tmax": 31.816666412353516,
+      "tmin": 23.45
     },
     "11": {
       "temp": 27.16,
-      "prec": 205.04
+      "prec": 205.04,
+      "srad": 16844.0,
+      "wind": 3.1785407066345215,
+      "tmax": 30.916666412353514,
+      "tmin": 23.4
     },
     "12": {
       "temp": 26.25,
-      "prec": 109.74
-    }
+      "prec": 109.74,
+      "srad": 15067.0,
+      "wind": 3.3210301399230957,
+      "tmax": 30.099999618530273,
+      "tmin": 22.4
+    },
+    "average_srad": 18353.916666666668,
+    "average_wind": 3.539949893951416,
+    "average_tmax": 31.161111068725585,
+    "average_tmin": 23.062499968210854
   },
   "Point Fortin": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Penal-Debe": {
     "average_temp": 27.05,
     "average_prec": 144.32,
     "1": {
       "temp": 25.88,
-      "prec": 88.78
+      "prec": 88.78,
+      "srad": 16177.0,
+      "wind": 3.686725616455078,
+      "tmax": 29.883333587646483,
+      "tmin": 21.883333206176758
     },
     "2": {
       "temp": 26.14,
-      "prec": 57.51
+      "prec": 57.51,
+      "srad": 18680.0,
+      "wind": 4.014159202575684,
+      "tmax": 30.533333206176756,
+      "tmin": 21.75
     },
     "3": {
       "temp": 26.67,
-      "prec": 63.05
+      "prec": 63.05,
+      "srad": 20006.0,
+      "wind": 4.097344875335693,
+      "tmax": 31.133333206176758,
+      "tmin": 22.2
     },
     "4": {
       "temp": 27.34,
-      "prec": 91.86
+      "prec": 91.86,
+      "srad": 20147.0,
+      "wind": 4.150442600250244,
+      "tmax": 31.5,
+      "tmin": 23.18333320617676
     },
     "5": {
       "temp": 27.82,
-      "prec": 85.6
+      "prec": 85.6,
+      "srad": 19070.0,
+      "wind": 3.977433681488037,
+      "tmax": 31.833333587646486,
+      "tmin": 23.8
     },
     "6": {
       "temp": 27.18,
-      "prec": 221.89
+      "prec": 221.89,
+      "srad": 17628.0,
+      "wind": 3.6446902751922607,
+      "tmax": 30.8,
+      "tmin": 23.56666679382324
     },
     "7": {
       "temp": 27.24,
-      "prec": 196.74
+      "prec": 196.74,
+      "srad": 18520.0,
+      "wind": 3.1026549339294434,
+      "tmax": 31.083333587646486,
+      "tmin": 23.4
     },
     "8": {
       "temp": 27.51,
-      "prec": 227.26
+      "prec": 227.26,
+      "srad": 19487.0,
+      "wind": 2.9199116230010986,
+      "tmax": 31.533333206176756,
+      "tmin": 23.48333320617676
     },
     "9": {
       "temp": 27.99,
-      "prec": 150.9
+      "prec": 150.9,
+      "srad": 19891.0,
+      "wind": 3.037168025970459,
+      "tmax": 32.0,
+      "tmin": 23.98333320617676
     },
     "10": {
       "temp": 27.61,
-      "prec": 224.39
+      "prec": 224.39,
+      "srad": 18519.0,
+      "wind": 3.1008849143981934,
+      "tmax": 31.81666679382324,
+      "tmin": 23.4
     },
     "11": {
       "temp": 27.05,
-      "prec": 208.48
+      "prec": 208.48,
+      "srad": 16883.0,
+      "wind": 3.1619467735290527,
+      "tmax": 30.75,
+      "tmin": 23.349999618530273
     },
     "12": {
       "temp": 26.16,
-      "prec": 115.41
-    }
+      "prec": 115.41,
+      "srad": 14971.0,
+      "wind": 3.3101770877838135,
+      "tmax": 29.93333320617676,
+      "tmin": 22.383333206176758
+    },
+    "average_srad": 18331.583333333332,
+    "average_wind": 3.516961634159088,
+    "average_tmax": 31.06666669845581,
+    "average_tmin": 23.031944370269773
   },
   "Diego Martin": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Port of Spain": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "San Juan-Laventille": {
     "average_temp": 26.7,
     "average_prec": 150.22,
     "1": {
       "temp": 25.55,
-      "prec": 95.62
+      "prec": 95.62,
+      "srad": 16471.5,
+      "wind": 3.7951395511627197,
+      "tmax": 29.43605785369873,
+      "tmin": 21.672115516662597
     },
     "2": {
       "temp": 25.77,
-      "prec": 63.46
+      "prec": 63.46,
+      "srad": 18800.5,
+      "wind": 4.0837976932525635,
+      "tmax": 29.839903831481934,
+      "tmin": 21.707692337036132
     },
     "3": {
       "temp": 26.15,
-      "prec": 66.71
+      "prec": 66.71,
+      "srad": 20403.0,
+      "wind": 4.1889142990112305,
+      "tmax": 30.15625,
+      "tmin": 22.138942337036134
     },
     "4": {
       "temp": 26.87,
-      "prec": 87.72
+      "prec": 87.72,
+      "srad": 20468.5,
+      "wind": 4.235300779342651,
+      "tmax": 30.616826820373536,
+      "tmin": 23.118750190734865
     },
     "5": {
       "temp": 27.51,
-      "prec": 84.2
+      "prec": 84.2,
+      "srad": 19246.0,
+      "wind": 4.108153820037842,
+      "tmax": 31.097115135192873,
+      "tmin": 23.915384674072264
     },
     "6": {
       "temp": 26.96,
-      "prec": 215.39
+      "prec": 215.39,
+      "srad": 17824.5,
+      "wind": 3.8445069789886475,
+      "tmax": 30.405288887023925,
+      "tmin": 23.516827011108397
     },
     "7": {
       "temp": 26.99,
-      "prec": 197.85
+      "prec": 197.85,
+      "srad": 18577.0,
+      "wind": 3.2970986366271973,
+      "tmax": 30.578846168518066,
+      "tmin": 23.403846168518065
     },
     "8": {
       "temp": 27.21,
-      "prec": 229.56
+      "prec": 229.56,
+      "srad": 19231.0,
+      "wind": 3.0332471132278442,
+      "tmax": 31.034134674072266,
+      "tmin": 23.384615325927733
     },
     "9": {
       "temp": 27.46,
-      "prec": 164.9
+      "prec": 164.9,
+      "srad": 19592.5,
+      "wind": 3.1018463373184204,
+      "tmax": 31.3134614944458,
+      "tmin": 23.6115385055542
     },
     "10": {
       "temp": 27.36,
-      "prec": 232.85
+      "prec": 232.85,
+      "srad": 18490.0,
+      "wind": 3.1665045022964478,
+      "tmax": 31.240385055541992,
+      "tmin": 23.4822114944458
     },
     "11": {
       "temp": 26.67,
-      "prec": 235.34
+      "prec": 235.34,
+      "srad": 16649.5,
+      "wind": 3.225790023803711,
+      "tmax": 30.416346168518068,
+      "tmin": 22.923077011108397
     },
     "12": {
       "temp": 25.87,
-      "prec": 128.98
-    }
+      "prec": 128.98,
+      "srad": 15307.5,
+      "wind": 3.4293700456619263,
+      "tmax": 29.616346168518067,
+      "tmin": 22.132211875915527
+    },
+    "average_srad": 18421.791666666668,
+    "average_wind": 3.6258058150609336,
+    "average_tmax": 30.479246854782104,
+    "average_tmin": 22.917267704010012
   },
   "Tunapuna-Piarco": {
     "average_temp": 25.93,
     "average_prec": 167.68,
     "1": {
       "temp": 24.73,
-      "prec": 110.12
+      "prec": 110.12,
+      "srad": 16115.0,
+      "wind": 3.7609524726867676,
+      "tmax": 28.4625,
+      "tmin": 21.0
     },
     "2": {
       "temp": 24.95,
-      "prec": 78.53
+      "prec": 78.53,
+      "srad": 18540.0,
+      "wind": 4.010793685913086,
+      "tmax": 28.725,
+      "tmin": 21.175
     },
     "3": {
       "temp": 25.31,
-      "prec": 76.65
+      "prec": 76.65,
+      "srad": 20503.0,
+      "wind": 4.113333225250244,
+      "tmax": 28.975,
+      "tmin": 21.6375
     },
     "4": {
       "temp": 26.01,
-      "prec": 103.98
+      "prec": 103.98,
+      "srad": 20861.0,
+      "wind": 4.1574602127075195,
+      "tmax": 29.525,
+      "tmin": 22.4875
     },
     "5": {
       "temp": 26.71,
-      "prec": 92.83
+      "prec": 92.83,
+      "srad": 19473.0,
+      "wind": 4.0374603271484375,
+      "tmax": 30.0875,
+      "tmin": 23.325
     },
     "6": {
       "temp": 26.3,
-      "prec": 230.05
+      "prec": 230.05,
+      "srad": 18001.0,
+      "wind": 3.7961905002593994,
+      "tmax": 29.5375,
+      "tmin": 23.0625
     },
     "7": {
       "temp": 26.31,
-      "prec": 216.77
+      "prec": 216.77,
+      "srad": 18695.0,
+      "wind": 3.2866666316986084,
+      "tmax": 29.7125,
+      "tmin": 22.9125
     },
     "8": {
       "temp": 26.51,
-      "prec": 253.91
+      "prec": 253.91,
+      "srad": 19410.0,
+      "wind": 3.008254051208496,
+      "tmax": 30.2,
+      "tmin": 22.825
     },
     "9": {
       "temp": 26.69,
-      "prec": 185.34
+      "prec": 185.34,
+      "srad": 19737.0,
+      "wind": 3.0634920597076416,
+      "tmax": 30.4375,
+      "tmin": 22.95
     },
     "10": {
       "temp": 26.66,
-      "prec": 263.63
+      "prec": 263.63,
+      "srad": 18476.0,
+      "wind": 3.1215872764587402,
+      "tmax": 30.35,
+      "tmin": 22.975
     },
     "11": {
       "temp": 25.89,
-      "prec": 251.86
+      "prec": 251.86,
+      "srad": 16691.0,
+      "wind": 3.1888887882232666,
+      "tmax": 29.625,
+      "tmin": 22.1625
     },
     "12": {
       "temp": 25.09,
-      "prec": 148.52
-    }
+      "prec": 148.52,
+      "srad": 15172.0,
+      "wind": 3.4069840908050537,
+      "tmax": 28.7625,
+      "tmin": 21.425
+    },
+    "average_srad": 18472.833333333332,
+    "average_wind": 3.5793386101722717,
+    "average_tmax": 29.533333333333335,
+    "average_tmin": 22.328125
   },
   "Sangre Grande": {
     "average_temp": 26.6,
     "average_prec": 178.76,
     "1": {
       "temp": 25.49,
-      "prec": 116.85
+      "prec": 116.85,
+      "srad": 16409.5,
+      "wind": 3.823848247528076,
+      "tmax": 29.16875,
+      "tmin": 21.81875
     },
     "2": {
       "temp": 25.68,
-      "prec": 81.87
+      "prec": 81.87,
+      "srad": 18687.5,
+      "wind": 4.095231294631958,
+      "tmax": 29.39375,
+      "tmin": 21.9625
     },
     "3": {
       "temp": 26.03,
-      "prec": 81.06
+      "prec": 81.06,
+      "srad": 20520.0,
+      "wind": 4.198712348937988,
+      "tmax": 29.61875,
+      "tmin": 22.44375
     },
     "4": {
       "temp": 26.7,
-      "prec": 112.52
+      "prec": 112.52,
+      "srad": 20870.0,
+      "wind": 4.2343597412109375,
+      "tmax": 30.14375,
+      "tmin": 23.25
     },
     "5": {
       "temp": 27.33,
-      "prec": 98.99
+      "prec": 98.99,
+      "srad": 19477.5,
+      "wind": 4.109728574752808,
+      "tmax": 30.6125,
+      "tmin": 24.05625
     },
     "6": {
       "temp": 26.91,
-      "prec": 241.52
+      "prec": 241.52,
+      "srad": 17976.0,
+      "wind": 3.8673146963119507,
+      "tmax": 30.04375,
+      "tmin": 23.78125
     },
     "7": {
       "temp": 26.92,
-      "prec": 237.61
+      "prec": 237.61,
+      "srad": 18885.5,
+      "wind": 3.328176498413086,
+      "tmax": 30.25,
+      "tmin": 23.5875
     },
     "8": {
       "temp": 27.2,
-      "prec": 270.08
+      "prec": 270.08,
+      "srad": 19640.5,
+      "wind": 3.0588566064834595,
+      "tmax": 30.93125,
+      "tmin": 23.475
     },
     "9": {
       "temp": 27.37,
-      "prec": 187.82
+      "prec": 187.82,
+      "srad": 19888.5,
+      "wind": 3.123733162879944,
+      "tmax": 31.075,
+      "tmin": 23.65625
     },
     "10": {
       "temp": 27.31,
-      "prec": 283.52
+      "prec": 283.52,
+      "srad": 18555.0,
+      "wind": 3.184582233428955,
+      "tmax": 30.90625,
+      "tmin": 23.71875
     },
     "11": {
       "temp": 26.44,
-      "prec": 266.03
+      "prec": 266.03,
+      "srad": 16789.5,
+      "wind": 3.2560696601867676,
+      "tmax": 29.9875,
+      "tmin": 22.8875
     },
     "12": {
       "temp": 25.77,
-      "prec": 167.26
-    }
+      "prec": 167.26,
+      "srad": 15259.0,
+      "wind": 3.460899591445923,
+      "tmax": 29.3125,
+      "tmin": 22.21875
+    },
+    "average_srad": 18579.875,
+    "average_wind": 3.645126054684321,
+    "average_tmax": 30.1203125,
+    "average_tmin": 23.071354166666666
   },
   "Chaguanas": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   }
 }

@@ -4,623 +4,1247 @@
     "average_prec": 69.32,
     "1": {
       "temp": 2.81,
-      "prec": 78.75
+      "prec": 78.75,
+      "srad": 2836.0,
+      "wind": 3.960749864578247,
+      "tmax": 5.275,
+      "tmin": 0.3375
     },
     "2": {
       "temp": 5.39,
-      "prec": 80.76
+      "prec": 80.76,
+      "srad": 5470.0,
+      "wind": 3.7522499561309814,
+      "tmax": 8.7875,
+      "tmin": 2.0
     },
     "3": {
       "temp": 6.85,
-      "prec": 59.76
+      "prec": 59.76,
+      "srad": 9212.0,
+      "wind": 3.847249984741211,
+      "tmax": 11.325,
+      "tmin": 2.375
     },
     "4": {
       "temp": 9.38,
-      "prec": 46.33
+      "prec": 46.33,
+      "srad": 14044.0,
+      "wind": 3.5167500972747803,
+      "tmax": 14.5625,
+      "tmin": 4.2
     },
     "5": {
       "temp": 13.7,
-      "prec": 66.85
+      "prec": 66.85,
+      "srad": 17952.0,
+      "wind": 3.194999933242798,
+      "tmax": 19.075,
+      "tmin": 8.325
     },
     "6": {
       "temp": 18.32,
-      "prec": 63.12
+      "prec": 63.12,
+      "srad": 19321.0,
+      "wind": 3.0204999446868896,
+      "tmax": 24.0,
+      "tmin": 12.65
     },
     "7": {
       "temp": 18.93,
-      "prec": 76.13
+      "prec": 76.13,
+      "srad": 19213.0,
+      "wind": 3.007999897003174,
+      "tmax": 24.5625,
+      "tmin": 13.2875
     },
     "8": {
       "temp": 19.57,
-      "prec": 63.97
+      "prec": 63.97,
+      "srad": 16422.0,
+      "wind": 2.783750057220459,
+      "tmax": 25.0625,
+      "tmin": 14.075
     },
     "9": {
       "temp": 15.9,
-      "prec": 68.65
+      "prec": 68.65,
+      "srad": 11622.0,
+      "wind": 3.0290000438690186,
+      "tmax": 21.2875,
+      "tmin": 10.5125
     },
     "10": {
       "temp": 11.59,
-      "prec": 81.47
+      "prec": 81.47,
+      "srad": 6781.0,
+      "wind": 3.2482500076293945,
+      "tmax": 15.6,
+      "tmin": 7.5875
     },
     "11": {
       "temp": 6.37,
-      "prec": 68.51
+      "prec": 68.51,
+      "srad": 3376.0,
+      "wind": 3.552000045776367,
+      "tmax": 9.175,
+      "tmin": 3.5625
     },
     "12": {
       "temp": 3.8,
-      "prec": 77.47
-    }
+      "prec": 77.47,
+      "srad": 2262.0,
+      "wind": 3.804500102996826,
+      "tmax": 5.9,
+      "tmin": 1.7
+    },
+    "average_srad": 10709.25,
+    "average_wind": 3.393166661262512,
+    "average_tmax": 15.384375,
+    "average_tmin": 6.717708333333334
   },
   "Canton Grevenmacher": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Canton Remich": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Canton Mersch": {
     "average_temp": 10.8,
     "average_prec": 71.82,
     "1": {
       "temp": 2.67,
-      "prec": 88.01
+      "prec": 88.01,
+      "srad": 2866.0,
+      "wind": 3.9873749017715454,
+      "tmax": 5.13125,
+      "tmin": 0.2
     },
     "2": {
       "temp": 5.17,
-      "prec": 85.7
+      "prec": 85.7,
+      "srad": 5488.0,
+      "wind": 3.7586249113082886,
+      "tmax": 8.56875,
+      "tmin": 1.76875
     },
     "3": {
       "temp": 6.66,
-      "prec": 62.36
+      "prec": 62.36,
+      "srad": 9296.5,
+      "wind": 3.8706250190734863,
+      "tmax": 11.0,
+      "tmin": 2.325
     },
     "4": {
       "temp": 9.1,
-      "prec": 46.85
+      "prec": 46.85,
+      "srad": 14120.0,
+      "wind": 3.543874979019165,
+      "tmax": 14.09375,
+      "tmin": 4.10625
     },
     "5": {
       "temp": 13.36,
-      "prec": 68.53
+      "prec": 68.53,
+      "srad": 17985.5,
+      "wind": 3.2419999837875366,
+      "tmax": 18.6,
+      "tmin": 8.125
     },
     "6": {
       "temp": 17.99,
-      "prec": 63.37
+      "prec": 63.37,
+      "srad": 19383.5,
+      "wind": 3.0582499504089355,
+      "tmax": 23.4375,
+      "tmin": 12.54375
     },
     "7": {
       "temp": 18.51,
-      "prec": 72.32
+      "prec": 72.32,
+      "srad": 19114.0,
+      "wind": 3.0621249675750732,
+      "tmax": 23.99375,
+      "tmin": 13.03125
     },
     "8": {
       "temp": 19.21,
-      "prec": 63.57
+      "prec": 63.57,
+      "srad": 16287.5,
+      "wind": 2.8351250886917114,
+      "tmax": 24.5,
+      "tmin": 13.91875
     },
     "9": {
       "temp": 15.68,
-      "prec": 70.89
+      "prec": 70.89,
+      "srad": 11705.5,
+      "wind": 3.0777499675750732,
+      "tmax": 20.84375,
+      "tmin": 10.50625
     },
     "10": {
       "temp": 11.41,
-      "prec": 85.39
+      "prec": 85.39,
+      "srad": 6855.5,
+      "wind": 3.318750023841858,
+      "tmax": 15.21875,
+      "tmin": 7.60625
     },
     "11": {
       "temp": 6.19,
-      "prec": 70.86
+      "prec": 70.86,
+      "srad": 3399.5,
+      "wind": 3.5674999952316284,
+      "tmax": 8.99375,
+      "tmin": 3.3875
     },
     "12": {
       "temp": 3.69,
-      "prec": 84.0
-    }
+      "prec": 84.0,
+      "srad": 2290.5,
+      "wind": 3.8317500352859497,
+      "tmax": 5.825,
+      "tmin": 1.55
+    },
+    "average_srad": 10732.666666666666,
+    "average_wind": 3.4294791519641876,
+    "average_tmax": 15.017187499999999,
+    "average_tmin": 6.5890625
   },
   "Canton Capellen": {
     "average_temp": 10.83,
     "average_prec": 80.89,
     "1": {
       "temp": 2.84,
-      "prec": 112.78
+      "prec": 112.78,
+      "srad": 2958.0,
+      "wind": 3.870500087738037,
+      "tmax": 5.3375,
+      "tmin": 0.3375
     },
     "2": {
       "temp": 5.29,
-      "prec": 102.4
+      "prec": 102.4,
+      "srad": 5595.0,
+      "wind": 3.621999979019165,
+      "tmax": 8.7125,
+      "tmin": 1.8625
     },
     "3": {
       "temp": 6.68,
-      "prec": 77.12
+      "prec": 77.12,
+      "srad": 9502.0,
+      "wind": 3.7915000915527344,
+      "tmax": 11.0625,
+      "tmin": 2.3
     },
     "4": {
       "temp": 9.01,
-      "prec": 49.2
+      "prec": 49.2,
+      "srad": 14343.0,
+      "wind": 3.494499921798706,
+      "tmax": 14.2125,
+      "tmin": 3.8125
     },
     "5": {
       "temp": 13.34,
-      "prec": 69.95
+      "prec": 69.95,
+      "srad": 18155.0,
+      "wind": 3.2049999237060547,
+      "tmax": 18.675,
+      "tmin": 8.0
     },
     "6": {
       "temp": 18.01,
-      "prec": 71.0
+      "prec": 71.0,
+      "srad": 19563.0,
+      "wind": 3.0077500343322754,
+      "tmax": 23.6125,
+      "tmin": 12.4
     },
     "7": {
       "temp": 18.56,
-      "prec": 66.93
+      "prec": 66.93,
+      "srad": 19390.0,
+      "wind": 3.01200008392334,
+      "tmax": 24.1125,
+      "tmin": 13.0
     },
     "8": {
       "temp": 19.14,
-      "prec": 61.65
+      "prec": 61.65,
+      "srad": 16353.0,
+      "wind": 2.783750057220459,
+      "tmax": 24.525,
+      "tmin": 13.75
     },
     "9": {
       "temp": 15.68,
-      "prec": 72.26
+      "prec": 72.26,
+      "srad": 11908.0,
+      "wind": 2.993000030517578,
+      "tmax": 20.8,
+      "tmin": 10.55
     },
     "10": {
       "temp": 11.53,
-      "prec": 101.49
+      "prec": 101.49,
+      "srad": 7013.0,
+      "wind": 3.2225000858306885,
+      "tmax": 15.4625,
+      "tmin": 7.6
     },
     "11": {
       "temp": 6.21,
-      "prec": 83.22
+      "prec": 83.22,
+      "srad": 3478.0,
+      "wind": 3.430000066757202,
+      "tmax": 9.075,
+      "tmin": 3.35
     },
     "12": {
       "temp": 3.7,
-      "prec": 102.73
-    }
+      "prec": 102.73,
+      "srad": 2370.0,
+      "wind": 3.6922500133514404,
+      "tmax": 5.85,
+      "tmin": 1.55
+    },
+    "average_srad": 10885.666666666666,
+    "average_wind": 3.3437291979789734,
+    "average_tmax": 15.119791666666666,
+    "average_tmin": 6.542708333333333
   },
   "Canton Luxembourg": {
     "average_temp": 11.06,
     "average_prec": 72.65,
     "1": {
       "temp": 2.75,
-      "prec": 88.0
+      "prec": 88.0,
+      "srad": 2944.5,
+      "wind": 3.889875054359436,
+      "tmax": 5.3125,
+      "tmin": 0.19375
     },
     "2": {
       "temp": 5.39,
-      "prec": 85.69
+      "prec": 85.69,
+      "srad": 5583.5,
+      "wind": 3.6755000352859497,
+      "tmax": 8.81875,
+      "tmin": 1.95625
     },
     "3": {
       "temp": 6.92,
-      "prec": 64.54
+      "prec": 64.54,
+      "srad": 9431.5,
+      "wind": 3.812749981880188,
+      "tmax": 11.4625,
+      "tmin": 2.3875
     },
     "4": {
       "temp": 9.36,
-      "prec": 45.72
+      "prec": 45.72,
+      "srad": 14315.5,
+      "wind": 3.5052499771118164,
+      "tmax": 14.51875,
+      "tmin": 4.20625
     },
     "5": {
       "temp": 13.67,
-      "prec": 70.52
+      "prec": 70.52,
+      "srad": 18139.0,
+      "wind": 3.192875027656555,
+      "tmax": 19.075,
+      "tmin": 8.26875
     },
     "6": {
       "temp": 18.41,
-      "prec": 67.75
+      "prec": 67.75,
+      "srad": 19551.0,
+      "wind": 3.0164999961853027,
+      "tmax": 24.025,
+      "tmin": 12.79375
     },
     "7": {
       "temp": 19.02,
-      "prec": 69.54
+      "prec": 69.54,
+      "srad": 19490.0,
+      "wind": 3.000124931335449,
+      "tmax": 24.61875,
+      "tmin": 13.425
     },
     "8": {
       "temp": 19.62,
-      "prec": 64.03
+      "prec": 64.03,
+      "srad": 16453.0,
+      "wind": 2.770250082015991,
+      "tmax": 25.075,
+      "tmin": 14.15625
     },
     "9": {
       "temp": 15.98,
-      "prec": 69.68
+      "prec": 69.68,
+      "srad": 11908.0,
+      "wind": 2.997375011444092,
+      "tmax": 21.3625,
+      "tmin": 10.5875
     },
     "10": {
       "temp": 11.63,
-      "prec": 90.6
+      "prec": 90.6,
+      "srad": 6970.5,
+      "wind": 3.2108750343322754,
+      "tmax": 15.68125,
+      "tmin": 7.58125
     },
     "11": {
       "temp": 6.3,
-      "prec": 70.64
+      "prec": 70.64,
+      "srad": 3489.5,
+      "wind": 3.4605000019073486,
+      "tmax": 9.20625,
+      "tmin": 3.3875
     },
     "12": {
       "temp": 3.69,
-      "prec": 85.15
-    }
+      "prec": 85.15,
+      "srad": 2363.0,
+      "wind": 3.7301249504089355,
+      "tmax": 5.8625,
+      "tmin": 1.5125
+    },
+    "average_srad": 10886.583333333334,
+    "average_wind": 3.3551666736602783,
+    "average_tmax": 15.41822916666667,
+    "average_tmin": 6.7046874999999995
   },
   "Canton Redange": {
     "average_temp": 10.66,
     "average_prec": 78.27,
     "1": {
       "temp": 2.82,
-      "prec": 107.33
+      "prec": 107.33,
+      "srad": 2858.0,
+      "wind": 3.9372498989105225,
+      "tmax": 5.225,
+      "tmin": 0.4125
     },
     "2": {
       "temp": 5.16,
-      "prec": 98.56
+      "prec": 98.56,
+      "srad": 5467.0,
+      "wind": 3.69350004196167,
+      "tmax": 8.525,
+      "tmin": 1.7875
     },
     "3": {
       "temp": 6.54,
-      "prec": 72.48
+      "prec": 72.48,
+      "srad": 9330.0,
+      "wind": 3.8272500038146973,
+      "tmax": 10.775,
+      "tmin": 2.3
     },
     "4": {
       "temp": 8.81,
-      "prec": 49.66
+      "prec": 49.66,
+      "srad": 14156.0,
+      "wind": 3.5082499980926514,
+      "tmax": 13.85,
+      "tmin": 3.7625
     },
     "5": {
       "temp": 13.14,
-      "prec": 69.7
+      "prec": 69.7,
+      "srad": 17907.0,
+      "wind": 3.231250047683716,
+      "tmax": 18.3125,
+      "tmin": 7.9625
     },
     "6": {
       "temp": 17.68,
-      "prec": 67.36
+      "prec": 67.36,
+      "srad": 19247.0,
+      "wind": 3.0434999465942383,
+      "tmax": 23.1125,
+      "tmin": 12.25
     },
     "7": {
       "temp": 18.16,
-      "prec": 67.1
+      "prec": 67.1,
+      "srad": 19000.0,
+      "wind": 3.060999870300293,
+      "tmax": 23.5125,
+      "tmin": 12.8125
     },
     "8": {
       "temp": 18.93,
-      "prec": 60.96
+      "prec": 60.96,
+      "srad": 16171.0,
+      "wind": 2.8322501182556152,
+      "tmax": 24.2125,
+      "tmin": 13.65
     },
     "9": {
       "temp": 15.46,
-      "prec": 71.35
+      "prec": 71.35,
+      "srad": 11746.0,
+      "wind": 3.0587499141693115,
+      "tmax": 20.4375,
+      "tmin": 10.475
     },
     "10": {
       "temp": 11.31,
-      "prec": 94.53
+      "prec": 94.53,
+      "srad": 6843.0,
+      "wind": 3.3067500591278076,
+      "tmax": 15.0375,
+      "tmin": 7.5875
     },
     "11": {
       "temp": 6.21,
-      "prec": 80.88
+      "prec": 80.88,
+      "srad": 3392.0,
+      "wind": 3.5209999084472656,
+      "tmax": 8.95,
+      "tmin": 3.4625
     },
     "12": {
       "temp": 3.67,
-      "prec": 99.34
-    }
+      "prec": 99.34,
+      "srad": 2291.0,
+      "wind": 3.775749921798706,
+      "tmax": 5.8,
+      "tmin": 1.55
+    },
+    "average_srad": 10700.666666666666,
+    "average_wind": 3.399708310763041,
+    "average_tmax": 14.812499999999998,
+    "average_tmin": 6.501041666666667
   },
   "Canton Diekirch": {
     "average_temp": 10.48,
     "average_prec": 75.55,
     "1": {
       "temp": 2.58,
-      "prec": 98.39
+      "prec": 98.39,
+      "srad": 2819.0,
+      "wind": 4.169250011444092,
+      "tmax": 4.95,
+      "tmin": 0.2
     },
     "2": {
       "temp": 4.9,
-      "prec": 92.11
+      "prec": 92.11,
+      "srad": 5380.0,
+      "wind": 3.910749912261963,
+      "tmax": 8.225,
+      "tmin": 1.575
     },
     "3": {
       "temp": 6.29,
-      "prec": 67.21
+      "prec": 67.21,
+      "srad": 9179.0,
+      "wind": 3.990999937057495,
+      "tmax": 10.4625,
+      "tmin": 2.1125
     },
     "4": {
       "temp": 8.62,
-      "prec": 51.7
+      "prec": 51.7,
+      "srad": 13979.0,
+      "wind": 3.638000011444092,
+      "tmax": 13.4625,
+      "tmin": 3.7875
     },
     "5": {
       "temp": 12.96,
-      "prec": 70.09
+      "prec": 70.09,
+      "srad": 17736.0,
+      "wind": 3.350250005722046,
+      "tmax": 17.975,
+      "tmin": 7.95
     },
     "6": {
       "temp": 17.51,
-      "prec": 64.39
+      "prec": 64.39,
+      "srad": 19009.0,
+      "wind": 3.1610000133514404,
+      "tmax": 22.725,
+      "tmin": 12.2875
     },
     "7": {
       "temp": 18.04,
-      "prec": 73.33
+      "prec": 73.33,
+      "srad": 18623.0,
+      "wind": 3.1782500743865967,
+      "tmax": 23.25,
+      "tmin": 12.8375
     },
     "8": {
       "temp": 18.76,
-      "prec": 62.65
+      "prec": 62.65,
+      "srad": 16021.0,
+      "wind": 2.9552500247955322,
+      "tmax": 23.825,
+      "tmin": 13.7
     },
     "9": {
       "temp": 15.36,
-      "prec": 74.77
+      "prec": 74.77,
+      "srad": 11549.0,
+      "wind": 3.229249954223633,
+      "tmax": 20.225,
+      "tmin": 10.5
     },
     "10": {
       "temp": 11.14,
-      "prec": 86.55
+      "prec": 86.55,
+      "srad": 6794.0,
+      "wind": 3.5147500038146973,
+      "tmax": 14.7625,
+      "tmin": 7.525
     },
     "11": {
       "temp": 6.1,
-      "prec": 76.21
+      "prec": 76.21,
+      "srad": 3344.0,
+      "wind": 3.756999969482422,
+      "tmax": 8.7625,
+      "tmin": 3.4375
     },
     "12": {
       "temp": 3.53,
-      "prec": 89.22
-    }
+      "prec": 89.22,
+      "srad": 2239.0,
+      "wind": 4.013750076293945,
+      "tmax": 5.5625,
+      "tmin": 1.5
+    },
+    "average_srad": 10556.0,
+    "average_wind": 3.572374999523163,
+    "average_tmax": 14.515624999999998,
+    "average_tmin": 6.451041666666668
   },
   "Canton Esch-sur-Alzette": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Canton Clervaux": {
     "average_temp": 9.93,
     "average_prec": 84.48,
     "1": {
       "temp": 2.29,
-      "prec": 111.32
+      "prec": 111.32,
+      "srad": 2775.0,
+      "wind": 4.473250150680542,
+      "tmax": 4.56875,
+      "tmin": 0.0125
     },
     "2": {
       "temp": 4.42,
-      "prec": 102.97
+      "prec": 102.97,
+      "srad": 5332.0,
+      "wind": 4.180249929428101,
+      "tmax": 7.675,
+      "tmin": 1.175
     },
     "3": {
       "temp": 5.67,
-      "prec": 77.34
+      "prec": 77.34,
+      "srad": 9052.0,
+      "wind": 4.202124834060669,
+      "tmax": 9.78125,
+      "tmin": 1.55
     },
     "4": {
       "temp": 7.94,
-      "prec": 60.58
+      "prec": 60.58,
+      "srad": 13849.5,
+      "wind": 3.809625029563904,
+      "tmax": 12.7875,
+      "tmin": 3.09375
     },
     "5": {
       "temp": 12.29,
-      "prec": 76.44
+      "prec": 76.44,
+      "srad": 17504.5,
+      "wind": 3.5407499074935913,
+      "tmax": 17.35625,
+      "tmin": 7.23125
     },
     "6": {
       "temp": 16.8,
-      "prec": 72.08
+      "prec": 72.08,
+      "srad": 18706.5,
+      "wind": 3.3423750400543213,
+      "tmax": 22.0875,
+      "tmin": 11.51875
     },
     "7": {
       "temp": 17.35,
-      "prec": 83.1
+      "prec": 83.1,
+      "srad": 18170.5,
+      "wind": 3.3628751039505005,
+      "tmax": 22.525,
+      "tmin": 12.175
     },
     "8": {
       "temp": 18.2,
-      "prec": 69.81
+      "prec": 69.81,
+      "srad": 15744.5,
+      "wind": 3.1470000743865967,
+      "tmax": 23.15,
+      "tmin": 13.25
     },
     "9": {
       "temp": 14.77,
-      "prec": 81.89
+      "prec": 81.89,
+      "srad": 11394.5,
+      "wind": 3.465000033378601,
+      "tmax": 19.51875,
+      "tmin": 10.03125
     },
     "10": {
       "temp": 10.71,
-      "prec": 93.54
+      "prec": 93.54,
+      "srad": 6765.0,
+      "wind": 3.8184999227523804,
+      "tmax": 14.40625,
+      "tmin": 7.0125
     },
     "11": {
       "temp": 5.67,
-      "prec": 87.46
+      "prec": 87.46,
+      "srad": 3308.0,
+      "wind": 4.061499834060669,
+      "tmax": 8.275,
+      "tmin": 3.05625
     },
     "12": {
       "temp": 3.05,
-      "prec": 97.21
-    }
+      "prec": 97.21,
+      "srad": 2190.0,
+      "wind": 4.32087516784668,
+      "tmax": 5.01875,
+      "tmin": 1.08125
+    },
+    "average_srad": 10399.333333333334,
+    "average_wind": 3.810343752304713,
+    "average_tmax": 13.929166666666667,
+    "average_tmin": 5.932291666666667
   },
   "Canton Wiltz": {
     "average_temp": 10.15,
     "average_prec": 82.04,
     "1": {
       "temp": 2.37,
-      "prec": 111.59
+      "prec": 111.59,
+      "srad": 2828.0,
+      "wind": 4.281750202178955,
+      "tmax": 4.65,
+      "tmin": 0.0875
     },
     "2": {
       "temp": 4.5,
-      "prec": 102.95
+      "prec": 102.95,
+      "srad": 5410.0,
+      "wind": 4.003749847412109,
+      "tmax": 7.775,
+      "tmin": 1.225
     },
     "3": {
       "temp": 5.89,
-      "prec": 75.44
+      "prec": 75.44,
+      "srad": 9221.0,
+      "wind": 4.079249858856201,
+      "tmax": 9.9375,
+      "tmin": 1.85
     },
     "4": {
       "temp": 8.19,
-      "prec": 55.86
+      "prec": 55.86,
+      "srad": 13982.0,
+      "wind": 3.7149999141693115,
+      "tmax": 12.95,
+      "tmin": 3.4375
     },
     "5": {
       "temp": 12.62,
-      "prec": 73.14
+      "prec": 73.14,
+      "srad": 17643.0,
+      "wind": 3.4412500858306885,
+      "tmax": 17.4625,
+      "tmin": 7.7875
     },
     "6": {
       "temp": 17.16,
-      "prec": 69.09
+      "prec": 69.09,
+      "srad": 18890.0,
+      "wind": 3.236999988555908,
+      "tmax": 22.2125,
+      "tmin": 12.1125
     },
     "7": {
       "temp": 17.7,
-      "prec": 73.16
+      "prec": 73.16,
+      "srad": 18525.0,
+      "wind": 3.258500099182129,
+      "tmax": 22.625,
+      "tmin": 12.775
     },
     "8": {
       "temp": 18.41,
-      "prec": 66.19
+      "prec": 66.19,
+      "srad": 15903.0,
+      "wind": 3.0385000705718994,
+      "tmax": 23.3125,
+      "tmin": 13.5125
     },
     "9": {
       "temp": 15.0,
-      "prec": 76.21
+      "prec": 76.21,
+      "srad": 11550.0,
+      "wind": 3.3192501068115234,
+      "tmax": 19.6125,
+      "tmin": 10.3875
     },
     "10": {
       "temp": 10.95,
-      "prec": 93.96
+      "prec": 93.96,
+      "srad": 6833.0,
+      "wind": 3.635499954223633,
+      "tmax": 14.4125,
+      "tmin": 7.4875
     },
     "11": {
       "temp": 5.81,
-      "prec": 86.05
+      "prec": 86.05,
+      "srad": 3338.0,
+      "wind": 3.8615000247955322,
+      "tmax": 8.4875,
+      "tmin": 3.125
     },
     "12": {
       "temp": 3.23,
-      "prec": 100.84
-    }
+      "prec": 100.84,
+      "srad": 2245.0,
+      "wind": 4.1227498054504395,
+      "tmax": 5.2,
+      "tmin": 1.25
+    },
+    "average_srad": 10530.666666666666,
+    "average_wind": 3.666166663169861,
+    "average_tmax": 14.053125,
+    "average_tmin": 6.253125
   },
   "Canton Vianden": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   }
 }

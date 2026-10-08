@@ -1,0 +1,11338 @@
+{
+  "111": {
+    "average_temp": 28.12,
+    "average_prec": 60.93,
+    "1": {
+      "temp": 26.33,
+      "prec": 0.0
+    },
+    "2": {
+      "temp": 27.76,
+      "prec": 0.0
+    },
+    "3": {
+      "temp": 31.07,
+      "prec": 2.04
+    },
+    "4": {
+      "temp": 30.99,
+      "prec": 15.89
+    },
+    "5": {
+      "temp": 30.94,
+      "prec": 69.67
+    },
+    "6": {
+      "temp": 27.61,
+      "prec": 114.37
+    },
+    "7": {
+      "temp": 26.74,
+      "prec": 159.39
+    },
+    "8": {
+      "temp": 25.93,
+      "prec": 181.54
+    },
+    "9": {
+      "temp": 26.83,
+      "prec": 127.25
+    },
+    "10": {
+      "temp": 28.12,
+      "prec": 59.16
+    },
+    "11": {
+      "temp": 27.95,
+      "prec": 1.81
+    },
+    "12": {
+      "temp": 27.12,
+      "prec": 0.0
+    }
+  },
+  "112": {
+    "average_temp": -6.39,
+    "average_prec": 5.24,
+    "1": {
+      "temp": -19.96,
+      "prec": 0.4
+    },
+    "2": {
+      "temp": -16.94,
+      "prec": 0.49
+    },
+    "3": {
+      "temp": -11.49,
+      "prec": 0.78
+    },
+    "4": {
+      "temp": -7.43,
+      "prec": 1.03
+    },
+    "5": {
+      "temp": -2.35,
+      "prec": 3.8
+    },
+    "6": {
+      "temp": 2.35,
+      "prec": 11.11
+    },
+    "7": {
+      "temp": 6.69,
+      "prec": 19.9
+    },
+    "8": {
+      "temp": 6.07,
+      "prec": 15.55
+    },
+    "9": {
+      "temp": 2.26,
+      "prec": 7.2
+    },
+    "10": {
+      "temp": -5.55,
+      "prec": 0.59
+    },
+    "11": {
+      "temp": -12.16,
+      "prec": 0.24
+    },
+    "12": {
+      "temp": -18.17,
+      "prec": 1.81
+    }
+  },
+  "113": {
+    "average_temp": -2.97,
+    "average_prec": 56.39,
+    "1": {
+      "temp": -15.11,
+      "prec": 74.96
+    },
+    "2": {
+      "temp": -12.44,
+      "prec": 32.74
+    },
+    "3": {
+      "temp": -8.04,
+      "prec": 48.97
+    },
+    "4": {
+      "temp": -3.9,
+      "prec": 15.99
+    },
+    "5": {
+      "temp": 0.18,
+      "prec": 25.39
+    },
+    "6": {
+      "temp": 4.51,
+      "prec": 34.9
+    },
+    "7": {
+      "temp": 7.2,
+      "prec": 157.44
+    },
+    "8": {
+      "temp": 7.26,
+      "prec": 87.97
+    },
+    "9": {
+      "temp": 4.47,
+      "prec": 149.8
+    },
+    "10": {
+      "temp": -1.36,
+      "prec": 15.56
+    },
+    "11": {
+      "temp": -7.12,
+      "prec": 3.65
+    },
+    "12": {
+      "temp": -11.34,
+      "prec": 29.36
+    }
+  },
+  "114": {
+    "average_temp": -1.68,
+    "average_prec": 9.49,
+    "1": {
+      "temp": -14.56,
+      "prec": 5.51
+    },
+    "2": {
+      "temp": -11.55,
+      "prec": 3.18
+    },
+    "3": {
+      "temp": -6.64,
+      "prec": 4.6
+    },
+    "4": {
+      "temp": -2.89,
+      "prec": 2.72
+    },
+    "5": {
+      "temp": 1.98,
+      "prec": 5.26
+    },
+    "6": {
+      "temp": 6.93,
+      "prec": 12.82
+    },
+    "7": {
+      "temp": 10.24,
+      "prec": 26.92
+    },
+    "8": {
+      "temp": 9.81,
+      "prec": 17.12
+    },
+    "9": {
+      "temp": 6.48,
+      "prec": 27.37
+    },
+    "10": {
+      "temp": -0.82,
+      "prec": 2.57
+    },
+    "11": {
+      "temp": -6.92,
+      "prec": 0.82
+    },
+    "12": {
+      "temp": -12.23,
+      "prec": 5.0
+    }
+  },
+  "115": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "116": {
+    "average_temp": 0.07,
+    "average_prec": 32.14,
+    "1": {
+      "temp": -8.82,
+      "prec": 3.69
+    },
+    "2": {
+      "temp": -7.58,
+      "prec": 8.17
+    },
+    "3": {
+      "temp": -3.89,
+      "prec": 19.7
+    },
+    "4": {
+      "temp": -0.73,
+      "prec": 22.21
+    },
+    "5": {
+      "temp": 2.6,
+      "prec": 27.24
+    },
+    "6": {
+      "temp": 6.32,
+      "prec": 50.76
+    },
+    "7": {
+      "temp": 7.66,
+      "prec": 90.15
+    },
+    "8": {
+      "temp": 7.21,
+      "prec": 93.16
+    },
+    "9": {
+      "temp": 5.71,
+      "prec": 35.94
+    },
+    "10": {
+      "temp": 1.79,
+      "prec": 27.54
+    },
+    "11": {
+      "temp": -3.37,
+      "prec": 5.17
+    },
+    "12": {
+      "temp": -6.11,
+      "prec": 2.0
+    }
+  },
+  "117": {
+    "average_temp": 6.8,
+    "average_prec": 44.65,
+    "1": {
+      "temp": 10.56,
+      "prec": 63.14
+    },
+    "2": {
+      "temp": 10.61,
+      "prec": 44.23
+    },
+    "3": {
+      "temp": 9.15,
+      "prec": 51.68
+    },
+    "4": {
+      "temp": 7.09,
+      "prec": 50.2
+    },
+    "5": {
+      "temp": 5.37,
+      "prec": 48.12
+    },
+    "6": {
+      "temp": 3.69,
+      "prec": 44.16
+    },
+    "7": {
+      "temp": 2.91,
+      "prec": 39.92
+    },
+    "8": {
+      "temp": 3.74,
+      "prec": 37.32
+    },
+    "9": {
+      "temp": 4.47,
+      "prec": 31.67
+    },
+    "10": {
+      "temp": 6.44,
+      "prec": 34.0
+    },
+    "11": {
+      "temp": 8.06,
+      "prec": 38.31
+    },
+    "12": {
+      "temp": 9.53,
+      "prec": 53.04
+    }
+  },
+  "118": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "119": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "120": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "121": {
+    "average_temp": -9.98,
+    "average_prec": 8.71,
+    "1": {
+      "temp": -24.32,
+      "prec": 2.07
+    },
+    "2": {
+      "temp": -21.08,
+      "prec": 2.84
+    },
+    "3": {
+      "temp": -15.87,
+      "prec": 4.0
+    },
+    "4": {
+      "temp": -11.09,
+      "prec": 5.05
+    },
+    "5": {
+      "temp": -5.74,
+      "prec": 8.54
+    },
+    "6": {
+      "temp": -1.46,
+      "prec": 8.04
+    },
+    "7": {
+      "temp": 2.94,
+      "prec": 27.52
+    },
+    "8": {
+      "temp": 2.79,
+      "prec": 21.52
+    },
+    "9": {
+      "temp": -1.01,
+      "prec": 14.44
+    },
+    "10": {
+      "temp": -8.19,
+      "prec": 3.97
+    },
+    "11": {
+      "temp": -15.16,
+      "prec": 2.19
+    },
+    "12": {
+      "temp": -21.62,
+      "prec": 4.38
+    }
+  },
+  "122": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "123": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "124": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "125": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "126": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "127": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "128": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "129": {
+    "average_temp": 20.08,
+    "average_prec": 36.26,
+    "1": {
+      "temp": 11.73,
+      "prec": 139.65
+    },
+    "2": {
+      "temp": 12.31,
+      "prec": 78.03
+    },
+    "3": {
+      "temp": 14.43,
+      "prec": 36.9
+    },
+    "4": {
+      "temp": 19.05,
+      "prec": 16.34
+    },
+    "5": {
+      "temp": 22.2,
+      "prec": 6.0
+    },
+    "6": {
+      "temp": 24.84,
+      "prec": 0.0
+    },
+    "7": {
+      "temp": 27.23,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 27.66,
+      "prec": 0.0
+    },
+    "9": {
+      "temp": 26.19,
+      "prec": 0.12
+    },
+    "10": {
+      "temp": 23.02,
+      "prec": 4.41
+    },
+    "11": {
+      "temp": 18.26,
+      "prec": 71.16
+    },
+    "12": {
+      "temp": 14.03,
+      "prec": 82.49
+    }
+  },
+  "AFG": {
+    "average_temp": 11.68,
+    "average_prec": 32.97,
+    "1": {
+      "temp": -2.58,
+      "prec": 46.84
+    },
+    "2": {
+      "temp": 1.73,
+      "prec": 53.69
+    },
+    "3": {
+      "temp": 6.63,
+      "prec": 84.15
+    },
+    "4": {
+      "temp": 12.28,
+      "prec": 78.79
+    },
+    "5": {
+      "temp": 17.03,
+      "prec": 37.08
+    },
+    "6": {
+      "temp": 22.28,
+      "prec": 6.55
+    },
+    "7": {
+      "temp": 23.97,
+      "prec": 9.33
+    },
+    "8": {
+      "temp": 22.57,
+      "prec": 7.52
+    },
+    "9": {
+      "temp": 18.35,
+      "prec": 3.21
+    },
+    "10": {
+      "temp": 12.22,
+      "prec": 17.1
+    },
+    "11": {
+      "temp": 5.76,
+      "prec": 26.71
+    },
+    "12": {
+      "temp": -0.13,
+      "prec": 24.62
+    }
+  },
+  "AGO": {
+    "average_temp": 22.53,
+    "average_prec": 86.53,
+    "1": {
+      "temp": 23.51,
+      "prec": 138.73
+    },
+    "2": {
+      "temp": 23.76,
+      "prec": 135.99
+    },
+    "3": {
+      "temp": 23.73,
+      "prec": 193.69
+    },
+    "4": {
+      "temp": 23.6,
+      "prec": 144.4
+    },
+    "5": {
+      "temp": 22.31,
+      "prec": 24.38
+    },
+    "6": {
+      "temp": 20.28,
+      "prec": 1.34
+    },
+    "7": {
+      "temp": 19.68,
+      "prec": 0.93
+    },
+    "8": {
+      "temp": 20.77,
+      "prec": 4.38
+    },
+    "9": {
+      "temp": 22.5,
+      "prec": 21.26
+    },
+    "10": {
+      "temp": 23.47,
+      "prec": 76.3
+    },
+    "11": {
+      "temp": 23.35,
+      "prec": 149.4
+    },
+    "12": {
+      "temp": 23.33,
+      "prec": 147.57
+    }
+  },
+  "ALB": {
+    "average_temp": 14.04,
+    "average_prec": 94.55,
+    "1": {
+      "temp": 5.46,
+      "prec": 147.85
+    },
+    "2": {
+      "temp": 7.09,
+      "prec": 70.09
+    },
+    "3": {
+      "temp": 8.09,
+      "prec": 104.4
+    },
+    "4": {
+      "temp": 11.28,
+      "prec": 87.52
+    },
+    "5": {
+      "temp": 16.09,
+      "prec": 79.48
+    },
+    "6": {
+      "temp": 20.87,
+      "prec": 67.83
+    },
+    "7": {
+      "temp": 23.8,
+      "prec": 24.19
+    },
+    "8": {
+      "temp": 23.49,
+      "prec": 63.1
+    },
+    "9": {
+      "temp": 19.65,
+      "prec": 87.39
+    },
+    "10": {
+      "temp": 14.7,
+      "prec": 87.71
+    },
+    "11": {
+      "temp": 10.01,
+      "prec": 143.64
+    },
+    "12": {
+      "temp": 7.94,
+      "prec": 171.41
+    }
+  },
+  "AND": {
+    "average_temp": 5.0,
+    "average_prec": 100.31,
+    "1": {
+      "temp": -3.7,
+      "prec": 114.12
+    },
+    "2": {
+      "temp": -1.74,
+      "prec": 83.47
+    },
+    "3": {
+      "temp": -0.49,
+      "prec": 115.58
+    },
+    "4": {
+      "temp": 1.63,
+      "prec": 104.7
+    },
+    "5": {
+      "temp": 6.07,
+      "prec": 101.29
+    },
+    "6": {
+      "temp": 11.32,
+      "prec": 128.66
+    },
+    "7": {
+      "temp": 14.71,
+      "prec": 55.93
+    },
+    "8": {
+      "temp": 14.99,
+      "prec": 73.45
+    },
+    "9": {
+      "temp": 11.11,
+      "prec": 92.24
+    },
+    "10": {
+      "temp": 6.68,
+      "prec": 139.22
+    },
+    "11": {
+      "temp": 1.44,
+      "prec": 128.86
+    },
+    "12": {
+      "temp": -1.97,
+      "prec": 66.22
+    }
+  },
+  "ARE": {
+    "average_temp": 28.71,
+    "average_prec": 10.55,
+    "1": {
+      "temp": 19.23,
+      "prec": 17.42
+    },
+    "2": {
+      "temp": 21.65,
+      "prec": 29.87
+    },
+    "3": {
+      "temp": 24.68,
+      "prec": 25.38
+    },
+    "4": {
+      "temp": 28.03,
+      "prec": 11.18
+    },
+    "5": {
+      "temp": 32.59,
+      "prec": 4.65
+    },
+    "6": {
+      "temp": 35.51,
+      "prec": 1.49
+    },
+    "7": {
+      "temp": 36.2,
+      "prec": 8.78
+    },
+    "8": {
+      "temp": 36.04,
+      "prec": 7.55
+    },
+    "9": {
+      "temp": 33.63,
+      "prec": 3.46
+    },
+    "10": {
+      "temp": 30.21,
+      "prec": 3.68
+    },
+    "11": {
+      "temp": 25.71,
+      "prec": 3.38
+    },
+    "12": {
+      "temp": 21.07,
+      "prec": 9.72
+    }
+  },
+  "ARG": {
+    "average_temp": 15.83,
+    "average_prec": 45.49,
+    "1": {
+      "temp": 22.4,
+      "prec": 69.73
+    },
+    "2": {
+      "temp": 21.33,
+      "prec": 61.59
+    },
+    "3": {
+      "temp": 19.52,
+      "prec": 72.36
+    },
+    "4": {
+      "temp": 15.66,
+      "prec": 53.57
+    },
+    "5": {
+      "temp": 10.91,
+      "prec": 31.52
+    },
+    "6": {
+      "temp": 9.25,
+      "prec": 23.46
+    },
+    "7": {
+      "temp": 8.76,
+      "prec": 19.68
+    },
+    "8": {
+      "temp": 10.84,
+      "prec": 21.2
+    },
+    "9": {
+      "temp": 13.96,
+      "prec": 27.17
+    },
+    "10": {
+      "temp": 16.56,
+      "prec": 46.42
+    },
+    "11": {
+      "temp": 19.51,
+      "prec": 60.05
+    },
+    "12": {
+      "temp": 21.2,
+      "prec": 59.11
+    }
+  },
+  "ARM": {
+    "average_temp": 8.47,
+    "average_prec": 41.06,
+    "1": {
+      "temp": -3.4,
+      "prec": 22.11
+    },
+    "2": {
+      "temp": -2.39,
+      "prec": 21.57
+    },
+    "3": {
+      "temp": 1.51,
+      "prec": 48.71
+    },
+    "4": {
+      "temp": 8.13,
+      "prec": 51.25
+    },
+    "5": {
+      "temp": 11.22,
+      "prec": 85.75
+    },
+    "6": {
+      "temp": 16.66,
+      "prec": 44.7
+    },
+    "7": {
+      "temp": 19.47,
+      "prec": 62.76
+    },
+    "8": {
+      "temp": 20.22,
+      "prec": 41.57
+    },
+    "9": {
+      "temp": 16.73,
+      "prec": 32.52
+    },
+    "10": {
+      "temp": 10.11,
+      "prec": 35.15
+    },
+    "11": {
+      "temp": 4.47,
+      "prec": 26.35
+    },
+    "12": {
+      "temp": -1.04,
+      "prec": 20.25
+    }
+  },
+  "ATA": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "ATG": {
+    "average_temp": 27.35,
+    "average_prec": 82.78,
+    "1": {
+      "temp": 25.86,
+      "prec": 61.05
+    },
+    "2": {
+      "temp": 25.9,
+      "prec": 55.81
+    },
+    "3": {
+      "temp": 26.29,
+      "prec": 39.85
+    },
+    "4": {
+      "temp": 26.78,
+      "prec": 45.86
+    },
+    "5": {
+      "temp": 27.55,
+      "prec": 67.06
+    },
+    "6": {
+      "temp": 28.15,
+      "prec": 74.65
+    },
+    "7": {
+      "temp": 28.4,
+      "prec": 106.01
+    },
+    "8": {
+      "temp": 28.66,
+      "prec": 110.25
+    },
+    "9": {
+      "temp": 28.74,
+      "prec": 127.26
+    },
+    "10": {
+      "temp": 28.19,
+      "prec": 116.38
+    },
+    "11": {
+      "temp": 27.32,
+      "prec": 128.5
+    },
+    "12": {
+      "temp": 26.43,
+      "prec": 60.72
+    }
+  },
+  "AUS": {
+    "average_temp": 18.53,
+    "average_prec": 55.42,
+    "1": {
+      "temp": 25.01,
+      "prec": 78.97
+    },
+    "2": {
+      "temp": 24.09,
+      "prec": 67.52
+    },
+    "3": {
+      "temp": 22.43,
+      "prec": 69.13
+    },
+    "4": {
+      "temp": 18.66,
+      "prec": 49.16
+    },
+    "5": {
+      "temp": 14.58,
+      "prec": 45.04
+    },
+    "6": {
+      "temp": 12.24,
+      "prec": 46.01
+    },
+    "7": {
+      "temp": 11.5,
+      "prec": 38.55
+    },
+    "8": {
+      "temp": 13.48,
+      "prec": 47.14
+    },
+    "9": {
+      "temp": 16.27,
+      "prec": 39.27
+    },
+    "10": {
+      "temp": 19.02,
+      "prec": 57.23
+    },
+    "11": {
+      "temp": 21.6,
+      "prec": 62.45
+    },
+    "12": {
+      "temp": 23.41,
+      "prec": 64.51
+    }
+  },
+  "AUT": {
+    "average_temp": 8.4,
+    "average_prec": 93.69,
+    "1": {
+      "temp": -0.74,
+      "prec": 58.19
+    },
+    "2": {
+      "temp": 2.05,
+      "prec": 57.58
+    },
+    "3": {
+      "temp": 3.59,
+      "prec": 54.02
+    },
+    "4": {
+      "temp": 6.5,
+      "prec": 71.51
+    },
+    "5": {
+      "temp": 11.11,
+      "prec": 122.62
+    },
+    "6": {
+      "temp": 16.41,
+      "prec": 127.05
+    },
+    "7": {
+      "temp": 17.82,
+      "prec": 131.64
+    },
+    "8": {
+      "temp": 17.53,
+      "prec": 153.36
+    },
+    "9": {
+      "temp": 13.7,
+      "prec": 110.19
+    },
+    "10": {
+      "temp": 9.39,
+      "prec": 80.21
+    },
+    "11": {
+      "temp": 3.35,
+      "prec": 75.6
+    },
+    "12": {
+      "temp": 0.06,
+      "prec": 82.31
+    }
+  },
+  "AZE": {
+    "average_temp": 12.77,
+    "average_prec": 34.4,
+    "1": {
+      "temp": 0.32,
+      "prec": 23.81
+    },
+    "2": {
+      "temp": 2.22,
+      "prec": 22.92
+    },
+    "3": {
+      "temp": 6.03,
+      "prec": 48.3
+    },
+    "4": {
+      "temp": 12.16,
+      "prec": 44.86
+    },
+    "5": {
+      "temp": 15.75,
+      "prec": 64.14
+    },
+    "6": {
+      "temp": 21.95,
+      "prec": 31.62
+    },
+    "7": {
+      "temp": 24.67,
+      "prec": 33.55
+    },
+    "8": {
+      "temp": 24.81,
+      "prec": 26.09
+    },
+    "9": {
+      "temp": 20.98,
+      "prec": 29.43
+    },
+    "10": {
+      "temp": 13.77,
+      "prec": 37.17
+    },
+    "11": {
+      "temp": 7.99,
+      "prec": 26.41
+    },
+    "12": {
+      "temp": 2.61,
+      "prec": 24.52
+    }
+  },
+  "BDI": {
+    "average_temp": 19.62,
+    "average_prec": 111.71,
+    "1": {
+      "temp": 19.69,
+      "prec": 204.18
+    },
+    "2": {
+      "temp": 19.22,
+      "prec": 167.26
+    },
+    "3": {
+      "temp": 19.22,
+      "prec": 173.57
+    },
+    "4": {
+      "temp": 19.16,
+      "prec": 205.47
+    },
+    "5": {
+      "temp": 19.59,
+      "prec": 93.05
+    },
+    "6": {
+      "temp": 19.01,
+      "prec": 8.76
+    },
+    "7": {
+      "temp": 18.97,
+      "prec": 3.5
+    },
+    "8": {
+      "temp": 20.18,
+      "prec": 12.94
+    },
+    "9": {
+      "temp": 20.84,
+      "prec": 56.07
+    },
+    "10": {
+      "temp": 20.49,
+      "prec": 94.12
+    },
+    "11": {
+      "temp": 19.27,
+      "prec": 160.19
+    },
+    "12": {
+      "temp": 19.74,
+      "prec": 161.47
+    }
+  },
+  "BEL": {
+    "average_temp": 11.46,
+    "average_prec": 75.73,
+    "1": {
+      "temp": 4.4,
+      "prec": 81.03
+    },
+    "2": {
+      "temp": 6.17,
+      "prec": 86.61
+    },
+    "3": {
+      "temp": 7.37,
+      "prec": 64.1
+    },
+    "4": {
+      "temp": 9.39,
+      "prec": 53.59
+    },
+    "5": {
+      "temp": 13.44,
+      "prec": 70.1
+    },
+    "6": {
+      "temp": 17.85,
+      "prec": 74.82
+    },
+    "7": {
+      "temp": 18.38,
+      "prec": 81.11
+    },
+    "8": {
+      "temp": 19.2,
+      "prec": 73.86
+    },
+    "9": {
+      "temp": 16.21,
+      "prec": 71.91
+    },
+    "10": {
+      "temp": 12.48,
+      "prec": 87.28
+    },
+    "11": {
+      "temp": 7.59,
+      "prec": 81.67
+    },
+    "12": {
+      "temp": 5.1,
+      "prec": 82.77
+    }
+  },
+  "BEN": {
+    "average_temp": 28.02,
+    "average_prec": 93.23,
+    "1": {
+      "temp": 28.33,
+      "prec": 2.63
+    },
+    "2": {
+      "temp": 29.65,
+      "prec": 7.41
+    },
+    "3": {
+      "temp": 30.49,
+      "prec": 54.8
+    },
+    "4": {
+      "temp": 29.85,
+      "prec": 101.01
+    },
+    "5": {
+      "temp": 29.09,
+      "prec": 130.88
+    },
+    "6": {
+      "temp": 27.36,
+      "prec": 175.7
+    },
+    "7": {
+      "temp": 26.28,
+      "prec": 151.53
+    },
+    "8": {
+      "temp": 25.56,
+      "prec": 151.95
+    },
+    "9": {
+      "temp": 26.19,
+      "prec": 188.25
+    },
+    "10": {
+      "temp": 27.12,
+      "prec": 126.24
+    },
+    "11": {
+      "temp": 28.23,
+      "prec": 25.33
+    },
+    "12": {
+      "temp": 28.02,
+      "prec": 3.03
+    }
+  },
+  "BFA": {
+    "average_temp": 28.94,
+    "average_prec": 74.75,
+    "1": {
+      "temp": 26.52,
+      "prec": 0.23
+    },
+    "2": {
+      "temp": 28.63,
+      "prec": 1.13
+    },
+    "3": {
+      "temp": 32.05,
+      "prec": 8.67
+    },
+    "4": {
+      "temp": 32.88,
+      "prec": 23.77
+    },
+    "5": {
+      "temp": 32.19,
+      "prec": 66.02
+    },
+    "6": {
+      "temp": 29.85,
+      "prec": 123.53
+    },
+    "7": {
+      "temp": 27.72,
+      "prec": 190.83
+    },
+    "8": {
+      "temp": 26.34,
+      "prec": 254.22
+    },
+    "9": {
+      "temp": 27.0,
+      "prec": 176.04
+    },
+    "10": {
+      "temp": 28.67,
+      "prec": 48.19
+    },
+    "11": {
+      "temp": 28.59,
+      "prec": 3.37
+    },
+    "12": {
+      "temp": 26.88,
+      "prec": 1.0
+    }
+  },
+  "BGD": {
+    "average_temp": 25.69,
+    "average_prec": 173.04,
+    "1": {
+      "temp": 17.69,
+      "prec": 10.0
+    },
+    "2": {
+      "temp": 20.7,
+      "prec": 11.85
+    },
+    "3": {
+      "temp": 25.55,
+      "prec": 39.32
+    },
+    "4": {
+      "temp": 28.43,
+      "prec": 72.35
+    },
+    "5": {
+      "temp": 28.61,
+      "prec": 207.16
+    },
+    "6": {
+      "temp": 28.62,
+      "prec": 411.95
+    },
+    "7": {
+      "temp": 29.15,
+      "prec": 362.56
+    },
+    "8": {
+      "temp": 29.02,
+      "prec": 409.5
+    },
+    "9": {
+      "temp": 28.88,
+      "prec": 274.4
+    },
+    "10": {
+      "temp": 27.79,
+      "prec": 249.5
+    },
+    "11": {
+      "temp": 23.73,
+      "prec": 19.4
+    },
+    "12": {
+      "temp": 20.08,
+      "prec": 8.43
+    }
+  },
+  "BGR": {
+    "average_temp": 12.44,
+    "average_prec": 50.66,
+    "1": {
+      "temp": 2.15,
+      "prec": 48.87
+    },
+    "2": {
+      "temp": 4.45,
+      "prec": 36.36
+    },
+    "3": {
+      "temp": 6.47,
+      "prec": 45.07
+    },
+    "4": {
+      "temp": 10.73,
+      "prec": 60.88
+    },
+    "5": {
+      "temp": 15.34,
+      "prec": 63.28
+    },
+    "6": {
+      "temp": 20.53,
+      "prec": 84.23
+    },
+    "7": {
+      "temp": 23.21,
+      "prec": 41.06
+    },
+    "8": {
+      "temp": 23.28,
+      "prec": 38.65
+    },
+    "9": {
+      "temp": 18.79,
+      "prec": 39.22
+    },
+    "10": {
+      "temp": 13.12,
+      "prec": 34.54
+    },
+    "11": {
+      "temp": 7.23,
+      "prec": 51.01
+    },
+    "12": {
+      "temp": 3.92,
+      "prec": 64.74
+    }
+  },
+  "BHR": {
+    "average_temp": 28.25,
+    "average_prec": 5.34,
+    "1": {
+      "temp": 17.88,
+      "prec": 24.36
+    },
+    "2": {
+      "temp": 19.48,
+      "prec": 5.04
+    },
+    "3": {
+      "temp": 22.7,
+      "prec": 5.64
+    },
+    "4": {
+      "temp": 27.39,
+      "prec": 12.4
+    },
+    "5": {
+      "temp": 32.25,
+      "prec": 0.79
+    },
+    "6": {
+      "temp": 36.17,
+      "prec": 0.0
+    },
+    "7": {
+      "temp": 37.06,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 36.49,
+      "prec": 0.0
+    },
+    "9": {
+      "temp": 34.22,
+      "prec": 0.0
+    },
+    "10": {
+      "temp": 30.21,
+      "prec": 0.69
+    },
+    "11": {
+      "temp": 25.38,
+      "prec": 11.09
+    },
+    "12": {
+      "temp": 19.7,
+      "prec": 4.13
+    }
+  },
+  "BHS": {
+    "average_temp": 26.3,
+    "average_prec": 101.85,
+    "1": {
+      "temp": 22.44,
+      "prec": 42.85
+    },
+    "2": {
+      "temp": 23.75,
+      "prec": 49.73
+    },
+    "3": {
+      "temp": 25.12,
+      "prec": 36.8
+    },
+    "4": {
+      "temp": 25.78,
+      "prec": 50.63
+    },
+    "5": {
+      "temp": 26.99,
+      "prec": 112.04
+    },
+    "6": {
+      "temp": 28.01,
+      "prec": 164.93
+    },
+    "7": {
+      "temp": 29.24,
+      "prec": 110.34
+    },
+    "8": {
+      "temp": 29.46,
+      "prec": 117.44
+    },
+    "9": {
+      "temp": 28.61,
+      "prec": 184.06
+    },
+    "10": {
+      "temp": 27.28,
+      "prec": 181.83
+    },
+    "11": {
+      "temp": 25.43,
+      "prec": 111.81
+    },
+    "12": {
+      "temp": 23.48,
+      "prec": 59.74
+    }
+  },
+  "BIH": {
+    "average_temp": 11.7,
+    "average_prec": 78.06,
+    "1": {
+      "temp": 2.09,
+      "prec": 62.04
+    },
+    "2": {
+      "temp": 4.87,
+      "prec": 52.14
+    },
+    "3": {
+      "temp": 6.61,
+      "prec": 55.09
+    },
+    "4": {
+      "temp": 9.56,
+      "prec": 59.21
+    },
+    "5": {
+      "temp": 14.58,
+      "prec": 89.58
+    },
+    "6": {
+      "temp": 19.9,
+      "prec": 81.1
+    },
+    "7": {
+      "temp": 22.02,
+      "prec": 59.91
+    },
+    "8": {
+      "temp": 21.43,
+      "prec": 96.79
+    },
+    "9": {
+      "temp": 17.35,
+      "prec": 90.39
+    },
+    "10": {
+      "temp": 12.3,
+      "prec": 71.25
+    },
+    "11": {
+      "temp": 6.42,
+      "prec": 110.08
+    },
+    "12": {
+      "temp": 3.28,
+      "prec": 109.17
+    }
+  },
+  "BLR": {
+    "average_temp": 7.94,
+    "average_prec": 56.1,
+    "1": {
+      "temp": -2.9,
+      "prec": 57.89
+    },
+    "2": {
+      "temp": -1.6,
+      "prec": 46.94
+    },
+    "3": {
+      "temp": 1.93,
+      "prec": 30.82
+    },
+    "4": {
+      "temp": 7.12,
+      "prec": 48.55
+    },
+    "5": {
+      "temp": 12.05,
+      "prec": 59.75
+    },
+    "6": {
+      "temp": 18.32,
+      "prec": 67.77
+    },
+    "7": {
+      "temp": 19.13,
+      "prec": 88.07
+    },
+    "8": {
+      "temp": 18.74,
+      "prec": 71.06
+    },
+    "9": {
+      "temp": 13.13,
+      "prec": 40.54
+    },
+    "10": {
+      "temp": 8.49,
+      "prec": 57.72
+    },
+    "11": {
+      "temp": 2.9,
+      "prec": 54.63
+    },
+    "12": {
+      "temp": -2.04,
+      "prec": 49.43
+    }
+  },
+  "BLZ": {
+    "average_temp": 26.15,
+    "average_prec": 181.25,
+    "1": {
+      "temp": 23.56,
+      "prec": 136.04
+    },
+    "2": {
+      "temp": 24.35,
+      "prec": 52.77
+    },
+    "3": {
+      "temp": 25.84,
+      "prec": 57.01
+    },
+    "4": {
+      "temp": 27.41,
+      "prec": 35.89
+    },
+    "5": {
+      "temp": 27.91,
+      "prec": 131.87
+    },
+    "6": {
+      "temp": 27.43,
+      "prec": 328.03
+    },
+    "7": {
+      "temp": 27.69,
+      "prec": 315.57
+    },
+    "8": {
+      "temp": 27.47,
+      "prec": 262.42
+    },
+    "9": {
+      "temp": 27.29,
+      "prec": 245.24
+    },
+    "10": {
+      "temp": 26.48,
+      "prec": 251.3
+    },
+    "11": {
+      "temp": 24.55,
+      "prec": 241.34
+    },
+    "12": {
+      "temp": 23.85,
+      "prec": 117.51
+    }
+  },
+  "BOL": {
+    "average_temp": 19.23,
+    "average_prec": 81.53,
+    "1": {
+      "temp": 21.18,
+      "prec": 165.55
+    },
+    "2": {
+      "temp": 20.79,
+      "prec": 200.93
+    },
+    "3": {
+      "temp": 20.74,
+      "prec": 126.88
+    },
+    "4": {
+      "temp": 19.54,
+      "prec": 65.1
+    },
+    "5": {
+      "temp": 16.78,
+      "prec": 36.58
+    },
+    "6": {
+      "temp": 15.52,
+      "prec": 21.84
+    },
+    "7": {
+      "temp": 16.07,
+      "prec": 14.63
+    },
+    "8": {
+      "temp": 17.46,
+      "prec": 20.66
+    },
+    "9": {
+      "temp": 19.65,
+      "prec": 32.17
+    },
+    "10": {
+      "temp": 20.82,
+      "prec": 62.6
+    },
+    "11": {
+      "temp": 21.15,
+      "prec": 83.35
+    },
+    "12": {
+      "temp": 20.99,
+      "prec": 148.1
+    }
+  },
+  "BRA": {
+    "average_temp": 24.35,
+    "average_prec": 114.39,
+    "1": {
+      "temp": 25.37,
+      "prec": 174.67
+    },
+    "2": {
+      "temp": 25.36,
+      "prec": 176.39
+    },
+    "3": {
+      "temp": 25.16,
+      "prec": 183.53
+    },
+    "4": {
+      "temp": 24.38,
+      "prec": 139.37
+    },
+    "5": {
+      "temp": 23.07,
+      "prec": 100.07
+    },
+    "6": {
+      "temp": 22.51,
+      "prec": 75.73
+    },
+    "7": {
+      "temp": 22.28,
+      "prec": 54.83
+    },
+    "8": {
+      "temp": 23.27,
+      "prec": 48.02
+    },
+    "9": {
+      "temp": 24.82,
+      "prec": 48.1
+    },
+    "10": {
+      "temp": 25.32,
+      "prec": 93.56
+    },
+    "11": {
+      "temp": 25.25,
+      "prec": 130.06
+    },
+    "12": {
+      "temp": 25.38,
+      "prec": 148.34
+    }
+  },
+  "BRB": {
+    "average_temp": 27.13,
+    "average_prec": 130.91,
+    "1": {
+      "temp": 25.92,
+      "prec": 76.81
+    },
+    "2": {
+      "temp": 25.86,
+      "prec": 63.94
+    },
+    "3": {
+      "temp": 26.08,
+      "prec": 53.1
+    },
+    "4": {
+      "temp": 26.71,
+      "prec": 59.76
+    },
+    "5": {
+      "temp": 27.59,
+      "prec": 51.75
+    },
+    "6": {
+      "temp": 27.8,
+      "prec": 163.85
+    },
+    "7": {
+      "temp": 27.83,
+      "prec": 179.33
+    },
+    "8": {
+      "temp": 28.01,
+      "prec": 177.02
+    },
+    "9": {
+      "temp": 28.13,
+      "prec": 174.81
+    },
+    "10": {
+      "temp": 27.92,
+      "prec": 240.34
+    },
+    "11": {
+      "temp": 27.21,
+      "prec": 225.4
+    },
+    "12": {
+      "temp": 26.48,
+      "prec": 104.81
+    }
+  },
+  "BRN": {
+    "average_temp": 27.31,
+    "average_prec": 336.65,
+    "1": {
+      "temp": 26.86,
+      "prec": 421.34
+    },
+    "2": {
+      "temp": 26.86,
+      "prec": 221.65
+    },
+    "3": {
+      "temp": 27.36,
+      "prec": 311.62
+    },
+    "4": {
+      "temp": 27.84,
+      "prec": 277.56
+    },
+    "5": {
+      "temp": 28.09,
+      "prec": 345.89
+    },
+    "6": {
+      "temp": 27.42,
+      "prec": 278.04
+    },
+    "7": {
+      "temp": 27.45,
+      "prec": 330.42
+    },
+    "8": {
+      "temp": 27.31,
+      "prec": 320.04
+    },
+    "9": {
+      "temp": 27.24,
+      "prec": 375.61
+    },
+    "10": {
+      "temp": 27.1,
+      "prec": 395.59
+    },
+    "11": {
+      "temp": 27.12,
+      "prec": 373.82
+    },
+    "12": {
+      "temp": 27.05,
+      "prec": 388.21
+    }
+  },
+  "BTN": {
+    "average_temp": 12.51,
+    "average_prec": 114.48,
+    "1": {
+      "temp": 4.78,
+      "prec": 9.99
+    },
+    "2": {
+      "temp": 6.39,
+      "prec": 24.02
+    },
+    "3": {
+      "temp": 10.0,
+      "prec": 58.73
+    },
+    "4": {
+      "temp": 12.53,
+      "prec": 99.63
+    },
+    "5": {
+      "temp": 14.68,
+      "prec": 137.31
+    },
+    "6": {
+      "temp": 16.74,
+      "prec": 272.75
+    },
+    "7": {
+      "temp": 18.41,
+      "prec": 287.35
+    },
+    "8": {
+      "temp": 18.13,
+      "prec": 227.23
+    },
+    "9": {
+      "temp": 17.02,
+      "prec": 141.82
+    },
+    "10": {
+      "temp": 14.19,
+      "prec": 102.24
+    },
+    "11": {
+      "temp": 9.98,
+      "prec": 8.66
+    },
+    "12": {
+      "temp": 7.26,
+      "prec": 4.04
+    }
+  },
+  "BWA": {
+    "average_temp": 22.3,
+    "average_prec": 33.98,
+    "1": {
+      "temp": 26.03,
+      "prec": 86.96
+    },
+    "2": {
+      "temp": 25.73,
+      "prec": 73.16
+    },
+    "3": {
+      "temp": 24.56,
+      "prec": 50.56
+    },
+    "4": {
+      "temp": 22.09,
+      "prec": 32.05
+    },
+    "5": {
+      "temp": 18.82,
+      "prec": 4.5
+    },
+    "6": {
+      "temp": 15.79,
+      "prec": 3.58
+    },
+    "7": {
+      "temp": 15.33,
+      "prec": 0.6
+    },
+    "8": {
+      "temp": 18.32,
+      "prec": 1.29
+    },
+    "9": {
+      "temp": 22.53,
+      "prec": 4.32
+    },
+    "10": {
+      "temp": 25.98,
+      "prec": 21.12
+    },
+    "11": {
+      "temp": 26.35,
+      "prec": 55.43
+    },
+    "12": {
+      "temp": 26.12,
+      "prec": 74.17
+    }
+  },
+  "CAF": {
+    "average_temp": 25.34,
+    "average_prec": 119.45,
+    "1": {
+      "temp": 24.82,
+      "prec": 12.08
+    },
+    "2": {
+      "temp": 26.44,
+      "prec": 20.95
+    },
+    "3": {
+      "temp": 27.08,
+      "prec": 70.59
+    },
+    "4": {
+      "temp": 26.69,
+      "prec": 100.3
+    },
+    "5": {
+      "temp": 26.17,
+      "prec": 144.59
+    },
+    "6": {
+      "temp": 25.31,
+      "prec": 166.91
+    },
+    "7": {
+      "temp": 24.33,
+      "prec": 209.15
+    },
+    "8": {
+      "temp": 24.66,
+      "prec": 227.54
+    },
+    "9": {
+      "temp": 24.52,
+      "prec": 243.49
+    },
+    "10": {
+      "temp": 24.95,
+      "prec": 170.79
+    },
+    "11": {
+      "temp": 24.66,
+      "prec": 51.39
+    },
+    "12": {
+      "temp": 24.37,
+      "prec": 15.65
+    }
+  },
+  "CAN": {
+    "average_temp": -0.2,
+    "average_prec": 58.02,
+    "1": {
+      "temp": -15.14,
+      "prec": 52.97
+    },
+    "2": {
+      "temp": -15.74,
+      "prec": 43.76
+    },
+    "3": {
+      "temp": -10.58,
+      "prec": 45.7
+    },
+    "4": {
+      "temp": -3.05,
+      "prec": 41.2
+    },
+    "5": {
+      "temp": 5.23,
+      "prec": 50.1
+    },
+    "6": {
+      "temp": 12.07,
+      "prec": 68.1
+    },
+    "7": {
+      "temp": 15.66,
+      "prec": 73.51
+    },
+    "8": {
+      "temp": 14.5,
+      "prec": 73.74
+    },
+    "9": {
+      "temp": 9.67,
+      "prec": 66.9
+    },
+    "10": {
+      "temp": 2.65,
+      "prec": 60.31
+    },
+    "11": {
+      "temp": -6.01,
+      "prec": 64.85
+    },
+    "12": {
+      "temp": -11.64,
+      "prec": 55.11
+    }
+  },
+  "CHE": {
+    "average_temp": 8.51,
+    "average_prec": 105.43,
+    "1": {
+      "temp": 0.18,
+      "prec": 86.75
+    },
+    "2": {
+      "temp": 2.67,
+      "prec": 81.89
+    },
+    "3": {
+      "temp": 3.86,
+      "prec": 88.05
+    },
+    "4": {
+      "temp": 6.42,
+      "prec": 78.32
+    },
+    "5": {
+      "temp": 10.68,
+      "prec": 130.17
+    },
+    "6": {
+      "temp": 15.67,
+      "prec": 129.28
+    },
+    "7": {
+      "temp": 17.19,
+      "prec": 120.94
+    },
+    "8": {
+      "temp": 17.15,
+      "prec": 133.35
+    },
+    "9": {
+      "temp": 13.58,
+      "prec": 101.29
+    },
+    "10": {
+      "temp": 9.63,
+      "prec": 111.4
+    },
+    "11": {
+      "temp": 4.09,
+      "prec": 94.89
+    },
+    "12": {
+      "temp": 1.05,
+      "prec": 108.87
+    }
+  },
+  "CHL": {
+    "average_temp": 10.37,
+    "average_prec": 60.29,
+    "1": {
+      "temp": 15.53,
+      "prec": 37.74
+    },
+    "2": {
+      "temp": 15.07,
+      "prec": 41.75
+    },
+    "3": {
+      "temp": 13.62,
+      "prec": 39.93
+    },
+    "4": {
+      "temp": 10.97,
+      "prec": 55.69
+    },
+    "5": {
+      "temp": 7.24,
+      "prec": 75.21
+    },
+    "6": {
+      "temp": 5.84,
+      "prec": 129.29
+    },
+    "7": {
+      "temp": 5.35,
+      "prec": 99.18
+    },
+    "8": {
+      "temp": 6.14,
+      "prec": 96.42
+    },
+    "9": {
+      "temp": 8.24,
+      "prec": 50.72
+    },
+    "10": {
+      "temp": 10.04,
+      "prec": 37.98
+    },
+    "11": {
+      "temp": 12.32,
+      "prec": 34.45
+    },
+    "12": {
+      "temp": 14.1,
+      "prec": 25.08
+    }
+  },
+  "CHN": {
+    "average_temp": 13.02,
+    "average_prec": 80.83,
+    "1": {
+      "temp": -0.1,
+      "prec": 19.62
+    },
+    "2": {
+      "temp": 2.55,
+      "prec": 35.68
+    },
+    "3": {
+      "temp": 8.91,
+      "prec": 45.43
+    },
+    "4": {
+      "temp": 13.63,
+      "prec": 70.7
+    },
+    "5": {
+      "temp": 18.4,
+      "prec": 109.77
+    },
+    "6": {
+      "temp": 22.34,
+      "prec": 148.41
+    },
+    "7": {
+      "temp": 24.48,
+      "prec": 170.69
+    },
+    "8": {
+      "temp": 23.83,
+      "prec": 147.43
+    },
+    "9": {
+      "temp": 20.04,
+      "prec": 110.74
+    },
+    "10": {
+      "temp": 13.75,
+      "prec": 62.77
+    },
+    "11": {
+      "temp": 7.81,
+      "prec": 35.93
+    },
+    "12": {
+      "temp": 0.61,
+      "prec": 12.72
+    }
+  },
+  "CIV": {
+    "average_temp": 26.93,
+    "average_prec": 113.67,
+    "1": {
+      "temp": 27.17,
+      "prec": 15.61
+    },
+    "2": {
+      "temp": 28.31,
+      "prec": 33.52
+    },
+    "3": {
+      "temp": 29.08,
+      "prec": 93.06
+    },
+    "4": {
+      "temp": 28.61,
+      "prec": 106.44
+    },
+    "5": {
+      "temp": 27.9,
+      "prec": 151.36
+    },
+    "6": {
+      "temp": 26.51,
+      "prec": 240.11
+    },
+    "7": {
+      "temp": 25.41,
+      "prec": 137.82
+    },
+    "8": {
+      "temp": 24.83,
+      "prec": 136.69
+    },
+    "9": {
+      "temp": 25.52,
+      "prec": 188.08
+    },
+    "10": {
+      "temp": 26.22,
+      "prec": 163.56
+    },
+    "11": {
+      "temp": 26.81,
+      "prec": 71.88
+    },
+    "12": {
+      "temp": 26.78,
+      "prec": 25.94
+    }
+  },
+  "CMR": {
+    "average_temp": 25.04,
+    "average_prec": 149.36,
+    "1": {
+      "temp": 24.93,
+      "prec": 11.96
+    },
+    "2": {
+      "temp": 25.98,
+      "prec": 18.07
+    },
+    "3": {
+      "temp": 26.79,
+      "prec": 102.56
+    },
+    "4": {
+      "temp": 26.67,
+      "prec": 148.39
+    },
+    "5": {
+      "temp": 26.05,
+      "prec": 178.84
+    },
+    "6": {
+      "temp": 25.08,
+      "prec": 209.93
+    },
+    "7": {
+      "temp": 23.75,
+      "prec": 215.79
+    },
+    "8": {
+      "temp": 23.6,
+      "prec": 262.29
+    },
+    "9": {
+      "temp": 23.92,
+      "prec": 306.75
+    },
+    "10": {
+      "temp": 24.5,
+      "prec": 245.9
+    },
+    "11": {
+      "temp": 24.86,
+      "prec": 71.91
+    },
+    "12": {
+      "temp": 24.33,
+      "prec": 19.97
+    }
+  },
+  "COD": {
+    "average_temp": 24.08,
+    "average_prec": 134.19,
+    "1": {
+      "temp": 24.22,
+      "prec": 135.28
+    },
+    "2": {
+      "temp": 24.56,
+      "prec": 132.87
+    },
+    "3": {
+      "temp": 24.65,
+      "prec": 172.89
+    },
+    "4": {
+      "temp": 24.57,
+      "prec": 173.88
+    },
+    "5": {
+      "temp": 24.48,
+      "prec": 108.12
+    },
+    "6": {
+      "temp": 23.59,
+      "prec": 64.37
+    },
+    "7": {
+      "temp": 23.05,
+      "prec": 66.44
+    },
+    "8": {
+      "temp": 23.69,
+      "prec": 91.78
+    },
+    "9": {
+      "temp": 24.1,
+      "prec": 134.34
+    },
+    "10": {
+      "temp": 24.21,
+      "prec": 169.98
+    },
+    "11": {
+      "temp": 23.87,
+      "prec": 196.97
+    },
+    "12": {
+      "temp": 24.01,
+      "prec": 163.35
+    }
+  },
+  "COG": {
+    "average_temp": 25.23,
+    "average_prec": 133.33,
+    "1": {
+      "temp": 25.58,
+      "prec": 140.92
+    },
+    "2": {
+      "temp": 26.15,
+      "prec": 141.04
+    },
+    "3": {
+      "temp": 26.29,
+      "prec": 179.0
+    },
+    "4": {
+      "temp": 26.26,
+      "prec": 195.84
+    },
+    "5": {
+      "temp": 26.13,
+      "prec": 152.04
+    },
+    "6": {
+      "temp": 24.78,
+      "prec": 53.13
+    },
+    "7": {
+      "temp": 23.57,
+      "prec": 32.58
+    },
+    "8": {
+      "temp": 24.02,
+      "prec": 36.59
+    },
+    "9": {
+      "temp": 24.53,
+      "prec": 96.79
+    },
+    "10": {
+      "temp": 25.12,
+      "prec": 171.14
+    },
+    "11": {
+      "temp": 25.07,
+      "prec": 236.01
+    },
+    "12": {
+      "temp": 25.28,
+      "prec": 164.85
+    }
+  },
+  "COL": {
+    "average_temp": 23.43,
+    "average_prec": 194.14,
+    "1": {
+      "temp": 23.48,
+      "prec": 85.0
+    },
+    "2": {
+      "temp": 23.94,
+      "prec": 102.58
+    },
+    "3": {
+      "temp": 23.71,
+      "prec": 140.34
+    },
+    "4": {
+      "temp": 23.68,
+      "prec": 221.93
+    },
+    "5": {
+      "temp": 23.65,
+      "prec": 249.73
+    },
+    "6": {
+      "temp": 22.92,
+      "prec": 295.06
+    },
+    "7": {
+      "temp": 23.27,
+      "prec": 237.19
+    },
+    "8": {
+      "temp": 23.28,
+      "prec": 218.93
+    },
+    "9": {
+      "temp": 23.53,
+      "prec": 185.25
+    },
+    "10": {
+      "temp": 23.34,
+      "prec": 240.34
+    },
+    "11": {
+      "temp": 23.12,
+      "prec": 224.62
+    },
+    "12": {
+      "temp": 23.28,
+      "prec": 128.75
+    }
+  },
+  "COM": {
+    "average_temp": 23.07,
+    "average_prec": 154.79,
+    "1": {
+      "temp": 24.0,
+      "prec": 355.62
+    },
+    "2": {
+      "temp": 24.38,
+      "prec": 245.44
+    },
+    "3": {
+      "temp": 24.25,
+      "prec": 192.64
+    },
+    "4": {
+      "temp": 24.12,
+      "prec": 267.86
+    },
+    "5": {
+      "temp": 23.46,
+      "prec": 139.35
+    },
+    "6": {
+      "temp": 22.09,
+      "prec": 97.11
+    },
+    "7": {
+      "temp": 21.37,
+      "prec": 113.73
+    },
+    "8": {
+      "temp": 21.16,
+      "prec": 39.85
+    },
+    "9": {
+      "temp": 21.7,
+      "prec": 66.56
+    },
+    "10": {
+      "temp": 22.51,
+      "prec": 54.14
+    },
+    "11": {
+      "temp": 23.52,
+      "prec": 105.89
+    },
+    "12": {
+      "temp": 24.32,
+      "prec": 179.25
+    }
+  },
+  "CPV": {
+    "average_temp": 23.13,
+    "average_prec": 21.04,
+    "1": {
+      "temp": 21.71,
+      "prec": 3.95
+    },
+    "2": {
+      "temp": 21.37,
+      "prec": 4.15
+    },
+    "3": {
+      "temp": 21.21,
+      "prec": 0.88
+    },
+    "4": {
+      "temp": 21.93,
+      "prec": 0.61
+    },
+    "5": {
+      "temp": 22.49,
+      "prec": 0.38
+    },
+    "6": {
+      "temp": 23.24,
+      "prec": 0.18
+    },
+    "7": {
+      "temp": 23.83,
+      "prec": 15.91
+    },
+    "8": {
+      "temp": 24.87,
+      "prec": 52.17
+    },
+    "9": {
+      "temp": 25.28,
+      "prec": 119.23
+    },
+    "10": {
+      "temp": 25.16,
+      "prec": 36.38
+    },
+    "11": {
+      "temp": 24.06,
+      "prec": 12.82
+    },
+    "12": {
+      "temp": 22.4,
+      "prec": 5.79
+    }
+  },
+  "CRI": {
+    "average_temp": 23.47,
+    "average_prec": 249.84,
+    "1": {
+      "temp": 23.14,
+      "prec": 92.87
+    },
+    "2": {
+      "temp": 23.25,
+      "prec": 106.84
+    },
+    "3": {
+      "temp": 24.02,
+      "prec": 98.92
+    },
+    "4": {
+      "temp": 24.6,
+      "prec": 130.6
+    },
+    "5": {
+      "temp": 24.39,
+      "prec": 263.97
+    },
+    "6": {
+      "temp": 23.34,
+      "prec": 339.64
+    },
+    "7": {
+      "temp": 23.74,
+      "prec": 326.74
+    },
+    "8": {
+      "temp": 23.45,
+      "prec": 250.87
+    },
+    "9": {
+      "temp": 23.41,
+      "prec": 333.02
+    },
+    "10": {
+      "temp": 23.05,
+      "prec": 507.03
+    },
+    "11": {
+      "temp": 22.45,
+      "prec": 331.08
+    },
+    "12": {
+      "temp": 22.81,
+      "prec": 216.48
+    }
+  },
+  "CUB": {
+    "average_temp": 26.09,
+    "average_prec": 119.81,
+    "1": {
+      "temp": 23.07,
+      "prec": 27.96
+    },
+    "2": {
+      "temp": 24.07,
+      "prec": 31.99
+    },
+    "3": {
+      "temp": 25.45,
+      "prec": 34.04
+    },
+    "4": {
+      "temp": 26.22,
+      "prec": 59.45
+    },
+    "5": {
+      "temp": 26.87,
+      "prec": 183.77
+    },
+    "6": {
+      "temp": 27.38,
+      "prec": 252.29
+    },
+    "7": {
+      "temp": 28.33,
+      "prec": 151.39
+    },
+    "8": {
+      "temp": 28.4,
+      "prec": 203.87
+    },
+    "9": {
+      "temp": 27.69,
+      "prec": 179.08
+    },
+    "10": {
+      "temp": 26.82,
+      "prec": 165.49
+    },
+    "11": {
+      "temp": 25.27,
+      "prec": 102.05
+    },
+    "12": {
+      "temp": 23.56,
+      "prec": 46.42
+    }
+  },
+  "CYP": {
+    "average_temp": 19.72,
+    "average_prec": 40.67,
+    "1": {
+      "temp": 11.25,
+      "prec": 129.19
+    },
+    "2": {
+      "temp": 11.59,
+      "prec": 57.89
+    },
+    "3": {
+      "temp": 12.64,
+      "prec": 54.83
+    },
+    "4": {
+      "temp": 17.35,
+      "prec": 18.62
+    },
+    "5": {
+      "temp": 20.75,
+      "prec": 18.38
+    },
+    "6": {
+      "temp": 24.53,
+      "prec": 7.25
+    },
+    "7": {
+      "temp": 28.6,
+      "prec": 3.37
+    },
+    "8": {
+      "temp": 29.26,
+      "prec": 2.74
+    },
+    "9": {
+      "temp": 26.4,
+      "prec": 10.67
+    },
+    "10": {
+      "temp": 22.58,
+      "prec": 18.25
+    },
+    "11": {
+      "temp": 17.52,
+      "prec": 49.39
+    },
+    "12": {
+      "temp": 14.13,
+      "prec": 117.42
+    }
+  },
+  "CZE": {
+    "average_temp": 9.58,
+    "average_prec": 58.22,
+    "1": {
+      "temp": 0.54,
+      "prec": 37.53
+    },
+    "2": {
+      "temp": 2.77,
+      "prec": 45.3
+    },
+    "3": {
+      "temp": 4.63,
+      "prec": 30.36
+    },
+    "4": {
+      "temp": 7.93,
+      "prec": 36.05
+    },
+    "5": {
+      "temp": 12.8,
+      "prec": 70.14
+    },
+    "6": {
+      "temp": 18.02,
+      "prec": 85.96
+    },
+    "7": {
+      "temp": 18.98,
+      "prec": 78.17
+    },
+    "8": {
+      "temp": 18.99,
+      "prec": 118.08
+    },
+    "9": {
+      "temp": 14.92,
+      "prec": 59.53
+    },
+    "10": {
+      "temp": 10.27,
+      "prec": 48.58
+    },
+    "11": {
+      "temp": 4.22,
+      "prec": 41.05
+    },
+    "12": {
+      "temp": 0.92,
+      "prec": 47.96
+    }
+  },
+  "DEU": {
+    "average_temp": 10.55,
+    "average_prec": 65.26,
+    "1": {
+      "temp": 2.6,
+      "prec": 65.65
+    },
+    "2": {
+      "temp": 4.36,
+      "prec": 74.11
+    },
+    "3": {
+      "temp": 5.8,
+      "prec": 49.32
+    },
+    "4": {
+      "temp": 8.52,
+      "prec": 43.12
+    },
+    "5": {
+      "temp": 13.21,
+      "prec": 62.23
+    },
+    "6": {
+      "temp": 18.19,
+      "prec": 68.28
+    },
+    "7": {
+      "temp": 18.78,
+      "prec": 79.67
+    },
+    "8": {
+      "temp": 19.16,
+      "prec": 77.56
+    },
+    "9": {
+      "temp": 15.56,
+      "prec": 61.39
+    },
+    "10": {
+      "temp": 11.29,
+      "prec": 69.75
+    },
+    "11": {
+      "temp": 6.01,
+      "prec": 61.34
+    },
+    "12": {
+      "temp": 3.08,
+      "prec": 70.65
+    }
+  },
+  "DJI": {
+    "average_temp": 28.67,
+    "average_prec": 15.15,
+    "1": {
+      "temp": 23.71,
+      "prec": 9.58
+    },
+    "2": {
+      "temp": 24.71,
+      "prec": 12.09
+    },
+    "3": {
+      "temp": 26.16,
+      "prec": 14.08
+    },
+    "4": {
+      "temp": 27.57,
+      "prec": 17.65
+    },
+    "5": {
+      "temp": 31.24,
+      "prec": 7.48
+    },
+    "6": {
+      "temp": 33.57,
+      "prec": 4.9
+    },
+    "7": {
+      "temp": 33.36,
+      "prec": 25.08
+    },
+    "8": {
+      "temp": 32.53,
+      "prec": 32.62
+    },
+    "9": {
+      "temp": 31.93,
+      "prec": 17.97
+    },
+    "10": {
+      "temp": 28.86,
+      "prec": 8.26
+    },
+    "11": {
+      "temp": 25.9,
+      "prec": 20.69
+    },
+    "12": {
+      "temp": 24.51,
+      "prec": 11.4
+    }
+  },
+  "DMA": {
+    "average_temp": 25.82,
+    "average_prec": 157.62,
+    "1": {
+      "temp": 24.19,
+      "prec": 114.21
+    },
+    "2": {
+      "temp": 24.29,
+      "prec": 93.68
+    },
+    "3": {
+      "temp": 24.45,
+      "prec": 68.09
+    },
+    "4": {
+      "temp": 25.34,
+      "prec": 61.55
+    },
+    "5": {
+      "temp": 26.43,
+      "prec": 79.19
+    },
+    "6": {
+      "temp": 26.89,
+      "prec": 191.57
+    },
+    "7": {
+      "temp": 26.94,
+      "prec": 220.56
+    },
+    "8": {
+      "temp": 27.14,
+      "prec": 210.28
+    },
+    "9": {
+      "temp": 27.03,
+      "prec": 233.44
+    },
+    "10": {
+      "temp": 26.59,
+      "prec": 259.52
+    },
+    "11": {
+      "temp": 25.8,
+      "prec": 235.87
+    },
+    "12": {
+      "temp": 24.69,
+      "prec": 123.49
+    }
+  },
+  "DNK": {
+    "average_temp": 9.64,
+    "average_prec": 62.7,
+    "1": {
+      "temp": 2.74,
+      "prec": 71.24
+    },
+    "2": {
+      "temp": 3.15,
+      "prec": 66.57
+    },
+    "3": {
+      "temp": 4.28,
+      "prec": 36.82
+    },
+    "4": {
+      "temp": 7.08,
+      "prec": 40.19
+    },
+    "5": {
+      "temp": 11.86,
+      "prec": 46.97
+    },
+    "6": {
+      "temp": 16.62,
+      "prec": 46.46
+    },
+    "7": {
+      "temp": 16.98,
+      "prec": 85.54
+    },
+    "8": {
+      "temp": 17.65,
+      "prec": 71.98
+    },
+    "9": {
+      "temp": 14.94,
+      "prec": 63.57
+    },
+    "10": {
+      "temp": 10.92,
+      "prec": 90.02
+    },
+    "11": {
+      "temp": 6.63,
+      "prec": 65.06
+    },
+    "12": {
+      "temp": 2.82,
+      "prec": 68.03
+    }
+  },
+  "DOM": {
+    "average_temp": 25.18,
+    "average_prec": 124.0,
+    "1": {
+      "temp": 23.02,
+      "prec": 41.25
+    },
+    "2": {
+      "temp": 23.57,
+      "prec": 36.06
+    },
+    "3": {
+      "temp": 24.15,
+      "prec": 73.08
+    },
+    "4": {
+      "temp": 24.69,
+      "prec": 110.73
+    },
+    "5": {
+      "temp": 25.59,
+      "prec": 211.24
+    },
+    "6": {
+      "temp": 26.47,
+      "prec": 127.69
+    },
+    "7": {
+      "temp": 26.53,
+      "prec": 144.45
+    },
+    "8": {
+      "temp": 26.88,
+      "prec": 171.31
+    },
+    "9": {
+      "temp": 26.82,
+      "prec": 116.0
+    },
+    "10": {
+      "temp": 26.09,
+      "prec": 172.18
+    },
+    "11": {
+      "temp": 24.87,
+      "prec": 159.95
+    },
+    "12": {
+      "temp": 23.45,
+      "prec": 124.11
+    }
+  },
+  "DZA": {
+    "average_temp": 19.08,
+    "average_prec": 25.88,
+    "1": {
+      "temp": 9.21,
+      "prec": 36.59
+    },
+    "2": {
+      "temp": 11.49,
+      "prec": 25.2
+    },
+    "3": {
+      "temp": 13.76,
+      "prec": 34.79
+    },
+    "4": {
+      "temp": 16.92,
+      "prec": 32.08
+    },
+    "5": {
+      "temp": 21.4,
+      "prec": 28.96
+    },
+    "6": {
+      "temp": 26.18,
+      "prec": 12.6
+    },
+    "7": {
+      "temp": 29.63,
+      "prec": 2.33
+    },
+    "8": {
+      "temp": 29.17,
+      "prec": 3.73
+    },
+    "9": {
+      "temp": 25.09,
+      "prec": 18.88
+    },
+    "10": {
+      "temp": 20.47,
+      "prec": 16.9
+    },
+    "11": {
+      "temp": 14.97,
+      "prec": 52.71
+    },
+    "12": {
+      "temp": 10.65,
+      "prec": 45.83
+    }
+  },
+  "ECU": {
+    "average_temp": 19.35,
+    "average_prec": 127.45,
+    "1": {
+      "temp": 19.7,
+      "prec": 170.5
+    },
+    "2": {
+      "temp": 19.68,
+      "prec": 164.54
+    },
+    "3": {
+      "temp": 19.7,
+      "prec": 185.67
+    },
+    "4": {
+      "temp": 19.86,
+      "prec": 201.84
+    },
+    "5": {
+      "temp": 19.5,
+      "prec": 145.31
+    },
+    "6": {
+      "temp": 18.8,
+      "prec": 132.72
+    },
+    "7": {
+      "temp": 19.0,
+      "prec": 99.07
+    },
+    "8": {
+      "temp": 18.8,
+      "prec": 59.78
+    },
+    "9": {
+      "temp": 19.18,
+      "prec": 77.35
+    },
+    "10": {
+      "temp": 19.25,
+      "prec": 96.62
+    },
+    "11": {
+      "temp": 19.26,
+      "prec": 81.16
+    },
+    "12": {
+      "temp": 19.49,
+      "prec": 114.83
+    }
+  },
+  "EGY": {
+    "average_temp": 22.77,
+    "average_prec": 2.98,
+    "1": {
+      "temp": 13.91,
+      "prec": 9.84
+    },
+    "2": {
+      "temp": 14.89,
+      "prec": 6.11
+    },
+    "3": {
+      "temp": 17.91,
+      "prec": 3.43
+    },
+    "4": {
+      "temp": 22.44,
+      "prec": 1.33
+    },
+    "5": {
+      "temp": 25.72,
+      "prec": 0.83
+    },
+    "6": {
+      "temp": 28.22,
+      "prec": 0.02
+    },
+    "7": {
+      "temp": 30.02,
+      "prec": 0.02
+    },
+    "8": {
+      "temp": 30.25,
+      "prec": 0.07
+    },
+    "9": {
+      "temp": 28.5,
+      "prec": 0.05
+    },
+    "10": {
+      "temp": 24.9,
+      "prec": 1.71
+    },
+    "11": {
+      "temp": 20.3,
+      "prec": 6.91
+    },
+    "12": {
+      "temp": 16.26,
+      "prec": 5.47
+    }
+  },
+  "ERI": {
+    "average_temp": 24.77,
+    "average_prec": 39.51,
+    "1": {
+      "temp": 21.8,
+      "prec": 17.26
+    },
+    "2": {
+      "temp": 22.27,
+      "prec": 20.24
+    },
+    "3": {
+      "temp": 24.62,
+      "prec": 12.76
+    },
+    "4": {
+      "temp": 25.27,
+      "prec": 20.14
+    },
+    "5": {
+      "temp": 27.34,
+      "prec": 21.45
+    },
+    "6": {
+      "temp": 27.54,
+      "prec": 29.67
+    },
+    "7": {
+      "temp": 26.15,
+      "prec": 106.59
+    },
+    "8": {
+      "temp": 25.21,
+      "prec": 147.84
+    },
+    "9": {
+      "temp": 25.86,
+      "prec": 36.59
+    },
+    "10": {
+      "temp": 25.46,
+      "prec": 14.82
+    },
+    "11": {
+      "temp": 23.44,
+      "prec": 29.1
+    },
+    "12": {
+      "temp": 22.35,
+      "prec": 17.65
+    }
+  },
+  "ESH": {
+    "average_temp": 23.84,
+    "average_prec": 3.4,
+    "1": {
+      "temp": 18.1,
+      "prec": 2.35
+    },
+    "2": {
+      "temp": 19.6,
+      "prec": 2.17
+    },
+    "3": {
+      "temp": 21.01,
+      "prec": 1.5
+    },
+    "4": {
+      "temp": 22.6,
+      "prec": 1.23
+    },
+    "5": {
+      "temp": 24.55,
+      "prec": 0.41
+    },
+    "6": {
+      "temp": 26.65,
+      "prec": 0.38
+    },
+    "7": {
+      "temp": 29.17,
+      "prec": 1.26
+    },
+    "8": {
+      "temp": 29.77,
+      "prec": 3.5
+    },
+    "9": {
+      "temp": 28.09,
+      "prec": 12.56
+    },
+    "10": {
+      "temp": 25.67,
+      "prec": 3.6
+    },
+    "11": {
+      "temp": 22.22,
+      "prec": 4.69
+    },
+    "12": {
+      "temp": 18.71,
+      "prec": 7.12
+    }
+  },
+  "ESP": {
+    "average_temp": 14.85,
+    "average_prec": 52.94,
+    "1": {
+      "temp": 7.21,
+      "prec": 64.07
+    },
+    "2": {
+      "temp": 9.16,
+      "prec": 43.36
+    },
+    "3": {
+      "temp": 10.48,
+      "prec": 70.24
+    },
+    "4": {
+      "temp": 12.65,
+      "prec": 56.87
+    },
+    "5": {
+      "temp": 16.43,
+      "prec": 41.22
+    },
+    "6": {
+      "temp": 20.0,
+      "prec": 47.23
+    },
+    "7": {
+      "temp": 23.24,
+      "prec": 13.57
+    },
+    "8": {
+      "temp": 23.36,
+      "prec": 25.79
+    },
+    "9": {
+      "temp": 19.85,
+      "prec": 56.39
+    },
+    "10": {
+      "temp": 16.0,
+      "prec": 84.02
+    },
+    "11": {
+      "temp": 11.44,
+      "prec": 70.28
+    },
+    "12": {
+      "temp": 8.42,
+      "prec": 62.22
+    }
+  },
+  "EST": {
+    "average_temp": 7.25,
+    "average_prec": 55.22,
+    "1": {
+      "temp": -2.44,
+      "prec": 49.35
+    },
+    "2": {
+      "temp": -2.27,
+      "prec": 43.24
+    },
+    "3": {
+      "temp": 0.55,
+      "prec": 31.3
+    },
+    "4": {
+      "temp": 5.33,
+      "prec": 36.55
+    },
+    "5": {
+      "temp": 10.94,
+      "prec": 38.54
+    },
+    "6": {
+      "temp": 17.26,
+      "prec": 50.28
+    },
+    "7": {
+      "temp": 18.5,
+      "prec": 85.33
+    },
+    "8": {
+      "temp": 17.66,
+      "prec": 87.92
+    },
+    "9": {
+      "temp": 12.94,
+      "prec": 52.25
+    },
+    "10": {
+      "temp": 7.92,
+      "prec": 69.51
+    },
+    "11": {
+      "temp": 2.8,
+      "prec": 67.13
+    },
+    "12": {
+      "temp": -2.15,
+      "prec": 51.19
+    }
+  },
+  "ETH": {
+    "average_temp": 22.95,
+    "average_prec": 81.25,
+    "1": {
+      "temp": 21.91,
+      "prec": 12.95
+    },
+    "2": {
+      "temp": 22.9,
+      "prec": 23.76
+    },
+    "3": {
+      "temp": 24.14,
+      "prec": 55.34
+    },
+    "4": {
+      "temp": 23.79,
+      "prec": 89.54
+    },
+    "5": {
+      "temp": 24.56,
+      "prec": 102.19
+    },
+    "6": {
+      "temp": 23.81,
+      "prec": 108.84
+    },
+    "7": {
+      "temp": 22.57,
+      "prec": 172.78
+    },
+    "8": {
+      "temp": 22.15,
+      "prec": 175.67
+    },
+    "9": {
+      "temp": 22.89,
+      "prec": 119.85
+    },
+    "10": {
+      "temp": 23.0,
+      "prec": 70.65
+    },
+    "11": {
+      "temp": 21.98,
+      "prec": 30.21
+    },
+    "12": {
+      "temp": 21.73,
+      "prec": 13.18
+    }
+  },
+  "FIN": {
+    "average_temp": 4.87,
+    "average_prec": 55.22,
+    "1": {
+      "temp": -5.77,
+      "prec": 51.13
+    },
+    "2": {
+      "temp": -5.72,
+      "prec": 46.75
+    },
+    "3": {
+      "temp": -1.82,
+      "prec": 35.01
+    },
+    "4": {
+      "temp": 2.44,
+      "prec": 36.25
+    },
+    "5": {
+      "temp": 9.14,
+      "prec": 36.65
+    },
+    "6": {
+      "temp": 16.3,
+      "prec": 49.87
+    },
+    "7": {
+      "temp": 17.14,
+      "prec": 89.86
+    },
+    "8": {
+      "temp": 15.77,
+      "prec": 85.91
+    },
+    "9": {
+      "temp": 10.66,
+      "prec": 57.43
+    },
+    "10": {
+      "temp": 5.36,
+      "prec": 70.86
+    },
+    "11": {
+      "temp": -0.0,
+      "prec": 54.4
+    },
+    "12": {
+      "temp": -5.03,
+      "prec": 48.47
+    }
+  },
+  "FJI": {
+    "average_temp": 25.1,
+    "average_prec": 273.59,
+    "1": {
+      "temp": 26.6,
+      "prec": 509.95
+    },
+    "2": {
+      "temp": 26.7,
+      "prec": 380.88
+    },
+    "3": {
+      "temp": 26.37,
+      "prec": 608.5
+    },
+    "4": {
+      "temp": 25.72,
+      "prec": 205.84
+    },
+    "5": {
+      "temp": 24.71,
+      "prec": 233.44
+    },
+    "6": {
+      "temp": 23.82,
+      "prec": 120.61
+    },
+    "7": {
+      "temp": 23.64,
+      "prec": 87.52
+    },
+    "8": {
+      "temp": 23.15,
+      "prec": 117.18
+    },
+    "9": {
+      "temp": 23.8,
+      "prec": 140.01
+    },
+    "10": {
+      "temp": 24.69,
+      "prec": 222.17
+    },
+    "11": {
+      "temp": 25.61,
+      "prec": 233.68
+    },
+    "12": {
+      "temp": 26.38,
+      "prec": 423.35
+    }
+  },
+  "FRA": {
+    "average_temp": 12.58,
+    "average_prec": 65.41,
+    "1": {
+      "temp": 5.11,
+      "prec": 65.69
+    },
+    "2": {
+      "temp": 7.26,
+      "prec": 58.44
+    },
+    "3": {
+      "temp": 8.46,
+      "prec": 65.43
+    },
+    "4": {
+      "temp": 10.52,
+      "prec": 47.73
+    },
+    "5": {
+      "temp": 14.33,
+      "prec": 65.42
+    },
+    "6": {
+      "temp": 18.6,
+      "prec": 74.44
+    },
+    "7": {
+      "temp": 20.2,
+      "prec": 41.67
+    },
+    "8": {
+      "temp": 20.52,
+      "prec": 48.74
+    },
+    "9": {
+      "temp": 17.37,
+      "prec": 68.3
+    },
+    "10": {
+      "temp": 13.76,
+      "prec": 90.95
+    },
+    "11": {
+      "temp": 8.81,
+      "prec": 76.25
+    },
+    "12": {
+      "temp": 6.0,
+      "prec": 81.91
+    }
+  },
+  "FSM": {
+    "average_temp": 27.28,
+    "average_prec": 449.61,
+    "1": {
+      "temp": 27.22,
+      "prec": 315.65
+    },
+    "2": {
+      "temp": 27.5,
+      "prec": 313.18
+    },
+    "3": {
+      "temp": 27.32,
+      "prec": 457.69
+    },
+    "4": {
+      "temp": 27.09,
+      "prec": 530.83
+    },
+    "5": {
+      "temp": 27.26,
+      "prec": 651.11
+    },
+    "6": {
+      "temp": 27.29,
+      "prec": 426.78
+    },
+    "7": {
+      "temp": 27.27,
+      "prec": 515.78
+    },
+    "8": {
+      "temp": 27.44,
+      "prec": 411.3
+    },
+    "9": {
+      "temp": 27.2,
+      "prec": 398.19
+    },
+    "10": {
+      "temp": 27.18,
+      "prec": 423.67
+    },
+    "11": {
+      "temp": 27.19,
+      "prec": 475.35
+    },
+    "12": {
+      "temp": 27.39,
+      "prec": 475.77
+    }
+  },
+  "GAB": {
+    "average_temp": 25.37,
+    "average_prec": 146.34,
+    "1": {
+      "temp": 25.92,
+      "prec": 154.02
+    },
+    "2": {
+      "temp": 26.38,
+      "prec": 137.1
+    },
+    "3": {
+      "temp": 26.46,
+      "prec": 224.05
+    },
+    "4": {
+      "temp": 26.5,
+      "prec": 211.56
+    },
+    "5": {
+      "temp": 26.28,
+      "prec": 178.34
+    },
+    "6": {
+      "temp": 24.93,
+      "prec": 43.65
+    },
+    "7": {
+      "temp": 23.44,
+      "prec": 12.15
+    },
+    "8": {
+      "temp": 23.8,
+      "prec": 13.96
+    },
+    "9": {
+      "temp": 24.68,
+      "prec": 79.73
+    },
+    "10": {
+      "temp": 25.24,
+      "prec": 254.19
+    },
+    "11": {
+      "temp": 25.22,
+      "prec": 280.42
+    },
+    "12": {
+      "temp": 25.63,
+      "prec": 166.92
+    }
+  },
+  "GBR": {
+    "average_temp": 9.7,
+    "average_prec": 108.75,
+    "1": {
+      "temp": 4.52,
+      "prec": 113.62
+    },
+    "2": {
+      "temp": 5.34,
+      "prec": 129.33
+    },
+    "3": {
+      "temp": 6.16,
+      "prec": 104.25
+    },
+    "4": {
+      "temp": 7.88,
+      "prec": 61.44
+    },
+    "5": {
+      "temp": 11.22,
+      "prec": 72.98
+    },
+    "6": {
+      "temp": 14.02,
+      "prec": 65.24
+    },
+    "7": {
+      "temp": 15.17,
+      "prec": 98.34
+    },
+    "8": {
+      "temp": 15.37,
+      "prec": 95.7
+    },
+    "9": {
+      "temp": 13.51,
+      "prec": 118.69
+    },
+    "10": {
+      "temp": 10.61,
+      "prec": 172.81
+    },
+    "11": {
+      "temp": 7.48,
+      "prec": 119.52
+    },
+    "12": {
+      "temp": 5.11,
+      "prec": 153.05
+    }
+  },
+  "GEO": {
+    "average_temp": 10.12,
+    "average_prec": 93.83,
+    "1": {
+      "temp": 0.77,
+      "prec": 81.93
+    },
+    "2": {
+      "temp": 1.95,
+      "prec": 71.73
+    },
+    "3": {
+      "temp": 4.16,
+      "prec": 98.82
+    },
+    "4": {
+      "temp": 9.41,
+      "prec": 75.69
+    },
+    "5": {
+      "temp": 12.18,
+      "prec": 121.01
+    },
+    "6": {
+      "temp": 17.17,
+      "prec": 98.55
+    },
+    "7": {
+      "temp": 19.53,
+      "prec": 121.56
+    },
+    "8": {
+      "temp": 20.06,
+      "prec": 83.13
+    },
+    "9": {
+      "temp": 16.54,
+      "prec": 107.4
+    },
+    "10": {
+      "temp": 11.32,
+      "prec": 97.54
+    },
+    "11": {
+      "temp": 6.34,
+      "prec": 95.3
+    },
+    "12": {
+      "temp": 2.03,
+      "prec": 73.29
+    }
+  },
+  "GHA": {
+    "average_temp": 27.88,
+    "average_prec": 106.78,
+    "1": {
+      "temp": 28.15,
+      "prec": 12.16
+    },
+    "2": {
+      "temp": 29.45,
+      "prec": 19.35
+    },
+    "3": {
+      "temp": 30.33,
+      "prec": 88.21
+    },
+    "4": {
+      "temp": 29.65,
+      "prec": 111.73
+    },
+    "5": {
+      "temp": 28.94,
+      "prec": 142.1
+    },
+    "6": {
+      "temp": 27.23,
+      "prec": 197.45
+    },
+    "7": {
+      "temp": 26.19,
+      "prec": 135.39
+    },
+    "8": {
+      "temp": 25.49,
+      "prec": 125.43
+    },
+    "9": {
+      "temp": 26.13,
+      "prec": 194.94
+    },
+    "10": {
+      "temp": 27.08,
+      "prec": 170.43
+    },
+    "11": {
+      "temp": 28.07,
+      "prec": 68.21
+    },
+    "12": {
+      "temp": 27.9,
+      "prec": 16.02
+    }
+  },
+  "GIN": {
+    "average_temp": 26.89,
+    "average_prec": 189.53,
+    "1": {
+      "temp": 25.82,
+      "prec": 2.2
+    },
+    "2": {
+      "temp": 27.57,
+      "prec": 5.61
+    },
+    "3": {
+      "temp": 29.48,
+      "prec": 27.42
+    },
+    "4": {
+      "temp": 30.12,
+      "prec": 51.6
+    },
+    "5": {
+      "temp": 29.11,
+      "prec": 127.94
+    },
+    "6": {
+      "temp": 27.01,
+      "prec": 267.98
+    },
+    "7": {
+      "temp": 25.46,
+      "prec": 408.66
+    },
+    "8": {
+      "temp": 24.81,
+      "prec": 637.22
+    },
+    "9": {
+      "temp": 25.25,
+      "prec": 411.61
+    },
+    "10": {
+      "temp": 26.15,
+      "prec": 276.66
+    },
+    "11": {
+      "temp": 26.23,
+      "prec": 50.49
+    },
+    "12": {
+      "temp": 25.7,
+      "prec": 7.01
+    }
+  },
+  "GMB": {
+    "average_temp": 28.33,
+    "average_prec": 79.95,
+    "1": {
+      "temp": 26.18,
+      "prec": 0.09
+    },
+    "2": {
+      "temp": 27.99,
+      "prec": 0.43
+    },
+    "3": {
+      "temp": 29.27,
+      "prec": 0.06
+    },
+    "4": {
+      "temp": 30.49,
+      "prec": 0.22
+    },
+    "5": {
+      "temp": 31.2,
+      "prec": 4.32
+    },
+    "6": {
+      "temp": 30.17,
+      "prec": 83.31
+    },
+    "7": {
+      "temp": 27.99,
+      "prec": 173.4
+    },
+    "8": {
+      "temp": 27.49,
+      "prec": 304.07
+    },
+    "9": {
+      "temp": 27.5,
+      "prec": 291.6
+    },
+    "10": {
+      "temp": 28.26,
+      "prec": 96.87
+    },
+    "11": {
+      "temp": 27.45,
+      "prec": 4.23
+    },
+    "12": {
+      "temp": 25.96,
+      "prec": 0.74
+    }
+  },
+  "GNB": {
+    "average_temp": 27.75,
+    "average_prec": 177.97,
+    "1": {
+      "temp": 26.48,
+      "prec": 0.0
+    },
+    "2": {
+      "temp": 27.89,
+      "prec": 0.16
+    },
+    "3": {
+      "temp": 28.86,
+      "prec": 0.02
+    },
+    "4": {
+      "temp": 29.43,
+      "prec": 0.58
+    },
+    "5": {
+      "temp": 29.68,
+      "prec": 23.24
+    },
+    "6": {
+      "temp": 28.6,
+      "prec": 180.46
+    },
+    "7": {
+      "temp": 26.93,
+      "prec": 376.26
+    },
+    "8": {
+      "temp": 26.52,
+      "prec": 689.43
+    },
+    "9": {
+      "temp": 26.86,
+      "prec": 525.63
+    },
+    "10": {
+      "temp": 27.66,
+      "prec": 311.63
+    },
+    "11": {
+      "temp": 27.64,
+      "prec": 23.8
+    },
+    "12": {
+      "temp": 26.48,
+      "prec": 4.47
+    }
+  },
+  "GNQ": {
+    "average_temp": 23.89,
+    "average_prec": 186.69,
+    "1": {
+      "temp": 24.54,
+      "prec": 70.37
+    },
+    "2": {
+      "temp": 24.76,
+      "prec": 80.18
+    },
+    "3": {
+      "temp": 24.69,
+      "prec": 200.16
+    },
+    "4": {
+      "temp": 24.65,
+      "prec": 231.02
+    },
+    "5": {
+      "temp": 24.63,
+      "prec": 254.13
+    },
+    "6": {
+      "temp": 23.81,
+      "prec": 184.05
+    },
+    "7": {
+      "temp": 22.5,
+      "prec": 107.02
+    },
+    "8": {
+      "temp": 22.69,
+      "prec": 130.61
+    },
+    "9": {
+      "temp": 23.04,
+      "prec": 286.03
+    },
+    "10": {
+      "temp": 23.42,
+      "prec": 376.79
+    },
+    "11": {
+      "temp": 23.75,
+      "prec": 220.4
+    },
+    "12": {
+      "temp": 24.18,
+      "prec": 99.51
+    }
+  },
+  "GRC": {
+    "average_temp": 16.47,
+    "average_prec": 49.25,
+    "1": {
+      "temp": 8.11,
+      "prec": 92.78
+    },
+    "2": {
+      "temp": 9.01,
+      "prec": 48.52
+    },
+    "3": {
+      "temp": 10.09,
+      "prec": 59.11
+    },
+    "4": {
+      "temp": 13.73,
+      "prec": 37.21
+    },
+    "5": {
+      "temp": 18.03,
+      "prec": 30.88
+    },
+    "6": {
+      "temp": 22.65,
+      "prec": 31.64
+    },
+    "7": {
+      "temp": 26.02,
+      "prec": 12.48
+    },
+    "8": {
+      "temp": 26.11,
+      "prec": 19.3
+    },
+    "9": {
+      "temp": 22.37,
+      "prec": 33.33
+    },
+    "10": {
+      "temp": 17.66,
+      "prec": 55.53
+    },
+    "11": {
+      "temp": 13.43,
+      "prec": 61.9
+    },
+    "12": {
+      "temp": 10.44,
+      "prec": 108.37
+    }
+  },
+  "GRD": {
+    "average_temp": 26.64,
+    "average_prec": 145.19,
+    "1": {
+      "temp": 25.38,
+      "prec": 102.79
+    },
+    "2": {
+      "temp": 25.47,
+      "prec": 72.03
+    },
+    "3": {
+      "temp": 25.77,
+      "prec": 58.5
+    },
+    "4": {
+      "temp": 26.47,
+      "prec": 68.99
+    },
+    "5": {
+      "temp": 27.34,
+      "prec": 70.93
+    },
+    "6": {
+      "temp": 27.21,
+      "prec": 185.39
+    },
+    "7": {
+      "temp": 27.08,
+      "prec": 192.25
+    },
+    "8": {
+      "temp": 27.42,
+      "prec": 200.67
+    },
+    "9": {
+      "temp": 27.83,
+      "prec": 185.85
+    },
+    "10": {
+      "temp": 27.39,
+      "prec": 235.38
+    },
+    "11": {
+      "temp": 26.51,
+      "prec": 231.26
+    },
+    "12": {
+      "temp": 25.87,
+      "prec": 138.21
+    }
+  },
+  "GRL": {
+    "average_temp": -12.6,
+    "average_prec": 61.73,
+    "1": {
+      "temp": -20.62,
+      "prec": 72.89
+    },
+    "2": {
+      "temp": -22.15,
+      "prec": 61.44
+    },
+    "3": {
+      "temp": -21.26,
+      "prec": 48.5
+    },
+    "4": {
+      "temp": -15.29,
+      "prec": 39.02
+    },
+    "5": {
+      "temp": -9.33,
+      "prec": 38.24
+    },
+    "6": {
+      "temp": -3.3,
+      "prec": 55.09
+    },
+    "7": {
+      "temp": -0.62,
+      "prec": 81.95
+    },
+    "8": {
+      "temp": -1.89,
+      "prec": 82.15
+    },
+    "9": {
+      "temp": -7.52,
+      "prec": 72.59
+    },
+    "10": {
+      "temp": -12.95,
+      "prec": 54.82
+    },
+    "11": {
+      "temp": -17.74,
+      "prec": 68.0
+    },
+    "12": {
+      "temp": -18.56,
+      "prec": 65.98
+    }
+  },
+  "GTM": {
+    "average_temp": 22.18,
+    "average_prec": 174.09,
+    "1": {
+      "temp": 20.69,
+      "prec": 31.87
+    },
+    "2": {
+      "temp": 21.35,
+      "prec": 20.05
+    },
+    "3": {
+      "temp": 22.89,
+      "prec": 36.12
+    },
+    "4": {
+      "temp": 23.73,
+      "prec": 63.58
+    },
+    "5": {
+      "temp": 23.33,
+      "prec": 211.17
+    },
+    "6": {
+      "temp": 22.65,
+      "prec": 422.43
+    },
+    "7": {
+      "temp": 22.97,
+      "prec": 272.6
+    },
+    "8": {
+      "temp": 22.71,
+      "prec": 248.15
+    },
+    "9": {
+      "temp": 22.3,
+      "prec": 350.94
+    },
+    "10": {
+      "temp": 21.99,
+      "prec": 259.17
+    },
+    "11": {
+      "temp": 21.01,
+      "prec": 135.58
+    },
+    "12": {
+      "temp": 20.56,
+      "prec": 37.41
+    }
+  },
+  "GUY": {
+    "average_temp": 26.86,
+    "average_prec": 192.77,
+    "1": {
+      "temp": 25.96,
+      "prec": 111.54
+    },
+    "2": {
+      "temp": 26.29,
+      "prec": 82.99
+    },
+    "3": {
+      "temp": 26.47,
+      "prec": 107.68
+    },
+    "4": {
+      "temp": 26.62,
+      "prec": 228.08
+    },
+    "5": {
+      "temp": 26.71,
+      "prec": 374.73
+    },
+    "6": {
+      "temp": 26.55,
+      "prec": 356.35
+    },
+    "7": {
+      "temp": 26.68,
+      "prec": 291.78
+    },
+    "8": {
+      "temp": 27.39,
+      "prec": 161.06
+    },
+    "9": {
+      "temp": 27.99,
+      "prec": 104.16
+    },
+    "10": {
+      "temp": 28.05,
+      "prec": 96.9
+    },
+    "11": {
+      "temp": 27.17,
+      "prec": 177.69
+    },
+    "12": {
+      "temp": 26.45,
+      "prec": 220.28
+    }
+  },
+  "HND": {
+    "average_temp": 24.06,
+    "average_prec": 139.12,
+    "1": {
+      "temp": 22.34,
+      "prec": 65.45
+    },
+    "2": {
+      "temp": 22.87,
+      "prec": 41.66
+    },
+    "3": {
+      "temp": 24.67,
+      "prec": 30.1
+    },
+    "4": {
+      "temp": 25.81,
+      "prec": 43.82
+    },
+    "5": {
+      "temp": 25.73,
+      "prec": 163.06
+    },
+    "6": {
+      "temp": 24.71,
+      "prec": 250.89
+    },
+    "7": {
+      "temp": 24.92,
+      "prec": 205.72
+    },
+    "8": {
+      "temp": 24.63,
+      "prec": 191.85
+    },
+    "9": {
+      "temp": 24.48,
+      "prec": 244.05
+    },
+    "10": {
+      "temp": 23.88,
+      "prec": 221.96
+    },
+    "11": {
+      "temp": 22.59,
+      "prec": 133.54
+    },
+    "12": {
+      "temp": 22.12,
+      "prec": 77.37
+    }
+  },
+  "HRV": {
+    "average_temp": 13.04,
+    "average_prec": 78.76,
+    "1": {
+      "temp": 3.3,
+      "prec": 59.1
+    },
+    "2": {
+      "temp": 6.37,
+      "prec": 43.8
+    },
+    "3": {
+      "temp": 8.12,
+      "prec": 55.3
+    },
+    "4": {
+      "temp": 11.23,
+      "prec": 63.56
+    },
+    "5": {
+      "temp": 16.0,
+      "prec": 93.66
+    },
+    "6": {
+      "temp": 21.37,
+      "prec": 78.48
+    },
+    "7": {
+      "temp": 23.26,
+      "prec": 63.76
+    },
+    "8": {
+      "temp": 22.66,
+      "prec": 104.71
+    },
+    "9": {
+      "temp": 18.43,
+      "prec": 101.98
+    },
+    "10": {
+      "temp": 13.62,
+      "prec": 83.62
+    },
+    "11": {
+      "temp": 7.84,
+      "prec": 99.77
+    },
+    "12": {
+      "temp": 4.34,
+      "prec": 97.33
+    }
+  },
+  "HTI": {
+    "average_temp": 25.13,
+    "average_prec": 129.6,
+    "1": {
+      "temp": 23.05,
+      "prec": 31.93
+    },
+    "2": {
+      "temp": 23.68,
+      "prec": 33.3
+    },
+    "3": {
+      "temp": 24.28,
+      "prec": 55.48
+    },
+    "4": {
+      "temp": 24.84,
+      "prec": 85.76
+    },
+    "5": {
+      "temp": 25.47,
+      "prec": 219.2
+    },
+    "6": {
+      "temp": 26.31,
+      "prec": 162.33
+    },
+    "7": {
+      "temp": 26.41,
+      "prec": 132.84
+    },
+    "8": {
+      "temp": 26.75,
+      "prec": 260.25
+    },
+    "9": {
+      "temp": 26.6,
+      "prec": 133.3
+    },
+    "10": {
+      "temp": 25.96,
+      "prec": 201.45
+    },
+    "11": {
+      "temp": 24.74,
+      "prec": 162.95
+    },
+    "12": {
+      "temp": 23.52,
+      "prec": 76.42
+    }
+  },
+  "HUN": {
+    "average_temp": 12.25,
+    "average_prec": 49.18,
+    "1": {
+      "temp": 1.52,
+      "prec": 32.77
+    },
+    "2": {
+      "temp": 4.7,
+      "prec": 27.67
+    },
+    "3": {
+      "temp": 7.22,
+      "prec": 28.11
+    },
+    "4": {
+      "temp": 11.02,
+      "prec": 37.8
+    },
+    "5": {
+      "temp": 16.17,
+      "prec": 57.29
+    },
+    "6": {
+      "temp": 21.42,
+      "prec": 62.87
+    },
+    "7": {
+      "temp": 23.2,
+      "prec": 56.29
+    },
+    "8": {
+      "temp": 22.7,
+      "prec": 70.17
+    },
+    "9": {
+      "temp": 18.05,
+      "prec": 67.05
+    },
+    "10": {
+      "temp": 12.39,
+      "prec": 47.87
+    },
+    "11": {
+      "temp": 5.89,
+      "prec": 50.4
+    },
+    "12": {
+      "temp": 2.67,
+      "prec": 51.86
+    }
+  },
+  "IDN": {
+    "average_temp": 25.6,
+    "average_prec": 229.03,
+    "1": {
+      "temp": 25.4,
+      "prec": 293.82
+    },
+    "2": {
+      "temp": 25.39,
+      "prec": 250.87
+    },
+    "3": {
+      "temp": 25.7,
+      "prec": 281.09
+    },
+    "4": {
+      "temp": 25.87,
+      "prec": 254.28
+    },
+    "5": {
+      "temp": 26.0,
+      "prec": 217.92
+    },
+    "6": {
+      "temp": 25.49,
+      "prec": 194.79
+    },
+    "7": {
+      "temp": 25.32,
+      "prec": 159.21
+    },
+    "8": {
+      "temp": 25.29,
+      "prec": 160.08
+    },
+    "9": {
+      "temp": 25.58,
+      "prec": 179.24
+    },
+    "10": {
+      "temp": 25.95,
+      "prec": 199.42
+    },
+    "11": {
+      "temp": 25.74,
+      "prec": 275.57
+    },
+    "12": {
+      "temp": 25.44,
+      "prec": 282.05
+    }
+  },
+  "IND": {
+    "average_temp": 22.58,
+    "average_prec": 133.82,
+    "1": {
+      "temp": 15.08,
+      "prec": 31.63
+    },
+    "2": {
+      "temp": 17.96,
+      "prec": 15.88
+    },
+    "3": {
+      "temp": 21.96,
+      "prec": 31.02
+    },
+    "4": {
+      "temp": 25.19,
+      "prec": 45.18
+    },
+    "5": {
+      "temp": 26.95,
+      "prec": 89.07
+    },
+    "6": {
+      "temp": 26.95,
+      "prec": 226.15
+    },
+    "7": {
+      "temp": 26.0,
+      "prec": 418.2
+    },
+    "8": {
+      "temp": 25.71,
+      "prec": 299.24
+    },
+    "9": {
+      "temp": 25.26,
+      "prec": 245.23
+    },
+    "10": {
+      "temp": 23.51,
+      "prec": 131.12
+    },
+    "11": {
+      "temp": 19.62,
+      "prec": 45.17
+    },
+    "12": {
+      "temp": 16.7,
+      "prec": 28.0
+    }
+  },
+  "IRL": {
+    "average_temp": 10.28,
+    "average_prec": 114.55,
+    "1": {
+      "temp": 5.54,
+      "prec": 113.89
+    },
+    "2": {
+      "temp": 6.54,
+      "prec": 140.94
+    },
+    "3": {
+      "temp": 7.07,
+      "prec": 114.3
+    },
+    "4": {
+      "temp": 8.7,
+      "prec": 64.43
+    },
+    "5": {
+      "temp": 11.67,
+      "prec": 76.78
+    },
+    "6": {
+      "temp": 13.99,
+      "prec": 73.41
+    },
+    "7": {
+      "temp": 15.14,
+      "prec": 107.56
+    },
+    "8": {
+      "temp": 15.35,
+      "prec": 106.72
+    },
+    "9": {
+      "temp": 13.78,
+      "prec": 125.18
+    },
+    "10": {
+      "temp": 11.09,
+      "prec": 173.7
+    },
+    "11": {
+      "temp": 8.3,
+      "prec": 124.67
+    },
+    "12": {
+      "temp": 6.18,
+      "prec": 153.07
+    }
+  },
+  "IRN": {
+    "average_temp": 17.33,
+    "average_prec": 20.79,
+    "1": {
+      "temp": 4.6,
+      "prec": 31.42
+    },
+    "2": {
+      "temp": 7.59,
+      "prec": 35.98
+    },
+    "3": {
+      "temp": 11.49,
+      "prec": 36.1
+    },
+    "4": {
+      "temp": 16.43,
+      "prec": 33.61
+    },
+    "5": {
+      "temp": 21.13,
+      "prec": 24.08
+    },
+    "6": {
+      "temp": 27.3,
+      "prec": 5.0
+    },
+    "7": {
+      "temp": 28.91,
+      "prec": 4.98
+    },
+    "8": {
+      "temp": 28.52,
+      "prec": 5.36
+    },
+    "9": {
+      "temp": 24.48,
+      "prec": 4.21
+    },
+    "10": {
+      "temp": 18.62,
+      "prec": 11.51
+    },
+    "11": {
+      "temp": 12.36,
+      "prec": 28.11
+    },
+    "12": {
+      "temp": 6.53,
+      "prec": 29.17
+    }
+  },
+  "IRQ": {
+    "average_temp": 24.19,
+    "average_prec": 19.07,
+    "1": {
+      "temp": 11.09,
+      "prec": 44.46
+    },
+    "2": {
+      "temp": 13.78,
+      "prec": 37.93
+    },
+    "3": {
+      "temp": 18.04,
+      "prec": 42.07
+    },
+    "4": {
+      "temp": 23.12,
+      "prec": 27.6
+    },
+    "5": {
+      "temp": 28.81,
+      "prec": 11.23
+    },
+    "6": {
+      "temp": 34.68,
+      "prec": 0.08
+    },
+    "7": {
+      "temp": 36.15,
+      "prec": 0.06
+    },
+    "8": {
+      "temp": 35.83,
+      "prec": 0.07
+    },
+    "9": {
+      "temp": 32.2,
+      "prec": 0.18
+    },
+    "10": {
+      "temp": 25.76,
+      "prec": 4.3
+    },
+    "11": {
+      "temp": 18.25,
+      "prec": 29.48
+    },
+    "12": {
+      "temp": 12.61,
+      "prec": 31.39
+    }
+  },
+  "ISL": {
+    "average_temp": 2.64,
+    "average_prec": 87.93,
+    "1": {
+      "temp": -1.87,
+      "prec": 106.58
+    },
+    "2": {
+      "temp": -1.75,
+      "prec": 98.47
+    },
+    "3": {
+      "temp": -1.75,
+      "prec": 90.02
+    },
+    "4": {
+      "temp": 1.11,
+      "prec": 59.28
+    },
+    "5": {
+      "temp": 3.6,
+      "prec": 65.88
+    },
+    "6": {
+      "temp": 7.47,
+      "prec": 70.99
+    },
+    "7": {
+      "temp": 9.26,
+      "prec": 59.46
+    },
+    "8": {
+      "temp": 9.26,
+      "prec": 87.51
+    },
+    "9": {
+      "temp": 5.94,
+      "prec": 129.28
+    },
+    "10": {
+      "temp": 2.29,
+      "prec": 119.56
+    },
+    "11": {
+      "temp": 0.5,
+      "prec": 86.86
+    },
+    "12": {
+      "temp": -2.43,
+      "prec": 81.25
+    }
+  },
+  "ISR": {
+    "average_temp": 20.65,
+    "average_prec": 41.63,
+    "1": {
+      "temp": 12.62,
+      "prec": 163.36
+    },
+    "2": {
+      "temp": 13.15,
+      "prec": 79.85
+    },
+    "3": {
+      "temp": 15.08,
+      "prec": 37.44
+    },
+    "4": {
+      "temp": 19.45,
+      "prec": 17.11
+    },
+    "5": {
+      "temp": 22.29,
+      "prec": 6.74
+    },
+    "6": {
+      "temp": 25.05,
+      "prec": 0.01
+    },
+    "7": {
+      "temp": 27.66,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 28.28,
+      "prec": 0.0
+    },
+    "9": {
+      "temp": 26.73,
+      "prec": 0.7
+    },
+    "10": {
+      "temp": 23.56,
+      "prec": 6.79
+    },
+    "11": {
+      "temp": 18.96,
+      "prec": 85.94
+    },
+    "12": {
+      "temp": 14.93,
+      "prec": 101.53
+    }
+  },
+  "ITA": {
+    "average_temp": 14.06,
+    "average_prec": 58.53,
+    "1": {
+      "temp": 5.61,
+      "prec": 53.26
+    },
+    "2": {
+      "temp": 7.3,
+      "prec": 42.08
+    },
+    "3": {
+      "temp": 8.69,
+      "prec": 54.22
+    },
+    "4": {
+      "temp": 11.28,
+      "prec": 50.36
+    },
+    "5": {
+      "temp": 15.89,
+      "prec": 67.03
+    },
+    "6": {
+      "temp": 21.02,
+      "prec": 54.39
+    },
+    "7": {
+      "temp": 23.56,
+      "prec": 31.53
+    },
+    "8": {
+      "temp": 23.44,
+      "prec": 55.87
+    },
+    "9": {
+      "temp": 19.74,
+      "prec": 66.48
+    },
+    "10": {
+      "temp": 15.34,
+      "prec": 72.86
+    },
+    "11": {
+      "temp": 10.28,
+      "prec": 81.47
+    },
+    "12": {
+      "temp": 6.6,
+      "prec": 72.82
+    }
+  },
+  "JAM": {
+    "average_temp": 25.2,
+    "average_prec": 163.63,
+    "1": {
+      "temp": 23.56,
+      "prec": 59.28
+    },
+    "2": {
+      "temp": 24.0,
+      "prec": 47.27
+    },
+    "3": {
+      "temp": 24.41,
+      "prec": 48.4
+    },
+    "4": {
+      "temp": 24.99,
+      "prec": 91.9
+    },
+    "5": {
+      "temp": 25.63,
+      "prec": 185.86
+    },
+    "6": {
+      "temp": 26.0,
+      "prec": 230.72
+    },
+    "7": {
+      "temp": 26.28,
+      "prec": 197.24
+    },
+    "8": {
+      "temp": 26.53,
+      "prec": 244.96
+    },
+    "9": {
+      "temp": 26.38,
+      "prec": 175.43
+    },
+    "10": {
+      "temp": 25.68,
+      "prec": 287.91
+    },
+    "11": {
+      "temp": 24.91,
+      "prec": 321.93
+    },
+    "12": {
+      "temp": 24.06,
+      "prec": 72.64
+    }
+  },
+  "JOR": {
+    "average_temp": 20.29,
+    "average_prec": 18.01,
+    "1": {
+      "temp": 10.46,
+      "prec": 63.65
+    },
+    "2": {
+      "temp": 11.56,
+      "prec": 40.57
+    },
+    "3": {
+      "temp": 14.44,
+      "prec": 21.45
+    },
+    "4": {
+      "temp": 19.6,
+      "prec": 11.18
+    },
+    "5": {
+      "temp": 23.45,
+      "prec": 5.18
+    },
+    "6": {
+      "temp": 26.33,
+      "prec": 0.0
+    },
+    "7": {
+      "temp": 28.6,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 28.92,
+      "prec": 0.0
+    },
+    "9": {
+      "temp": 26.92,
+      "prec": 0.02
+    },
+    "10": {
+      "temp": 23.03,
+      "prec": 2.31
+    },
+    "11": {
+      "temp": 17.37,
+      "prec": 31.26
+    },
+    "12": {
+      "temp": 12.77,
+      "prec": 40.47
+    }
+  },
+  "JPN": {
+    "average_temp": 14.35,
+    "average_prec": 160.63,
+    "1": {
+      "temp": 3.12,
+      "prec": 83.42
+    },
+    "2": {
+      "temp": 4.23,
+      "prec": 84.88
+    },
+    "3": {
+      "temp": 7.93,
+      "prec": 127.36
+    },
+    "4": {
+      "temp": 12.48,
+      "prec": 153.17
+    },
+    "5": {
+      "temp": 16.88,
+      "prec": 189.54
+    },
+    "6": {
+      "temp": 20.99,
+      "prec": 246.72
+    },
+    "7": {
+      "temp": 24.88,
+      "prec": 306.27
+    },
+    "8": {
+      "temp": 26.22,
+      "prec": 221.07
+    },
+    "9": {
+      "temp": 22.81,
+      "prec": 199.1
+    },
+    "10": {
+      "temp": 16.31,
+      "prec": 136.05
+    },
+    "11": {
+      "temp": 11.47,
+      "prec": 102.54
+    },
+    "12": {
+      "temp": 4.88,
+      "prec": 77.4
+    }
+  },
+  "KAZ": {
+    "average_temp": 7.58,
+    "average_prec": 23.22,
+    "1": {
+      "temp": -9.57,
+      "prec": 19.54
+    },
+    "2": {
+      "temp": -7.42,
+      "prec": 20.2
+    },
+    "3": {
+      "temp": -0.83,
+      "prec": 23.5
+    },
+    "4": {
+      "temp": 10.36,
+      "prec": 21.71
+    },
+    "5": {
+      "temp": 17.11,
+      "prec": 28.57
+    },
+    "6": {
+      "temp": 22.26,
+      "prec": 25.1
+    },
+    "7": {
+      "temp": 24.44,
+      "prec": 32.0
+    },
+    "8": {
+      "temp": 22.18,
+      "prec": 24.01
+    },
+    "9": {
+      "temp": 15.19,
+      "prec": 16.58
+    },
+    "10": {
+      "temp": 7.22,
+      "prec": 23.37
+    },
+    "11": {
+      "temp": -1.15,
+      "prec": 27.23
+    },
+    "12": {
+      "temp": -8.86,
+      "prec": 16.84
+    }
+  },
+  "KEN": {
+    "average_temp": 21.58,
+    "average_prec": 117.38,
+    "1": {
+      "temp": 22.16,
+      "prec": 88.83
+    },
+    "2": {
+      "temp": 22.09,
+      "prec": 51.33
+    },
+    "3": {
+      "temp": 22.57,
+      "prec": 104.52
+    },
+    "4": {
+      "temp": 21.98,
+      "prec": 199.85
+    },
+    "5": {
+      "temp": 21.92,
+      "prec": 183.16
+    },
+    "6": {
+      "temp": 20.79,
+      "prec": 71.74
+    },
+    "7": {
+      "temp": 20.15,
+      "prec": 94.89
+    },
+    "8": {
+      "temp": 20.37,
+      "prec": 107.11
+    },
+    "9": {
+      "temp": 21.26,
+      "prec": 135.2
+    },
+    "10": {
+      "temp": 22.06,
+      "prec": 103.16
+    },
+    "11": {
+      "temp": 21.77,
+      "prec": 151.8
+    },
+    "12": {
+      "temp": 21.84,
+      "prec": 116.98
+    }
+  },
+  "KGZ": {
+    "average_temp": 3.21,
+    "average_prec": 38.02,
+    "1": {
+      "temp": -10.63,
+      "prec": 17.91
+    },
+    "2": {
+      "temp": -7.11,
+      "prec": 28.96
+    },
+    "3": {
+      "temp": -3.06,
+      "prec": 49.64
+    },
+    "4": {
+      "temp": 3.55,
+      "prec": 48.79
+    },
+    "5": {
+      "temp": 9.74,
+      "prec": 61.88
+    },
+    "6": {
+      "temp": 13.29,
+      "prec": 42.08
+    },
+    "7": {
+      "temp": 15.96,
+      "prec": 42.93
+    },
+    "8": {
+      "temp": 15.08,
+      "prec": 46.12
+    },
+    "9": {
+      "temp": 10.98,
+      "prec": 21.22
+    },
+    "10": {
+      "temp": 4.46,
+      "prec": 44.61
+    },
+    "11": {
+      "temp": -3.23,
+      "prec": 34.08
+    },
+    "12": {
+      "temp": -10.43,
+      "prec": 18.03
+    }
+  },
+  "KHM": {
+    "average_temp": 27.67,
+    "average_prec": 157.38,
+    "1": {
+      "temp": 25.82,
+      "prec": 6.65
+    },
+    "2": {
+      "temp": 26.98,
+      "prec": 14.6
+    },
+    "3": {
+      "temp": 28.85,
+      "prec": 51.53
+    },
+    "4": {
+      "temp": 29.56,
+      "prec": 87.94
+    },
+    "5": {
+      "temp": 29.24,
+      "prec": 206.39
+    },
+    "6": {
+      "temp": 28.55,
+      "prec": 208.46
+    },
+    "7": {
+      "temp": 27.94,
+      "prec": 315.72
+    },
+    "8": {
+      "temp": 27.85,
+      "prec": 258.1
+    },
+    "9": {
+      "temp": 27.27,
+      "prec": 358.91
+    },
+    "10": {
+      "temp": 26.83,
+      "prec": 281.55
+    },
+    "11": {
+      "temp": 27.13,
+      "prec": 81.83
+    },
+    "12": {
+      "temp": 26.0,
+      "prec": 16.93
+    }
+  },
+  "KIR": {
+    "average_temp": 27.52,
+    "average_prec": 197.57,
+    "1": {
+      "temp": 27.25,
+      "prec": 194.63
+    },
+    "2": {
+      "temp": 27.33,
+      "prec": 205.9
+    },
+    "3": {
+      "temp": 27.42,
+      "prec": 279.66
+    },
+    "4": {
+      "temp": 27.5,
+      "prec": 224.97
+    },
+    "5": {
+      "temp": 27.62,
+      "prec": 179.22
+    },
+    "6": {
+      "temp": 27.62,
+      "prec": 203.79
+    },
+    "7": {
+      "temp": 27.54,
+      "prec": 173.43
+    },
+    "8": {
+      "temp": 27.62,
+      "prec": 180.63
+    },
+    "9": {
+      "temp": 27.75,
+      "prec": 138.51
+    },
+    "10": {
+      "temp": 27.71,
+      "prec": 158.12
+    },
+    "11": {
+      "temp": 27.62,
+      "prec": 229.28
+    },
+    "12": {
+      "temp": 27.25,
+      "prec": 202.62
+    }
+  },
+  "KNA": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "KOR": {
+    "average_temp": 13.37,
+    "average_prec": 121.28,
+    "1": {
+      "temp": -0.19,
+      "prec": 39.78
+    },
+    "2": {
+      "temp": 2.45,
+      "prec": 45.88
+    },
+    "3": {
+      "temp": 7.79,
+      "prec": 66.55
+    },
+    "4": {
+      "temp": 13.03,
+      "prec": 76.58
+    },
+    "5": {
+      "temp": 17.54,
+      "prec": 111.99
+    },
+    "6": {
+      "temp": 22.25,
+      "prec": 169.42
+    },
+    "7": {
+      "temp": 25.3,
+      "prec": 349.18
+    },
+    "8": {
+      "temp": 26.17,
+      "prec": 271.69
+    },
+    "9": {
+      "temp": 21.48,
+      "prec": 186.73
+    },
+    "10": {
+      "temp": 14.84,
+      "prec": 57.85
+    },
+    "11": {
+      "temp": 8.76,
+      "prec": 54.91
+    },
+    "12": {
+      "temp": 0.99,
+      "prec": 24.83
+    }
+  },
+  "KWT": {
+    "average_temp": 27.67,
+    "average_prec": 8.1,
+    "1": {
+      "temp": 14.46,
+      "prec": 20.89
+    },
+    "2": {
+      "temp": 17.08,
+      "prec": 7.68
+    },
+    "3": {
+      "temp": 21.68,
+      "prec": 12.11
+    },
+    "4": {
+      "temp": 27.21,
+      "prec": 5.77
+    },
+    "5": {
+      "temp": 33.19,
+      "prec": 3.43
+    },
+    "6": {
+      "temp": 38.41,
+      "prec": 0.0
+    },
+    "7": {
+      "temp": 39.66,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 38.72,
+      "prec": 0.05
+    },
+    "9": {
+      "temp": 34.86,
+      "prec": 0.0
+    },
+    "10": {
+      "temp": 28.86,
+      "prec": 1.55
+    },
+    "11": {
+      "temp": 22.02,
+      "prec": 29.96
+    },
+    "12": {
+      "temp": 15.89,
+      "prec": 15.76
+    }
+  },
+  "LAO": {
+    "average_temp": 23.9,
+    "average_prec": 161.43,
+    "1": {
+      "temp": 19.49,
+      "prec": 8.32
+    },
+    "2": {
+      "temp": 21.05,
+      "prec": 19.05
+    },
+    "3": {
+      "temp": 24.06,
+      "prec": 40.19
+    },
+    "4": {
+      "temp": 25.64,
+      "prec": 91.73
+    },
+    "5": {
+      "temp": 26.53,
+      "prec": 184.66
+    },
+    "6": {
+      "temp": 26.52,
+      "prec": 232.43
+    },
+    "7": {
+      "temp": 26.07,
+      "prec": 428.32
+    },
+    "8": {
+      "temp": 25.85,
+      "prec": 404.43
+    },
+    "9": {
+      "temp": 25.27,
+      "prec": 376.54
+    },
+    "10": {
+      "temp": 23.8,
+      "prec": 127.02
+    },
+    "11": {
+      "temp": 22.47,
+      "prec": 19.16
+    },
+    "12": {
+      "temp": 19.99,
+      "prec": 5.3
+    }
+  },
+  "LBN": {
+    "average_temp": 17.16,
+    "average_prec": 75.6,
+    "1": {
+      "temp": 8.43,
+      "prec": 297.85
+    },
+    "2": {
+      "temp": 8.97,
+      "prec": 134.99
+    },
+    "3": {
+      "temp": 10.68,
+      "prec": 109.44
+    },
+    "4": {
+      "temp": 15.66,
+      "prec": 49.94
+    },
+    "5": {
+      "temp": 19.16,
+      "prec": 32.59
+    },
+    "6": {
+      "temp": 22.47,
+      "prec": 1.46
+    },
+    "7": {
+      "temp": 25.2,
+      "prec": 0.56
+    },
+    "8": {
+      "temp": 25.9,
+      "prec": 0.72
+    },
+    "9": {
+      "temp": 23.52,
+      "prec": 4.89
+    },
+    "10": {
+      "temp": 20.01,
+      "prec": 17.43
+    },
+    "11": {
+      "temp": 14.88,
+      "prec": 105.4
+    },
+    "12": {
+      "temp": 11.01,
+      "prec": 151.9
+    }
+  },
+  "LBR": {
+    "average_temp": 26.21,
+    "average_prec": 240.31,
+    "1": {
+      "temp": 26.57,
+      "prec": 47.54
+    },
+    "2": {
+      "temp": 27.04,
+      "prec": 82.96
+    },
+    "3": {
+      "temp": 27.5,
+      "prec": 130.56
+    },
+    "4": {
+      "temp": 27.39,
+      "prec": 165.98
+    },
+    "5": {
+      "temp": 26.79,
+      "prec": 293.5
+    },
+    "6": {
+      "temp": 25.56,
+      "prec": 448.85
+    },
+    "7": {
+      "temp": 24.88,
+      "prec": 353.98
+    },
+    "8": {
+      "temp": 24.57,
+      "prec": 266.6
+    },
+    "9": {
+      "temp": 25.24,
+      "prec": 464.56
+    },
+    "10": {
+      "temp": 26.35,
+      "prec": 330.49
+    },
+    "11": {
+      "temp": 26.17,
+      "prec": 201.41
+    },
+    "12": {
+      "temp": 26.41,
+      "prec": 97.28
+    }
+  },
+  "LBY": {
+    "average_temp": 21.61,
+    "average_prec": 7.36,
+    "1": {
+      "temp": 12.21,
+      "prec": 21.36
+    },
+    "2": {
+      "temp": 13.98,
+      "prec": 14.64
+    },
+    "3": {
+      "temp": 16.82,
+      "prec": 6.77
+    },
+    "4": {
+      "temp": 20.99,
+      "prec": 2.55
+    },
+    "5": {
+      "temp": 24.65,
+      "prec": 2.98
+    },
+    "6": {
+      "temp": 27.99,
+      "prec": 0.62
+    },
+    "7": {
+      "temp": 29.37,
+      "prec": 0.03
+    },
+    "8": {
+      "temp": 29.45,
+      "prec": 0.19
+    },
+    "9": {
+      "temp": 27.45,
+      "prec": 3.95
+    },
+    "10": {
+      "temp": 23.69,
+      "prec": 4.67
+    },
+    "11": {
+      "temp": 18.81,
+      "prec": 9.23
+    },
+    "12": {
+      "temp": 13.95,
+      "prec": 21.39
+    }
+  },
+  "LCA": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "LIE": {
+    "average_temp": 6.8,
+    "average_prec": 124.7,
+    "1": {
+      "temp": -0.76,
+      "prec": 99.55
+    },
+    "2": {
+      "temp": 1.28,
+      "prec": 100.21
+    },
+    "3": {
+      "temp": 1.99,
+      "prec": 93.57
+    },
+    "4": {
+      "temp": 4.38,
+      "prec": 87.16
+    },
+    "5": {
+      "temp": 8.72,
+      "prec": 149.85
+    },
+    "6": {
+      "temp": 13.59,
+      "prec": 150.1
+    },
+    "7": {
+      "temp": 14.84,
+      "prec": 165.66
+    },
+    "8": {
+      "temp": 14.99,
+      "prec": 185.82
+    },
+    "9": {
+      "temp": 11.77,
+      "prec": 136.22
+    },
+    "10": {
+      "temp": 8.3,
+      "prec": 106.57
+    },
+    "11": {
+      "temp": 2.61,
+      "prec": 103.37
+    },
+    "12": {
+      "temp": -0.1,
+      "prec": 118.35
+    }
+  },
+  "LKA": {
+    "average_temp": 27.13,
+    "average_prec": 197.15,
+    "1": {
+      "temp": 25.66,
+      "prec": 182.85
+    },
+    "2": {
+      "temp": 26.34,
+      "prec": 90.59
+    },
+    "3": {
+      "temp": 27.49,
+      "prec": 121.85
+    },
+    "4": {
+      "temp": 28.06,
+      "prec": 216.95
+    },
+    "5": {
+      "temp": 27.93,
+      "prec": 216.11
+    },
+    "6": {
+      "temp": 28.1,
+      "prec": 100.25
+    },
+    "7": {
+      "temp": 27.68,
+      "prec": 160.58
+    },
+    "8": {
+      "temp": 27.58,
+      "prec": 172.91
+    },
+    "9": {
+      "temp": 27.5,
+      "prec": 98.42
+    },
+    "10": {
+      "temp": 27.03,
+      "prec": 350.85
+    },
+    "11": {
+      "temp": 26.26,
+      "prec": 314.57
+    },
+    "12": {
+      "temp": 25.92,
+      "prec": 339.81
+    }
+  },
+  "LSO": {
+    "average_temp": 12.61,
+    "average_prec": 69.86,
+    "1": {
+      "temp": 17.91,
+      "prec": 146.2
+    },
+    "2": {
+      "temp": 17.33,
+      "prec": 85.29
+    },
+    "3": {
+      "temp": 15.72,
+      "prec": 100.16
+    },
+    "4": {
+      "temp": 12.3,
+      "prec": 91.43
+    },
+    "5": {
+      "temp": 9.3,
+      "prec": 27.36
+    },
+    "6": {
+      "temp": 6.33,
+      "prec": 20.04
+    },
+    "7": {
+      "temp": 5.69,
+      "prec": 6.99
+    },
+    "8": {
+      "temp": 8.19,
+      "prec": 19.21
+    },
+    "9": {
+      "temp": 11.77,
+      "prec": 36.48
+    },
+    "10": {
+      "temp": 14.3,
+      "prec": 74.53
+    },
+    "11": {
+      "temp": 15.58,
+      "prec": 84.68
+    },
+    "12": {
+      "temp": 16.87,
+      "prec": 145.91
+    }
+  },
+  "LTU": {
+    "average_temp": 8.21,
+    "average_prec": 54.7,
+    "1": {
+      "temp": -1.52,
+      "prec": 57.23
+    },
+    "2": {
+      "temp": -0.6,
+      "prec": 40.4
+    },
+    "3": {
+      "temp": 2.11,
+      "prec": 28.04
+    },
+    "4": {
+      "temp": 6.64,
+      "prec": 35.24
+    },
+    "5": {
+      "temp": 11.67,
+      "prec": 54.94
+    },
+    "6": {
+      "temp": 17.83,
+      "prec": 66.64
+    },
+    "7": {
+      "temp": 18.57,
+      "prec": 86.68
+    },
+    "8": {
+      "temp": 18.54,
+      "prec": 86.66
+    },
+    "9": {
+      "temp": 13.59,
+      "prec": 40.88
+    },
+    "10": {
+      "temp": 9.04,
+      "prec": 55.49
+    },
+    "11": {
+      "temp": 3.7,
+      "prec": 54.29
+    },
+    "12": {
+      "temp": -0.99,
+      "prec": 49.89
+    }
+  },
+  "LUX": {
+    "average_temp": 10.62,
+    "average_prec": 76.88,
+    "1": {
+      "temp": 2.64,
+      "prec": 99.52
+    },
+    "2": {
+      "temp": 5.03,
+      "prec": 93.89
+    },
+    "3": {
+      "temp": 6.44,
+      "prec": 69.53
+    },
+    "4": {
+      "temp": 8.8,
+      "prec": 50.74
+    },
+    "5": {
+      "temp": 13.13,
+      "prec": 70.65
+    },
+    "6": {
+      "temp": 17.73,
+      "prec": 67.27
+    },
+    "7": {
+      "temp": 18.28,
+      "prec": 72.7
+    },
+    "8": {
+      "temp": 18.98,
+      "prec": 64.1
+    },
+    "9": {
+      "temp": 15.48,
+      "prec": 73.21
+    },
+    "10": {
+      "temp": 11.28,
+      "prec": 90.94
+    },
+    "11": {
+      "temp": 6.11,
+      "prec": 77.98
+    },
+    "12": {
+      "temp": 3.54,
+      "prec": 92.0
+    }
+  },
+  "LVA": {
+    "average_temp": 7.69,
+    "average_prec": 54.24,
+    "1": {
+      "temp": -1.96,
+      "prec": 50.25
+    },
+    "2": {
+      "temp": -1.53,
+      "prec": 37.34
+    },
+    "3": {
+      "temp": 1.48,
+      "prec": 28.99
+    },
+    "4": {
+      "temp": 6.15,
+      "prec": 36.92
+    },
+    "5": {
+      "temp": 11.21,
+      "prec": 45.97
+    },
+    "6": {
+      "temp": 17.62,
+      "prec": 60.19
+    },
+    "7": {
+      "temp": 18.49,
+      "prec": 88.45
+    },
+    "8": {
+      "temp": 17.97,
+      "prec": 86.34
+    },
+    "9": {
+      "temp": 13.16,
+      "prec": 44.67
+    },
+    "10": {
+      "temp": 8.39,
+      "prec": 61.11
+    },
+    "11": {
+      "temp": 3.2,
+      "prec": 60.95
+    },
+    "12": {
+      "temp": -1.84,
+      "prec": 49.66
+    }
+  },
+  "MAR": {
+    "average_temp": 18.86,
+    "average_prec": 21.33,
+    "1": {
+      "temp": 10.87,
+      "prec": 34.19
+    },
+    "2": {
+      "temp": 12.8,
+      "prec": 32.83
+    },
+    "3": {
+      "temp": 14.62,
+      "prec": 50.27
+    },
+    "4": {
+      "temp": 17.67,
+      "prec": 23.19
+    },
+    "5": {
+      "temp": 21.01,
+      "prec": 13.26
+    },
+    "6": {
+      "temp": 23.83,
+      "prec": 5.81
+    },
+    "7": {
+      "temp": 27.15,
+      "prec": 1.33
+    },
+    "8": {
+      "temp": 27.05,
+      "prec": 2.47
+    },
+    "9": {
+      "temp": 23.39,
+      "prec": 9.96
+    },
+    "10": {
+      "temp": 20.27,
+      "prec": 20.47
+    },
+    "11": {
+      "temp": 15.56,
+      "prec": 23.24
+    },
+    "12": {
+      "temp": 12.06,
+      "prec": 38.89
+    }
+  },
+  "MCO": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "MDA": {
+    "average_temp": 11.35,
+    "average_prec": 43.25,
+    "1": {
+      "temp": 0.37,
+      "prec": 32.92
+    },
+    "2": {
+      "temp": 2.2,
+      "prec": 31.9
+    },
+    "3": {
+      "temp": 4.99,
+      "prec": 29.16
+    },
+    "4": {
+      "temp": 10.29,
+      "prec": 44.02
+    },
+    "5": {
+      "temp": 15.15,
+      "prec": 53.93
+    },
+    "6": {
+      "temp": 20.74,
+      "prec": 66.18
+    },
+    "7": {
+      "temp": 22.74,
+      "prec": 59.71
+    },
+    "8": {
+      "temp": 22.71,
+      "prec": 41.91
+    },
+    "9": {
+      "temp": 17.53,
+      "prec": 42.96
+    },
+    "10": {
+      "temp": 12.07,
+      "prec": 25.77
+    },
+    "11": {
+      "temp": 5.57,
+      "prec": 45.01
+    },
+    "12": {
+      "temp": 1.86,
+      "prec": 45.54
+    }
+  },
+  "MDG": {
+    "average_temp": 22.96,
+    "average_prec": 114.51,
+    "1": {
+      "temp": 25.04,
+      "prec": 316.15
+    },
+    "2": {
+      "temp": 25.2,
+      "prec": 224.92
+    },
+    "3": {
+      "temp": 24.74,
+      "prec": 231.96
+    },
+    "4": {
+      "temp": 24.06,
+      "prec": 79.39
+    },
+    "5": {
+      "temp": 21.92,
+      "prec": 35.4
+    },
+    "6": {
+      "temp": 20.01,
+      "prec": 34.11
+    },
+    "7": {
+      "temp": 19.47,
+      "prec": 30.82
+    },
+    "8": {
+      "temp": 20.14,
+      "prec": 30.41
+    },
+    "9": {
+      "temp": 21.58,
+      "prec": 22.85
+    },
+    "10": {
+      "temp": 23.39,
+      "prec": 39.51
+    },
+    "11": {
+      "temp": 24.68,
+      "prec": 118.75
+    },
+    "12": {
+      "temp": 25.28,
+      "prec": 209.84
+    }
+  },
+  "MDV": {
+    "average_temp": 27.96,
+    "average_prec": 203.92,
+    "1": {
+      "temp": 27.97,
+      "prec": 222.33
+    },
+    "2": {
+      "temp": 28.17,
+      "prec": 122.0
+    },
+    "3": {
+      "temp": 28.5,
+      "prec": 150.67
+    },
+    "4": {
+      "temp": 28.63,
+      "prec": 172.0
+    },
+    "5": {
+      "temp": 28.47,
+      "prec": 241.0
+    },
+    "6": {
+      "temp": 28.0,
+      "prec": 186.33
+    },
+    "7": {
+      "temp": 28.0,
+      "prec": 191.33
+    },
+    "8": {
+      "temp": 27.5,
+      "prec": 191.33
+    },
+    "9": {
+      "temp": 27.5,
+      "prec": 220.0
+    },
+    "10": {
+      "temp": 27.5,
+      "prec": 284.0
+    },
+    "11": {
+      "temp": 27.57,
+      "prec": 194.0
+    },
+    "12": {
+      "temp": 27.77,
+      "prec": 272.0
+    }
+  },
+  "MEX": {
+    "average_temp": 21.87,
+    "average_prec": 73.08,
+    "1": {
+      "temp": 17.56,
+      "prec": 24.19
+    },
+    "2": {
+      "temp": 18.33,
+      "prec": 18.41
+    },
+    "3": {
+      "temp": 20.94,
+      "prec": 13.33
+    },
+    "4": {
+      "temp": 23.06,
+      "prec": 18.06
+    },
+    "5": {
+      "temp": 24.62,
+      "prec": 45.97
+    },
+    "6": {
+      "temp": 24.92,
+      "prec": 132.33
+    },
+    "7": {
+      "temp": 24.65,
+      "prec": 146.34
+    },
+    "8": {
+      "temp": 24.57,
+      "prec": 167.77
+    },
+    "9": {
+      "temp": 23.41,
+      "prec": 165.13
+    },
+    "10": {
+      "temp": 22.3,
+      "prec": 85.68
+    },
+    "11": {
+      "temp": 19.96,
+      "prec": 38.32
+    },
+    "12": {
+      "temp": 18.18,
+      "prec": 21.47
+    }
+  },
+  "MHL": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "MKD": {
+    "average_temp": 11.74,
+    "average_prec": 56.05,
+    "1": {
+      "temp": 1.55,
+      "prec": 62.5
+    },
+    "2": {
+      "temp": 4.17,
+      "prec": 34.99
+    },
+    "3": {
+      "temp": 6.21,
+      "prec": 59.03
+    },
+    "4": {
+      "temp": 9.97,
+      "prec": 56.33
+    },
+    "5": {
+      "temp": 14.64,
+      "prec": 62.42
+    },
+    "6": {
+      "temp": 19.7,
+      "prec": 71.92
+    },
+    "7": {
+      "temp": 22.32,
+      "prec": 29.66
+    },
+    "8": {
+      "temp": 22.12,
+      "prec": 49.06
+    },
+    "9": {
+      "temp": 17.83,
+      "prec": 51.65
+    },
+    "10": {
+      "temp": 12.34,
+      "prec": 49.09
+    },
+    "11": {
+      "temp": 6.62,
+      "prec": 64.62
+    },
+    "12": {
+      "temp": 3.4,
+      "prec": 81.38
+    }
+  },
+  "MLI": {
+    "average_temp": 28.95,
+    "average_prec": 45.66,
+    "1": {
+      "temp": 23.48,
+      "prec": 0.39
+    },
+    "2": {
+      "temp": 26.09,
+      "prec": 0.23
+    },
+    "3": {
+      "temp": 29.79,
+      "prec": 2.38
+    },
+    "4": {
+      "temp": 32.22,
+      "prec": 7.58
+    },
+    "5": {
+      "temp": 33.91,
+      "prec": 28.15
+    },
+    "6": {
+      "temp": 32.8,
+      "prec": 68.58
+    },
+    "7": {
+      "temp": 30.48,
+      "prec": 122.15
+    },
+    "8": {
+      "temp": 28.99,
+      "prec": 178.2
+    },
+    "9": {
+      "temp": 29.26,
+      "prec": 106.06
+    },
+    "10": {
+      "temp": 29.37,
+      "prec": 32.49
+    },
+    "11": {
+      "temp": 26.91,
+      "prec": 1.41
+    },
+    "12": {
+      "temp": 24.12,
+      "prec": 0.24
+    }
+  },
+  "MLT": {
+    "average_temp": 20.09,
+    "average_prec": 36.71,
+    "1": {
+      "temp": 13.55,
+      "prec": 51.85
+    },
+    "2": {
+      "temp": 13.61,
+      "prec": 41.72
+    },
+    "3": {
+      "temp": 14.31,
+      "prec": 33.4
+    },
+    "4": {
+      "temp": 16.51,
+      "prec": 15.32
+    },
+    "5": {
+      "temp": 20.41,
+      "prec": 11.59
+    },
+    "6": {
+      "temp": 24.96,
+      "prec": 2.63
+    },
+    "7": {
+      "temp": 27.71,
+      "prec": 0.0
+    },
+    "8": {
+      "temp": 27.91,
+      "prec": 9.15
+    },
+    "9": {
+      "temp": 25.76,
+      "prec": 47.16
+    },
+    "10": {
+      "temp": 22.28,
+      "prec": 66.94
+    },
+    "11": {
+      "temp": 18.89,
+      "prec": 82.36
+    },
+    "12": {
+      "temp": 15.16,
+      "prec": 78.38
+    }
+  },
+  "MMR": {
+    "average_temp": 25.03,
+    "average_prec": 196.57,
+    "1": {
+      "temp": 20.4,
+      "prec": 6.09
+    },
+    "2": {
+      "temp": 22.19,
+      "prec": 11.99
+    },
+    "3": {
+      "temp": 25.75,
+      "prec": 14.51
+    },
+    "4": {
+      "temp": 28.04,
+      "prec": 50.66
+    },
+    "5": {
+      "temp": 27.75,
+      "prec": 198.36
+    },
+    "6": {
+      "temp": 26.44,
+      "prec": 400.37
+    },
+    "7": {
+      "temp": 26.23,
+      "prec": 445.14
+    },
+    "8": {
+      "temp": 26.11,
+      "prec": 511.51
+    },
+    "9": {
+      "temp": 26.06,
+      "prec": 381.03
+    },
+    "10": {
+      "temp": 25.72,
+      "prec": 274.53
+    },
+    "11": {
+      "temp": 24.11,
+      "prec": 52.97
+    },
+    "12": {
+      "temp": 21.52,
+      "prec": 11.72
+    }
+  },
+  "MNE": {
+    "average_temp": 10.8,
+    "average_prec": 99.32,
+    "1": {
+      "temp": 2.34,
+      "prec": 114.53
+    },
+    "2": {
+      "temp": 3.91,
+      "prec": 77.94
+    },
+    "3": {
+      "temp": 5.06,
+      "prec": 85.6
+    },
+    "4": {
+      "temp": 7.65,
+      "prec": 84.56
+    },
+    "5": {
+      "temp": 13.05,
+      "prec": 94.8
+    },
+    "6": {
+      "temp": 18.43,
+      "prec": 79.9
+    },
+    "7": {
+      "temp": 20.66,
+      "prec": 35.2
+    },
+    "8": {
+      "temp": 20.22,
+      "prec": 92.4
+    },
+    "9": {
+      "temp": 16.06,
+      "prec": 107.45
+    },
+    "10": {
+      "temp": 11.75,
+      "prec": 91.13
+    },
+    "11": {
+      "temp": 6.58,
+      "prec": 163.74
+    },
+    "12": {
+      "temp": 3.97,
+      "prec": 164.54
+    }
+  },
+  "MNG": {
+    "average_temp": 0.99,
+    "average_prec": 20.92,
+    "1": {
+      "temp": -19.41,
+      "prec": 2.0
+    },
+    "2": {
+      "temp": -15.77,
+      "prec": 1.95
+    },
+    "3": {
+      "temp": -5.06,
+      "prec": 3.87
+    },
+    "4": {
+      "temp": 3.41,
+      "prec": 8.62
+    },
+    "5": {
+      "temp": 10.72,
+      "prec": 19.66
+    },
+    "6": {
+      "temp": 17.0,
+      "prec": 41.8
+    },
+    "7": {
+      "temp": 19.09,
+      "prec": 70.0
+    },
+    "8": {
+      "temp": 16.57,
+      "prec": 59.2
+    },
+    "9": {
+      "temp": 10.8,
+      "prec": 27.51
+    },
+    "10": {
+      "temp": 1.56,
+      "prec": 8.57
+    },
+    "11": {
+      "temp": -8.34,
+      "prec": 4.92
+    },
+    "12": {
+      "temp": -18.7,
+      "prec": 2.97
+    }
+  },
+  "MOZ": {
+    "average_temp": 24.64,
+    "average_prec": 73.6,
+    "1": {
+      "temp": 26.49,
+      "prec": 208.38
+    },
+    "2": {
+      "temp": 26.73,
+      "prec": 188.06
+    },
+    "3": {
+      "temp": 25.63,
+      "prec": 140.07
+    },
+    "4": {
+      "temp": 24.99,
+      "prec": 67.53
+    },
+    "5": {
+      "temp": 22.83,
+      "prec": 16.09
+    },
+    "6": {
+      "temp": 21.1,
+      "prec": 23.8
+    },
+    "7": {
+      "temp": 20.66,
+      "prec": 6.99
+    },
+    "8": {
+      "temp": 22.16,
+      "prec": 6.83
+    },
+    "9": {
+      "temp": 24.32,
+      "prec": 10.2
+    },
+    "10": {
+      "temp": 26.19,
+      "prec": 25.71
+    },
+    "11": {
+      "temp": 27.21,
+      "prec": 53.49
+    },
+    "12": {
+      "temp": 27.32,
+      "prec": 136.08
+    }
+  },
+  "MRT": {
+    "average_temp": 28.95,
+    "average_prec": 15.38,
+    "1": {
+      "temp": 22.82,
+      "prec": 0.47
+    },
+    "2": {
+      "temp": 25.18,
+      "prec": 0.83
+    },
+    "3": {
+      "temp": 27.38,
+      "prec": 0.96
+    },
+    "4": {
+      "temp": 30.07,
+      "prec": 1.43
+    },
+    "5": {
+      "temp": 32.49,
+      "prec": 1.84
+    },
+    "6": {
+      "temp": 33.35,
+      "prec": 10.55
+    },
+    "7": {
+      "temp": 32.13,
+      "prec": 36.04
+    },
+    "8": {
+      "temp": 31.59,
+      "prec": 66.17
+    },
+    "9": {
+      "temp": 31.32,
+      "prec": 54.67
+    },
+    "10": {
+      "temp": 30.51,
+      "prec": 8.85
+    },
+    "11": {
+      "temp": 26.98,
+      "prec": 1.45
+    },
+    "12": {
+      "temp": 23.52,
+      "prec": 1.31
+    }
+  },
+  "MUS": {
+    "average_temp": 23.58,
+    "average_prec": 132.53,
+    "1": {
+      "temp": 26.06,
+      "prec": 302.96
+    },
+    "2": {
+      "temp": 26.15,
+      "prec": 164.27
+    },
+    "3": {
+      "temp": 25.89,
+      "prec": 236.86
+    },
+    "4": {
+      "temp": 25.04,
+      "prec": 265.51
+    },
+    "5": {
+      "temp": 23.31,
+      "prec": 114.58
+    },
+    "6": {
+      "temp": 21.47,
+      "prec": 91.55
+    },
+    "7": {
+      "temp": 20.7,
+      "prec": 73.21
+    },
+    "8": {
+      "temp": 20.7,
+      "prec": 66.24
+    },
+    "9": {
+      "temp": 21.52,
+      "prec": 41.79
+    },
+    "10": {
+      "temp": 22.8,
+      "prec": 48.08
+    },
+    "11": {
+      "temp": 24.02,
+      "prec": 82.13
+    },
+    "12": {
+      "temp": 25.31,
+      "prec": 103.24
+    }
+  },
+  "MWI": {
+    "average_temp": 22.41,
+    "average_prec": 84.57,
+    "1": {
+      "temp": 23.37,
+      "prec": 239.01
+    },
+    "2": {
+      "temp": 23.66,
+      "prec": 195.36
+    },
+    "3": {
+      "temp": 23.0,
+      "prec": 207.62
+    },
+    "4": {
+      "temp": 22.59,
+      "prec": 79.03
+    },
+    "5": {
+      "temp": 20.71,
+      "prec": 9.78
+    },
+    "6": {
+      "temp": 18.99,
+      "prec": 18.82
+    },
+    "7": {
+      "temp": 18.64,
+      "prec": 6.41
+    },
+    "8": {
+      "temp": 20.15,
+      "prec": 8.6
+    },
+    "9": {
+      "temp": 22.64,
+      "prec": 10.65
+    },
+    "10": {
+      "temp": 24.86,
+      "prec": 15.37
+    },
+    "11": {
+      "temp": 25.4,
+      "prec": 49.79
+    },
+    "12": {
+      "temp": 24.9,
+      "prec": 174.4
+    }
+  },
+  "MYS": {
+    "average_temp": 26.89,
+    "average_prec": 237.16,
+    "1": {
+      "temp": 26.18,
+      "prec": 251.16
+    },
+    "2": {
+      "temp": 26.61,
+      "prec": 122.92
+    },
+    "3": {
+      "temp": 27.29,
+      "prec": 188.61
+    },
+    "4": {
+      "temp": 27.57,
+      "prec": 208.89
+    },
+    "5": {
+      "temp": 27.74,
+      "prec": 245.77
+    },
+    "6": {
+      "temp": 27.14,
+      "prec": 224.13
+    },
+    "7": {
+      "temp": 27.06,
+      "prec": 176.56
+    },
+    "8": {
+      "temp": 26.87,
+      "prec": 219.35
+    },
+    "9": {
+      "temp": 26.71,
+      "prec": 251.07
+    },
+    "10": {
+      "temp": 26.73,
+      "prec": 248.68
+    },
+    "11": {
+      "temp": 26.54,
+      "prec": 338.31
+    },
+    "12": {
+      "temp": 26.21,
+      "prec": 370.5
+    }
+  },
+  "NAM": {
+    "average_temp": 21.36,
+    "average_prec": 28.72,
+    "1": {
+      "temp": 24.68,
+      "prec": 84.5
+    },
+    "2": {
+      "temp": 24.09,
+      "prec": 76.55
+    },
+    "3": {
+      "temp": 23.44,
+      "prec": 64.2
+    },
+    "4": {
+      "temp": 21.97,
+      "prec": 23.68
+    },
+    "5": {
+      "temp": 18.59,
+      "prec": 3.07
+    },
+    "6": {
+      "temp": 15.99,
+      "prec": 0.83
+    },
+    "7": {
+      "temp": 15.31,
+      "prec": 0.21
+    },
+    "8": {
+      "temp": 17.9,
+      "prec": 0.61
+    },
+    "9": {
+      "temp": 21.23,
+      "prec": 1.6
+    },
+    "10": {
+      "temp": 24.03,
+      "prec": 10.82
+    },
+    "11": {
+      "temp": 24.6,
+      "prec": 33.65
+    },
+    "12": {
+      "temp": 24.52,
+      "prec": 44.9
+    }
+  },
+  "NER": {
+    "average_temp": 28.81,
+    "average_prec": 33.36,
+    "1": {
+      "temp": 22.9,
+      "prec": 0.01
+    },
+    "2": {
+      "temp": 25.02,
+      "prec": 0.04
+    },
+    "3": {
+      "temp": 30.18,
+      "prec": 0.65
+    },
+    "4": {
+      "temp": 32.88,
+      "prec": 2.18
+    },
+    "5": {
+      "temp": 34.16,
+      "prec": 12.44
+    },
+    "6": {
+      "temp": 32.64,
+      "prec": 43.58
+    },
+    "7": {
+      "temp": 30.09,
+      "prec": 112.69
+    },
+    "8": {
+      "temp": 28.26,
+      "prec": 152.9
+    },
+    "9": {
+      "temp": 29.3,
+      "prec": 67.0
+    },
+    "10": {
+      "temp": 29.57,
+      "prec": 8.73
+    },
+    "11": {
+      "temp": 26.97,
+      "prec": 0.08
+    },
+    "12": {
+      "temp": 23.8,
+      "prec": 0.0
+    }
+  },
+  "NGA": {
+    "average_temp": 27.17,
+    "average_prec": 124.7,
+    "1": {
+      "temp": 26.04,
+      "prec": 8.76
+    },
+    "2": {
+      "temp": 27.47,
+      "prec": 17.07
+    },
+    "3": {
+      "temp": 29.54,
+      "prec": 54.9
+    },
+    "4": {
+      "temp": 29.78,
+      "prec": 98.42
+    },
+    "5": {
+      "temp": 29.16,
+      "prec": 148.02
+    },
+    "6": {
+      "temp": 27.38,
+      "prec": 205.16
+    },
+    "7": {
+      "temp": 26.0,
+      "prec": 241.98
+    },
+    "8": {
+      "temp": 25.17,
+      "prec": 245.41
+    },
+    "9": {
+      "temp": 25.87,
+      "prec": 268.7
+    },
+    "10": {
+      "temp": 26.59,
+      "prec": 158.85
+    },
+    "11": {
+      "temp": 26.94,
+      "prec": 38.41
+    },
+    "12": {
+      "temp": 26.08,
+      "prec": 10.71
+    }
+  },
+  "NIC": {
+    "average_temp": 25.74,
+    "average_prec": 151.16,
+    "1": {
+      "temp": 24.8,
+      "prec": 50.73
+    },
+    "2": {
+      "temp": 25.09,
+      "prec": 29.8
+    },
+    "3": {
+      "temp": 26.31,
+      "prec": 23.7
+    },
+    "4": {
+      "temp": 27.14,
+      "prec": 36.12
+    },
+    "5": {
+      "temp": 27.31,
+      "prec": 177.45
+    },
+    "6": {
+      "temp": 25.74,
+      "prec": 300.21
+    },
+    "7": {
+      "temp": 26.0,
+      "prec": 217.19
+    },
+    "8": {
+      "temp": 25.75,
+      "prec": 206.67
+    },
+    "9": {
+      "temp": 25.82,
+      "prec": 273.3
+    },
+    "10": {
+      "temp": 25.68,
+      "prec": 308.7
+    },
+    "11": {
+      "temp": 24.67,
+      "prec": 125.06
+    },
+    "12": {
+      "temp": 24.64,
+      "prec": 65.02
+    }
+  },
+  "NLD": {
+    "average_temp": 11.35,
+    "average_prec": 75.43,
+    "1": {
+      "temp": 4.76,
+      "prec": 78.96
+    },
+    "2": {
+      "temp": 6.15,
+      "prec": 84.73
+    },
+    "3": {
+      "temp": 7.12,
+      "prec": 56.5
+    },
+    "4": {
+      "temp": 9.13,
+      "prec": 48.73
+    },
+    "5": {
+      "temp": 13.2,
+      "prec": 62.2
+    },
+    "6": {
+      "temp": 17.42,
+      "prec": 74.82
+    },
+    "7": {
+      "temp": 17.88,
+      "prec": 84.64
+    },
+    "8": {
+      "temp": 18.82,
+      "prec": 69.84
+    },
+    "9": {
+      "temp": 16.11,
+      "prec": 81.44
+    },
+    "10": {
+      "temp": 12.44,
+      "prec": 90.58
+    },
+    "11": {
+      "temp": 7.97,
+      "prec": 86.48
+    },
+    "12": {
+      "temp": 5.18,
+      "prec": 86.31
+    }
+  },
+  "NOR": {
+    "average_temp": 4.1,
+    "average_prec": 113.85,
+    "1": {
+      "temp": -3.86,
+      "prec": 132.14
+    },
+    "2": {
+      "temp": -3.4,
+      "prec": 121.47
+    },
+    "3": {
+      "temp": -1.38,
+      "prec": 98.83
+    },
+    "4": {
+      "temp": 1.71,
+      "prec": 58.35
+    },
+    "5": {
+      "temp": 6.85,
+      "prec": 65.82
+    },
+    "6": {
+      "temp": 12.53,
+      "prec": 78.19
+    },
+    "7": {
+      "temp": 13.23,
+      "prec": 130.35
+    },
+    "8": {
+      "temp": 12.89,
+      "prec": 120.18
+    },
+    "9": {
+      "temp": 9.5,
+      "prec": 130.35
+    },
+    "10": {
+      "temp": 4.73,
+      "prec": 179.34
+    },
+    "11": {
+      "temp": 0.08,
+      "prec": 125.64
+    },
+    "12": {
+      "temp": -3.7,
+      "prec": 125.53
+    }
+  },
+  "NPL": {
+    "average_temp": 16.02,
+    "average_prec": 114.84,
+    "1": {
+      "temp": 7.34,
+      "prec": 33.25
+    },
+    "2": {
+      "temp": 10.02,
+      "prec": 24.7
+    },
+    "3": {
+      "temp": 14.53,
+      "prec": 38.85
+    },
+    "4": {
+      "temp": 18.26,
+      "prec": 42.08
+    },
+    "5": {
+      "temp": 19.69,
+      "prec": 87.32
+    },
+    "6": {
+      "temp": 21.26,
+      "prec": 216.66
+    },
+    "7": {
+      "temp": 21.16,
+      "prec": 367.81
+    },
+    "8": {
+      "temp": 21.04,
+      "prec": 289.31
+    },
+    "9": {
+      "temp": 20.03,
+      "prec": 187.66
+    },
+    "10": {
+      "temp": 17.51,
+      "prec": 70.59
+    },
+    "11": {
+      "temp": 12.37,
+      "prec": 7.81
+    },
+    "12": {
+      "temp": 9.04,
+      "prec": 12.03
+    }
+  },
+  "NRU": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "NZL": {
+    "average_temp": 11.91,
+    "average_prec": 142.91,
+    "1": {
+      "temp": 16.62,
+      "prec": 114.02
+    },
+    "2": {
+      "temp": 16.4,
+      "prec": 120.38
+    },
+    "3": {
+      "temp": 14.52,
+      "prec": 130.45
+    },
+    "4": {
+      "temp": 12.46,
+      "prec": 123.04
+    },
+    "5": {
+      "temp": 9.84,
+      "prec": 145.89
+    },
+    "6": {
+      "temp": 8.32,
+      "prec": 150.89
+    },
+    "7": {
+      "temp": 7.14,
+      "prec": 152.24
+    },
+    "8": {
+      "temp": 7.8,
+      "prec": 167.66
+    },
+    "9": {
+      "temp": 9.39,
+      "prec": 153.62
+    },
+    "10": {
+      "temp": 11.26,
+      "prec": 151.58
+    },
+    "11": {
+      "temp": 13.5,
+      "prec": 144.22
+    },
+    "12": {
+      "temp": 15.71,
+      "prec": 160.93
+    }
+  },
+  "OMN": {
+    "average_temp": 28.07,
+    "average_prec": 13.31,
+    "1": {
+      "temp": 19.52,
+      "prec": 17.85
+    },
+    "2": {
+      "temp": 22.46,
+      "prec": 20.34
+    },
+    "3": {
+      "temp": 25.64,
+      "prec": 20.08
+    },
+    "4": {
+      "temp": 29.03,
+      "prec": 14.34
+    },
+    "5": {
+      "temp": 33.05,
+      "prec": 8.3
+    },
+    "6": {
+      "temp": 34.63,
+      "prec": 4.71
+    },
+    "7": {
+      "temp": 33.6,
+      "prec": 14.69
+    },
+    "8": {
+      "temp": 32.56,
+      "prec": 43.63
+    },
+    "9": {
+      "temp": 31.24,
+      "prec": 4.14
+    },
+    "10": {
+      "temp": 28.78,
+      "prec": 3.92
+    },
+    "11": {
+      "temp": 25.0,
+      "prec": 3.67
+    },
+    "12": {
+      "temp": 21.28,
+      "prec": 4.1
+    }
+  },
+  "PAK": {
+    "average_temp": 18.25,
+    "average_prec": 43.96,
+    "1": {
+      "temp": 5.74,
+      "prec": 45.19
+    },
+    "2": {
+      "temp": 10.14,
+      "prec": 22.08
+    },
+    "3": {
+      "temp": 14.68,
+      "prec": 50.41
+    },
+    "4": {
+      "temp": 19.35,
+      "prec": 44.12
+    },
+    "5": {
+      "temp": 24.07,
+      "prec": 23.96
+    },
+    "6": {
+      "temp": 26.75,
+      "prec": 37.72
+    },
+    "7": {
+      "temp": 26.8,
+      "prec": 109.06
+    },
+    "8": {
+      "temp": 25.82,
+      "prec": 108.53
+    },
+    "9": {
+      "temp": 24.39,
+      "prec": 46.62
+    },
+    "10": {
+      "temp": 19.8,
+      "prec": 16.75
+    },
+    "11": {
+      "temp": 13.57,
+      "prec": 11.78
+    },
+    "12": {
+      "temp": 7.91,
+      "prec": 11.23
+    }
+  },
+  "PAN": {
+    "average_temp": 25.63,
+    "average_prec": 214.26,
+    "1": {
+      "temp": 25.3,
+      "prec": 82.91
+    },
+    "2": {
+      "temp": 25.79,
+      "prec": 57.93
+    },
+    "3": {
+      "temp": 26.18,
+      "prec": 43.11
+    },
+    "4": {
+      "temp": 26.63,
+      "prec": 123.68
+    },
+    "5": {
+      "temp": 26.45,
+      "prec": 252.94
+    },
+    "6": {
+      "temp": 25.41,
+      "prec": 276.65
+    },
+    "7": {
+      "temp": 25.78,
+      "prec": 255.65
+    },
+    "8": {
+      "temp": 25.49,
+      "prec": 259.91
+    },
+    "9": {
+      "temp": 25.41,
+      "prec": 284.35
+    },
+    "10": {
+      "temp": 25.21,
+      "prec": 417.15
+    },
+    "11": {
+      "temp": 24.76,
+      "prec": 327.06
+    },
+    "12": {
+      "temp": 25.16,
+      "prec": 189.81
+    }
+  },
+  "PER": {
+    "average_temp": 16.98,
+    "average_prec": 68.48,
+    "1": {
+      "temp": 18.05,
+      "prec": 103.41
+    },
+    "2": {
+      "temp": 18.1,
+      "prec": 124.77
+    },
+    "3": {
+      "temp": 18.07,
+      "prec": 137.62
+    },
+    "4": {
+      "temp": 17.75,
+      "prec": 77.74
+    },
+    "5": {
+      "temp": 16.41,
+      "prec": 54.04
+    },
+    "6": {
+      "temp": 15.5,
+      "prec": 32.38
+    },
+    "7": {
+      "temp": 15.73,
+      "prec": 24.66
+    },
+    "8": {
+      "temp": 15.87,
+      "prec": 20.38
+    },
+    "9": {
+      "temp": 16.54,
+      "prec": 33.18
+    },
+    "10": {
+      "temp": 16.93,
+      "prec": 60.35
+    },
+    "11": {
+      "temp": 17.3,
+      "prec": 66.2
+    },
+    "12": {
+      "temp": 17.55,
+      "prec": 87.09
+    }
+  },
+  "PHL": {
+    "average_temp": 26.65,
+    "average_prec": 233.66,
+    "1": {
+      "temp": 25.0,
+      "prec": 197.75
+    },
+    "2": {
+      "temp": 25.27,
+      "prec": 130.21
+    },
+    "3": {
+      "temp": 26.4,
+      "prec": 125.17
+    },
+    "4": {
+      "temp": 27.27,
+      "prec": 120.34
+    },
+    "5": {
+      "temp": 28.01,
+      "prec": 242.06
+    },
+    "6": {
+      "temp": 27.49,
+      "prec": 245.63
+    },
+    "7": {
+      "temp": 27.21,
+      "prec": 321.73
+    },
+    "8": {
+      "temp": 27.15,
+      "prec": 276.4
+    },
+    "9": {
+      "temp": 26.98,
+      "prec": 286.11
+    },
+    "10": {
+      "temp": 26.45,
+      "prec": 339.35
+    },
+    "11": {
+      "temp": 26.67,
+      "prec": 255.33
+    },
+    "12": {
+      "temp": 25.93,
+      "prec": 263.78
+    }
+  },
+  "PLW": {
+    "average_temp": 25.92,
+    "average_prec": 325.52,
+    "1": {
+      "temp": 25.09,
+      "prec": 286.39
+    },
+    "2": {
+      "temp": 25.66,
+      "prec": 234.75
+    },
+    "3": {
+      "temp": 26.28,
+      "prec": 173.78
+    },
+    "4": {
+      "temp": 26.71,
+      "prec": 321.57
+    },
+    "5": {
+      "temp": 26.74,
+      "prec": 470.94
+    },
+    "6": {
+      "temp": 26.04,
+      "prec": 295.56
+    },
+    "7": {
+      "temp": 26.16,
+      "prec": 364.44
+    },
+    "8": {
+      "temp": 25.99,
+      "prec": 388.97
+    },
+    "9": {
+      "temp": 25.82,
+      "prec": 324.98
+    },
+    "10": {
+      "temp": 25.74,
+      "prec": 488.31
+    },
+    "11": {
+      "temp": 25.87,
+      "prec": 226.82
+    },
+    "12": {
+      "temp": 24.96,
+      "prec": 329.75
+    }
+  },
+  "PNG": {
+    "average_temp": 22.49,
+    "average_prec": 252.04,
+    "1": {
+      "temp": 22.91,
+      "prec": 296.68
+    },
+    "2": {
+      "temp": 22.99,
+      "prec": 294.11
+    },
+    "3": {
+      "temp": 22.87,
+      "prec": 336.61
+    },
+    "4": {
+      "temp": 22.72,
+      "prec": 267.38
+    },
+    "5": {
+      "temp": 22.67,
+      "prec": 235.05
+    },
+    "6": {
+      "temp": 22.02,
+      "prec": 196.15
+    },
+    "7": {
+      "temp": 21.59,
+      "prec": 208.83
+    },
+    "8": {
+      "temp": 21.8,
+      "prec": 210.36
+    },
+    "9": {
+      "temp": 22.2,
+      "prec": 226.95
+    },
+    "10": {
+      "temp": 22.48,
+      "prec": 236.95
+    },
+    "11": {
+      "temp": 22.7,
+      "prec": 237.31
+    },
+    "12": {
+      "temp": 22.91,
+      "prec": 278.14
+    }
+  },
+  "POL": {
+    "average_temp": 9.79,
+    "average_prec": 53.39,
+    "1": {
+      "temp": 0.27,
+      "prec": 45.67
+    },
+    "2": {
+      "temp": 2.07,
+      "prec": 44.7
+    },
+    "3": {
+      "temp": 4.55,
+      "prec": 25.56
+    },
+    "4": {
+      "temp": 8.29,
+      "prec": 36.0
+    },
+    "5": {
+      "temp": 13.17,
+      "prec": 51.43
+    },
+    "6": {
+      "temp": 18.58,
+      "prec": 73.67
+    },
+    "7": {
+      "temp": 19.65,
+      "prec": 81.91
+    },
+    "8": {
+      "temp": 19.66,
+      "prec": 93.94
+    },
+    "9": {
+      "temp": 15.15,
+      "prec": 55.82
+    },
+    "10": {
+      "temp": 10.6,
+      "prec": 47.59
+    },
+    "11": {
+      "temp": 4.6,
+      "prec": 40.4
+    },
+    "12": {
+      "temp": 0.92,
+      "prec": 44.03
+    }
+  },
+  "PRK": {
+    "average_temp": 8.62,
+    "average_prec": 94.07,
+    "1": {
+      "temp": -7.63,
+      "prec": 15.61
+    },
+    "2": {
+      "temp": -4.07,
+      "prec": 17.69
+    },
+    "3": {
+      "temp": 2.69,
+      "prec": 33.83
+    },
+    "4": {
+      "temp": 9.11,
+      "prec": 42.46
+    },
+    "5": {
+      "temp": 14.41,
+      "prec": 87.8
+    },
+    "6": {
+      "temp": 19.3,
+      "prec": 144.35
+    },
+    "7": {
+      "temp": 22.48,
+      "prec": 247.49
+    },
+    "8": {
+      "temp": 22.54,
+      "prec": 282.73
+    },
+    "9": {
+      "temp": 17.45,
+      "prec": 137.59
+    },
+    "10": {
+      "temp": 10.27,
+      "prec": 57.34
+    },
+    "11": {
+      "temp": 2.96,
+      "prec": 49.02
+    },
+    "12": {
+      "temp": -6.03,
+      "prec": 12.94
+    }
+  },
+  "PRT": {
+    "average_temp": 16.25,
+    "average_prec": 79.18,
+    "1": {
+      "temp": 10.17,
+      "prec": 114.85
+    },
+    "2": {
+      "temp": 11.53,
+      "prec": 89.62
+    },
+    "3": {
+      "temp": 12.55,
+      "prec": 132.75
+    },
+    "4": {
+      "temp": 14.67,
+      "prec": 80.03
+    },
+    "5": {
+      "temp": 17.56,
+      "prec": 43.94
+    },
+    "6": {
+      "temp": 20.15,
+      "prec": 42.51
+    },
+    "7": {
+      "temp": 22.67,
+      "prec": 6.93
+    },
+    "8": {
+      "temp": 22.9,
+      "prec": 12.79
+    },
+    "9": {
+      "temp": 20.26,
+      "prec": 51.79
+    },
+    "10": {
+      "temp": 17.74,
+      "prec": 149.9
+    },
+    "11": {
+      "temp": 13.7,
+      "prec": 97.88
+    },
+    "12": {
+      "temp": 11.12,
+      "prec": 127.16
+    }
+  },
+  "PRY": {
+    "average_temp": 23.43,
+    "average_prec": 102.19,
+    "1": {
+      "temp": 27.84,
+      "prec": 130.12
+    },
+    "2": {
+      "temp": 27.24,
+      "prec": 96.34
+    },
+    "3": {
+      "temp": 26.57,
+      "prec": 128.03
+    },
+    "4": {
+      "temp": 23.39,
+      "prec": 132.62
+    },
+    "5": {
+      "temp": 18.71,
+      "prec": 92.51
+    },
+    "6": {
+      "temp": 18.84,
+      "prec": 56.7
+    },
+    "7": {
+      "temp": 18.59,
+      "prec": 36.06
+    },
+    "8": {
+      "temp": 20.53,
+      "prec": 53.63
+    },
+    "9": {
+      "temp": 22.64,
+      "prec": 71.93
+    },
+    "10": {
+      "temp": 24.29,
+      "prec": 149.28
+    },
+    "11": {
+      "temp": 25.68,
+      "prec": 155.98
+    },
+    "12": {
+      "temp": 26.87,
+      "prec": 123.08
+    }
+  },
+  "QAT": {
+    "average_temp": 28.46,
+    "average_prec": 4.91,
+    "1": {
+      "temp": 18.32,
+      "prec": 21.25
+    },
+    "2": {
+      "temp": 19.83,
+      "prec": 5.94
+    },
+    "3": {
+      "temp": 23.0,
+      "prec": 6.36
+    },
+    "4": {
+      "temp": 27.49,
+      "prec": 11.38
+    },
+    "5": {
+      "temp": 32.58,
+      "prec": 0.79
+    },
+    "6": {
+      "temp": 36.27,
+      "prec": 0.0
+    },
+    "7": {
+      "temp": 36.79,
+      "prec": 0.12
+    },
+    "8": {
+      "temp": 36.45,
+      "prec": 0.0
+    },
+    "9": {
+      "temp": 34.2,
+      "prec": 0.0
+    },
+    "10": {
+      "temp": 30.5,
+      "prec": 0.8
+    },
+    "11": {
+      "temp": 25.77,
+      "prec": 7.78
+    },
+    "12": {
+      "temp": 20.27,
+      "prec": 4.54
+    }
+  },
+  "ROU": {
+    "average_temp": 11.06,
+    "average_prec": 49.57,
+    "1": {
+      "temp": 0.44,
+      "prec": 35.51
+    },
+    "2": {
+      "temp": 2.79,
+      "prec": 32.69
+    },
+    "3": {
+      "temp": 5.24,
+      "prec": 34.91
+    },
+    "4": {
+      "temp": 9.56,
+      "prec": 50.59
+    },
+    "5": {
+      "temp": 14.63,
+      "prec": 61.89
+    },
+    "6": {
+      "temp": 20.15,
+      "prec": 79.9
+    },
+    "7": {
+      "temp": 22.47,
+      "prec": 66.01
+    },
+    "8": {
+      "temp": 22.08,
+      "prec": 52.82
+    },
+    "9": {
+      "temp": 17.24,
+      "prec": 53.63
+    },
+    "10": {
+      "temp": 11.51,
+      "prec": 34.4
+    },
+    "11": {
+      "temp": 4.93,
+      "prec": 44.3
+    },
+    "12": {
+      "temp": 1.7,
+      "prec": 48.23
+    }
+  },
+  "RUS": {
+    "average_temp": 4.0,
+    "average_prec": 47.99,
+    "1": {
+      "temp": -11.06,
+      "prec": 38.32
+    },
+    "2": {
+      "temp": -9.36,
+      "prec": 33.25
+    },
+    "3": {
+      "temp": -3.52,
+      "prec": 30.77
+    },
+    "4": {
+      "temp": 4.49,
+      "prec": 37.04
+    },
+    "5": {
+      "temp": 10.65,
+      "prec": 53.05
+    },
+    "6": {
+      "temp": 16.56,
+      "prec": 62.7
+    },
+    "7": {
+      "temp": 19.06,
+      "prec": 75.12
+    },
+    "8": {
+      "temp": 17.66,
+      "prec": 58.28
+    },
+    "9": {
+      "temp": 11.47,
+      "prec": 49.09
+    },
+    "10": {
+      "temp": 4.66,
+      "prec": 48.81
+    },
+    "11": {
+      "temp": -2.96,
+      "prec": 49.92
+    },
+    "12": {
+      "temp": -9.69,
+      "prec": 39.52
+    }
+  },
+  "RWA": {
+    "average_temp": 19.19,
+    "average_prec": 107.01,
+    "1": {
+      "temp": 19.33,
+      "prec": 146.01
+    },
+    "2": {
+      "temp": 18.82,
+      "prec": 139.33
+    },
+    "3": {
+      "temp": 18.91,
+      "prec": 145.93
+    },
+    "4": {
+      "temp": 18.69,
+      "prec": 196.21
+    },
+    "5": {
+      "temp": 19.34,
+      "prec": 118.09
+    },
+    "6": {
+      "temp": 18.93,
+      "prec": 16.55
+    },
+    "7": {
+      "temp": 19.06,
+      "prec": 10.12
+    },
+    "8": {
+      "temp": 19.88,
+      "prec": 32.87
+    },
+    "9": {
+      "temp": 20.04,
+      "prec": 99.36
+    },
+    "10": {
+      "temp": 19.54,
+      "prec": 112.79
+    },
+    "11": {
+      "temp": 18.68,
+      "prec": 151.11
+    },
+    "12": {
+      "temp": 19.12,
+      "prec": 115.79
+    }
+  },
+  "SAU": {
+    "average_temp": 26.11,
+    "average_prec": 9.75,
+    "1": {
+      "temp": 16.36,
+      "prec": 11.49
+    },
+    "2": {
+      "temp": 18.25,
+      "prec": 7.33
+    },
+    "3": {
+      "temp": 22.12,
+      "prec": 24.49
+    },
+    "4": {
+      "temp": 26.34,
+      "prec": 17.91
+    },
+    "5": {
+      "temp": 30.3,
+      "prec": 10.29
+    },
+    "6": {
+      "temp": 32.91,
+      "prec": 2.36
+    },
+    "7": {
+      "temp": 34.31,
+      "prec": 2.81
+    },
+    "8": {
+      "temp": 34.3,
+      "prec": 5.56
+    },
+    "9": {
+      "temp": 31.85,
+      "prec": 3.32
+    },
+    "10": {
+      "temp": 27.1,
+      "prec": 5.82
+    },
+    "11": {
+      "temp": 21.74,
+      "prec": 13.66
+    },
+    "12": {
+      "temp": 17.76,
+      "prec": 12.0
+    }
+  },
+  "SDN": {
+    "average_temp": 27.68,
+    "average_prec": 34.72,
+    "1": {
+      "temp": 22.94,
+      "prec": 0.07
+    },
+    "2": {
+      "temp": 24.03,
+      "prec": 0.07
+    },
+    "3": {
+      "temp": 28.16,
+      "prec": 0.56
+    },
+    "4": {
+      "temp": 29.81,
+      "prec": 4.42
+    },
+    "5": {
+      "temp": 31.59,
+      "prec": 16.98
+    },
+    "6": {
+      "temp": 30.52,
+      "prec": 53.39
+    },
+    "7": {
+      "temp": 28.96,
+      "prec": 99.54
+    },
+    "8": {
+      "temp": 27.96,
+      "prec": 147.04
+    },
+    "9": {
+      "temp": 28.58,
+      "prec": 72.07
+    },
+    "10": {
+      "temp": 28.96,
+      "prec": 20.83
+    },
+    "11": {
+      "temp": 26.43,
+      "prec": 1.38
+    },
+    "12": {
+      "temp": 24.17,
+      "prec": 0.24
+    }
+  },
+  "SEN": {
+    "average_temp": 28.4,
+    "average_prec": 68.66,
+    "1": {
+      "temp": 25.93,
+      "prec": 0.57
+    },
+    "2": {
+      "temp": 27.71,
+      "prec": 0.29
+    },
+    "3": {
+      "temp": 28.76,
+      "prec": 0.11
+    },
+    "4": {
+      "temp": 30.06,
+      "prec": 0.34
+    },
+    "5": {
+      "temp": 30.75,
+      "prec": 6.12
+    },
+    "6": {
+      "temp": 30.22,
+      "prec": 63.31
+    },
+    "7": {
+      "temp": 28.52,
+      "prec": 148.83
+    },
+    "8": {
+      "temp": 28.02,
+      "prec": 266.86
+    },
+    "9": {
+      "temp": 28.08,
+      "prec": 254.12
+    },
+    "10": {
+      "temp": 28.87,
+      "prec": 80.15
+    },
+    "11": {
+      "temp": 27.85,
+      "prec": 2.22
+    },
+    "12": {
+      "temp": 26.07,
+      "prec": 0.95
+    }
+  },
+  "SGP": {
+    "average_temp": 27.6,
+    "average_prec": 229.58,
+    "1": {
+      "temp": 26.81,
+      "prec": 300.23
+    },
+    "2": {
+      "temp": 27.24,
+      "prec": 177.38
+    },
+    "3": {
+      "temp": 27.73,
+      "prec": 227.46
+    },
+    "4": {
+      "temp": 27.99,
+      "prec": 226.25
+    },
+    "5": {
+      "temp": 28.39,
+      "prec": 209.36
+    },
+    "6": {
+      "temp": 27.83,
+      "prec": 221.78
+    },
+    "7": {
+      "temp": 28.05,
+      "prec": 153.34
+    },
+    "8": {
+      "temp": 27.76,
+      "prec": 184.65
+    },
+    "9": {
+      "temp": 27.67,
+      "prec": 179.61
+    },
+    "10": {
+      "temp": 27.74,
+      "prec": 203.93
+    },
+    "11": {
+      "temp": 27.15,
+      "prec": 320.2
+    },
+    "12": {
+      "temp": 26.82,
+      "prec": 350.8
+    }
+  },
+  "SLB": {
+    "average_temp": 25.79,
+    "average_prec": 280.65,
+    "1": {
+      "temp": 26.3,
+      "prec": 355.56
+    },
+    "2": {
+      "temp": 26.13,
+      "prec": 355.64
+    },
+    "3": {
+      "temp": 26.11,
+      "prec": 345.2
+    },
+    "4": {
+      "temp": 26.03,
+      "prec": 264.7
+    },
+    "5": {
+      "temp": 25.83,
+      "prec": 253.89
+    },
+    "6": {
+      "temp": 25.42,
+      "prec": 226.18
+    },
+    "7": {
+      "temp": 25.05,
+      "prec": 280.31
+    },
+    "8": {
+      "temp": 25.09,
+      "prec": 267.16
+    },
+    "9": {
+      "temp": 25.38,
+      "prec": 256.17
+    },
+    "10": {
+      "temp": 25.76,
+      "prec": 253.23
+    },
+    "11": {
+      "temp": 26.06,
+      "prec": 237.8
+    },
+    "12": {
+      "temp": 26.38,
+      "prec": 271.97
+    }
+  },
+  "SLE": {
+    "average_temp": 26.73,
+    "average_prec": 249.3,
+    "1": {
+      "temp": 26.68,
+      "prec": 8.78
+    },
+    "2": {
+      "temp": 27.73,
+      "prec": 18.62
+    },
+    "3": {
+      "temp": 28.38,
+      "prec": 52.34
+    },
+    "4": {
+      "temp": 28.62,
+      "prec": 123.8
+    },
+    "5": {
+      "temp": 27.74,
+      "prec": 226.32
+    },
+    "6": {
+      "temp": 26.45,
+      "prec": 357.95
+    },
+    "7": {
+      "temp": 25.35,
+      "prec": 495.29
+    },
+    "8": {
+      "temp": 24.88,
+      "prec": 671.66
+    },
+    "9": {
+      "temp": 25.59,
+      "prec": 471.29
+    },
+    "10": {
+      "temp": 26.15,
+      "prec": 364.65
+    },
+    "11": {
+      "temp": 26.44,
+      "prec": 169.14
+    },
+    "12": {
+      "temp": 26.72,
+      "prec": 31.82
+    }
+  },
+  "SLV": {
+    "average_temp": 25.26,
+    "average_prec": 156.89,
+    "1": {
+      "temp": 24.79,
+      "prec": 4.31
+    },
+    "2": {
+      "temp": 25.14,
+      "prec": 3.37
+    },
+    "3": {
+      "temp": 26.5,
+      "prec": 10.45
+    },
+    "4": {
+      "temp": 27.07,
+      "prec": 48.91
+    },
+    "5": {
+      "temp": 26.09,
+      "prec": 190.61
+    },
+    "6": {
+      "temp": 24.95,
+      "prec": 353.62
+    },
+    "7": {
+      "temp": 25.72,
+      "prec": 295.39
+    },
+    "8": {
+      "temp": 25.18,
+      "prec": 281.47
+    },
+    "9": {
+      "temp": 24.75,
+      "prec": 362.66
+    },
+    "10": {
+      "temp": 24.68,
+      "prec": 276.8
+    },
+    "11": {
+      "temp": 24.11,
+      "prec": 48.63
+    },
+    "12": {
+      "temp": 24.14,
+      "prec": 6.47
+    }
+  },
+  "SMR": {
+    "average_temp": 14.64,
+    "average_prec": 65.03,
+    "1": {
+      "temp": 5.39,
+      "prec": 50.04
+    },
+    "2": {
+      "temp": 7.49,
+      "prec": 37.84
+    },
+    "3": {
+      "temp": 9.3,
+      "prec": 57.88
+    },
+    "4": {
+      "temp": 12.06,
+      "prec": 51.12
+    },
+    "5": {
+      "temp": 16.74,
+      "prec": 65.1
+    },
+    "6": {
+      "temp": 22.58,
+      "prec": 65.35
+    },
+    "7": {
+      "temp": 24.89,
+      "prec": 34.66
+    },
+    "8": {
+      "temp": 24.57,
+      "prec": 88.29
+    },
+    "9": {
+      "temp": 20.29,
+      "prec": 82.65
+    },
+    "10": {
+      "temp": 15.84,
+      "prec": 65.4
+    },
+    "11": {
+      "temp": 10.19,
+      "prec": 90.91
+    },
+    "12": {
+      "temp": 6.32,
+      "prec": 91.09
+    }
+  },
+  "SOM": {
+    "average_temp": 26.83,
+    "average_prec": 28.07,
+    "1": {
+      "temp": 25.41,
+      "prec": 3.22
+    },
+    "2": {
+      "temp": 26.28,
+      "prec": 3.23
+    },
+    "3": {
+      "temp": 27.33,
+      "prec": 13.94
+    },
+    "4": {
+      "temp": 27.74,
+      "prec": 80.73
+    },
+    "5": {
+      "temp": 28.04,
+      "prec": 60.0
+    },
+    "6": {
+      "temp": 27.59,
+      "prec": 19.68
+    },
+    "7": {
+      "temp": 26.73,
+      "prec": 16.44
+    },
+    "8": {
+      "temp": 26.86,
+      "prec": 12.16
+    },
+    "9": {
+      "temp": 27.44,
+      "prec": 15.56
+    },
+    "10": {
+      "temp": 27.02,
+      "prec": 58.48
+    },
+    "11": {
+      "temp": 26.05,
+      "prec": 42.84
+    },
+    "12": {
+      "temp": 25.5,
+      "prec": 10.56
+    }
+  },
+  "SRB": {
+    "average_temp": 12.05,
+    "average_prec": 57.67,
+    "1": {
+      "temp": 2.01,
+      "prec": 47.5
+    },
+    "2": {
+      "temp": 4.9,
+      "prec": 37.2
+    },
+    "3": {
+      "temp": 6.75,
+      "prec": 45.18
+    },
+    "4": {
+      "temp": 10.28,
+      "prec": 47.83
+    },
+    "5": {
+      "temp": 15.31,
+      "prec": 73.0
+    },
+    "6": {
+      "temp": 20.79,
+      "prec": 82.18
+    },
+    "7": {
+      "temp": 22.74,
+      "prec": 51.09
+    },
+    "8": {
+      "temp": 22.24,
+      "prec": 63.62
+    },
+    "9": {
+      "temp": 17.78,
+      "prec": 64.99
+    },
+    "10": {
+      "temp": 12.29,
+      "prec": 44.98
+    },
+    "11": {
+      "temp": 6.22,
+      "prec": 64.5
+    },
+    "12": {
+      "temp": 3.29,
+      "prec": 69.94
+    }
+  },
+  "SSD": {
+    "average_temp": 27.28,
+    "average_prec": 81.46,
+    "1": {
+      "temp": 27.04,
+      "prec": 3.79
+    },
+    "2": {
+      "temp": 27.91,
+      "prec": 8.12
+    },
+    "3": {
+      "temp": 29.8,
+      "prec": 29.45
+    },
+    "4": {
+      "temp": 28.98,
+      "prec": 62.24
+    },
+    "5": {
+      "temp": 28.52,
+      "prec": 110.35
+    },
+    "6": {
+      "temp": 26.72,
+      "prec": 135.44
+    },
+    "7": {
+      "temp": 25.68,
+      "prec": 167.09
+    },
+    "8": {
+      "temp": 25.41,
+      "prec": 189.18
+    },
+    "9": {
+      "temp": 26.22,
+      "prec": 145.62
+    },
+    "10": {
+      "temp": 27.28,
+      "prec": 93.68
+    },
+    "11": {
+      "temp": 27.05,
+      "prec": 25.84
+    },
+    "12": {
+      "temp": 26.79,
+      "prec": 6.77
+    }
+  },
+  "STP": {
+    "average_temp": 23.55,
+    "average_prec": 206.85,
+    "1": {
+      "temp": 24.14,
+      "prec": 193.38
+    },
+    "2": {
+      "temp": 24.45,
+      "prec": 165.95
+    },
+    "3": {
+      "temp": 24.49,
+      "prec": 256.36
+    },
+    "4": {
+      "temp": 24.37,
+      "prec": 266.94
+    },
+    "5": {
+      "temp": 24.14,
+      "prec": 287.01
+    },
+    "6": {
+      "temp": 23.44,
+      "prec": 81.12
+    },
+    "7": {
+      "temp": 22.14,
+      "prec": 31.88
+    },
+    "8": {
+      "temp": 22.18,
+      "prec": 59.05
+    },
+    "9": {
+      "temp": 22.87,
+      "prec": 201.78
+    },
+    "10": {
+      "temp": 23.05,
+      "prec": 470.81
+    },
+    "11": {
+      "temp": 23.51,
+      "prec": 277.76
+    },
+    "12": {
+      "temp": 23.84,
+      "prec": 190.22
+    }
+  },
+  "SUR": {
+    "average_temp": 27.26,
+    "average_prec": 188.07,
+    "1": {
+      "temp": 26.34,
+      "prec": 162.6
+    },
+    "2": {
+      "temp": 26.44,
+      "prec": 136.91
+    },
+    "3": {
+      "temp": 26.72,
+      "prec": 133.13
+    },
+    "4": {
+      "temp": 26.66,
+      "prec": 250.23
+    },
+    "5": {
+      "temp": 26.99,
+      "prec": 345.72
+    },
+    "6": {
+      "temp": 26.91,
+      "prec": 315.16
+    },
+    "7": {
+      "temp": 27.3,
+      "prec": 252.65
+    },
+    "8": {
+      "temp": 27.89,
+      "prec": 156.07
+    },
+    "9": {
+      "temp": 28.7,
+      "prec": 73.05
+    },
+    "10": {
+      "temp": 28.66,
+      "prec": 72.16
+    },
+    "11": {
+      "temp": 27.72,
+      "prec": 139.45
+    },
+    "12": {
+      "temp": 26.79,
+      "prec": 219.71
+    }
+  },
+  "SVK": {
+    "average_temp": 10.08,
+    "average_prec": 64.3,
+    "1": {
+      "temp": 0.04,
+      "prec": 46.85
+    },
+    "2": {
+      "temp": 2.86,
+      "prec": 42.78
+    },
+    "3": {
+      "temp": 5.03,
+      "prec": 32.7
+    },
+    "4": {
+      "temp": 8.76,
+      "prec": 47.08
+    },
+    "5": {
+      "temp": 13.66,
+      "prec": 69.0
+    },
+    "6": {
+      "temp": 18.9,
+      "prec": 88.47
+    },
+    "7": {
+      "temp": 20.38,
+      "prec": 82.67
+    },
+    "8": {
+      "temp": 19.98,
+      "prec": 107.61
+    },
+    "9": {
+      "temp": 15.51,
+      "prec": 81.03
+    },
+    "10": {
+      "temp": 10.62,
+      "prec": 60.78
+    },
+    "11": {
+      "temp": 4.34,
+      "prec": 51.8
+    },
+    "12": {
+      "temp": 0.83,
+      "prec": 60.81
+    }
+  },
+  "SVN": {
+    "average_temp": 10.35,
+    "average_prec": 128.42,
+    "1": {
+      "temp": 0.98,
+      "prec": 82.66
+    },
+    "2": {
+      "temp": 4.0,
+      "prec": 61.52
+    },
+    "3": {
+      "temp": 5.29,
+      "prec": 82.71
+    },
+    "4": {
+      "temp": 8.29,
+      "prec": 111.68
+    },
+    "5": {
+      "temp": 12.96,
+      "prec": 158.01
+    },
+    "6": {
+      "temp": 18.41,
+      "prec": 146.69
+    },
+    "7": {
+      "temp": 20.14,
+      "prec": 130.95
+    },
+    "8": {
+      "temp": 19.83,
+      "prec": 167.03
+    },
+    "9": {
+      "temp": 15.81,
+      "prec": 175.43
+    },
+    "10": {
+      "temp": 11.36,
+      "prec": 141.33
+    },
+    "11": {
+      "temp": 5.43,
+      "prec": 147.77
+    },
+    "12": {
+      "temp": 1.66,
+      "prec": 135.26
+    }
+  },
+  "SWE": {
+    "average_temp": 6.34,
+    "average_prec": 57.04,
+    "1": {
+      "temp": -2.42,
+      "prec": 56.66
+    },
+    "2": {
+      "temp": -1.94,
+      "prec": 49.21
+    },
+    "3": {
+      "temp": 0.53,
+      "prec": 37.67
+    },
+    "4": {
+      "temp": 4.02,
+      "prec": 34.94
+    },
+    "5": {
+      "temp": 9.71,
+      "prec": 40.97
+    },
+    "6": {
+      "temp": 15.74,
+      "prec": 54.36
+    },
+    "7": {
+      "temp": 16.14,
+      "prec": 89.9
+    },
+    "8": {
+      "temp": 15.6,
+      "prec": 79.52
+    },
+    "9": {
+      "temp": 11.78,
+      "prec": 59.27
+    },
+    "10": {
+      "temp": 7.08,
+      "prec": 71.93
+    },
+    "11": {
+      "temp": 2.03,
+      "prec": 54.95
+    },
+    "12": {
+      "temp": -2.25,
+      "prec": 55.17
+    }
+  },
+  "SWZ": {
+    "average_temp": 21.1,
+    "average_prec": 69.53,
+    "1": {
+      "temp": 24.08,
+      "prec": 114.73
+    },
+    "2": {
+      "temp": 24.32,
+      "prec": 168.88
+    },
+    "3": {
+      "temp": 23.19,
+      "prec": 68.06
+    },
+    "4": {
+      "temp": 21.3,
+      "prec": 76.09
+    },
+    "5": {
+      "temp": 19.26,
+      "prec": 21.6
+    },
+    "6": {
+      "temp": 17.01,
+      "prec": 15.64
+    },
+    "7": {
+      "temp": 16.33,
+      "prec": 4.64
+    },
+    "8": {
+      "temp": 18.3,
+      "prec": 8.59
+    },
+    "9": {
+      "temp": 20.46,
+      "prec": 39.01
+    },
+    "10": {
+      "temp": 22.05,
+      "prec": 83.61
+    },
+    "11": {
+      "temp": 22.99,
+      "prec": 96.27
+    },
+    "12": {
+      "temp": 23.83,
+      "prec": 137.26
+    }
+  },
+  "SYC": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "SYR": {
+    "average_temp": 19.47,
+    "average_prec": 33.55,
+    "1": {
+      "temp": 8.62,
+      "prec": 105.16
+    },
+    "2": {
+      "temp": 10.12,
+      "prec": 57.2
+    },
+    "3": {
+      "temp": 13.02,
+      "prec": 59.09
+    },
+    "4": {
+      "temp": 18.56,
+      "prec": 26.15
+    },
+    "5": {
+      "temp": 22.5,
+      "prec": 21.01
+    },
+    "6": {
+      "temp": 26.68,
+      "prec": 2.2
+    },
+    "7": {
+      "temp": 29.35,
+      "prec": 1.19
+    },
+    "8": {
+      "temp": 29.85,
+      "prec": 1.0
+    },
+    "9": {
+      "temp": 26.75,
+      "prec": 5.02
+    },
+    "10": {
+      "temp": 22.03,
+      "prec": 10.78
+    },
+    "11": {
+      "temp": 15.42,
+      "prec": 44.64
+    },
+    "12": {
+      "temp": 10.69,
+      "prec": 69.11
+    }
+  },
+  "TCD": {
+    "average_temp": 27.83,
+    "average_prec": 50.57,
+    "1": {
+      "temp": 23.49,
+      "prec": 0.02
+    },
+    "2": {
+      "temp": 25.46,
+      "prec": 0.12
+    },
+    "3": {
+      "temp": 29.63,
+      "prec": 2.52
+    },
+    "4": {
+      "temp": 31.35,
+      "prec": 12.88
+    },
+    "5": {
+      "temp": 31.87,
+      "prec": 35.93
+    },
+    "6": {
+      "temp": 30.4,
+      "prec": 74.75
+    },
+    "7": {
+      "temp": 28.32,
+      "prec": 135.71
+    },
+    "8": {
+      "temp": 27.03,
+      "prec": 207.22
+    },
+    "9": {
+      "temp": 27.74,
+      "prec": 108.52
+    },
+    "10": {
+      "temp": 28.08,
+      "prec": 27.81
+    },
+    "11": {
+      "temp": 26.38,
+      "prec": 1.33
+    },
+    "12": {
+      "temp": 24.15,
+      "prec": 0.05
+    }
+  },
+  "TGO": {
+    "average_temp": 27.89,
+    "average_prec": 100.36,
+    "1": {
+      "temp": 28.27,
+      "prec": 3.96
+    },
+    "2": {
+      "temp": 29.67,
+      "prec": 7.23
+    },
+    "3": {
+      "temp": 30.45,
+      "prec": 57.97
+    },
+    "4": {
+      "temp": 29.71,
+      "prec": 98.58
+    },
+    "5": {
+      "temp": 28.86,
+      "prec": 126.83
+    },
+    "6": {
+      "temp": 27.07,
+      "prec": 165.47
+    },
+    "7": {
+      "temp": 26.02,
+      "prec": 164.52
+    },
+    "8": {
+      "temp": 25.46,
+      "prec": 170.78
+    },
+    "9": {
+      "temp": 26.05,
+      "prec": 232.86
+    },
+    "10": {
+      "temp": 26.98,
+      "prec": 146.16
+    },
+    "11": {
+      "temp": 28.16,
+      "prec": 26.52
+    },
+    "12": {
+      "temp": 27.92,
+      "prec": 3.48
+    }
+  },
+  "THA": {
+    "average_temp": 27.33,
+    "average_prec": 132.13,
+    "1": {
+      "temp": 24.95,
+      "prec": 15.89
+    },
+    "2": {
+      "temp": 26.35,
+      "prec": 25.13
+    },
+    "3": {
+      "temp": 28.53,
+      "prec": 45.21
+    },
+    "4": {
+      "temp": 29.5,
+      "prec": 84.98
+    },
+    "5": {
+      "temp": 29.17,
+      "prec": 163.86
+    },
+    "6": {
+      "temp": 28.56,
+      "prec": 162.16
+    },
+    "7": {
+      "temp": 28.01,
+      "prec": 210.67
+    },
+    "8": {
+      "temp": 27.81,
+      "prec": 228.04
+    },
+    "9": {
+      "temp": 27.2,
+      "prec": 294.68
+    },
+    "10": {
+      "temp": 26.66,
+      "prec": 213.0
+    },
+    "11": {
+      "temp": 26.35,
+      "prec": 92.52
+    },
+    "12": {
+      "temp": 24.83,
+      "prec": 49.39
+    }
+  },
+  "TJK": {
+    "average_temp": 8.87,
+    "average_prec": 43.15,
+    "1": {
+      "temp": -3.77,
+      "prec": 41.53
+    },
+    "2": {
+      "temp": -0.47,
+      "prec": 60.66
+    },
+    "3": {
+      "temp": 3.48,
+      "prec": 98.62
+    },
+    "4": {
+      "temp": 9.02,
+      "prec": 66.07
+    },
+    "5": {
+      "temp": 13.95,
+      "prec": 69.76
+    },
+    "6": {
+      "temp": 18.84,
+      "prec": 22.41
+    },
+    "7": {
+      "temp": 21.56,
+      "prec": 16.02
+    },
+    "8": {
+      "temp": 20.33,
+      "prec": 14.23
+    },
+    "9": {
+      "temp": 15.65,
+      "prec": 6.59
+    },
+    "10": {
+      "temp": 8.85,
+      "prec": 46.71
+    },
+    "11": {
+      "temp": 2.34,
+      "prec": 45.54
+    },
+    "12": {
+      "temp": -3.34,
+      "prec": 29.64
+    }
+  },
+  "TKM": {
+    "average_temp": 17.11,
+    "average_prec": 11.55,
+    "1": {
+      "temp": 2.2,
+      "prec": 16.56
+    },
+    "2": {
+      "temp": 6.53,
+      "prec": 18.12
+    },
+    "3": {
+      "temp": 11.11,
+      "prec": 28.4
+    },
+    "4": {
+      "temp": 18.32,
+      "prec": 17.83
+    },
+    "5": {
+      "temp": 23.87,
+      "prec": 17.55
+    },
+    "6": {
+      "temp": 30.4,
+      "prec": 3.14
+    },
+    "7": {
+      "temp": 32.17,
+      "prec": 2.89
+    },
+    "8": {
+      "temp": 29.94,
+      "prec": 1.61
+    },
+    "9": {
+      "temp": 23.56,
+      "prec": 1.71
+    },
+    "10": {
+      "temp": 15.56,
+      "prec": 10.0
+    },
+    "11": {
+      "temp": 8.99,
+      "prec": 10.58
+    },
+    "12": {
+      "temp": 2.65,
+      "prec": 10.25
+    }
+  },
+  "TLS": {
+    "average_temp": 24.56,
+    "average_prec": 99.4,
+    "1": {
+      "temp": 25.25,
+      "prec": 157.3
+    },
+    "2": {
+      "temp": 25.12,
+      "prec": 110.07
+    },
+    "3": {
+      "temp": 25.0,
+      "prec": 142.98
+    },
+    "4": {
+      "temp": 24.82,
+      "prec": 85.25
+    },
+    "5": {
+      "temp": 24.09,
+      "prec": 116.6
+    },
+    "6": {
+      "temp": 23.69,
+      "prec": 99.57
+    },
+    "7": {
+      "temp": 22.66,
+      "prec": 70.14
+    },
+    "8": {
+      "temp": 23.11,
+      "prec": 11.96
+    },
+    "9": {
+      "temp": 23.95,
+      "prec": 14.95
+    },
+    "10": {
+      "temp": 24.99,
+      "prec": 23.11
+    },
+    "11": {
+      "temp": 26.03,
+      "prec": 117.36
+    },
+    "12": {
+      "temp": 25.95,
+      "prec": 243.53
+    }
+  },
+  "TON": {
+    "average_temp": 25.35,
+    "average_prec": 162.35,
+    "1": {
+      "temp": 27.12,
+      "prec": 238.57
+    },
+    "2": {
+      "temp": 27.15,
+      "prec": 180.63
+    },
+    "3": {
+      "temp": 27.2,
+      "prec": 266.82
+    },
+    "4": {
+      "temp": 26.68,
+      "prec": 214.95
+    },
+    "5": {
+      "temp": 25.15,
+      "prec": 142.38
+    },
+    "6": {
+      "temp": 24.5,
+      "prec": 95.92
+    },
+    "7": {
+      "temp": 23.62,
+      "prec": 89.95
+    },
+    "8": {
+      "temp": 23.2,
+      "prec": 106.22
+    },
+    "9": {
+      "temp": 23.6,
+      "prec": 122.56
+    },
+    "10": {
+      "temp": 24.4,
+      "prec": 125.28
+    },
+    "11": {
+      "temp": 25.3,
+      "prec": 174.3
+    },
+    "12": {
+      "temp": 26.3,
+      "prec": 190.62
+    }
+  },
+  "TTO": {
+    "average_temp": 26.75,
+    "average_prec": 161.68,
+    "1": {
+      "temp": 25.62,
+      "prec": 101.14
+    },
+    "2": {
+      "temp": 25.81,
+      "prec": 69.34
+    },
+    "3": {
+      "temp": 26.21,
+      "prec": 71.89
+    },
+    "4": {
+      "temp": 26.92,
+      "prec": 101.29
+    },
+    "5": {
+      "temp": 27.49,
+      "prec": 93.81
+    },
+    "6": {
+      "temp": 27.01,
+      "prec": 232.86
+    },
+    "7": {
+      "temp": 27.02,
+      "prec": 216.38
+    },
+    "8": {
+      "temp": 27.29,
+      "prec": 246.25
+    },
+    "9": {
+      "temp": 27.6,
+      "prec": 172.2
+    },
+    "10": {
+      "temp": 27.4,
+      "prec": 253.3
+    },
+    "11": {
+      "temp": 26.73,
+      "prec": 242.62
+    },
+    "12": {
+      "temp": 25.92,
+      "prec": 139.11
+    }
+  },
+  "TUN": {
+    "average_temp": 20.48,
+    "average_prec": 22.02,
+    "1": {
+      "temp": 11.41,
+      "prec": 23.77
+    },
+    "2": {
+      "temp": 12.87,
+      "prec": 23.26
+    },
+    "3": {
+      "temp": 14.87,
+      "prec": 30.09
+    },
+    "4": {
+      "temp": 17.93,
+      "prec": 25.83
+    },
+    "5": {
+      "temp": 22.35,
+      "prec": 21.65
+    },
+    "6": {
+      "temp": 27.27,
+      "prec": 8.42
+    },
+    "7": {
+      "temp": 30.15,
+      "prec": 2.19
+    },
+    "8": {
+      "temp": 29.86,
+      "prec": 7.0
+    },
+    "9": {
+      "temp": 26.81,
+      "prec": 24.79
+    },
+    "10": {
+      "temp": 22.31,
+      "prec": 21.36
+    },
+    "11": {
+      "temp": 17.26,
+      "prec": 32.01
+    },
+    "12": {
+      "temp": 12.69,
+      "prec": 43.92
+    }
+  },
+  "TUR": {
+    "average_temp": 12.88,
+    "average_prec": 51.26,
+    "1": {
+      "temp": 2.17,
+      "prec": 85.5
+    },
+    "2": {
+      "temp": 3.63,
+      "prec": 57.61
+    },
+    "3": {
+      "temp": 6.04,
+      "prec": 84.35
+    },
+    "4": {
+      "temp": 11.58,
+      "prec": 51.15
+    },
+    "5": {
+      "temp": 15.1,
+      "prec": 62.27
+    },
+    "6": {
+      "temp": 19.79,
+      "prec": 46.11
+    },
+    "7": {
+      "temp": 23.42,
+      "prec": 21.9
+    },
+    "8": {
+      "temp": 24.05,
+      "prec": 17.97
+    },
+    "9": {
+      "temp": 20.12,
+      "prec": 28.57
+    },
+    "10": {
+      "temp": 14.59,
+      "prec": 31.25
+    },
+    "11": {
+      "temp": 9.11,
+      "prec": 60.19
+    },
+    "12": {
+      "temp": 4.94,
+      "prec": 68.33
+    }
+  },
+  "TUV": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "TWN": {
+    "average_temp": 21.04,
+    "average_prec": 210.51,
+    "1": {
+      "temp": 14.88,
+      "prec": 68.53
+    },
+    "2": {
+      "temp": 16.07,
+      "prec": 102.85
+    },
+    "3": {
+      "temp": 18.24,
+      "prec": 155.15
+    },
+    "4": {
+      "temp": 20.59,
+      "prec": 111.72
+    },
+    "5": {
+      "temp": 22.94,
+      "prec": 319.23
+    },
+    "6": {
+      "temp": 24.93,
+      "prec": 379.14
+    },
+    "7": {
+      "temp": 26.13,
+      "prec": 342.08
+    },
+    "8": {
+      "temp": 25.59,
+      "prec": 411.61
+    },
+    "9": {
+      "temp": 24.76,
+      "prec": 326.9
+    },
+    "10": {
+      "temp": 22.55,
+      "prec": 144.38
+    },
+    "11": {
+      "temp": 19.99,
+      "prec": 84.58
+    },
+    "12": {
+      "temp": 15.82,
+      "prec": 79.94
+    }
+  },
+  "TZA": {
+    "average_temp": 23.47,
+    "average_prec": 101.84,
+    "1": {
+      "temp": 24.23,
+      "prec": 170.73
+    },
+    "2": {
+      "temp": 24.09,
+      "prec": 140.85
+    },
+    "3": {
+      "temp": 24.07,
+      "prec": 195.95
+    },
+    "4": {
+      "temp": 23.53,
+      "prec": 212.25
+    },
+    "5": {
+      "temp": 23.06,
+      "prec": 61.17
+    },
+    "6": {
+      "temp": 22.09,
+      "prec": 24.88
+    },
+    "7": {
+      "temp": 21.55,
+      "prec": 15.99
+    },
+    "8": {
+      "temp": 22.27,
+      "prec": 11.18
+    },
+    "9": {
+      "temp": 23.3,
+      "prec": 33.46
+    },
+    "10": {
+      "temp": 24.33,
+      "prec": 49.33
+    },
+    "11": {
+      "temp": 24.38,
+      "prec": 134.33
+    },
+    "12": {
+      "temp": 24.71,
+      "prec": 171.98
+    }
+  },
+  "UGA": {
+    "average_temp": 22.89,
+    "average_prec": 114.07,
+    "1": {
+      "temp": 23.82,
+      "prec": 63.12
+    },
+    "2": {
+      "temp": 23.46,
+      "prec": 67.17
+    },
+    "3": {
+      "temp": 23.53,
+      "prec": 110.35
+    },
+    "4": {
+      "temp": 22.81,
+      "prec": 162.56
+    },
+    "5": {
+      "temp": 23.2,
+      "prec": 143.66
+    },
+    "6": {
+      "temp": 22.4,
+      "prec": 77.88
+    },
+    "7": {
+      "temp": 21.89,
+      "prec": 114.41
+    },
+    "8": {
+      "temp": 22.04,
+      "prec": 150.35
+    },
+    "9": {
+      "temp": 22.77,
+      "prec": 138.66
+    },
+    "10": {
+      "temp": 22.87,
+      "prec": 128.73
+    },
+    "11": {
+      "temp": 22.83,
+      "prec": 125.77
+    },
+    "12": {
+      "temp": 23.1,
+      "prec": 86.19
+    }
+  },
+  "UKR": {
+    "average_temp": 9.98,
+    "average_prec": 49.61,
+    "1": {
+      "temp": -1.21,
+      "prec": 46.66
+    },
+    "2": {
+      "temp": 0.4,
+      "prec": 46.19
+    },
+    "3": {
+      "temp": 3.5,
+      "prec": 31.32
+    },
+    "4": {
+      "temp": 9.09,
+      "prec": 44.77
+    },
+    "5": {
+      "temp": 13.95,
+      "prec": 51.31
+    },
+    "6": {
+      "temp": 19.81,
+      "prec": 67.83
+    },
+    "7": {
+      "temp": 21.58,
+      "prec": 65.81
+    },
+    "8": {
+      "temp": 21.48,
+      "prec": 48.67
+    },
+    "9": {
+      "temp": 15.91,
+      "prec": 43.35
+    },
+    "10": {
+      "temp": 10.56,
+      "prec": 40.96
+    },
+    "11": {
+      "temp": 4.48,
+      "prec": 51.95
+    },
+    "12": {
+      "temp": 0.2,
+      "prec": 56.52
+    }
+  },
+  "URY": {
+    "average_temp": 17.93,
+    "average_prec": 88.38,
+    "1": {
+      "temp": 24.52,
+      "prec": 95.13
+    },
+    "2": {
+      "temp": 23.77,
+      "prec": 80.32
+    },
+    "3": {
+      "temp": 22.39,
+      "prec": 135.15
+    },
+    "4": {
+      "temp": 18.31,
+      "prec": 105.01
+    },
+    "5": {
+      "temp": 13.61,
+      "prec": 83.65
+    },
+    "6": {
+      "temp": 12.21,
+      "prec": 80.36
+    },
+    "7": {
+      "temp": 11.42,
+      "prec": 65.58
+    },
+    "8": {
+      "temp": 13.13,
+      "prec": 84.6
+    },
+    "9": {
+      "temp": 14.87,
+      "prec": 95.41
+    },
+    "10": {
+      "temp": 17.5,
+      "prec": 70.71
+    },
+    "11": {
+      "temp": 20.83,
+      "prec": 82.96
+    },
+    "12": {
+      "temp": 22.63,
+      "prec": 81.67
+    }
+  },
+  "USA": {
+    "average_temp": 13.08,
+    "average_prec": 84.74,
+    "1": {
+      "temp": 2.01,
+      "prec": 76.62
+    },
+    "2": {
+      "temp": 2.96,
+      "prec": 66.45
+    },
+    "3": {
+      "temp": 7.58,
+      "prec": 86.55
+    },
+    "4": {
+      "temp": 11.49,
+      "prec": 87.07
+    },
+    "5": {
+      "temp": 16.79,
+      "prec": 88.45
+    },
+    "6": {
+      "temp": 21.65,
+      "prec": 83.91
+    },
+    "7": {
+      "temp": 24.11,
+      "prec": 106.72
+    },
+    "8": {
+      "temp": 23.39,
+      "prec": 100.28
+    },
+    "9": {
+      "temp": 20.01,
+      "prec": 82.2
+    },
+    "10": {
+      "temp": 14.31,
+      "prec": 81.53
+    },
+    "11": {
+      "temp": 8.36,
+      "prec": 71.32
+    },
+    "12": {
+      "temp": 4.29,
+      "prec": 85.83
+    }
+  },
+  "UZB": {
+    "average_temp": 14.87,
+    "average_prec": 23.03,
+    "1": {
+      "temp": 0.68,
+      "prec": 27.95
+    },
+    "2": {
+      "temp": 4.56,
+      "prec": 36.32
+    },
+    "3": {
+      "temp": 9.67,
+      "prec": 56.09
+    },
+    "4": {
+      "temp": 16.36,
+      "prec": 30.43
+    },
+    "5": {
+      "temp": 21.75,
+      "prec": 31.35
+    },
+    "6": {
+      "temp": 27.41,
+      "prec": 7.33
+    },
+    "7": {
+      "temp": 29.12,
+      "prec": 5.41
+    },
+    "8": {
+      "temp": 26.72,
+      "prec": 6.23
+    },
+    "9": {
+      "temp": 20.95,
+      "prec": 3.29
+    },
+    "10": {
+      "temp": 13.6,
+      "prec": 24.83
+    },
+    "11": {
+      "temp": 6.86,
+      "prec": 26.89
+    },
+    "12": {
+      "temp": 0.8,
+      "prec": 20.29
+    }
+  },
+  "VAT": {
+    "average_temp": null,
+    "average_prec": null,
+    "1": {
+      "temp": null,
+      "prec": null
+    },
+    "2": {
+      "temp": null,
+      "prec": null
+    },
+    "3": {
+      "temp": null,
+      "prec": null
+    },
+    "4": {
+      "temp": null,
+      "prec": null
+    },
+    "5": {
+      "temp": null,
+      "prec": null
+    },
+    "6": {
+      "temp": null,
+      "prec": null
+    },
+    "7": {
+      "temp": null,
+      "prec": null
+    },
+    "8": {
+      "temp": null,
+      "prec": null
+    },
+    "9": {
+      "temp": null,
+      "prec": null
+    },
+    "10": {
+      "temp": null,
+      "prec": null
+    },
+    "11": {
+      "temp": null,
+      "prec": null
+    },
+    "12": {
+      "temp": null,
+      "prec": null
+    }
+  },
+  "VCT": {
+    "average_temp": 26.01,
+    "average_prec": 172.77,
+    "1": {
+      "temp": 24.66,
+      "prec": 130.27
+    },
+    "2": {
+      "temp": 24.69,
+      "prec": 95.12
+    },
+    "3": {
+      "temp": 25.0,
+      "prec": 79.11
+    },
+    "4": {
+      "temp": 25.73,
+      "prec": 78.75
+    },
+    "5": {
+      "temp": 26.73,
+      "prec": 80.37
+    },
+    "6": {
+      "temp": 26.69,
+      "prec": 204.38
+    },
+    "7": {
+      "temp": 26.77,
+      "prec": 242.91
+    },
+    "8": {
+      "temp": 26.91,
+      "prec": 215.84
+    },
+    "9": {
+      "temp": 27.09,
+      "prec": 233.49
+    },
+    "10": {
+      "temp": 26.79,
+      "prec": 303.02
+    },
+    "11": {
+      "temp": 25.98,
+      "prec": 266.5
+    },
+    "12": {
+      "temp": 25.11,
+      "prec": 143.46
+    }
+  },
+  "VEN": {
+    "average_temp": 25.21,
+    "average_prec": 103.98,
+    "1": {
+      "temp": 24.35,
+      "prec": 31.23
+    },
+    "2": {
+      "temp": 24.91,
+      "prec": 28.02
+    },
+    "3": {
+      "temp": 25.19,
+      "prec": 28.95
+    },
+    "4": {
+      "temp": 25.73,
+      "prec": 80.46
+    },
+    "5": {
+      "temp": 25.85,
+      "prec": 124.86
+    },
+    "6": {
+      "temp": 25.12,
+      "prec": 181.56
+    },
+    "7": {
+      "temp": 25.07,
+      "prec": 177.13
+    },
+    "8": {
+      "temp": 25.32,
+      "prec": 160.65
+    },
+    "9": {
+      "temp": 25.78,
+      "prec": 131.95
+    },
+    "10": {
+      "temp": 25.58,
+      "prec": 130.4
+    },
+    "11": {
+      "temp": 25.02,
+      "prec": 110.94
+    },
+    "12": {
+      "temp": 24.54,
+      "prec": 61.61
+    }
+  },
+  "VNM": {
+    "average_temp": 24.9,
+    "average_prec": 147.17,
+    "1": {
+      "temp": 20.5,
+      "prec": 26.7
+    },
+    "2": {
+      "temp": 21.49,
+      "prec": 25.84
+    },
+    "3": {
+      "temp": 24.0,
+      "prec": 35.32
+    },
+    "4": {
+      "temp": 25.64,
+      "prec": 74.01
+    },
+    "5": {
+      "temp": 27.41,
+      "prec": 180.35
+    },
+    "6": {
+      "temp": 27.88,
+      "prec": 207.97
+    },
+    "7": {
+      "temp": 27.81,
+      "prec": 252.21
+    },
+    "8": {
+      "temp": 27.35,
+      "prec": 263.04
+    },
+    "9": {
+      "temp": 26.71,
+      "prec": 312.53
+    },
+    "10": {
+      "temp": 24.98,
+      "prec": 243.89
+    },
+    "11": {
+      "temp": 23.91,
+      "prec": 105.24
+    },
+    "12": {
+      "temp": 21.13,
+      "prec": 38.91
+    }
+  },
+  "VUT": {
+    "average_temp": 24.5,
+    "average_prec": 270.4,
+    "1": {
+      "temp": 25.9,
+      "prec": 376.28
+    },
+    "2": {
+      "temp": 26.02,
+      "prec": 353.59
+    },
+    "3": {
+      "temp": 25.84,
+      "prec": 378.68
+    },
+    "4": {
+      "temp": 25.22,
+      "prec": 337.71
+    },
+    "5": {
+      "temp": 24.08,
+      "prec": 262.05
+    },
+    "6": {
+      "temp": 23.42,
+      "prec": 204.7
+    },
+    "7": {
+      "temp": 22.71,
+      "prec": 205.0
+    },
+    "8": {
+      "temp": 22.78,
+      "prec": 194.55
+    },
+    "9": {
+      "temp": 23.11,
+      "prec": 216.37
+    },
+    "10": {
+      "temp": 24.15,
+      "prec": 204.39
+    },
+    "11": {
+      "temp": 24.86,
+      "prec": 254.49
+    },
+    "12": {
+      "temp": 25.87,
+      "prec": 257.0
+    }
+  },
+  "WSM": {
+    "average_temp": 25.16,
+    "average_prec": 328.5,
+    "1": {
+      "temp": 25.71,
+      "prec": 622.27
+    },
+    "2": {
+      "temp": 25.41,
+      "prec": 592.07
+    },
+    "3": {
+      "temp": 25.91,
+      "prec": 268.12
+    },
+    "4": {
+      "temp": 25.75,
+      "prec": 270.08
+    },
+    "5": {
+      "temp": 25.47,
+      "prec": 267.73
+    },
+    "6": {
+      "temp": 24.73,
+      "prec": 255.47
+    },
+    "7": {
+      "temp": 24.48,
+      "prec": 175.04
+    },
+    "8": {
+      "temp": 24.2,
+      "prec": 189.52
+    },
+    "9": {
+      "temp": 24.55,
+      "prec": 237.07
+    },
+    "10": {
+      "temp": 24.98,
+      "prec": 313.84
+    },
+    "11": {
+      "temp": 25.23,
+      "prec": 341.9
+    },
+    "12": {
+      "temp": 25.45,
+      "prec": 408.93
+    }
+  },
+  "XKX": {
+    "average_temp": 10.98,
+    "average_prec": 70.83,
+    "1": {
+      "temp": 1.24,
+      "prec": 76.99
+    },
+    "2": {
+      "temp": 3.92,
+      "prec": 46.59
+    },
+    "3": {
+      "temp": 5.75,
+      "prec": 65.69
+    },
+    "4": {
+      "temp": 8.63,
+      "prec": 62.97
+    },
+    "5": {
+      "temp": 13.69,
+      "prec": 82.96
+    },
+    "6": {
+      "temp": 19.47,
+      "prec": 81.43
+    },
+    "7": {
+      "temp": 21.61,
+      "prec": 38.07
+    },
+    "8": {
+      "temp": 21.15,
+      "prec": 68.31
+    },
+    "9": {
+      "temp": 16.84,
+      "prec": 73.83
+    },
+    "10": {
+      "temp": 11.57,
+      "prec": 58.69
+    },
+    "11": {
+      "temp": 5.45,
+      "prec": 89.89
+    },
+    "12": {
+      "temp": 2.38,
+      "prec": 104.58
+    }
+  },
+  "YEM": {
+    "average_temp": 24.73,
+    "average_prec": 15.99,
+    "1": {
+      "temp": 19.73,
+      "prec": 6.7
+    },
+    "2": {
+      "temp": 21.57,
+      "prec": 6.54
+    },
+    "3": {
+      "temp": 23.22,
+      "prec": 17.7
+    },
+    "4": {
+      "temp": 25.14,
+      "prec": 26.19
+    },
+    "5": {
+      "temp": 27.67,
+      "prec": 25.94
+    },
+    "6": {
+      "temp": 28.86,
+      "prec": 12.68
+    },
+    "7": {
+      "temp": 28.5,
+      "prec": 29.03
+    },
+    "8": {
+      "temp": 28.0,
+      "prec": 34.03
+    },
+    "9": {
+      "temp": 27.35,
+      "prec": 13.04
+    },
+    "10": {
+      "temp": 24.61,
+      "prec": 7.62
+    },
+    "11": {
+      "temp": 21.91,
+      "prec": 6.94
+    },
+    "12": {
+      "temp": 20.21,
+      "prec": 5.46
+    }
+  },
+  "ZAF": {
+    "average_temp": 18.27,
+    "average_prec": 46.0,
+    "1": {
+      "temp": 23.12,
+      "prec": 86.78
+    },
+    "2": {
+      "temp": 22.81,
+      "prec": 76.84
+    },
+    "3": {
+      "temp": 21.44,
+      "prec": 57.42
+    },
+    "4": {
+      "temp": 18.37,
+      "prec": 48.49
+    },
+    "5": {
+      "temp": 15.31,
+      "prec": 19.27
+    },
+    "6": {
+      "temp": 12.54,
+      "prec": 17.7
+    },
+    "7": {
+      "temp": 11.51,
+      "prec": 9.22
+    },
+    "8": {
+      "temp": 13.76,
+      "prec": 12.05
+    },
+    "9": {
+      "temp": 17.01,
+      "prec": 20.1
+    },
+    "10": {
+      "temp": 20.0,
+      "prec": 43.77
+    },
+    "11": {
+      "temp": 21.15,
+      "prec": 65.92
+    },
+    "12": {
+      "temp": 22.27,
+      "prec": 94.44
+    }
+  },
+  "ZMB": {
+    "average_temp": 21.67,
+    "average_prec": 87.64,
+    "1": {
+      "temp": 22.4,
+      "prec": 235.79
+    },
+    "2": {
+      "temp": 22.73,
+      "prec": 205.63
+    },
+    "3": {
+      "temp": 22.31,
+      "prec": 162.72
+    },
+    "4": {
+      "temp": 21.86,
+      "prec": 53.65
+    },
+    "5": {
+      "temp": 19.69,
+      "prec": 6.29
+    },
+    "6": {
+      "temp": 17.58,
+      "prec": 0.79
+    },
+    "7": {
+      "temp": 17.57,
+      "prec": 0.14
+    },
+    "8": {
+      "temp": 19.95,
+      "prec": 0.39
+    },
+    "9": {
+      "temp": 23.34,
+      "prec": 3.44
+    },
+    "10": {
+      "temp": 24.93,
+      "prec": 27.34
+    },
+    "11": {
+      "temp": 24.31,
+      "prec": 118.81
+    },
+    "12": {
+      "temp": 23.38,
+      "prec": 236.72
+    }
+  },
+  "ZWE": {
+    "average_temp": 20.91,
+    "average_prec": 55.65,
+    "1": {
+      "temp": 23.08,
+      "prec": 153.97
+    },
+    "2": {
+      "temp": 23.25,
+      "prec": 131.35
+    },
+    "3": {
+      "temp": 22.13,
+      "prec": 66.63
+    },
+    "4": {
+      "temp": 20.94,
+      "prec": 32.32
+    },
+    "5": {
+      "temp": 18.21,
+      "prec": 6.56
+    },
+    "6": {
+      "temp": 15.89,
+      "prec": 6.63
+    },
+    "7": {
+      "temp": 15.72,
+      "prec": 1.02
+    },
+    "8": {
+      "temp": 18.12,
+      "prec": 1.88
+    },
+    "9": {
+      "temp": 21.52,
+      "prec": 5.33
+    },
+    "10": {
+      "temp": 23.87,
+      "prec": 27.29
+    },
+    "11": {
+      "temp": 24.3,
+      "prec": 80.06
+    },
+    "12": {
+      "temp": 23.95,
+      "prec": 154.81
+    }
+  }
+}

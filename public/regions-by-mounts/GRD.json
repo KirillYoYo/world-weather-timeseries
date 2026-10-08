@@ -4,363 +4,727 @@
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Saint David": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Saint Mark": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Saint John": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Saint George": {
     "average_temp": 26.64,
     "average_prec": 145.19,
     "1": {
       "temp": 25.38,
-      "prec": 102.79
+      "prec": 102.79,
+      "srad": 16816.0,
+      "wind": 4.576499938964844,
+      "tmax": 28.75,
+      "tmin": 22.0
     },
     "2": {
       "temp": 25.47,
-      "prec": 72.03
+      "prec": 72.03,
+      "srad": 19321.0,
+      "wind": 4.822499752044678,
+      "tmax": 28.916666412353514,
+      "tmin": 22.01666679382324
     },
     "3": {
       "temp": 25.77,
-      "prec": 58.5
+      "prec": 58.5,
+      "srad": 21270.0,
+      "wind": 4.957499980926514,
+      "tmax": 29.21666717529297,
+      "tmin": 22.316666030883788
     },
     "4": {
       "temp": 26.47,
-      "prec": 68.99
+      "prec": 68.99,
+      "srad": 21625.0,
+      "wind": 5.021999835968018,
+      "tmax": 29.666666412353514,
+      "tmin": 23.26666679382324
     },
     "5": {
       "temp": 27.34,
-      "prec": 70.93
+      "prec": 70.93,
+      "srad": 20401.0,
+      "wind": 5.015999794006348,
+      "tmax": 30.416666412353514,
+      "tmin": 24.26666679382324
     },
     "6": {
       "temp": 27.21,
-      "prec": 185.39
+      "prec": 185.39,
+      "srad": 18752.0,
+      "wind": 4.953999996185303,
+      "tmax": 30.383333587646483,
+      "tmin": 24.033333206176756
     },
     "7": {
       "temp": 27.08,
-      "prec": 192.25
+      "prec": 192.25,
+      "srad": 19428.0,
+      "wind": 4.334499835968018,
+      "tmax": 30.250000381469725,
+      "tmin": 23.916666412353514
     },
     "8": {
       "temp": 27.42,
-      "prec": 200.67
+      "prec": 200.67,
+      "srad": 20297.0,
+      "wind": 3.7699999809265137,
+      "tmax": 30.783333587646485,
+      "tmin": 24.05
     },
     "9": {
       "temp": 27.83,
-      "prec": 185.85
+      "prec": 185.85,
+      "srad": 20112.0,
+      "wind": 3.6554999351501465,
+      "tmax": 31.25,
+      "tmin": 24.400000381469727
     },
     "10": {
       "temp": 27.39,
-      "prec": 235.38
+      "prec": 235.38,
+      "srad": 18921.0,
+      "wind": 3.7170000076293945,
+      "tmax": 30.733333587646484,
+      "tmin": 24.05
     },
     "11": {
       "temp": 26.51,
-      "prec": 231.26
+      "prec": 231.26,
+      "srad": 17048.0,
+      "wind": 3.823499917984009,
+      "tmax": 29.900000381469727,
+      "tmin": 23.116666412353517
     },
     "12": {
       "temp": 25.87,
-      "prec": 138.21
-    }
+      "prec": 138.21,
+      "srad": 15985.0,
+      "wind": 4.182000160217285,
+      "tmax": 29.200000381469728,
+      "tmin": 22.549999618530272
+    },
+    "average_srad": 19164.666666666668,
+    "average_wind": 4.402583261330922,
+    "average_tmax": 29.955555693308515,
+    "average_tmin": 23.331944370269778
   },
   "Saint Patrick": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Southern Grenadine Islands": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   }
 }

@@ -4,1663 +4,3327 @@
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Biminis": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 13178.0,
+      "wind": 5.0333333015441895,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 16229.0,
+      "wind": 5.199999809265137,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 19720.0,
+      "wind": 5.5,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 22507.0,
+      "wind": 5.300000190734863,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 23641.0,
+      "wind": 4.699999809265137,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 21855.0,
+      "wind": 4.0,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 22966.0,
+      "wind": 3.5999999046325684,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 21186.0,
+      "wind": 3.5999999046325684,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 18302.0,
+      "wind": 3.9000000953674316,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 15945.0,
+      "wind": 4.800000190734863,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 13713.0,
+      "wind": 5.099999904632568,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": 12303.0,
+      "wind": 5.0,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": 18462.083333333332,
+    "average_wind": 4.644444425900777,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Berry Islands": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Black Point": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Cat Island": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Central Abaco": {
     "average_temp": 25.67,
     "average_prec": 120.61,
     "1": {
       "temp": 21.13,
-      "prec": 58.15
+      "prec": 58.15,
+      "srad": 12989.0,
+      "wind": 5.56403374671936,
+      "tmax": 24.3,
+      "tmin": 17.95714282989502
     },
     "2": {
       "temp": 22.57,
-      "prec": 73.1
+      "prec": 73.1,
+      "srad": 15482.0,
+      "wind": 5.657155513763428,
+      "tmax": 25.928571701049805,
+      "tmin": 19.20714282989502
     },
     "3": {
       "temp": 24.49,
-      "prec": 54.19
+      "prec": 54.19,
+      "srad": 19066.5,
+      "wind": 5.6931774616241455,
+      "tmax": 28.07142868041992,
+      "tmin": 20.91428565979004
     },
     "4": {
       "temp": 25.24,
-      "prec": 64.45
+      "prec": 64.45,
+      "srad": 22002.5,
+      "wind": 5.303369760513306,
+      "tmax": 28.07142868041992,
+      "tmin": 22.40714282989502
     },
     "5": {
       "temp": 26.44,
-      "prec": 118.87
+      "prec": 118.87,
+      "srad": 23134.5,
+      "wind": 4.874090671539307,
+      "tmax": 29.58571434020996,
+      "tmin": 23.29285717010498
     },
     "6": {
       "temp": 27.7,
-      "prec": 183.45
+      "prec": 183.45,
+      "srad": 22001.0,
+      "wind": 4.261539697647095,
+      "tmax": 30.38571434020996,
+      "tmin": 25.014285469055174
     },
     "7": {
       "temp": 28.99,
-      "prec": 151.0
+      "prec": 151.0,
+      "srad": 22972.5,
+      "wind": 4.250049352645874,
+      "tmax": 32.01428565979004,
+      "tmin": 25.95714282989502
     },
     "8": {
       "temp": 29.46,
-      "prec": 127.59
+      "prec": 127.59,
+      "srad": 21370.0,
+      "wind": 4.1362464427948,
+      "tmax": 32.514285278320315,
+      "tmin": 26.40714282989502
     },
     "9": {
       "temp": 28.4,
-      "prec": 233.35
+      "prec": 233.35,
+      "srad": 18238.0,
+      "wind": 4.563796520233154,
+      "tmax": 31.40714282989502,
+      "tmin": 25.38571434020996
     },
     "10": {
       "temp": 26.61,
-      "prec": 197.63
+      "prec": 197.63,
+      "srad": 15531.0,
+      "wind": 5.217440605163574,
+      "tmax": 29.59285717010498,
+      "tmin": 23.63571434020996
     },
     "11": {
       "temp": 24.65,
-      "prec": 116.54
+      "prec": 116.54,
+      "srad": 13571.5,
+      "wind": 5.8373658657073975,
+      "tmax": 27.3642858505249,
+      "tmin": 21.942857360839845
     },
     "12": {
       "temp": 22.4,
-      "prec": 69.0
-    }
+      "prec": 69.0,
+      "srad": 11979.0,
+      "wind": 5.661928176879883,
+      "tmax": 25.514285850524903,
+      "tmin": 19.28571434020996
+    },
+    "average_srad": 18194.791666666668,
+    "average_wind": 5.085016151269277,
+    "average_tmax": 28.72916669845581,
+    "average_tmin": 22.617261902491254
   },
   "Central Andros": {
     "average_temp": 26.35,
     "average_prec": 114.55,
     "1": {
       "temp": 22.41,
-      "prec": 43.91
+      "prec": 43.91,
+      "srad": 14269.5,
+      "wind": 3.649503707885742,
+      "tmax": 26.7125,
+      "tmin": 18.1
     },
     "2": {
       "temp": 23.77,
-      "prec": 48.39
+      "prec": 48.39,
+      "srad": 16806.5,
+      "wind": 3.6701900959014893,
+      "tmax": 27.9375,
+      "tmin": 19.6
     },
     "3": {
       "temp": 25.25,
-      "prec": 26.97
+      "prec": 26.97,
+      "srad": 20314.5,
+      "wind": 3.907824754714966,
+      "tmax": 29.6125,
+      "tmin": 20.89375
     },
     "4": {
       "temp": 25.93,
-      "prec": 56.37
+      "prec": 56.37,
+      "srad": 22778.0,
+      "wind": 4.127509355545044,
+      "tmax": 30.19375,
+      "tmin": 21.675
     },
     "5": {
       "temp": 27.38,
-      "prec": 127.97
+      "prec": 127.97,
+      "srad": 23263.5,
+      "wind": 3.362793445587158,
+      "tmax": 31.475,
+      "tmin": 23.275
     },
     "6": {
       "temp": 28.2,
-      "prec": 225.74
+      "prec": 225.74,
+      "srad": 22156.5,
+      "wind": 2.923862338066101,
+      "tmax": 32.075,
+      "tmin": 24.325
     },
     "7": {
       "temp": 29.38,
-      "prec": 129.89
+      "prec": 129.89,
+      "srad": 23339.5,
+      "wind": 3.033389449119568,
+      "tmax": 33.09375,
+      "tmin": 25.675
     },
     "8": {
       "temp": 29.34,
-      "prec": 126.16
+      "prec": 126.16,
+      "srad": 21772.0,
+      "wind": 3.018059015274048,
+      "tmax": 33.1625,
+      "tmin": 25.525
     },
     "9": {
       "temp": 28.57,
-      "prec": 220.41
+      "prec": 220.41,
+      "srad": 19043.5,
+      "wind": 3.0174717903137207,
+      "tmax": 32.5375,
+      "tmin": 24.6
     },
     "10": {
       "temp": 27.37,
-      "prec": 202.99
+      "prec": 202.99,
+      "srad": 16663.0,
+      "wind": 3.435295820236206,
+      "tmax": 30.85,
+      "tmin": 23.89375
     },
     "11": {
       "temp": 25.35,
-      "prec": 110.32
+      "prec": 110.32,
+      "srad": 14787.5,
+      "wind": 3.6914349794387817,
+      "tmax": 28.79375,
+      "tmin": 21.90625
     },
     "12": {
       "temp": 23.23,
-      "prec": 55.42
-    }
+      "prec": 55.42,
+      "srad": 13310.5,
+      "wind": 3.5267704725265503,
+      "tmax": 27.26875,
+      "tmin": 19.2
+    },
+    "average_srad": 19042.041666666668,
+    "average_wind": 3.4470087687174478,
+    "average_tmax": 30.309375000000003,
+    "average_tmin": 22.389062500000005
   },
   "Central Eleuthera": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "City of Freeport": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Crooked Island": {
     "average_temp": 26.83,
     "average_prec": 66.73,
     "1": {
       "temp": 23.31,
-      "prec": 24.45
+      "prec": 24.45,
+      "srad": 14724.0,
+      "wind": 4.012272834777832,
+      "tmax": 26.923077392578126,
+      "tmin": 19.692307662963866
     },
     "2": {
       "temp": 24.78,
-      "prec": 19.5
+      "prec": 19.5,
+      "srad": 17086.0,
+      "wind": 4.791919231414795,
+      "tmax": 28.09230728149414,
+      "tmin": 21.4769229888916
     },
     "3": {
       "temp": 25.56,
-      "prec": 22.46
+      "prec": 22.46,
+      "srad": 20650.5,
+      "wind": 4.3158838748931885,
+      "tmax": 29.046154403686522,
+      "tmin": 22.076922988891603
     },
     "4": {
       "temp": 26.23,
-      "prec": 43.98
+      "prec": 43.98,
+      "srad": 23092.0,
+      "wind": 4.481565713882446,
+      "tmax": 29.276922988891602,
+      "tmin": 23.184615325927734
     },
     "5": {
       "temp": 27.26,
-      "prec": 74.53
+      "prec": 74.53,
+      "srad": 22806.5,
+      "wind": 4.680454254150391,
+      "tmax": 29.6,
+      "tmin": 24.923076629638672
     },
     "6": {
       "temp": 27.98,
-      "prec": 102.83
+      "prec": 102.83,
+      "srad": 22532.0,
+      "wind": 3.916136384010315,
+      "tmax": 31.215384674072265,
+      "tmin": 24.738461685180663
     },
     "7": {
       "temp": 29.32,
-      "prec": 57.14
+      "prec": 57.14,
+      "srad": 23472.0,
+      "wind": 5.8983588218688965,
+      "tmax": 32.43076934814453,
+      "tmin": 26.215384674072265
     },
     "8": {
       "temp": 29.57,
-      "prec": 95.72
+      "prec": 95.72,
+      "srad": 22169.5,
+      "wind": 5.29204535484314,
+      "tmax": 32.93846130371094,
+      "tmin": 26.2
     },
     "9": {
       "temp": 28.9,
-      "prec": 90.93
+      "prec": 90.93,
+      "srad": 19434.0,
+      "wind": 6.056565761566162,
+      "tmax": 32.2,
+      "tmin": 25.6
     },
     "10": {
       "temp": 27.75,
-      "prec": 113.34
+      "prec": 113.34,
+      "srad": 17028.5,
+      "wind": 5.2691919803619385,
+      "tmax": 30.753845977783204,
+      "tmin": 24.738461685180663
     },
     "11": {
       "temp": 26.4,
-      "prec": 96.65
+      "prec": 96.65,
+      "srad": 15367.5,
+      "wind": 7.238409042358398,
+      "tmax": 29.138461685180665,
+      "tmin": 23.661538314819335
     },
     "12": {
       "temp": 24.89,
-      "prec": 59.26
-    }
+      "prec": 59.26,
+      "srad": 14022.0,
+      "wind": 5.602651357650757,
+      "tmax": 27.769231033325195,
+      "tmin": 22.015384674072266
+    },
+    "average_srad": 19365.375,
+    "average_wind": 5.129621217648189,
+    "average_tmax": 29.948718007405603,
+    "average_tmin": 23.71025638580322
   },
   "East Grand Bahama": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Exuma": {
     "average_temp": 26.78,
     "average_prec": 87.81,
     "1": {
       "temp": 22.99,
-      "prec": 31.37
+      "prec": 31.37,
+      "srad": 15017.0,
+      "wind": 3.7970588207244873,
+      "tmax": 26.181818389892577,
+      "tmin": 19.8
     },
     "2": {
       "temp": 24.43,
-      "prec": 26.43
+      "prec": 26.43,
+      "srad": 17568.0,
+      "wind": 4.131617546081543,
+      "tmax": 27.781818008422853,
+      "tmin": 21.07272720336914
     },
     "3": {
       "temp": 25.81,
-      "prec": 15.86
+      "prec": 15.86,
+      "srad": 21113.0,
+      "wind": 4.020588397979736,
+      "tmax": 29.50909080505371,
+      "tmin": 22.109091186523436
     },
     "4": {
       "temp": 26.32,
-      "prec": 31.91
+      "prec": 31.91,
+      "srad": 23524.0,
+      "wind": 4.25955867767334,
+      "tmax": 29.818181610107423,
+      "tmin": 22.81818199157715
     },
     "5": {
       "temp": 27.23,
-      "prec": 134.43
+      "prec": 134.43,
+      "srad": 23346.0,
+      "wind": 4.127941131591797,
+      "tmax": 30.43636360168457,
+      "tmin": 24.018181991577148
     },
     "6": {
       "temp": 28.29,
-      "prec": 158.58
+      "prec": 158.58,
+      "srad": 22689.0,
+      "wind": 3.4595589637756348,
+      "tmax": 31.527272415161132,
+      "tmin": 25.054545593261718
     },
     "7": {
       "temp": 29.62,
-      "prec": 84.67
+      "prec": 84.67,
+      "srad": 23734.0,
+      "wind": 4.5904412269592285,
+      "tmax": 33.0,
+      "tmin": 26.23636360168457
     },
     "8": {
       "temp": 29.68,
-      "prec": 93.73
+      "prec": 93.73,
+      "srad": 22267.0,
+      "wind": 4.16102933883667,
+      "tmax": 33.2,
+      "tmin": 26.16363639831543
     },
     "9": {
       "temp": 28.75,
-      "prec": 129.93
+      "prec": 129.93,
+      "srad": 19539.0,
+      "wind": 4.6992645263671875,
+      "tmax": 32.27272720336914,
+      "tmin": 25.23636360168457
     },
     "10": {
       "temp": 27.77,
-      "prec": 189.17
+      "prec": 189.17,
+      "srad": 17269.0,
+      "wind": 4.543382167816162,
+      "tmax": 30.981818008422852,
+      "tmin": 24.56363639831543
     },
     "11": {
       "temp": 26.02,
-      "prec": 107.88
+      "prec": 107.88,
+      "srad": 15512.0,
+      "wind": 5.459558963775635,
+      "tmax": 29.0,
+      "tmin": 23.036363983154295
     },
     "12": {
       "temp": 24.5,
-      "prec": 49.78
-    }
+      "prec": 49.78,
+      "srad": 14230.0,
+      "wind": 4.480882167816162,
+      "tmax": 27.4,
+      "tmin": 21.6
+    },
+    "average_srad": 19650.666666666668,
+    "average_wind": 4.310906827449799,
+    "average_tmax": 30.092424170176187,
+    "average_tmin": 23.47575766245524
   },
   "Grand Cay": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Harbour Island": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Hope Town": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Inagua": {
     "average_temp": 27.15,
     "average_prec": 68.17,
     "1": {
       "temp": 24.55,
-      "prec": 48.42
+      "prec": 48.42,
+      "srad": 14756.0,
+      "wind": 3.4169324040412903,
+      "tmax": 28.99895830154419,
+      "tmin": 20.09583330154419
     },
     "2": {
       "temp": 25.3,
-      "prec": 33.78
+      "prec": 33.78,
+      "srad": 16749.75,
+      "wind": 4.027723073959351,
+      "tmax": 29.527499866485595,
+      "tmin": 21.065625
     },
     "3": {
       "temp": 26.08,
-      "prec": 35.26
+      "prec": 35.26,
+      "srad": 20045.75,
+      "wind": 3.765056073665619,
+      "tmax": 30.357708168029784,
+      "tmin": 21.793333339691163
     },
     "4": {
       "temp": 26.68,
-      "prec": 28.68
+      "prec": 28.68,
+      "srad": 22095.0,
+      "wind": 3.5751494765281677,
+      "tmax": 30.58562488555908,
+      "tmin": 22.76812505722046
     },
     "5": {
       "temp": 27.64,
-      "prec": 90.03
+      "prec": 90.03,
+      "srad": 21416.5,
+      "wind": 3.462459921836853,
+      "tmax": 31.1,
+      "tmin": 24.175
     },
     "6": {
       "temp": 28.53,
-      "prec": 49.4
+      "prec": 49.4,
+      "srad": 21492.25,
+      "wind": 3.0342493057250977,
+      "tmax": 32.48479166030884,
+      "tmin": 24.578125
     },
     "7": {
       "temp": 29.02,
-      "prec": 24.41
+      "prec": 24.41,
+      "srad": 22314.75,
+      "wind": 4.306542754173279,
+      "tmax": 33.09250011444092,
+      "tmin": 24.94333333969116
     },
     "8": {
       "temp": 29.38,
-      "prec": 84.78
+      "prec": 84.78,
+      "srad": 21230.25,
+      "wind": 3.852917432785034,
+      "tmax": 33.39375019073486,
+      "tmin": 25.368958282470704
     },
     "9": {
       "temp": 29.04,
-      "prec": 75.38
+      "prec": 75.38,
+      "srad": 18853.0,
+      "wind": 3.783570408821106,
+      "tmax": 33.31687488555908,
+      "tmin": 24.76770830154419
     },
     "10": {
       "temp": 27.94,
-      "prec": 100.7
+      "prec": 100.7,
+      "srad": 16778.75,
+      "wind": 3.2519227266311646,
+      "tmax": 32.27854175567627,
+      "tmin": 23.60666666030884
     },
     "11": {
       "temp": 26.47,
-      "prec": 156.66
+      "prec": 156.66,
+      "srad": 15147.25,
+      "wind": 4.5948569774627686,
+      "tmax": 30.245000076293945,
+      "tmin": 22.69375
     },
     "12": {
       "temp": 25.19,
-      "prec": 90.57
-    }
+      "prec": 90.57,
+      "srad": 13760.75,
+      "wind": 4.153516054153442,
+      "tmax": 28.960208320617674,
+      "tmin": 21.418541622161865
+    },
+    "average_srad": 18720.0,
+    "average_wind": 3.7687413841485977,
+    "average_tmax": 31.195121518770847,
+    "average_tmin": 23.10624999205271
   },
   "Long Island": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Mangrove Cay": {
     "average_temp": 26.32,
     "average_prec": 106.53,
     "1": {
       "temp": 22.34,
-      "prec": 39.81
+      "prec": 39.81,
+      "srad": 14533.0,
+      "wind": 3.496413548787435,
+      "tmax": 26.264393997192382,
+      "tmin": 18.41477266947428
     },
     "2": {
       "temp": 23.8,
-      "prec": 42.02
+      "prec": 42.02,
+      "srad": 16973.666666666668,
+      "wind": 3.5082662105560303,
+      "tmax": 27.713257598876954,
+      "tmin": 19.896212005615237
     },
     "3": {
       "temp": 25.24,
-      "prec": 20.2
+      "prec": 20.2,
+      "srad": 20587.666666666668,
+      "wind": 3.7257206439971924,
+      "tmax": 29.389393997192382,
+      "tmin": 21.09507573445638
     },
     "4": {
       "temp": 25.89,
-      "prec": 48.14
+      "prec": 48.14,
+      "srad": 23075.333333333332,
+      "wind": 4.05068318049113,
+      "tmax": 29.89242426554362,
+      "tmin": 21.883712005615234
     },
     "5": {
       "temp": 27.42,
-      "prec": 126.97
+      "prec": 126.97,
+      "srad": 23302.666666666668,
+      "wind": 3.269484043121338,
+      "tmax": 31.442045466105146,
+      "tmin": 23.391666666666666
     },
     "6": {
       "temp": 28.13,
-      "prec": 221.55
+      "prec": 221.55,
+      "srad": 22220.333333333332,
+      "wind": 2.8807379404703775,
+      "tmax": 31.95,
+      "tmin": 24.304166666666667
     },
     "7": {
       "temp": 29.36,
-      "prec": 110.45
+      "prec": 110.45,
+      "srad": 23430.0,
+      "wind": 3.094411611557007,
+      "tmax": 33.02916666666667,
+      "tmin": 25.693939336140954
     },
     "8": {
       "temp": 29.35,
-      "prec": 104.75
+      "prec": 104.75,
+      "srad": 21891.333333333332,
+      "wind": 3.0547927220662436,
+      "tmax": 33.118560536702475,
+      "tmin": 25.575
     },
     "9": {
       "temp": 28.54,
-      "prec": 203.66
+      "prec": 203.66,
+      "srad": 19279.333333333332,
+      "wind": 3.0393675168355307,
+      "tmax": 32.47083333333333,
+      "tmin": 24.6
     },
     "10": {
       "temp": 27.25,
-      "prec": 207.25
+      "prec": 207.25,
+      "srad": 16905.666666666668,
+      "wind": 3.3646418253580728,
+      "tmax": 30.758333333333333,
+      "tmin": 23.74583333333333
     },
     "11": {
       "temp": 25.33,
-      "prec": 99.04
+      "prec": 99.04,
+      "srad": 15131.0,
+      "wind": 3.6143644650777182,
+      "tmax": 28.672348531087238,
+      "tmin": 21.978409067789713
     },
     "12": {
       "temp": 23.18,
-      "prec": 54.48
-    }
+      "prec": 54.48,
+      "srad": 13600.0,
+      "wind": 3.38127072652181,
+      "tmax": 26.863636525472003,
+      "tmin": 19.504545338948567
+    },
+    "average_srad": 19244.166666666668,
+    "average_wind": 3.373346202903324,
+    "average_tmax": 30.13036618762546,
+    "average_tmin": 22.50694440205892
   },
   "Mayaguana": {
     "average_temp": 26.88,
     "average_prec": 67.63,
     "1": {
       "temp": 23.95,
-      "prec": 37.19
+      "prec": 37.19,
+      "srad": 14519.0,
+      "wind": 3.6767046451568604,
+      "tmax": 28.316666412353516,
+      "tmin": 19.583333587646486
     },
     "2": {
       "temp": 24.99,
-      "prec": 29.32
+      "prec": 29.32,
+      "srad": 16844.0,
+      "wind": 4.393181800842285,
+      "tmax": 28.466666412353515,
+      "tmin": 21.51666679382324
     },
     "3": {
       "temp": 25.52,
-      "prec": 32.78
+      "prec": 32.78,
+      "srad": 20164.0,
+      "wind": 3.982386350631714,
+      "tmax": 29.033333206176756,
+      "tmin": 22.000000381469725
     },
     "4": {
       "temp": 26.09,
-      "prec": 31.9
+      "prec": 31.9,
+      "srad": 22419.0,
+      "wind": 4.1482954025268555,
+      "tmax": 29.066666412353516,
+      "tmin": 23.116666793823242
     },
     "5": {
       "temp": 27.17,
-      "prec": 86.36
+      "prec": 86.36,
+      "srad": 22318.0,
+      "wind": 4.284090995788574,
+      "tmax": 29.23333320617676,
+      "tmin": 25.1
     },
     "6": {
       "temp": 28.1,
-      "prec": 62.26
+      "prec": 62.26,
+      "srad": 22054.0,
+      "wind": 3.8079545497894287,
+      "tmax": 31.566666412353516,
+      "tmin": 24.633333206176758
     },
     "7": {
       "temp": 29.28,
-      "prec": 39.22
+      "prec": 39.22,
+      "srad": 22937.0,
+      "wind": 5.609090805053711,
+      "tmax": 33.166666412353514,
+      "tmin": 25.4
     },
     "8": {
       "temp": 29.43,
-      "prec": 105.69
+      "prec": 105.69,
+      "srad": 21802.0,
+      "wind": 5.105681896209717,
+      "tmax": 33.06666717529297,
+      "tmin": 25.8
     },
     "9": {
       "temp": 28.9,
-      "prec": 76.78
+      "prec": 76.78,
+      "srad": 19099.0,
+      "wind": 5.692045211791992,
+      "tmax": 32.75,
+      "tmin": 25.05
     },
     "10": {
       "temp": 27.83,
-      "prec": 118.93
+      "prec": 118.93,
+      "srad": 16755.0,
+      "wind": 4.518750190734863,
+      "tmax": 31.48333320617676,
+      "tmin": 24.166666412353514
     },
     "11": {
       "temp": 26.48,
-      "prec": 128.13
+      "prec": 128.13,
+      "srad": 15117.0,
+      "wind": 6.548295497894287,
+      "tmax": 30.216666793823244,
+      "tmin": 22.75
     },
     "12": {
       "temp": 24.86,
-      "prec": 63.03
-    }
+      "prec": 63.03,
+      "srad": 13733.0,
+      "wind": 5.2431817054748535,
+      "tmax": 28.55,
+      "tmin": 21.166666793823243
+    },
+    "average_srad": 18980.083333333332,
+    "average_wind": 4.7508049209912615,
+    "average_tmax": 30.40972213745118,
+    "average_tmin": 23.356944497426355
   },
   "Moore's Island": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "New Providence": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "North Abaco": {
     "average_temp": 25.61,
     "average_prec": 133.79,
     "1": {
       "temp": 20.94,
-      "prec": 63.43
+      "prec": 63.43,
+      "srad": 12823.0,
+      "wind": 5.902285814285278,
+      "tmax": 23.87272701263428,
+      "tmin": 18.000000190734863
     },
     "2": {
       "temp": 22.39,
-      "prec": 83.56
+      "prec": 83.56,
+      "srad": 15348.0,
+      "wind": 5.9908435344696045,
+      "tmax": 25.499999809265137,
+      "tmin": 19.281818199157716
     },
     "3": {
       "temp": 24.27,
-      "prec": 59.77
+      "prec": 59.77,
+      "srad": 18989.0,
+      "wind": 5.996258497238159,
+      "tmax": 27.50909080505371,
+      "tmin": 21.036363792419433
     },
     "4": {
       "temp": 25.15,
-      "prec": 79.43
+      "prec": 79.43,
+      "srad": 21994.5,
+      "wind": 5.539809465408325,
+      "tmax": 27.727272605895998,
+      "tmin": 22.56363639831543
     },
     "5": {
       "temp": 26.37,
-      "prec": 134.02
+      "prec": 134.02,
+      "srad": 23257.0,
+      "wind": 5.059850215911865,
+      "tmax": 29.33636341094971,
+      "tmin": 23.400000190734865
     },
     "6": {
       "temp": 27.65,
-      "prec": 202.77
+      "prec": 202.77,
+      "srad": 22040.5,
+      "wind": 4.431210994720459,
+      "tmax": 30.172727394104005,
+      "tmin": 25.13636360168457
     },
     "7": {
       "temp": 29.11,
-      "prec": 169.13
+      "prec": 169.13,
+      "srad": 22942.0,
+      "wind": 4.293864011764526,
+      "tmax": 32.02727279663086,
+      "tmin": 26.190909385681152
     },
     "8": {
       "temp": 29.47,
-      "prec": 146.41
+      "prec": 146.41,
+      "srad": 21332.5,
+      "wind": 4.193183422088623,
+      "tmax": 32.34545478820801,
+      "tmin": 26.590909576416017
     },
     "9": {
       "temp": 28.48,
-      "prec": 273.39
+      "prec": 273.39,
+      "srad": 18088.0,
+      "wind": 4.658407926559448,
+      "tmax": 31.418181800842284,
+      "tmin": 25.536363983154295
     },
     "10": {
       "temp": 26.72,
-      "prec": 193.39
+      "prec": 193.39,
+      "srad": 15450.0,
+      "wind": 5.459455728530884,
+      "tmax": 29.481818389892577,
+      "tmin": 23.96363697052002
     },
     "11": {
       "temp": 24.56,
-      "prec": 126.49
+      "prec": 126.49,
+      "srad": 13343.0,
+      "wind": 6.0389931201934814,
+      "tmax": 27.1,
+      "tmin": 22.018181991577148
     },
     "12": {
       "temp": 22.27,
-      "prec": 73.73
-    }
+      "prec": 73.73,
+      "srad": 11746.5,
+      "wind": 5.93409538269043,
+      "tmax": 25.172727584838867,
+      "tmin": 19.363636589050294
+    },
+    "average_srad": 18112.833333333332,
+    "average_wind": 5.291521509488423,
+    "average_tmax": 28.471969699859617,
+    "average_tmin": 22.756818405787154
   },
   "North Andros": {
     "average_temp": 26.14,
     "average_prec": 121.79,
     "1": {
       "temp": 22.14,
-      "prec": 44.86
+      "prec": 44.86,
+      "srad": 14085.555555555555,
+      "wind": 3.822691864437527,
+      "tmax": 26.22842585245768,
+      "tmin": 18.04407407972548
     },
     "2": {
       "temp": 23.43,
-      "prec": 55.84
+      "prec": 55.84,
+      "srad": 16590.88888888889,
+      "wind": 3.862978802786933,
+      "tmax": 27.499907302856446,
+      "tmin": 19.367685148451063
     },
     "3": {
       "temp": 24.91,
-      "prec": 36.29
+      "prec": 36.29,
+      "srad": 20018.555555555555,
+      "wind": 4.10327508714464,
+      "tmax": 29.07240736219618,
+      "tmin": 20.74907404581706
     },
     "4": {
       "temp": 25.66,
-      "prec": 65.3
+      "prec": 65.3,
+      "srad": 22576.222222222223,
+      "wind": 4.196293195088704,
+      "tmax": 29.652777735392256,
+      "tmin": 21.66018515692817
     },
     "5": {
       "temp": 27.1,
-      "prec": 129.28
+      "prec": 129.28,
+      "srad": 23199.0,
+      "wind": 3.4812025229136148,
+      "tmax": 31.125092569986975,
+      "tmin": 23.06796294318305
     },
     "6": {
       "temp": 28.05,
-      "prec": 225.13
+      "prec": 225.13,
+      "srad": 21990.88888888889,
+      "wind": 2.9820618099636502,
+      "tmax": 31.813425954182946,
+      "tmin": 24.293055555555554
     },
     "7": {
       "temp": 29.29,
-      "prec": 149.34
+      "prec": 149.34,
+      "srad": 23208.666666666668,
+      "wind": 3.0068582163916693,
+      "tmax": 33.00324071248372,
+      "tmin": 25.572962951660156
     },
     "8": {
       "temp": 29.27,
-      "prec": 148.3
+      "prec": 148.3,
+      "srad": 21658.0,
+      "wind": 2.996103207270304,
+      "tmax": 33.08453708224827,
+      "tmin": 25.463240729437935
     },
     "9": {
       "temp": 28.49,
-      "prec": 237.02
+      "prec": 237.02,
+      "srad": 18894.88888888889,
+      "wind": 3.033163653479682,
+      "tmax": 32.38722220526801,
+      "tmin": 24.595833333333335
     },
     "10": {
       "temp": 27.18,
-      "prec": 200.66
+      "prec": 200.66,
+      "srad": 16478.555555555555,
+      "wind": 3.541683832804362,
+      "tmax": 30.550185182359485,
+      "tmin": 23.813796276516385
     },
     "11": {
       "temp": 25.18,
-      "prec": 116.33
+      "prec": 116.33,
+      "srad": 14575.666666666666,
+      "wind": 3.8214902347988553,
+      "tmax": 28.57027774386936,
+      "tmin": 21.795555538601345
     },
     "12": {
       "temp": 22.96,
-      "prec": 53.1
-    }
+      "prec": 53.1,
+      "srad": 13087.0,
+      "wind": 3.7081151008605957,
+      "tmax": 26.854629601372615,
+      "tmin": 19.07027774386936
+    },
+    "average_srad": 18863.65740740741,
+    "average_wind": 3.546326460661712,
+    "average_tmax": 29.98684410872283,
+    "average_tmin": 22.291141958589908
   },
   "North Eleuthera": {
     "average_temp": 25.99,
     "average_prec": 93.72,
     "1": {
       "temp": 22.2,
-      "prec": 35.08
+      "prec": 35.08,
+      "srad": 13853.0,
+      "wind": 4.603921413421631,
+      "tmax": 25.0,
+      "tmin": 19.400000381469727
     },
     "2": {
       "temp": 23.32,
-      "prec": 45.43
+      "prec": 45.43,
+      "srad": 16613.0,
+      "wind": 4.709803581237793,
+      "tmax": 26.6,
+      "tmin": 20.044444274902343
     },
     "3": {
       "temp": 24.86,
-      "prec": 24.9
+      "prec": 24.9,
+      "srad": 20083.0,
+      "wind": 4.827451229095459,
+      "tmax": 28.711111068725586,
+      "tmin": 21.0
     },
     "4": {
       "temp": 25.51,
-      "prec": 41.97
+      "prec": 41.97,
+      "srad": 22787.0,
+      "wind": 4.699999809265137,
+      "tmax": 28.26666679382324,
+      "tmin": 22.755555725097658
     },
     "5": {
       "temp": 26.42,
-      "prec": 92.43
+      "prec": 92.43,
+      "srad": 23531.0,
+      "wind": 4.400000095367432,
+      "tmax": 29.755555725097658,
+      "tmin": 23.088888931274415
     },
     "6": {
       "temp": 27.53,
-      "prec": 147.29
+      "prec": 147.29,
+      "srad": 22576.0,
+      "wind": 3.888235330581665,
+      "tmax": 30.022222137451173,
+      "tmin": 25.044444274902343
     },
     "7": {
       "temp": 28.9,
-      "prec": 113.31
+      "prec": 113.31,
+      "srad": 23570.0,
+      "wind": 4.192156791687012,
+      "tmax": 32.0,
+      "tmin": 25.8
     },
     "8": {
       "temp": 29.37,
-      "prec": 102.88
+      "prec": 102.88,
+      "srad": 21976.0,
+      "wind": 3.9980392456054688,
+      "tmax": 32.488888549804685,
+      "tmin": 26.244444274902342
     },
     "9": {
       "temp": 28.37,
-      "prec": 176.06
+      "prec": 176.06,
+      "srad": 18929.0,
+      "wind": 4.403921604156494,
+      "tmax": 31.37777786254883,
+      "tmin": 25.355555725097656
     },
     "10": {
       "temp": 27.07,
-      "prec": 198.75
+      "prec": 198.75,
+      "srad": 16233.0,
+      "wind": 4.599999904632568,
+      "tmax": 30.244444274902342,
+      "tmin": 23.888888931274415
     },
     "11": {
       "temp": 25.13,
-      "prec": 94.31
+      "prec": 94.31,
+      "srad": 14469.0,
+      "wind": 5.298039436340332,
+      "tmax": 27.866666793823242,
+      "tmin": 22.4
     },
     "12": {
       "temp": 23.2,
-      "prec": 52.23
-    }
+      "prec": 52.23,
+      "srad": 13091.0,
+      "wind": 4.900000095367432,
+      "tmax": 25.933333587646484,
+      "tmin": 20.466666793823244
+    },
+    "average_srad": 18975.916666666668,
+    "average_wind": 4.543464044729869,
+    "average_tmax": 29.022222232818603,
+    "average_tmin": 22.95740744272868
   },
   "Ragged Island": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Rum Cay": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "San Salvador": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "South Abaco": {
     "average_temp": 25.82,
     "average_prec": 110.12,
     "1": {
       "temp": 21.58,
-      "prec": 51.83
+      "prec": 51.83,
+      "srad": 13348.0,
+      "wind": 5.059560775756836,
+      "tmax": 24.961538314819336,
+      "tmin": 18.19743595123291
     },
     "2": {
       "temp": 22.87,
-      "prec": 68.51
+      "prec": 68.51,
+      "srad": 15936.5,
+      "wind": 5.176239490509033,
+      "tmax": 26.553845977783205,
+      "tmin": 19.187820625305175
     },
     "3": {
       "temp": 24.62,
-      "prec": 59.42
+      "prec": 59.42,
+      "srad": 19478.0,
+      "wind": 5.286286354064941,
+      "tmax": 28.56025638580322,
+      "tmin": 20.689102745056154
     },
     "4": {
       "temp": 25.17,
-      "prec": 48.27
+      "prec": 48.27,
+      "srad": 22272.0,
+      "wind": 4.994986534118652,
+      "tmax": 28.462820625305177,
+      "tmin": 21.87051296234131
     },
     "5": {
       "temp": 26.46,
-      "prec": 100.1
+      "prec": 100.1,
+      "srad": 23243.0,
+      "wind": 4.577100992202759,
+      "tmax": 30.07115364074707,
+      "tmin": 22.84743595123291
     },
     "6": {
       "temp": 27.7,
-      "prec": 162.61
+      "prec": 162.61,
+      "srad": 22162.5,
+      "wind": 3.9892019033432007,
+      "tmax": 30.784615325927735,
+      "tmin": 24.617307662963867
     },
     "7": {
       "temp": 29.04,
-      "prec": 133.68
+      "prec": 133.68,
+      "srad": 23225.5,
+      "wind": 4.008670091629028,
+      "tmax": 32.38397426605225,
+      "tmin": 25.687179565429688
     },
     "8": {
       "temp": 29.6,
-      "prec": 119.16
+      "prec": 119.16,
+      "srad": 21558.5,
+      "wind": 3.911091923713684,
+      "tmax": 32.984615325927734,
+      "tmin": 26.207692337036132
     },
     "9": {
       "temp": 28.35,
-      "prec": 193.42
+      "prec": 193.42,
+      "srad": 18440.0,
+      "wind": 4.25523567199707,
+      "tmax": 31.786538314819335,
+      "tmin": 24.908333206176756
     },
     "10": {
       "temp": 26.81,
-      "prec": 221.39
+      "prec": 221.39,
+      "srad": 15770.0,
+      "wind": 4.805239200592041,
+      "tmax": 30.176281929016113,
+      "tmin": 23.4480770111084
     },
     "11": {
       "temp": 24.91,
-      "prec": 106.26
+      "prec": 106.26,
+      "srad": 13875.5,
+      "wind": 5.36861252784729,
+      "tmax": 27.900640869140624,
+      "tmin": 21.923076820373534
     },
     "12": {
       "temp": 22.7,
-      "prec": 56.77
-    }
+      "prec": 56.77,
+      "srad": 12462.0,
+      "wind": 5.153518438339233,
+      "tmax": 26.067948722839354,
+      "tmin": 19.329487228393553
+    },
+    "average_srad": 18480.958333333332,
+    "average_wind": 4.7154786586761475,
+    "average_tmax": 29.224519141515092,
+    "average_tmin": 22.40945517222087
   },
   "South Andros": {
     "average_temp": 26.48,
     "average_prec": 99.43,
     "1": {
       "temp": 22.62,
-      "prec": 32.95
+      "prec": 32.95,
+      "srad": 14859.2,
+      "wind": 3.3295108795166017,
+      "tmax": 26.65064292907715,
+      "tmin": 18.58036819458008
     },
     "2": {
       "temp": 24.1,
-      "prec": 35.53
+      "prec": 35.53,
+      "srad": 17249.4,
+      "wind": 3.337915229797363,
+      "tmax": 28.161697692871098,
+      "tmin": 20.031945114135745
     },
     "3": {
       "temp": 25.44,
-      "prec": 17.49
+      "prec": 17.49,
+      "srad": 20944.8,
+      "wind": 3.52739577293396,
+      "tmax": 29.80175277709961,
+      "tmin": 21.080545806884764
     },
     "4": {
       "temp": 26.04,
-      "prec": 44.48
+      "prec": 44.48,
+      "srad": 23262.0,
+      "wind": 3.9160634994506838,
+      "tmax": 30.139785766601562,
+      "tmin": 21.938377304077147
     },
     "5": {
       "temp": 27.52,
-      "prec": 129.93
+      "prec": 129.93,
+      "srad": 23330.0,
+      "wind": 3.133978748321533,
+      "tmax": 31.622042083740233,
+      "tmin": 23.416820526123047
     },
     "6": {
       "temp": 28.2,
-      "prec": 212.42
+      "prec": 212.42,
+      "srad": 22271.2,
+      "wind": 2.767505073547363,
+      "tmax": 32.10276176452637,
+      "tmin": 24.29034622192383
     },
     "7": {
       "temp": 29.4,
-      "prec": 95.72
+      "prec": 95.72,
+      "srad": 23510.6,
+      "wind": 3.063612365722656,
+      "tmax": 33.19405670166015,
+      "tmin": 25.610915908813478
     },
     "8": {
       "temp": 29.43,
-      "prec": 92.13
+      "prec": 92.13,
+      "srad": 21969.6,
+      "wind": 3.0081365585327147,
+      "tmax": 33.26829666137695,
+      "tmin": 25.59684997558594
     },
     "9": {
       "temp": 28.66,
-      "prec": 185.79
+      "prec": 185.79,
+      "srad": 19382.0,
+      "wind": 2.9801145076751707,
+      "tmax": 32.71829833984375,
+      "tmin": 24.605773010253905
     },
     "10": {
       "temp": 27.37,
-      "prec": 202.29
+      "prec": 202.29,
+      "srad": 17060.6,
+      "wind": 3.2446850299835206,
+      "tmax": 31.09395980834961,
+      "tmin": 23.652976150512696
     },
     "11": {
       "temp": 25.55,
-      "prec": 94.11
+      "prec": 94.11,
+      "srad": 15363.4,
+      "wind": 3.493203353881836,
+      "tmax": 29.099946975708008,
+      "tmin": 21.99578399658203
     },
     "12": {
       "temp": 23.44,
-      "prec": 50.32
-    }
+      "prec": 50.32,
+      "srad": 13869.4,
+      "wind": 3.219896078109741,
+      "tmax": 27.214714279174807,
+      "tmin": 19.659212570190427
+    },
+    "average_srad": 19422.68333333333,
+    "average_wind": 3.251834758122762,
+    "average_tmax": 30.422329648335776,
+    "average_tmin": 22.53832623163859
   },
   "South Eleuthera": {
     "average_temp": 26.36,
     "average_prec": 90.63,
     "1": {
       "temp": 22.7,
-      "prec": 33.24
+      "prec": 33.24,
+      "srad": 14319.0,
+      "wind": 4.1775360107421875,
+      "tmax": 25.69090881347656,
+      "tmin": 19.709090805053712
     },
     "2": {
       "temp": 24.06,
-      "prec": 34.89
+      "prec": 34.89,
+      "srad": 17006.0,
+      "wind": 4.303623199462891,
+      "tmax": 27.545454025268555,
+      "tmin": 20.58181838989258
     },
     "3": {
       "temp": 25.26,
-      "prec": 18.21
+      "prec": 18.21,
+      "srad": 20318.0,
+      "wind": 4.385507583618164,
+      "tmax": 29.4,
+      "tmin": 21.12727279663086
     },
     "4": {
       "temp": 25.89,
-      "prec": 38.1
+      "prec": 38.1,
+      "srad": 23007.0,
+      "wind": 4.403623104095459,
+      "tmax": 28.981817626953124,
+      "tmin": 22.8
     },
     "5": {
       "temp": 26.81,
-      "prec": 91.48
+      "prec": 91.48,
+      "srad": 23453.0,
+      "wind": 4.209420204162598,
+      "tmax": 30.363636016845703,
+      "tmin": 23.254545593261717
     },
     "6": {
       "temp": 27.9,
-      "prec": 148.29
+      "prec": 148.29,
+      "srad": 22650.0,
+      "wind": 3.676811695098877,
+      "tmax": 30.76363639831543,
+      "tmin": 25.036363983154295
     },
     "7": {
       "temp": 29.15,
-      "prec": 101.85
+      "prec": 101.85,
+      "srad": 23770.0,
+      "wind": 4.286956787109375,
+      "tmax": 32.509091186523435,
+      "tmin": 25.8
     },
     "8": {
       "temp": 29.55,
-      "prec": 100.74
+      "prec": 100.74,
+      "srad": 22078.0,
+      "wind": 4.013043403625488,
+      "tmax": 32.90909118652344,
+      "tmin": 26.2
     },
     "9": {
       "temp": 28.67,
-      "prec": 166.89
+      "prec": 166.89,
+      "srad": 19185.0,
+      "wind": 4.5123186111450195,
+      "tmax": 31.981818008422852,
+      "tmin": 25.36363639831543
     },
     "10": {
       "temp": 27.28,
-      "prec": 207.83
+      "prec": 207.83,
+      "srad": 16566.0,
+      "wind": 4.45579719543457,
+      "tmax": 30.56363639831543,
+      "tmin": 24.0
     },
     "11": {
       "temp": 25.35,
-      "prec": 96.29
+      "prec": 96.29,
+      "srad": 14933.0,
+      "wind": 5.248550891876221,
+      "tmax": 28.30909080505371,
+      "tmin": 22.4
     },
     "12": {
       "temp": 23.62,
-      "prec": 49.77
-    }
+      "prec": 49.77,
+      "srad": 13548.0,
+      "wind": 4.630434513092041,
+      "tmax": 26.38181800842285,
+      "tmin": 20.85454559326172
+    },
+    "average_srad": 19236.083333333332,
+    "average_wind": 4.358635266621907,
+    "average_tmax": 29.616666539510092,
+    "average_tmin": 23.093939463297527
   },
   "Spanish Wells": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "West Grand Bahama": {
     "average_temp": 25.79,
     "average_prec": 144.37,
     "1": {
       "temp": 21.32,
-      "prec": 55.25
+      "prec": 55.25,
+      "srad": 12682.0,
+      "wind": 5.515589475631714,
+      "tmax": 25.176922607421876,
+      "tmin": 17.46923084259033
     },
     "2": {
       "temp": 22.67,
-      "prec": 99.94
+      "prec": 99.94,
+      "srad": 15322.0,
+      "wind": 5.67759108543396,
+      "tmax": 26.53076915740967,
+      "tmin": 18.815384674072266
     },
     "3": {
       "temp": 24.34,
-      "prec": 91.39
+      "prec": 91.39,
+      "srad": 18928.0,
+      "wind": 5.830122709274292,
+      "tmax": 28.161538314819335,
+      "tmin": 20.51538505554199
     },
     "4": {
       "temp": 25.11,
-      "prec": 85.79
+      "prec": 85.79,
+      "srad": 21963.5,
+      "wind": 5.397079229354858,
+      "tmax": 28.68461513519287,
+      "tmin": 21.538461685180664
     },
     "5": {
       "temp": 26.67,
-      "prec": 132.14
+      "prec": 132.14,
+      "srad": 23253.5,
+      "wind": 4.885652303695679,
+      "tmax": 30.41538486480713,
+      "tmin": 22.93076934814453
     },
     "6": {
       "temp": 28.12,
-      "prec": 206.71
+      "prec": 206.71,
+      "srad": 21690.5,
+      "wind": 4.2478132247924805,
+      "tmax": 31.661538505554198,
+      "tmin": 24.569231033325195
     },
     "7": {
       "temp": 29.55,
-      "prec": 184.88
+      "prec": 184.88,
+      "srad": 22615.0,
+      "wind": 3.834693670272827,
+      "tmax": 33.192308044433595,
+      "tmin": 25.91538486480713
     },
     "8": {
       "temp": 29.54,
-      "prec": 196.07
+      "prec": 196.07,
+      "srad": 20955.5,
+      "wind": 3.823623299598694,
+      "tmax": 33.176922988891604,
+      "tmin": 25.900000381469727
     },
     "9": {
       "temp": 28.4,
-      "prec": 313.82
+      "prec": 313.82,
+      "srad": 17855.5,
+      "wind": 4.2183144092559814,
+      "tmax": 32.230769348144534,
+      "tmin": 24.569231033325195
     },
     "10": {
       "temp": 26.93,
-      "prec": 191.23
+      "prec": 191.23,
+      "srad": 15421.0,
+      "wind": 5.1722331047058105,
+      "tmax": 30.330769538879395,
+      "tmin": 23.52307720184326
     },
     "11": {
       "temp": 24.65,
-      "prec": 116.28
+      "prec": 116.28,
+      "srad": 13193.0,
+      "wind": 5.534791707992554,
+      "tmax": 27.992307281494142,
+      "tmin": 21.307692337036134
     },
     "12": {
       "temp": 22.22,
-      "prec": 58.9
-    }
+      "prec": 58.9,
+      "srad": 11733.0,
+      "wind": 5.440885066986084,
+      "tmax": 25.992307472229005,
+      "tmin": 18.45384635925293
+    },
+    "average_srad": 17967.708333333332,
+    "average_wind": 4.9648657739162445,
+    "average_tmax": 29.462179438273115,
+    "average_tmin": 22.125641234715783
   }
 }

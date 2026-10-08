@@ -1,11 +1,27 @@
 import type { ExpressionSpecification, FilterSpecification, StyleSpecification } from 'maplibre-gl'
 import type { LayerProps } from 'react-map-gl/maplibre'
 
-import { metricProperty, metricUnit, valueBounds, type WeatherFilter } from './filter'
+import {
+    metricFractionDigits,
+    metricProperty,
+    metricUnit,
+    tmaxProperty,
+    tminProperty,
+    valueBounds,
+    type WeatherFilter,
+} from './filter'
 
 const FONT = ['Noto Sans Regular']
 const FADED_FILL = 0.22
 const FADED_LABEL = 0.35
+
+function formatNumber(property: string, digits: number): ExpressionSpecification {
+    return [
+        'number-format',
+        ['to-number', ['get', property]],
+        { 'min-fraction-digits': digits, 'max-fraction-digits': digits },
+    ]
+}
 
 function temperatureColor(property: string): ExpressionSpecification {
     return [
@@ -67,9 +83,68 @@ function precipitationColor(property: string): ExpressionSpecification {
     ]
 }
 
+function windColor(property: string): ExpressionSpecification {
+    return [
+        'case',
+        ['has', property],
+        [
+            'interpolate',
+            ['linear'],
+            ['to-number', ['get', property]],
+            0,
+            '#f7fcf5',
+            1,
+            '#c7e9c0',
+            2,
+            '#74c476',
+            3,
+            '#31a354',
+            4,
+            '#006d2c',
+            6,
+            '#00441b',
+            8,
+            '#001a0f',
+        ],
+        '#d0d0d0',
+    ]
+}
+
+function sradColor(property: string): ExpressionSpecification {
+    return [
+        'case',
+        ['has', property],
+        [
+            'interpolate',
+            ['linear'],
+            ['to-number', ['get', property]],
+            0,
+            '#ffffe5',
+            5000,
+            '#fff7bc',
+            10000,
+            '#fee391',
+            15000,
+            '#fec44f',
+            20000,
+            '#fe9929',
+            25000,
+            '#ec7014',
+            30000,
+            '#cc4c02',
+            40000,
+            '#8c2d04',
+        ],
+        '#d0d0d0',
+    ]
+}
+
 function metricColor(filter: WeatherFilter): ExpressionSpecification {
     const property = metricProperty(filter)
-    return filter.metric === 'prec' ? precipitationColor(property) : temperatureColor(property)
+    if (filter.metric === 'prec') return precipitationColor(property)
+    if (filter.metric === 'wind') return windColor(property)
+    if (filter.metric === 'srad') return sradColor(property)
+    return temperatureColor(property)
 }
 
 function matchOpacity(filter: WeatherFilter, faded: number): ExpressionSpecification | number {
@@ -87,25 +162,44 @@ function matchOpacity(filter: WeatherFilter, faded: number): ExpressionSpecifica
     return ['case', ['all', ...tests], 1, faded]
 }
 
-function metricLabel(filter: WeatherFilter): ExpressionSpecification {
-    const property = metricProperty(filter)
-    const unit = metricUnit(filter.metric)
+function temperatureLabel(filter: WeatherFilter): ExpressionSpecification {
+    const temp = metricProperty(filter)
+    const tmin = tminProperty(filter.month)
+    const tmax = tmaxProperty(filter.month)
     return [
         'case',
-        ['has', property],
+        ['has', temp],
         [
             'concat',
             ['get', 'name'],
             '\n',
+            formatNumber(temp, 1),
+            '°',
             [
-                'number-format',
-                ['to-number', ['get', property]],
-                { 'min-fraction-digits': 1, 'max-fraction-digits': 1 },
+                'case',
+                ['all', ['has', tmin], ['has', tmax]],
+                ['concat', '\n', formatNumber(tmin, 1), '–', formatNumber(tmax, 1), '°'],
+                '',
             ],
-            unit,
         ],
         ['get', 'name'],
     ]
+}
+
+function simpleMetricLabel(filter: WeatherFilter): ExpressionSpecification {
+    const property = metricProperty(filter)
+    const unit = metricUnit(filter.metric)
+    const digits = metricFractionDigits(filter.metric)
+    return [
+        'case',
+        ['has', property],
+        ['concat', ['get', 'name'], '\n', formatNumber(property, digits), unit],
+        ['get', 'name'],
+    ]
+}
+
+function metricLabel(filter: WeatherFilter): ExpressionSpecification {
+    return filter.metric === 'temp' ? temperatureLabel(filter) : simpleMetricLabel(filter)
 }
 
 export const mapStyle: StyleSpecification = {
@@ -223,8 +317,8 @@ export function provinceLabelLayer(filter: WeatherFilter) {
             'text-line-height': 1.15,
             'text-max-width': 8,
             'text-anchor': 'center' as const,
-            'text-allow-overlap': true,
-            'text-ignore-placement': true,
+            'text-allow-overlap': false,
+            'text-ignore-placement': false,
         },
         paint: {
             ...labelPaint,

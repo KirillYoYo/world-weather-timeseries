@@ -4,259 +4,519 @@
     "average_prec": 162.35,
     "1": {
       "temp": 27.12,
-      "prec": 238.57
+      "prec": 238.57,
+      "srad": 20748.5,
+      "wind": 4.070625066757202,
+      "tmax": 30.0,
+      "tmin": 24.25
     },
     "2": {
       "temp": 27.15,
-      "prec": 180.63
+      "prec": 180.63,
+      "srad": 19798.5,
+      "wind": 3.7725000381469727,
+      "tmax": 30.2,
+      "tmin": 24.1
     },
     "3": {
       "temp": 27.2,
-      "prec": 266.82
+      "prec": 266.82,
+      "srad": 17632.0,
+      "wind": 3.6962499618530273,
+      "tmax": 30.15,
+      "tmin": 24.25
     },
     "4": {
       "temp": 26.68,
-      "prec": 214.95
+      "prec": 214.95,
+      "srad": 14453.5,
+      "wind": 4.050833344459534,
+      "tmax": 29.25,
+      "tmin": 24.1
     },
     "5": {
       "temp": 25.15,
-      "prec": 142.38
+      "prec": 142.38,
+      "srad": 11843.0,
+      "wind": 4.064375162124634,
+      "tmax": 28.15,
+      "tmin": 22.15
     },
     "6": {
       "temp": 24.5,
-      "prec": 95.92
+      "prec": 95.92,
+      "srad": 10481.0,
+      "wind": 4.277083158493042,
+      "tmax": 27.2,
+      "tmin": 21.8
     },
     "7": {
       "temp": 23.62,
-      "prec": 89.95
+      "prec": 89.95,
+      "srad": 10771.5,
+      "wind": 4.289583444595337,
+      "tmax": 26.35,
+      "tmin": 20.9
     },
     "8": {
       "temp": 23.2,
-      "prec": 106.22
+      "prec": 106.22,
+      "srad": 12906.0,
+      "wind": 4.283124923706055,
+      "tmax": 25.7,
+      "tmin": 20.7
     },
     "9": {
       "temp": 23.6,
-      "prec": 122.56
+      "prec": 122.56,
+      "srad": 15341.0,
+      "wind": 4.246875047683716,
+      "tmax": 26.3,
+      "tmin": 20.9
     },
     "10": {
       "temp": 24.4,
-      "prec": 125.28
+      "prec": 125.28,
+      "srad": 19097.0,
+      "wind": 4.289999961853027,
+      "tmax": 27.0,
+      "tmin": 21.8
     },
     "11": {
       "temp": 25.3,
-      "prec": 174.3
+      "prec": 174.3,
+      "srad": 19710.0,
+      "wind": 4.0899999141693115,
+      "tmax": 28.0,
+      "tmin": 22.6
     },
     "12": {
       "temp": 26.3,
-      "prec": 190.62
-    }
+      "prec": 190.62,
+      "srad": 20764.5,
+      "wind": 4.1418750286102295,
+      "tmax": 28.75,
+      "tmin": 23.85
+    },
+    "average_srad": 16128.875,
+    "average_wind": 4.106093754371007,
+    "average_tmax": 28.087500000000002,
+    "average_tmin": 22.61666666666667
   },
   "Niuas": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Tongatapu": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Vava'u": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "'Eua": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 20900.0,
+      "wind": 4.345000267028809,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 19930.0,
+      "wind": 4.098999977111816,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 17271.0,
+      "wind": 4.119999885559082,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 14097.0,
+      "wind": 4.421000003814697,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 11309.0,
+      "wind": 4.309000015258789,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 9993.0,
+      "wind": 4.4679999351501465,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 10323.0,
+      "wind": 4.421999931335449,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 12339.0,
+      "wind": 4.441999912261963,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 14911.0,
+      "wind": 4.376999855041504,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 19007.0,
+      "wind": 4.4730000495910645,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 20179.0,
+      "wind": 4.368000030517578,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": 21255.0,
+      "wind": 4.441999912261963,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": 15959.5,
+    "average_wind": 4.357166647911072,
+    "average_tmax": null,
+    "average_tmin": null
   }
 }

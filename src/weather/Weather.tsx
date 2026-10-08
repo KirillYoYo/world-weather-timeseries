@@ -6,7 +6,7 @@ import 'maplibre-gl/dist/maplibre-gl.css'
 import { useGeojsonVtProtocol } from '../hooks/useGeojsonVtProtocol'
 import { boundsOf, countryAt, indexCountries, loadProvinces, loadWorld, WORLD_VIEW } from './data'
 import FilterBar from './FilterBar'
-import { DEFAULT_FILTER, metricTitle, type WeatherFilter } from './filter'
+import { DEFAULT_FILTER, legendScale, metricTitle, type WeatherFilter } from './filter'
 import {
     countryFillLayer,
     countryLabelsClose,
@@ -61,6 +61,7 @@ export default function Weather() {
     )
     const provinceFill = useMemo(() => provinceFillLayer(filter), [filter])
     const provinceLabelsStyle = useMemo(() => provinceLabelLayer(filter), [filter])
+    const scale = legendScale(filter.metric)
 
     useEffect(() => {
         let cancelled = false
@@ -146,6 +147,9 @@ export default function Weather() {
             : ''
     }
 
+    console.log('is provinceLabels', provinceLabels)
+    console.log('is countries', countries)
+
     return (
         <div className="weather">
             <Map
@@ -187,29 +191,11 @@ export default function Weather() {
             <FilterBar value={filter} onChange={setFilter} />
             <aside className="weather-panel">
                 <h1>{metricTitle(filter)}</h1>
-                <div
-                    className={
-                        filter.metric === 'prec' ? 'weather-scale weather-scale-prec' : 'weather-scale'
-                    }
-                />
+                <div className={scale.className} />
                 <div className="weather-ticks">
-                    {filter.metric === 'prec' ? (
-                        <>
-                            <span>0</span>
-                            <span>50</span>
-                            <span>100</span>
-                            <span>200</span>
-                            <span>400 мм</span>
-                        </>
-                    ) : (
-                        <>
-                            <span>-20°</span>
-                            <span>0°</span>
-                            <span>15°</span>
-                            <span>30°</span>
-                            <span>40°</span>
-                        </>
-                    )}
+                    {scale.ticks.map(tick => (
+                        <span key={tick}>{tick}</span>
+                    ))}
                 </div>
                 {selection && (
                     <>

@@ -1,5 +1,6 @@
 import React from 'react'
 import '../fonts.scss'
+import '../styles/main.scss'
 import Weather from '../weather/Weather'
 
 /*worker*/

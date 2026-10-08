@@ -4,51 +4,103 @@
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 13393.0,
+      "wind": 3.5272727012634277,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 16600.0,
+      "wind": 3.642857074737549,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 19805.0,
+      "wind": 3.9000000953674316,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 23225.0,
+      "wind": 4.048051834106445,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 25231.0,
+      "wind": 4.142857074737549,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 26059.0,
+      "wind": 4.150649547576904,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 25796.0,
+      "wind": 3.7051947116851807,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 24933.0,
+      "wind": 3.932467460632324,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 22041.0,
+      "wind": 4.105195045471191,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 18230.0,
+      "wind": 3.6194803714752197,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": 14586.0,
+      "wind": 3.3883118629455566,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": 12441.0,
+      "wind": 3.39740252494812,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": 20195.0,
+    "average_wind": 3.7966450254122415,
+    "average_tmax": null,
+    "average_tmin": null
   }
 }

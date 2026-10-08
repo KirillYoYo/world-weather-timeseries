@@ -4,155 +4,311 @@
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Vlaams Gewest": {
     "average_temp": 11.99,
     "average_prec": 71.25,
     "1": {
       "temp": 5.14,
-      "prec": 72.31
+      "prec": 72.31,
+      "srad": 2570.0,
+      "wind": 4.817856647074223,
+      "tmax": 7.433541667461395,
+      "tmin": 2.854622396081686
     },
     "2": {
       "temp": 6.72,
-      "prec": 78.15
+      "prec": 78.15,
+      "srad": 4907.46875,
+      "wind": 4.3492983393371105,
+      "tmax": 9.717434898018837,
+      "tmin": 3.7302994772791864
     },
     "3": {
       "temp": 7.89,
-      "prec": 58.08
+      "prec": 58.08,
+      "srad": 8526.90625,
+      "wind": 4.478298023343086,
+      "tmax": 11.663723960518837,
+      "tmin": 4.111041666567326
     },
     "4": {
       "temp": 9.89,
-      "prec": 48.21
+      "prec": 48.21,
+      "srad": 13524.328125,
+      "wind": 4.077395770698786,
+      "tmax": 14.696263021230697,
+      "tmin": 5.07458333298564
     },
     "5": {
       "temp": 13.89,
-      "prec": 65.04
+      "prec": 65.04,
+      "srad": 17154.625,
+      "wind": 3.7183615043759346,
+      "tmax": 18.870911461114883,
+      "tmin": 8.915885415673255
     },
     "6": {
       "temp": 18.25,
-      "prec": 72.95
+      "prec": 72.95,
+      "srad": 18203.453125,
+      "wind": 3.535552643239498,
+      "tmax": 23.360065108537675,
+      "tmin": 13.14735677242279
     },
     "7": {
       "temp": 18.75,
-      "prec": 77.26
+      "prec": 77.26,
+      "srad": 17584.640625,
+      "wind": 3.485748153179884,
+      "tmax": 23.573528653383256,
+      "tmin": 13.919895833730697
     },
     "8": {
       "temp": 19.59,
-      "prec": 68.67
+      "prec": 68.67,
+      "srad": 15548.8125,
+      "wind": 3.260742712765932,
+      "tmax": 24.630403637886047,
+      "tmin": 14.551210933923722
     },
     "9": {
       "temp": 16.74,
-      "prec": 69.22
+      "prec": 69.22,
+      "srad": 10768.625,
+      "wind": 3.5831077434122562,
+      "tmax": 21.47589843869209,
+      "tmin": 11.997799476981163
     },
     "10": {
       "temp": 13.06,
-      "prec": 86.78
+      "prec": 86.78,
+      "srad": 6455.140625,
+      "wind": 3.8675642386078835,
+      "tmax": 16.688059896230698,
+      "tmin": 9.426536458730698
     },
     "11": {
       "temp": 8.25,
-      "prec": 79.8
+      "prec": 79.8,
+      "srad": 3166.890625,
+      "wind": 4.255085621029139,
+      "tmax": 10.903190103173255,
+      "tmin": 5.603151042759419
     },
     "12": {
       "temp": 5.75,
-      "prec": 78.54
-    }
+      "prec": 78.54,
+      "srad": 1950.09375,
+      "wind": 4.605829432606697,
+      "tmax": 7.784765625,
+      "tmin": 3.7067317716777324
+    },
+    "average_srad": 10030.08203125,
+    "average_wind": 4.002903402472536,
+    "average_tmax": 15.899815539270639,
+    "average_tmin": 8.086592881567777
   },
   "Wallonne Gewest": {
     "average_temp": 10.94,
     "average_prec": 80.22,
     "1": {
       "temp": 3.67,
-      "prec": 89.76
+      "prec": 89.76,
+      "srad": 2674.3283582089553,
+      "wind": 4.514716425938393,
+      "tmax": 6.057835820895522,
+      "tmin": 1.2796641791044776
     },
     "2": {
       "temp": 5.61,
-      "prec": 95.06
+      "prec": 95.06,
+      "srad": 5103.820895522388,
+      "wind": 4.174369352966992,
+      "tmax": 8.876119402985074,
+      "tmin": 2.3496268656716417
     },
     "3": {
       "temp": 6.85,
-      "prec": 70.12
+      "prec": 70.12,
+      "srad": 8876.23880597015,
+      "wind": 4.224623117873918,
+      "tmax": 10.848320895522388,
+      "tmin": 2.8496268656716417
     },
     "4": {
       "temp": 8.89,
-      "prec": 58.97
+      "prec": 58.97,
+      "srad": 13734.805970149253,
+      "wind": 3.868735071438462,
+      "tmax": 13.7419776119403,
+      "tmin": 4.04384328358209
     },
     "5": {
       "temp": 12.99,
-      "prec": 75.16
+      "prec": 75.16,
+      "srad": 17302.716417910447,
+      "wind": 3.4979589732725227,
+      "tmax": 18.03955223880597,
+      "tmin": 7.9352611940298505
     },
     "6": {
       "temp": 17.45,
-      "prec": 76.69
+      "prec": 76.69,
+      "srad": 18352.059701492537,
+      "wind": 3.291567161901673,
+      "tmax": 22.667723880597016,
+      "tmin": 12.233022388059702
     },
     "7": {
       "temp": 18.0,
-      "prec": 84.95
+      "prec": 84.95,
+      "srad": 17938.82089552239,
+      "wind": 3.2624477521697086,
+      "tmax": 23.07966417910448,
+      "tmin": 12.92705223880597
     },
     "8": {
       "temp": 18.81,
-      "prec": 79.04
+      "prec": 79.04,
+      "srad": 15686.223880597016,
+      "wind": 3.086283566346809,
+      "tmax": 23.88787313432836,
+      "tmin": 13.736567164179103
     },
     "9": {
       "temp": 15.68,
-      "prec": 74.59
+      "prec": 74.59,
+      "srad": 11128.283582089553,
+      "wind": 3.3950933022285574,
+      "tmax": 20.42444029850746,
+      "tmin": 10.928544776119404
     },
     "10": {
       "temp": 11.89,
-      "prec": 87.78
+      "prec": 87.78,
+      "srad": 6664.059701492537,
+      "wind": 3.7339402882020867,
+      "tmax": 15.58712686567164,
+      "tmin": 8.190298507462687
     },
     "11": {
       "temp": 6.93,
-      "prec": 83.55
+      "prec": 83.55,
+      "srad": 3240.10447761194,
+      "wind": 4.067063417007674,
+      "tmax": 9.650559701492536,
+      "tmin": 4.209888059701492
     },
     "12": {
       "temp": 4.45,
-      "prec": 86.99
-    }
+      "prec": 86.99,
+      "srad": 2078.0746268656717,
+      "wind": 4.367268665512996,
+      "tmax": 6.560261194029851,
+      "tmin": 2.3360074626865672
+    },
+    "average_srad": 10231.628109452737,
+    "average_wind": 3.7903389245716492,
+    "average_tmax": 14.951787935323386,
+    "average_tmin": 6.918283582089553
   }
 }

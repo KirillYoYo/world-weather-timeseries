@@ -4,155 +4,311 @@
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Anjouan": {
     "average_temp": 23.54,
     "average_prec": 133.66,
     "1": {
       "temp": 24.3,
-      "prec": 339.27
+      "prec": 339.27,
+      "srad": 19841.0,
+      "wind": 3.4137680530548096,
+      "tmax": 27.53846130371094,
+      "tmin": 21.061538314819337
     },
     "2": {
       "temp": 24.78,
-      "prec": 224.04
+      "prec": 224.04,
+      "srad": 20343.0,
+      "wind": 2.892029047012329,
+      "tmax": 28.323076248168945,
+      "tmin": 21.23076934814453
     },
     "3": {
       "temp": 24.65,
-      "prec": 172.39
+      "prec": 172.39,
+      "srad": 20801.0,
+      "wind": 2.916304349899292,
+      "tmax": 28.32307662963867,
+      "tmin": 20.984615325927734
     },
     "4": {
       "temp": 24.62,
-      "prec": 222.22
+      "prec": 222.22,
+      "srad": 22007.0,
+      "wind": 3.526449203491211,
+      "tmax": 28.5230770111084,
+      "tmin": 20.707691955566407
     },
     "5": {
       "temp": 24.05,
-      "prec": 109.54
+      "prec": 109.54,
+      "srad": 18453.0,
+      "wind": 3.8583333492279053,
+      "tmax": 28.276922988891602,
+      "tmin": 19.830768966674803
     },
     "6": {
       "temp": 22.68,
-      "prec": 55.59
+      "prec": 55.59,
+      "srad": 16362.0,
+      "wind": 4.069565296173096,
+      "tmax": 26.923077011108397,
+      "tmin": 18.430768966674805
     },
     "7": {
       "temp": 21.93,
-      "prec": 69.43
+      "prec": 69.43,
+      "srad": 16546.0,
+      "wind": 4.1913042068481445,
+      "tmax": 26.169230651855468,
+      "tmin": 17.692307662963866
     },
     "8": {
       "temp": 21.74,
-      "prec": 20.4
+      "prec": 20.4,
+      "srad": 19225.0,
+      "wind": 4.090579509735107,
+      "tmax": 26.01538429260254,
+      "tmin": 17.46153793334961
     },
     "9": {
       "temp": 22.22,
-      "prec": 69.48
+      "prec": 69.48,
+      "srad": 23100.0,
+      "wind": 3.3195652961730957,
+      "tmax": 26.538461685180664,
+      "tmin": 17.89230728149414
     },
     "10": {
       "temp": 22.89,
-      "prec": 47.18
+      "prec": 47.18,
+      "srad": 25261.0,
+      "wind": 3.7249999046325684,
+      "tmax": 26.984615325927734,
+      "tmin": 18.799999618530272
     },
     "11": {
       "temp": 23.95,
-      "prec": 112.04
+      "prec": 112.04,
+      "srad": 23903.0,
+      "wind": 4.085507392883301,
+      "tmax": 27.938461303710938,
+      "tmin": 19.953845977783203
     },
     "12": {
       "temp": 24.69,
-      "prec": 162.31
-    }
+      "prec": 162.31,
+      "srad": 22572.0,
+      "wind": 3.453260898590088,
+      "tmax": 28.307691955566405,
+      "tmin": 21.076922988891603
+    },
+    "average_srad": 20701.166666666668,
+    "average_wind": 3.6284722089767456,
+    "average_tmax": 27.488461367289222,
+    "average_tmin": 19.59358952840169
   },
   "Grande Comore": {
     "average_temp": 22.6,
     "average_prec": 175.92,
     "1": {
       "temp": 23.7,
-      "prec": 371.98
+      "prec": 371.98,
+      "srad": 19370.5,
+      "wind": 3.4025226831436157,
+      "tmax": 27.477692794799804,
+      "tmin": 19.930769157409667
     },
     "2": {
       "temp": 23.98,
-      "prec": 266.84
+      "prec": 266.84,
+      "srad": 19799.0,
+      "wind": 3.0185893774032593,
+      "tmax": 27.82769203186035,
+      "tmin": 20.13153839111328
     },
     "3": {
       "temp": 23.86,
-      "prec": 212.89
+      "prec": 212.89,
+      "srad": 20147.5,
+      "wind": 3.007775068283081,
+      "tmax": 27.810000038146974,
+      "tmin": 19.91692352294922
     },
     "4": {
       "temp": 23.62,
-      "prec": 313.5
+      "prec": 313.5,
+      "srad": 21091.5,
+      "wind": 3.753275156021118,
+      "tmax": 27.549230766296386,
+      "tmin": 19.684615516662596
     },
     "5": {
       "temp": 22.87,
-      "prec": 169.17
+      "prec": 169.17,
+      "srad": 18247.5,
+      "wind": 3.9398863315582275,
+      "tmax": 27.13461570739746,
+      "tmin": 18.609230995178223
     },
     "6": {
       "temp": 21.49,
-      "prec": 138.62
+      "prec": 138.62,
+      "srad": 16667.5,
+      "wind": 3.7389087677001953,
+      "tmax": 25.754615592956544,
+      "tmin": 17.228461360931398
     },
     "7": {
       "temp": 20.8,
-      "prec": 158.03
+      "prec": 158.03,
+      "srad": 16641.5,
+      "wind": 4.105676889419556,
+      "tmax": 25.11230754852295,
+      "tmin": 16.48615379333496
     },
     "8": {
       "temp": 20.59,
-      "prec": 59.3
+      "prec": 59.3,
+      "srad": 19250.5,
+      "wind": 4.195751905441284,
+      "tmax": 25.004615783691406,
+      "tmin": 16.182307624816893
     },
     "9": {
       "temp": 21.17,
-      "prec": 63.65
+      "prec": 63.65,
+      "srad": 22762.0,
+      "wind": 3.638285994529724,
+      "tmax": 25.574615478515625,
+      "tmin": 16.76384620666504
     },
     "10": {
       "temp": 22.12,
-      "prec": 61.1
+      "prec": 61.1,
+      "srad": 24675.5,
+      "wind": 3.9287887811660767,
+      "tmax": 26.318461990356447,
+      "tmin": 17.924615478515626
     },
     "11": {
       "temp": 23.09,
-      "prec": 99.74
+      "prec": 99.74,
+      "srad": 23557.0,
+      "wind": 3.8450056314468384,
+      "tmax": 27.263076782226562,
+      "tmin": 18.91999969482422
     },
     "12": {
       "temp": 23.95,
-      "prec": 196.18
-    }
+      "prec": 196.18,
+      "srad": 21823.0,
+      "wind": 3.602388620376587,
+      "tmax": 27.956922912597655,
+      "tmin": 19.953076934814455
+    },
+    "average_srad": 20336.083333333332,
+    "average_wind": 3.6814046005407968,
+    "average_tmax": 26.73198728561401,
+    "average_tmin": 18.477628223101295
   }
 }

@@ -4,155 +4,311 @@
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Phoenix Islands": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Line Islands": {
     "average_temp": 27.52,
     "average_prec": 197.57,
     "1": {
       "temp": 27.25,
-      "prec": 194.63
+      "prec": 194.63,
+      "srad": 17055.0,
+      "wind": 5.054069519042969,
+      "tmax": 30.33333396911621,
+      "tmin": 24.16666603088379
     },
     "2": {
       "temp": 27.33,
-      "prec": 205.9
+      "prec": 205.9,
+      "srad": 17353.0,
+      "wind": 4.9802327156066895,
+      "tmax": 30.5,
+      "tmin": 24.16666603088379
     },
     "3": {
       "temp": 27.42,
-      "prec": 279.66
+      "prec": 279.66,
+      "srad": 18105.0,
+      "wind": 4.331976890563965,
+      "tmax": 30.58333396911621,
+      "tmin": 24.25
     },
     "4": {
       "temp": 27.5,
-      "prec": 224.97
+      "prec": 224.97,
+      "srad": 17660.0,
+      "wind": 4.215116024017334,
+      "tmax": 30.75,
+      "tmin": 24.25
     },
     "5": {
       "temp": 27.62,
-      "prec": 179.22
+      "prec": 179.22,
+      "srad": 17461.0,
+      "wind": 3.5284883975982666,
+      "tmax": 31.0,
+      "tmin": 24.25
     },
     "6": {
       "temp": 27.62,
-      "prec": 203.79
+      "prec": 203.79,
+      "srad": 15942.0,
+      "wind": 4.133720874786377,
+      "tmax": 30.91666603088379,
+      "tmin": 24.33333396911621
     },
     "7": {
       "temp": 27.54,
-      "prec": 173.43
+      "prec": 173.43,
+      "srad": 15227.0,
+      "wind": 4.095930099487305,
+      "tmax": 30.91666603088379,
+      "tmin": 24.16666603088379
     },
     "8": {
       "temp": 27.62,
-      "prec": 180.63
+      "prec": 180.63,
+      "srad": 16145.0,
+      "wind": 4.533139705657959,
+      "tmax": 31.0,
+      "tmin": 24.25
     },
     "9": {
       "temp": 27.75,
-      "prec": 138.51
+      "prec": 138.51,
+      "srad": 16666.0,
+      "wind": 4.605813980102539,
+      "tmax": 31.25,
+      "tmin": 24.25
     },
     "10": {
       "temp": 27.71,
-      "prec": 158.12
+      "prec": 158.12,
+      "srad": 17894.0,
+      "wind": 4.591860294342041,
+      "tmax": 31.16666603088379,
+      "tmin": 24.25
     },
     "11": {
       "temp": 27.62,
-      "prec": 229.28
+      "prec": 229.28,
+      "srad": 17851.0,
+      "wind": 4.647092819213867,
+      "tmax": 31.0,
+      "tmin": 24.25
     },
     "12": {
       "temp": 27.25,
-      "prec": 202.62
-    }
+      "prec": 202.62,
+      "srad": 16803.0,
+      "wind": 4.820348739624023,
+      "tmax": 30.5,
+      "tmin": 24.0
+    },
+    "average_srad": 17013.5,
+    "average_wind": 4.4614825050036115,
+    "average_tmax": 30.826388835906982,
+    "average_tmin": 24.215277671813965
   }
 }

@@ -4,2235 +4,4471 @@
     "average_prec": 57.44,
     "1": {
       "temp": -3.02,
-      "prec": 54.9
+      "prec": 54.9,
+      "srad": 1560.125,
+      "wind": 3.505156248807907,
+      "tmax": -0.825,
+      "tmin": -5.209375
     },
     "2": {
       "temp": -2.35,
-      "prec": 43.52
+      "prec": 43.52,
+      "srad": 4066.625,
+      "wind": 3.4047500789165497,
+      "tmax": 0.321875,
+      "tmin": -5.03125
     },
     "3": {
       "temp": 0.96,
-      "prec": 31.21
+      "prec": 31.21,
+      "srad": 8287.25,
+      "wind": 3.2813437283039093,
+      "tmax": 4.9140625,
+      "tmin": -2.990625
     },
     "4": {
       "temp": 5.84,
-      "prec": 39.96
+      "prec": 39.96,
+      "srad": 12873.5,
+      "wind": 3.0999999046325684,
+      "tmax": 10.4640625,
+      "tmin": 1.2078125
     },
     "5": {
       "temp": 11.2,
-      "prec": 45.46
+      "prec": 45.46,
+      "srad": 18291.625,
+      "wind": 2.994718760251999,
+      "tmax": 16.965625,
+      "tmin": 5.44375
     },
     "6": {
       "temp": 17.69,
-      "prec": 65.46
+      "prec": 65.46,
+      "srad": 20071.125,
+      "wind": 2.700000047683716,
+      "tmax": 23.4484375,
+      "tmin": 11.93125
     },
     "7": {
       "temp": 18.12,
-      "prec": 88.3
+      "prec": 88.3,
+      "srad": 19007.625,
+      "wind": 2.5910623967647552,
+      "tmax": 23.2796875,
+      "tmin": 12.9609375
     },
     "8": {
       "temp": 17.44,
-      "prec": 86.47
+      "prec": 86.47,
+      "srad": 14907.125,
+      "wind": 2.5,
+      "tmax": 22.4765625,
+      "tmin": 12.396875
     },
     "9": {
       "temp": 12.14,
-      "prec": 43.01
+      "prec": 43.01,
+      "srad": 9003.875,
+      "wind": 2.8996250927448273,
+      "tmax": 16.6421875,
+      "tmin": 7.6296875
     },
     "10": {
       "temp": 7.44,
-      "prec": 67.63
+      "prec": 67.63,
+      "srad": 4425.25,
+      "wind": 3.260437458753586,
+      "tmax": 10.496875,
+      "tmin": 4.3921875
     },
     "11": {
       "temp": 1.78,
-      "prec": 69.34
+      "prec": 69.34,
+      "srad": 1632.125,
+      "wind": 3.5994686484336853,
+      "tmax": 3.7078125,
+      "tmin": -0.14375
     },
     "12": {
       "temp": -2.84,
-      "prec": 54.02
-    }
+      "prec": 54.02,
+      "srad": 935.625,
+      "wind": 3.5987499058246613,
+      "tmax": -0.8921875,
+      "tmin": -4.7875
+    },
+    "average_srad": 9588.489583333334,
+    "average_wind": 3.1196093559265137,
+    "average_tmax": 10.916666666666664,
+    "average_tmin": 3.1500000000000004
   },
   "Līvānu novads": {
     "average_temp": 7.64,
     "average_prec": 57.22,
     "1": {
       "temp": -2.53,
-      "prec": 61.0
+      "prec": 61.0,
+      "srad": 1722.0,
+      "wind": 3.5674374103546143,
+      "tmax": -0.190625,
+      "tmin": -4.8625
     },
     "2": {
       "temp": -1.95,
-      "prec": 41.87
+      "prec": 41.87,
+      "srad": 4243.75,
+      "wind": 3.4000000953674316,
+      "tmax": 0.953125,
+      "tmin": -4.846875
     },
     "3": {
       "temp": 1.42,
-      "prec": 31.75
+      "prec": 31.75,
+      "srad": 8585.25,
+      "wind": 3.299999952316284,
+      "tmax": 5.878125,
+      "tmin": -3.034375
     },
     "4": {
       "temp": 6.46,
-      "prec": 42.49
+      "prec": 42.49,
+      "srad": 13049.25,
+      "wind": 3.100749909877777,
+      "tmax": 11.509375,
+      "tmin": 1.415625
     },
     "5": {
       "temp": 11.36,
-      "prec": 52.52
+      "prec": 52.52,
+      "srad": 18516.75,
+      "wind": 3.0,
+      "tmax": 17.496875,
+      "tmin": 5.228125
     },
     "6": {
       "temp": 18.15,
-      "prec": 67.33
+      "prec": 67.33,
+      "srad": 20190.5,
+      "wind": 2.700000047683716,
+      "tmax": 24.253125,
+      "tmin": 12.04375
     },
     "7": {
       "temp": 19.04,
-      "prec": 84.33
+      "prec": 84.33,
+      "srad": 18836.75,
+      "wind": 2.562062442302704,
+      "tmax": 24.784375,
+      "tmin": 13.290625
     },
     "8": {
       "temp": 18.16,
-      "prec": 87.46
+      "prec": 87.46,
+      "srad": 15321.5,
+      "wind": 2.4205625653266907,
+      "tmax": 23.95625,
+      "tmin": 12.36875
     },
     "9": {
       "temp": 12.88,
-      "prec": 40.28
+      "prec": 40.28,
+      "srad": 9254.25,
+      "wind": 2.799999952316284,
+      "tmax": 18.075,
+      "tmin": 7.684375
     },
     "10": {
       "temp": 7.82,
-      "prec": 58.99
+      "prec": 58.99,
+      "srad": 4714.75,
+      "wind": 3.299999952316284,
+      "tmax": 11.215625,
+      "tmin": 4.434375
     },
     "11": {
       "temp": 3.18,
-      "prec": 65.29
+      "prec": 65.29,
+      "srad": 1783.25,
+      "wind": 3.5999999046325684,
+      "tmax": 5.121875,
+      "tmin": 1.234375
     },
     "12": {
       "temp": -2.29,
-      "prec": 53.31
-    }
+      "prec": 53.31,
+      "srad": 1072.0,
+      "wind": 3.4860000014305115,
+      "tmax": -0.43125,
+      "tmin": -4.15
+    },
+    "average_srad": 9774.166666666666,
+    "average_wind": 3.1030676861604056,
+    "average_tmax": 11.88515625,
+    "average_tmin": 3.4005208333333345
   },
   "Gulbenes novads": {
     "average_temp": 7.4,
     "average_prec": 59.08,
     "1": {
       "temp": -2.25,
-      "prec": 58.08
+      "prec": 58.08,
+      "srad": 1595.3,
+      "wind": 3.5789249181747436,
+      "tmax": 0.15250000000000002,
+      "tmin": -4.6425
     },
     "2": {
       "temp": -1.72,
-      "prec": 42.18
+      "prec": 42.18,
+      "srad": 4102.7,
+      "wind": 3.4000251054763795,
+      "tmax": 1.0550000000000002,
+      "tmin": -4.495
     },
     "3": {
       "temp": 1.34,
-      "prec": 32.94
+      "prec": 32.94,
+      "srad": 8381.9,
+      "wind": 3.3000499486923216,
+      "tmax": 5.383750000000001,
+      "tmin": -2.695
     },
     "4": {
       "temp": 5.82,
-      "prec": 41.48
+      "prec": 41.48,
+      "srad": 12909.3,
+      "wind": 3.1100998878479005,
+      "tmax": 10.45375,
+      "tmin": 1.18875
     },
     "5": {
       "temp": 11.19,
-      "prec": 44.93
+      "prec": 44.93,
+      "srad": 18332.7,
+      "wind": 3.0,
+      "tmax": 17.15,
+      "tmin": 5.22125
     },
     "6": {
       "temp": 17.62,
-      "prec": 63.17
+      "prec": 63.17,
+      "srad": 20174.1,
+      "wind": 2.700000047683716,
+      "tmax": 23.4925,
+      "tmin": 11.74625
     },
     "7": {
       "temp": 18.12,
-      "prec": 85.26
+      "prec": 85.26,
+      "srad": 19019.8,
+      "wind": 2.57067494392395,
+      "tmax": 23.30875,
+      "tmin": 12.92625
     },
     "8": {
       "temp": 17.6,
-      "prec": 89.65
+      "prec": 89.65,
+      "srad": 15006.3,
+      "wind": 2.5,
+      "tmax": 22.69875,
+      "tmin": 12.50625
     },
     "9": {
       "temp": 12.57,
-      "prec": 44.46
+      "prec": 44.46,
+      "srad": 9045.4,
+      "wind": 2.899950098991394,
+      "tmax": 17.24,
+      "tmin": 7.89625
     },
     "10": {
       "temp": 8.03,
-      "prec": 71.4
+      "prec": 71.4,
+      "srad": 4484.2,
+      "wind": 3.30024995803833,
+      "tmax": 11.25625,
+      "tmin": 4.8
     },
     "11": {
       "temp": 2.69,
-      "prec": 76.51
+      "prec": 76.51,
+      "srad": 1664.7,
+      "wind": 3.5999999046325684,
+      "tmax": 4.718750000000001,
+      "tmin": 0.6675
     },
     "12": {
       "temp": -2.16,
-      "prec": 58.91
-    }
+      "prec": 58.91,
+      "srad": 969.6,
+      "wind": 3.599824905395508,
+      "tmax": -0.09625000000000003,
+      "tmin": -4.22
+    },
+    "average_srad": 9640.499999999998,
+    "average_wind": 3.129983309904734,
+    "average_tmax": 11.401145833333333,
+    "average_tmin": 3.408333333333333
   },
   "Ventspils novads": {
     "average_temp": 8.52,
     "average_prec": 52.71,
     "1": {
       "temp": -0.03,
-      "prec": 48.81
+      "prec": 48.81,
+      "srad": 1459.0,
+      "wind": 4.591456976803866,
+      "tmax": 1.7655483400279823,
+      "tmin": -1.8338203493844378
     },
     "2": {
       "temp": -0.21,
-      "prec": 36.64
+      "prec": 36.64,
+      "srad": 3739.818181818182,
+      "wind": 4.18712930245833,
+      "tmax": 2.193849207054485,
+      "tmin": -2.615692642602054
     },
     "3": {
       "temp": 2.08,
-      "prec": 30.91
+      "prec": 30.91,
+      "srad": 8656.636363636364,
+      "wind": 3.932749314741655,
+      "tmax": 5.423376620899548,
+      "tmin": -1.2608225090937182
     },
     "4": {
       "temp": 6.02,
-      "prec": 27.06
+      "prec": 27.06,
+      "srad": 13577.181818181818,
+      "wind": 3.873580499128862,
+      "tmax": 9.954148621992632,
+      "tmin": 2.0775072141127153
     },
     "5": {
       "temp": 10.62,
-      "prec": 32.03
+      "prec": 32.03,
+      "srad": 19387.636363636364,
+      "wind": 3.691026210784912,
+      "tmax": 14.993290086226029,
+      "tmin": 6.252092352780428
     },
     "6": {
       "temp": 16.85,
-      "prec": 51.72
+      "prec": 51.72,
+      "srad": 21341.727272727272,
+      "wind": 3.5796984325755727,
+      "tmax": 21.388113264604048,
+      "tmin": 12.301948061856356
     },
     "7": {
       "temp": 18.58,
-      "prec": 83.96
+      "prec": 83.96,
+      "srad": 19672.81818181818,
+      "wind": 3.4707766446200283,
+      "tmax": 22.44467894814231,
+      "tmin": 14.707593779130416
     },
     "8": {
       "temp": 18.71,
-      "prec": 83.59
+      "prec": 83.59,
+      "srad": 15701.363636363636,
+      "wind": 3.3594969619404185,
+      "tmax": 22.655844150890005,
+      "tmin": 14.771266208995474
     },
     "9": {
       "temp": 14.57,
-      "prec": 50.19
+      "prec": 50.19,
+      "srad": 9565.181818181818,
+      "wind": 3.9497588764537466,
+      "tmax": 18.512247501720083,
+      "tmin": 10.62316018884832
     },
     "10": {
       "temp": 9.86,
-      "prec": 66.02
+      "prec": 66.02,
+      "srad": 4790.909090909091,
+      "wind": 4.2751827890222724,
+      "tmax": 12.573538953607732,
+      "tmin": 7.1469696998596195
     },
     "11": {
       "temp": 4.99,
-      "prec": 65.68
+      "prec": 65.68,
+      "srad": 1692.8181818181818,
+      "wind": 4.57155966758728,
+      "tmax": 6.677290769056841,
+      "tmin": 3.2997835462743588
     },
     "12": {
       "temp": 0.16,
-      "prec": 55.92
-    }
+      "prec": 55.92,
+      "srad": 885.7272727272727,
+      "wind": 4.598977110602639,
+      "tmax": 1.7309884559024464,
+      "tmin": -1.4129148613322864
+    },
+    "average_srad": 10039.234848484848,
+    "average_wind": 4.006782732226632,
+    "average_tmax": 11.692742910010343,
+    "average_tmin": 5.338089224120433
   },
   "Valkas novads": {
     "average_temp": 7.21,
     "average_prec": 55.63,
     "1": {
       "temp": -2.75,
-      "prec": 50.54
+      "prec": 50.54,
+      "srad": 1507.857142857143,
+      "wind": 3.527857099260603,
+      "tmax": -0.29107142857142865,
+      "tmin": -5.2
     },
     "2": {
       "temp": -2.34,
-      "prec": 40.29
+      "prec": 40.29,
+      "srad": 3975.285714285714,
+      "wind": 3.2703570978982106,
+      "tmax": 0.6357142857142858,
+      "tmin": -5.323214285714285
     },
     "3": {
       "temp": 1.12,
-      "prec": 29.76
+      "prec": 29.76,
+      "srad": 8306.857142857143,
+      "wind": 3.2512499945504323,
+      "tmax": 5.208928571428571,
+      "tmin": -2.9785714285714286
     },
     "4": {
       "temp": 5.84,
-      "prec": 37.7
+      "prec": 37.7,
+      "srad": 12832.285714285714,
+      "wind": 3.1062141827174594,
+      "tmax": 10.60892857142857,
+      "tmin": 1.0625
     },
     "5": {
       "temp": 11.18,
-      "prec": 47.38
+      "prec": 47.38,
+      "srad": 18385.85714285714,
+      "wind": 3.0,
+      "tmax": 17.410714285714285,
+      "tmin": 4.955357142857143
     },
     "6": {
       "temp": 17.7,
-      "prec": 61.83
+      "prec": 61.83,
+      "srad": 20163.285714285714,
+      "wind": 2.7046429089137485,
+      "tmax": 23.957142857142856,
+      "tmin": 11.444642857142856
     },
     "7": {
       "temp": 18.23,
-      "prec": 88.74
+      "prec": 88.74,
+      "srad": 19048.14285714286,
+      "wind": 2.5,
+      "tmax": 23.764285714285712,
+      "tmin": 12.687499999999998
     },
     "8": {
       "temp": 17.48,
-      "prec": 90.99
+      "prec": 90.99,
+      "srad": 14900.57142857143,
+      "wind": 2.4511429241725375,
+      "tmax": 22.8125,
+      "tmin": 12.15
     },
     "9": {
       "temp": 12.47,
-      "prec": 46.65
+      "prec": 46.65,
+      "srad": 8936.0,
+      "wind": 2.8057142666407993,
+      "tmax": 17.28392857142857,
+      "tmin": 7.658928571428571
     },
     "10": {
       "temp": 7.77,
-      "prec": 61.49
+      "prec": 61.49,
+      "srad": 4377.571428571428,
+      "wind": 3.2444286005837575,
+      "tmax": 11.167857142857143,
+      "tmin": 4.375
     },
     "11": {
       "temp": 2.53,
-      "prec": 63.3
+      "prec": 63.3,
+      "srad": 1599.7142857142858,
+      "wind": 3.512857096535819,
+      "tmax": 4.601785714285714,
+      "tmin": 0.45178571428571423
     },
     "12": {
       "temp": -2.69,
-      "prec": 48.94
-    }
+      "prec": 48.94,
+      "srad": 906.1428571428571,
+      "wind": 3.5537499700273787,
+      "tmax": -0.6375,
+      "tmin": -4.744642857142857
+    },
+    "average_srad": 9578.29761904762,
+    "average_wind": 3.0773511784417287,
+    "average_tmax": 11.376934523809524,
+    "average_tmin": 3.044940476190476
   },
   "Salaspils novads": {
     "average_temp": 7.85,
     "average_prec": 52.45,
     "1": {
       "temp": -1.77,
-      "prec": 45.45
+      "prec": 45.45,
+      "srad": 1602.0,
+      "wind": 3.8529999256134033,
+      "tmax": 0.2625,
+      "tmin": -3.8
     },
     "2": {
       "temp": -1.16,
-      "prec": 34.36
+      "prec": 34.36,
+      "srad": 4062.0,
+      "wind": 3.5134999752044678,
+      "tmax": 1.3875,
+      "tmin": -3.7
     },
     "3": {
       "temp": 1.73,
-      "prec": 26.56
+      "prec": 26.56,
+      "srad": 8568.0,
+      "wind": 3.308500051498413,
+      "tmax": 5.275,
+      "tmin": -1.825
     },
     "4": {
       "temp": 6.07,
-      "prec": 36.38
+      "prec": 36.38,
+      "srad": 13102.0,
+      "wind": 3.319999933242798,
+      "tmax": 10.7,
+      "tmin": 1.4375
     },
     "5": {
       "temp": 11.23,
-      "prec": 46.43
+      "prec": 46.43,
+      "srad": 18698.0,
+      "wind": 3.223249912261963,
+      "tmax": 16.6,
+      "tmin": 5.8625
     },
     "6": {
       "temp": 17.52,
-      "prec": 57.74
+      "prec": 57.74,
+      "srad": 20501.0,
+      "wind": 2.9402499198913574,
+      "tmax": 22.85,
+      "tmin": 12.2
     },
     "7": {
       "temp": 18.62,
-      "prec": 89.8
+      "prec": 89.8,
+      "srad": 19342.0,
+      "wind": 2.750499963760376,
+      "tmax": 23.1625,
+      "tmin": 14.075
     },
     "8": {
       "temp": 18.19,
-      "prec": 84.6
+      "prec": 84.6,
+      "srad": 15278.0,
+      "wind": 2.601249933242798,
+      "tmax": 22.9625,
+      "tmin": 13.425
     },
     "9": {
       "temp": 13.47,
-      "prec": 47.58
+      "prec": 47.58,
+      "srad": 9211.0,
+      "wind": 3.0864999294281006,
+      "tmax": 17.8375,
+      "tmin": 9.1125
     },
     "10": {
       "temp": 8.61,
-      "prec": 59.39
+      "prec": 59.39,
+      "srad": 4650.0,
+      "wind": 3.5167500972747803,
+      "tmax": 11.675,
+      "tmin": 5.5375
     },
     "11": {
       "temp": 3.36,
-      "prec": 54.77
+      "prec": 54.77,
+      "srad": 1698.0,
+      "wind": 3.7699999809265137,
+      "tmax": 5.3,
+      "tmin": 1.425
     },
     "12": {
       "temp": -1.62,
-      "prec": 46.31
-    }
+      "prec": 46.31,
+      "srad": 958.0,
+      "wind": 3.5672500133514404,
+      "tmax": 0.05,
+      "tmin": -3.3
+    },
+    "average_srad": 9805.833333333334,
+    "average_wind": 3.2875624696413674,
+    "average_tmax": 11.505208333333336,
+    "average_tmin": 4.204166666666667
   },
   "Jelgavas": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Rēzeknes": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Jūrmalas": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Ventspils": {
     "average_temp": 8.71,
     "average_prec": 52.64,
     "1": {
       "temp": 0.29,
-      "prec": 52.55
+      "prec": 52.55,
+      "srad": 1425.0,
+      "wind": 5.278571605682373,
+      "tmax": 2.05,
+      "tmin": -1.4666666194796563
     },
     "2": {
       "temp": -0.02,
-      "prec": 37.86
+      "prec": 37.86,
+      "srad": 3706.0,
+      "wind": 4.814705848693848,
+      "tmax": 2.349999964237213,
+      "tmin": -2.383333283662796
     },
     "3": {
       "temp": 2.37,
-      "prec": 31.82
+      "prec": 31.82,
+      "srad": 8660.0,
+      "wind": 4.5113444328308105,
+      "tmax": 5.5333333015441895,
+      "tmin": -0.800000011920929
     },
     "4": {
       "temp": 6.55,
-      "prec": 27.0
+      "prec": 27.0,
+      "srad": 13649.0,
+      "wind": 4.344117641448975,
+      "tmax": 10.233333396911622,
+      "tmin": 2.8666666030883787
     },
     "5": {
       "temp": 10.6,
-      "prec": 30.97
+      "prec": 30.97,
+      "srad": 19652.0,
+      "wind": 4.110924243927002,
+      "tmax": 14.566666412353516,
+      "tmin": 6.633333301544189
     },
     "6": {
       "temp": 16.8,
-      "prec": 49.68
+      "prec": 49.68,
+      "srad": 21610.0,
+      "wind": 4.037395000457764,
+      "tmax": 20.98333320617676,
+      "tmin": 12.61666660308838
     },
     "7": {
       "temp": 18.76,
-      "prec": 78.96
+      "prec": 78.96,
+      "srad": 19937.0,
+      "wind": 3.968067169189453,
+      "tmax": 22.300000381469726,
+      "tmin": 15.21666660308838
     },
     "8": {
       "temp": 19.07,
-      "prec": 74.87
+      "prec": 74.87,
+      "srad": 16033.0,
+      "wind": 3.921428680419922,
+      "tmax": 22.816666412353516,
+      "tmin": 15.316666603088379
     },
     "9": {
       "temp": 14.82,
-      "prec": 50.29
+      "prec": 50.29,
+      "srad": 9691.0,
+      "wind": 4.599999904632568,
+      "tmax": 18.633333206176758,
+      "tmin": 11.016666603088378
     },
     "10": {
       "temp": 9.96,
-      "prec": 67.14
+      "prec": 67.14,
+      "srad": 4827.0,
+      "wind": 4.980252265930176,
+      "tmax": 12.63333339691162,
+      "tmin": 7.283333396911621
     },
     "11": {
       "temp": 5.12,
-      "prec": 69.3
+      "prec": 69.3,
+      "srad": 1687.0,
+      "wind": 5.2638654708862305,
+      "tmax": 6.8,
+      "tmin": 3.4333333015441894
     },
     "12": {
       "temp": 0.15,
-      "prec": 61.25
-    }
+      "prec": 61.25,
+      "srad": 874.0,
+      "wind": 5.421848773956299,
+      "tmax": 1.7166666626930236,
+      "tmin": -1.4166666746139527
+    },
+    "average_srad": 10145.916666666666,
+    "average_wind": 4.604376753171285,
+    "average_tmax": 11.71805552840233,
+    "average_tmin": 5.69305553548038
   },
   "Rīga": {
     "average_temp": 8.34,
     "average_prec": 52.8,
     "1": {
       "temp": -1.09,
-      "prec": 46.07
+      "prec": 46.07,
+      "srad": 1578.0,
+      "wind": 4.279749870300293,
+      "tmax": 0.875,
+      "tmin": -3.0625
     },
     "2": {
       "temp": -0.82,
-      "prec": 36.25
+      "prec": 36.25,
+      "srad": 3997.0,
+      "wind": 3.8722500801086426,
+      "tmax": 1.6375,
+      "tmin": -3.275
     },
     "3": {
       "temp": 2.36,
-      "prec": 26.89
+      "prec": 26.89,
+      "srad": 8547.0,
+      "wind": 3.575000047683716,
+      "tmax": 6.0,
+      "tmin": -1.2875
     },
     "4": {
       "temp": 6.58,
-      "prec": 35.85
+      "prec": 35.85,
+      "srad": 13159.0,
+      "wind": 3.598749876022339,
+      "tmax": 11.025,
+      "tmin": 2.125
     },
     "5": {
       "temp": 11.68,
-      "prec": 44.92
+      "prec": 44.92,
+      "srad": 18829.0,
+      "wind": 3.4882500171661377,
+      "tmax": 16.95,
+      "tmin": 6.4125
     },
     "6": {
       "temp": 18.14,
-      "prec": 56.82
+      "prec": 56.82,
+      "srad": 20644.0,
+      "wind": 3.197999954223633,
+      "tmax": 23.5125,
+      "tmin": 12.775
     },
     "7": {
       "temp": 18.89,
-      "prec": 91.78
+      "prec": 91.78,
+      "srad": 19413.0,
+      "wind": 3.0195000171661377,
+      "tmax": 23.6125,
+      "tmin": 14.175
     },
     "8": {
       "temp": 18.51,
-      "prec": 87.36
+      "prec": 87.36,
+      "srad": 15474.0,
+      "wind": 2.8897500038146973,
+      "tmax": 23.0875,
+      "tmin": 13.9375
     },
     "9": {
       "temp": 13.73,
-      "prec": 48.72
+      "prec": 48.72,
+      "srad": 9285.0,
+      "wind": 3.447999954223633,
+      "tmax": 18.1875,
+      "tmin": 9.275
     },
     "10": {
       "temp": 9.15,
-      "prec": 60.12
+      "prec": 60.12,
+      "srad": 4681.0,
+      "wind": 3.915250062942505,
+      "tmax": 12.2,
+      "tmin": 6.1
     },
     "11": {
       "temp": 3.77,
-      "prec": 53.38
+      "prec": 53.38,
+      "srad": 1701.0,
+      "wind": 4.194499969482422,
+      "tmax": 5.55,
+      "tmin": 1.9875
     },
     "12": {
       "temp": -0.81,
-      "prec": 45.43
-    }
+      "prec": 45.43,
+      "srad": 941.0,
+      "wind": 4.003749847412109,
+      "tmax": 0.8625,
+      "tmin": -2.475
+    },
+    "average_srad": 9854.083333333334,
+    "average_wind": 3.623562475045522,
+    "average_tmax": 11.958333333333334,
+    "average_tmin": 4.723958333333333
   },
   "Liepājas": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Dienvidkurzemes novads": {
     "average_temp": 8.28,
     "average_prec": 60.85,
     "1": {
       "temp": -0.42,
-      "prec": 57.54
+      "prec": 57.54,
+      "srad": 1602.5,
+      "wind": 4.056692773645574,
+      "tmax": 1.605851347405802,
+      "tmin": -2.4450439739633696
     },
     "2": {
       "temp": -0.11,
-      "prec": 41.17
+      "prec": 41.17,
+      "srad": 3865.818181818182,
+      "wind": 3.820202589035034,
+      "tmax": 2.2640734268860383,
+      "tmin": -2.4938241689719938
     },
     "3": {
       "temp": 2.26,
-      "prec": 35.09
+      "prec": 35.09,
+      "srad": 8761.318181818182,
+      "wind": 3.7404635927893897,
+      "tmax": 5.684693518551913,
+      "tmin": -1.1650177472017027
     },
     "4": {
       "temp": 5.96,
-      "prec": 31.36
+      "prec": 31.36,
+      "srad": 13599.136363636364,
+      "wind": 3.571877447041598,
+      "tmax": 10.030652687766334,
+      "tmin": 1.885362365029075
     },
     "5": {
       "temp": 10.73,
-      "prec": 39.37
+      "prec": 39.37,
+      "srad": 19209.31818181818,
+      "wind": 3.383269342509183,
+      "tmax": 15.546073046597567,
+      "tmin": 5.918629477240823
     },
     "6": {
       "temp": 16.75,
-      "prec": 60.97
+      "prec": 60.97,
+      "srad": 21425.954545454544,
+      "wind": 3.290371071208607,
+      "tmax": 21.5441724950617,
+      "tmin": 11.955069932070646
     },
     "7": {
       "temp": 17.86,
-      "prec": 93.78
+      "prec": 93.78,
+      "srad": 19593.18181818182,
+      "wind": 3.232106913219799,
+      "tmax": 21.842228230563073,
+      "tmin": 13.88123543479226
     },
     "8": {
       "temp": 18.17,
-      "prec": 103.67
+      "prec": 103.67,
+      "srad": 15905.772727272728,
+      "wind": 3.085891777818853,
+      "tmax": 22.297020027854224,
+      "tmin": 14.042405692013826
     },
     "9": {
       "temp": 13.97,
-      "prec": 52.93
+      "prec": 52.93,
+      "srad": 9819.954545454546,
+      "wind": 3.548088864846663,
+      "tmax": 18.1195724920793,
+      "tmin": 9.819755233417856
     },
     "10": {
       "temp": 9.64,
-      "prec": 77.49
+      "prec": 77.49,
+      "srad": 4960.681818181818,
+      "wind": 3.8732690702785146,
+      "tmax": 12.542613636363637,
+      "tmin": 6.741931559822776
     },
     "11": {
       "temp": 4.49,
-      "prec": 72.54
+      "prec": 72.54,
+      "srad": 1823.8181818181818,
+      "wind": 4.0667125745253125,
+      "tmax": 6.408398229425605,
+      "tmin": 2.578540210290389
     },
     "12": {
       "temp": 0.02,
-      "prec": 64.21
-    }
+      "prec": 64.21,
+      "srad": 997.9545454545455,
+      "wind": 3.98210410638289,
+      "tmax": 1.889841595833952,
+      "tmin": -1.8407594291323968
+    },
+    "average_srad": 10130.450757575758,
+    "average_wind": 3.637587510275118,
+    "average_tmax": 11.647932561199097,
+    "average_tmin": 4.906523715450683
   },
   "Kuldīgas novads": {
     "average_temp": 8.11,
     "average_prec": 58.18,
     "1": {
       "temp": -0.71,
-      "prec": 53.08
+      "prec": 53.08,
+      "srad": 1551.6666666666667,
+      "wind": 3.779699961344401,
+      "tmax": 1.2941666666666665,
+      "tmin": -2.711666666666667
     },
     "2": {
       "temp": -0.49,
-      "prec": 39.43
+      "prec": 39.43,
+      "srad": 3825.133333333333,
+      "wind": 3.563366683324178,
+      "tmax": 1.9975,
+      "tmin": -2.9875
     },
     "3": {
       "temp": 1.97,
-      "prec": 34.64
+      "prec": 34.64,
+      "srad": 8652.866666666667,
+      "wind": 3.429533322652181,
+      "tmax": 5.551666666666667,
+      "tmin": -1.6083333333333332
     },
     "4": {
       "temp": 5.94,
-      "prec": 31.78
+      "prec": 31.78,
+      "srad": 13482.333333333334,
+      "wind": 3.403416697184245,
+      "tmax": 10.225,
+      "tmin": 1.6625
     },
     "5": {
       "temp": 10.8,
-      "prec": 37.96
+      "prec": 37.96,
+      "srad": 19073.4,
+      "wind": 3.2391333262125652,
+      "tmax": 15.804166666666665,
+      "tmin": 5.797499999999999
     },
     "6": {
       "temp": 16.87,
-      "prec": 59.34
+      "prec": 59.34,
+      "srad": 21072.6,
+      "wind": 3.0868499755859373,
+      "tmax": 21.89833333333333,
+      "tmin": 11.840833333333332
     },
     "7": {
       "temp": 17.94,
-      "prec": 94.2
+      "prec": 94.2,
+      "srad": 19488.266666666666,
+      "wind": 2.939533313115438,
+      "tmax": 22.273333333333333,
+      "tmin": 13.610833333333332
     },
     "8": {
       "temp": 18.07,
-      "prec": 96.62
+      "prec": 96.62,
+      "srad": 15677.0,
+      "wind": 2.77711664835612,
+      "tmax": 22.511666666666667,
+      "tmin": 13.629166666666666
     },
     "9": {
       "temp": 13.81,
-      "prec": 51.41
+      "prec": 51.41,
+      "srad": 9599.2,
+      "wind": 3.228766600290934,
+      "tmax": 18.09833333333333,
+      "tmin": 9.525
     },
     "10": {
       "temp": 9.32,
-      "prec": 72.47
+      "prec": 72.47,
+      "srad": 4855.8,
+      "wind": 3.5127333799997964,
+      "tmax": 12.33,
+      "tmin": 6.308333333333333
     },
     "11": {
       "temp": 4.19,
-      "prec": 68.03
+      "prec": 68.03,
+      "srad": 1752.7333333333333,
+      "wind": 3.779433329900106,
+      "tmax": 6.100833333333334,
+      "tmin": 2.2758333333333334
     },
     "12": {
       "temp": -0.37,
-      "prec": 59.18
-    }
+      "prec": 59.18,
+      "srad": 946.9333333333333,
+      "wind": 3.6923499425252277,
+      "tmax": 1.4425000000000001,
+      "tmin": -2.1883333333333335
+    },
+    "average_srad": 9998.16111111111,
+    "average_wind": 3.3693277650409272,
+    "average_tmax": 11.627291666666665,
+    "average_tmin": 4.596180555555555
   },
   "Saldus novads": {
     "average_temp": 7.99,
     "average_prec": 54.59,
     "1": {
       "temp": -0.91,
-      "prec": 53.55
+      "prec": 53.55,
+      "srad": 1617.8333333333333,
+      "wind": 3.776270806789398,
+      "tmax": 1.16875,
+      "tmin": -2.979166666666667
     },
     "2": {
       "temp": -0.6,
-      "prec": 39.37
+      "prec": 39.37,
+      "srad": 3932.25,
+      "wind": 3.589604139328003,
+      "tmax": 1.8791666666666669,
+      "tmin": -3.0885416666666665
     },
     "3": {
       "temp": 2.1,
-      "prec": 30.26
+      "prec": 30.26,
+      "srad": 8661.166666666666,
+      "wind": 3.428125023841858,
+      "tmax": 5.730208333333334,
+      "tmin": -1.5395833333333333
     },
     "4": {
       "temp": 5.99,
-      "prec": 32.83
+      "prec": 32.83,
+      "srad": 13322.166666666666,
+      "wind": 3.4121458729108176,
+      "tmax": 10.563541666666667,
+      "tmin": 1.415625
     },
     "5": {
       "temp": 11.08,
-      "prec": 38.85
+      "prec": 38.85,
+      "srad": 18868.75,
+      "wind": 3.201937516530355,
+      "tmax": 16.561458333333334,
+      "tmin": 5.603125
     },
     "6": {
       "temp": 17.21,
-      "prec": 57.72
+      "prec": 57.72,
+      "srad": 20798.0,
+      "wind": 2.9898125330607095,
+      "tmax": 22.88854166666667,
+      "tmin": 11.521874999999998
     },
     "7": {
       "temp": 18.0,
-      "prec": 94.11
+      "prec": 94.11,
+      "srad": 19395.75,
+      "wind": 2.8142500519752502,
+      "tmax": 22.90833333333334,
+      "tmin": 13.098958333333332
     },
     "8": {
       "temp": 17.86,
-      "prec": 92.6
+      "prec": 92.6,
+      "srad": 15701.25,
+      "wind": 2.63197914759318,
+      "tmax": 22.835416666666667,
+      "tmin": 12.886458333333334
     },
     "9": {
       "temp": 13.22,
-      "prec": 44.37
+      "prec": 44.37,
+      "srad": 9563.416666666666,
+      "wind": 3.079541643460592,
+      "tmax": 17.717708333333334,
+      "tmin": 8.728125
     },
     "10": {
       "temp": 8.79,
-      "prec": 64.05
+      "prec": 64.05,
+      "srad": 4859.416666666667,
+      "wind": 3.3962291876475015,
+      "tmax": 11.89375,
+      "tmin": 5.691666666666666
     },
     "11": {
       "temp": 3.72,
-      "prec": 56.14
+      "prec": 56.14,
+      "srad": 1793.9166666666667,
+      "wind": 3.7609166900316873,
+      "tmax": 5.5875,
+      "tmin": 1.84375
     },
     "12": {
       "temp": -0.64,
-      "prec": 51.23
-    }
+      "prec": 51.23,
+      "srad": 1004.3333333333334,
+      "wind": 3.59395831823349,
+      "tmax": 1.2,
+      "tmin": -2.473958333333333
+    },
+    "average_srad": 9959.854166666666,
+    "average_wind": 3.306230910950237,
+    "average_tmax": 11.744531250000001,
+    "average_tmin": 4.225694444444444
   },
   "Talsu novads": {
     "average_temp": 8.08,
     "average_prec": 51.71,
     "1": {
       "temp": -0.13,
-      "prec": 45.85
+      "prec": 45.85,
+      "srad": 1476.0,
+      "wind": 4.39776037633419,
+      "tmax": 1.8156198490411044,
+      "tmin": -2.0672481657937167
     },
     "2": {
       "temp": -0.34,
-      "prec": 37.28
+      "prec": 37.28,
+      "srad": 3756.25,
+      "wind": 3.978415369987488,
+      "tmax": 2.3359455085359513,
+      "tmin": -3.0195982161909343
     },
     "3": {
       "temp": 1.82,
-      "prec": 29.26
+      "prec": 29.26,
+      "srad": 8583.8125,
+      "wind": 3.6495833694934845,
+      "tmax": 5.350331950187683,
+      "tmin": -1.701862981542945
     },
     "4": {
       "temp": 5.4,
-      "prec": 30.35
+      "prec": 30.35,
+      "srad": 13421.1875,
+      "wind": 3.7081862688064575,
+      "tmax": 9.73039722442627,
+      "tmin": 1.0655488781630993
     },
     "5": {
       "temp": 10.06,
-      "prec": 33.23
+      "prec": 33.23,
+      "srad": 19110.5,
+      "wind": 3.587377607822418,
+      "tmax": 15.059667456150056,
+      "tmin": 5.062414148449898
     },
     "6": {
       "temp": 16.81,
-      "prec": 53.57
+      "prec": 53.57,
+      "srad": 20973.0625,
+      "wind": 3.423297882080078,
+      "tmax": 21.871892762184142,
+      "tmin": 11.744711542129517
     },
     "7": {
       "temp": 18.04,
-      "prec": 89.25
+      "prec": 89.25,
+      "srad": 19526.0,
+      "wind": 3.2498648911714554,
+      "tmax": 22.662779879570007,
+      "tmin": 13.413333332538604
     },
     "8": {
       "temp": 17.95,
-      "prec": 85.09
+      "prec": 85.09,
+      "srad": 15627.0,
+      "wind": 3.1128595024347305,
+      "tmax": 22.509059047698976,
+      "tmin": 13.400406956672668
     },
     "9": {
       "temp": 13.78,
-      "prec": 49.61
+      "prec": 49.61,
+      "srad": 9466.6875,
+      "wind": 3.7165789753198624,
+      "tmax": 18.072022676467896,
+      "tmin": 9.48473101258278
     },
     "10": {
       "temp": 9.23,
-      "prec": 62.28
+      "prec": 62.28,
+      "srad": 4713.625,
+      "wind": 4.057334169745445,
+      "tmax": 12.318605208396912,
+      "tmin": 6.148205125331879
     },
     "11": {
       "temp": 4.34,
-      "prec": 57.11
+      "prec": 57.11,
+      "srad": 1683.875,
+      "wind": 4.3438232988119125,
+      "tmax": 6.090865385532379,
+      "tmin": 2.597218406200409
     },
     "12": {
       "temp": -0.06,
-      "prec": 47.66
-    }
+      "prec": 47.66,
+      "srad": 889.9375,
+      "wind": 4.281283125281334,
+      "tmax": 1.581055402290076,
+      "tmin": -1.7054779067635537
+    },
+    "average_srad": 9935.661458333334,
+    "average_wind": 3.7921970697740712,
+    "average_tmax": 11.616520195873454,
+    "average_tmin": 4.535198510981476
   },
   "Tukuma novads": {
     "average_temp": 8.08,
     "average_prec": 51.12,
     "1": {
       "temp": -0.56,
-      "prec": 45.63
+      "prec": 45.63,
+      "srad": 1565.3076923076924,
+      "wind": 3.9709626527932973,
+      "tmax": 1.3505177520788636,
+      "tmin": -2.470857992539039
     },
     "2": {
       "temp": -0.74,
-      "prec": 35.79
+      "prec": 35.79,
+      "srad": 3899.6923076923076,
+      "wind": 3.6855678925147424,
+      "tmax": 1.9004437923431396,
+      "tmin": -3.377440823041476
     },
     "3": {
       "temp": 2.12,
-      "prec": 26.58
+      "prec": 26.58,
+      "srad": 8570.076923076924,
+      "wind": 3.407771495672373,
+      "tmax": 5.786094680199255,
+      "tmin": -1.5514792891649098
     },
     "4": {
       "temp": 6.4,
-      "prec": 34.14
+      "prec": 34.14,
+      "srad": 13244.692307692309,
+      "wind": 3.485185531469492,
+      "tmax": 11.3262573829064,
+      "tmin": 1.4658284024550365
     },
     "5": {
       "temp": 10.83,
-      "prec": 38.69
+      "prec": 38.69,
+      "srad": 18886.076923076922,
+      "wind": 3.3525214928847094,
+      "tmax": 16.164053256695087,
+      "tmin": 5.487426038888785
     },
     "6": {
       "temp": 17.37,
-      "prec": 55.22
+      "prec": 55.22,
+      "srad": 20736.69230769231,
+      "wind": 3.1072658392099233,
+      "tmax": 22.959393486609827,
+      "tmin": 11.770636089031512
     },
     "7": {
       "temp": 18.51,
-      "prec": 90.95
+      "prec": 90.95,
+      "srad": 19486.69230769231,
+      "wind": 2.918615377866305,
+      "tmax": 23.570562127920297,
+      "tmin": 13.446745564387395
     },
     "8": {
       "temp": 17.92,
-      "prec": 87.97
+      "prec": 87.97,
+      "srad": 15603.307692307691,
+      "wind": 2.758175336397611,
+      "tmax": 23.024038461538463,
+      "tmin": 12.8165680371798
     },
     "9": {
       "temp": 13.6,
-      "prec": 44.67
+      "prec": 44.67,
+      "srad": 9421.615384615385,
+      "wind": 3.2698936462402344,
+      "tmax": 18.156065075214094,
+      "tmin": 9.045192307692309
     },
     "10": {
       "temp": 8.6,
-      "prec": 58.66
+      "prec": 58.66,
+      "srad": 4753.307692307692,
+      "wind": 3.603548581783588,
+      "tmax": 11.70946744772104,
+      "tmin": 5.487943781339205
     },
     "11": {
       "temp": 3.83,
-      "prec": 51.5
+      "prec": 51.5,
+      "srad": 1744.2307692307693,
+      "wind": 3.8709196677574744,
+      "tmax": 5.501479288247915,
+      "tmin": 2.1584319518162656
     },
     "12": {
       "temp": -0.96,
-      "prec": 43.62
-    }
+      "prec": 43.62,
+      "srad": 957.8461538461538,
+      "wind": 3.7781900259164662,
+      "tmax": 0.552514792405642,
+      "tmin": -2.4655325439113835
+    },
+    "average_srad": 9905.794871794873,
+    "average_wind": 3.4340514617088513,
+    "average_tmax": 11.833407295323335,
+    "average_tmin": 4.317788460344459
   },
   "Dobeles novads": {
     "average_temp": 8.4,
     "average_prec": 48.44,
     "1": {
       "temp": -0.74,
-      "prec": 43.67
+      "prec": 43.67,
+      "srad": 1655.6666666666667,
+      "wind": 3.611388842264811,
+      "tmax": 0.9972222222222221,
+      "tmin": -2.4722222222222223
     },
     "2": {
       "temp": -0.86,
-      "prec": 32.57
+      "prec": 32.57,
+      "srad": 4015.3333333333335,
+      "wind": 3.452750073538886,
+      "tmax": 1.4069444444444446,
+      "tmin": -3.129166666666667
     },
     "3": {
       "temp": 2.68,
-      "prec": 23.93
+      "prec": 23.93,
+      "srad": 8670.0,
+      "wind": 3.24461113082038,
+      "tmax": 6.2333333333333325,
+      "tmin": -0.8680555555555556
     },
     "4": {
       "temp": 7.23,
-      "prec": 31.55
+      "prec": 31.55,
+      "srad": 13243.333333333334,
+      "wind": 3.2985277705722384,
+      "tmax": 12.26388888888889,
+      "tmin": 2.201388888888889
     },
     "5": {
       "temp": 11.62,
-      "prec": 42.16
+      "prec": 42.16,
+      "srad": 18801.88888888889,
+      "wind": 3.1068332725101047,
+      "tmax": 16.980555555555558,
+      "tmin": 6.269444444444444
     },
     "6": {
       "temp": 18.04,
-      "prec": 54.39
+      "prec": 54.39,
+      "srad": 20704.666666666668,
+      "wind": 2.86513884862264,
+      "tmax": 23.65555555555556,
+      "tmin": 12.42361111111111
     },
     "7": {
       "temp": 19.05,
-      "prec": 89.38
+      "prec": 89.38,
+      "srad": 19407.555555555555,
+      "wind": 2.673805554707845,
+      "tmax": 24.12222222222222,
+      "tmin": 13.984722222222222
     },
     "8": {
       "temp": 18.54,
-      "prec": 86.63
+      "prec": 86.63,
+      "srad": 15571.777777777777,
+      "wind": 2.465277804268731,
+      "tmax": 23.6875,
+      "tmin": 13.394444444444446
     },
     "9": {
       "temp": 13.97,
-      "prec": 38.26
+      "prec": 38.26,
+      "srad": 9444.555555555555,
+      "wind": 2.8992222679985895,
+      "tmax": 18.57638888888889,
+      "tmin": 9.365277777777777
     },
     "10": {
       "temp": 8.6,
-      "prec": 51.38
+      "prec": 51.38,
+      "srad": 4864.555555555556,
+      "wind": 3.1890833377838135,
+      "tmax": 11.594444444444445,
+      "tmin": 5.598611111111111
     },
     "11": {
       "temp": 3.94,
-      "prec": 47.19
+      "prec": 47.19,
+      "srad": 1803.7777777777778,
+      "wind": 3.543916622797648,
+      "tmax": 5.556944444444445,
+      "tmin": 2.327777777777778
     },
     "12": {
       "temp": -1.25,
-      "prec": 40.15
-    }
+      "prec": 40.15,
+      "srad": 1015.1111111111111,
+      "wind": 3.3694722652435303,
+      "tmax": 0.11111111111111102,
+      "tmin": -2.602777777777778
+    },
+    "average_srad": 9933.185185185186,
+    "average_wind": 3.1433356492607682,
+    "average_tmax": 12.098842592592591,
+    "average_tmin": 4.70775462962963
   },
   "Jelgavas novads": {
     "average_temp": 8.45,
     "average_prec": 48.87,
     "1": {
       "temp": -0.65,
-      "prec": 41.53
+      "prec": 41.53,
+      "srad": 1657.4285714285713,
+      "wind": 3.7143571036202565,
+      "tmax": 1.094642857142857,
+      "tmin": -2.394642857142857
     },
     "2": {
       "temp": -0.84,
-      "prec": 32.46
+      "prec": 32.46,
+      "srad": 4051.714285714286,
+      "wind": 3.50407144001552,
+      "tmax": 1.525,
+      "tmin": -3.201785714285714
     },
     "3": {
       "temp": 2.64,
-      "prec": 24.43
+      "prec": 24.43,
+      "srad": 8639.142857142857,
+      "wind": 3.2495714255741666,
+      "tmax": 6.203571428571428,
+      "tmin": -0.9178571428571429
     },
     "4": {
       "temp": 7.11,
-      "prec": 34.22
+      "prec": 34.22,
+      "srad": 13178.42857142857,
+      "wind": 3.3159285954066684,
+      "tmax": 11.9875,
+      "tmin": 2.2410714285714284
     },
     "5": {
       "temp": 11.46,
-      "prec": 46.02
+      "prec": 46.02,
+      "srad": 18744.571428571428,
+      "wind": 3.149071386882237,
+      "tmax": 16.94642857142857,
+      "tmin": 5.9714285714285715
     },
     "6": {
       "temp": 17.93,
-      "prec": 53.81
+      "prec": 53.81,
+      "srad": 20619.14285714286,
+      "wind": 2.885321412767683,
+      "tmax": 23.583928571428572,
+      "tmin": 12.276785714285712
     },
     "7": {
       "temp": 19.1,
-      "prec": 89.69
+      "prec": 89.69,
+      "srad": 19337.714285714286,
+      "wind": 2.6910713740757535,
+      "tmax": 24.073214285714283,
+      "tmin": 14.130357142857141
     },
     "8": {
       "temp": 18.77,
-      "prec": 84.34
+      "prec": 84.34,
+      "srad": 15523.714285714286,
+      "wind": 2.482428618839809,
+      "tmax": 23.889285714285712,
+      "tmin": 13.646428571428572
     },
     "9": {
       "temp": 14.02,
-      "prec": 39.83
+      "prec": 39.83,
+      "srad": 9365.285714285714,
+      "wind": 2.9430000100817,
+      "tmax": 18.789285714285718,
+      "tmin": 9.257142857142856
     },
     "10": {
       "temp": 8.99,
-      "prec": 50.17
+      "prec": 50.17,
+      "srad": 4793.857142857143,
+      "wind": 3.2815356935773576,
+      "tmax": 12.157142857142857,
+      "tmin": 5.821428571428571
     },
     "11": {
       "temp": 3.91,
-      "prec": 48.65
+      "prec": 48.65,
+      "srad": 1783.0,
+      "wind": 3.6500356878553117,
+      "tmax": 5.555357142857143,
+      "tmin": 2.269642857142857
     },
     "12": {
       "temp": -1.07,
-      "prec": 41.26
-    }
+      "prec": 41.26,
+      "srad": 1002.4285714285714,
+      "wind": 3.4090000220707486,
+      "tmax": 0.34285714285714286,
+      "tmin": -2.4857142857142858
+    },
+    "average_srad": 9891.369047619048,
+    "average_wind": 3.1896160642306017,
+    "average_tmax": 12.179017857142854,
+    "average_tmin": 4.7178571428571425
   },
   "Mārupes novads": {
     "average_temp": 8.28,
     "average_prec": 50.71,
     "1": {
       "temp": -0.67,
-      "prec": 43.77
+      "prec": 43.77,
+      "srad": 1590.6666666666667,
+      "wind": 4.593464533487956,
+      "tmax": 1.2083333333333335,
+      "tmin": -2.5458333333333334
     },
     "2": {
       "temp": -0.89,
-      "prec": 34.58
+      "prec": 34.58,
+      "srad": 3972.6666666666665,
+      "wind": 4.152300993601481,
+      "tmax": 1.575,
+      "tmin": -3.3541666666666665
     },
     "3": {
       "temp": 2.4,
-      "prec": 24.81
+      "prec": 24.81,
+      "srad": 8599.333333333334,
+      "wind": 3.78514035542806,
+      "tmax": 5.9625,
+      "tmin": -1.1541666666666668
     },
     "4": {
       "temp": 6.66,
-      "prec": 34.88
+      "prec": 34.88,
+      "srad": 13197.0,
+      "wind": 3.8174826304117837,
+      "tmax": 11.158333333333333,
+      "tmin": 2.1583333333333337
     },
     "5": {
       "temp": 11.1,
-      "prec": 42.9
+      "prec": 42.9,
+      "srad": 18908.333333333332,
+      "wind": 3.686797618865967,
+      "tmax": 16.1625,
+      "tmin": 6.041666666666667
     },
     "6": {
       "temp": 17.59,
-      "prec": 54.55
+      "prec": 54.55,
+      "srad": 20725.0,
+      "wind": 3.4016218980153403,
+      "tmax": 22.90833333333333,
+      "tmin": 12.2625
     },
     "7": {
       "temp": 18.81,
-      "prec": 90.51
+      "prec": 90.51,
+      "srad": 19499.333333333332,
+      "wind": 3.2241188685099282,
+      "tmax": 23.475,
+      "tmin": 14.145833333333332
     },
     "8": {
       "temp": 18.31,
-      "prec": 86.96
+      "prec": 86.96,
+      "srad": 15589.333333333334,
+      "wind": 3.1048659483591714,
+      "tmax": 23.008333333333333,
+      "tmin": 13.620833333333332
     },
     "9": {
       "temp": 13.83,
-      "prec": 45.05
+      "prec": 45.05,
+      "srad": 9348.0,
+      "wind": 3.7168877124786377,
+      "tmax": 18.1875,
+      "tmin": 9.466666666666667
     },
     "10": {
       "temp": 9.06,
-      "prec": 55.72
+      "prec": 55.72,
+      "srad": 4728.333333333333,
+      "wind": 4.206867218017578,
+      "tmax": 12.083333333333334,
+      "tmin": 6.029166666666667
     },
     "11": {
       "temp": 3.92,
-      "prec": 51.57
+      "prec": 51.57,
+      "srad": 1726.0,
+      "wind": 4.501957893371582,
+      "tmax": 5.5625,
+      "tmin": 2.275
     },
     "12": {
       "temp": -0.76,
-      "prec": 43.23
-    }
+      "prec": 43.23,
+      "srad": 958.0,
+      "wind": 4.346974531809489,
+      "tmax": 0.8583333333333332,
+      "tmin": -2.370833333333333
+    },
+    "average_srad": 9903.5,
+    "average_wind": 3.8782066835297475,
+    "average_tmax": 11.845833333333333,
+    "average_tmin": 4.714583333333334
   },
   "Bauskas novads": {
     "average_temp": 8.13,
     "average_prec": 49.44,
     "1": {
       "temp": -1.18,
-      "prec": 44.85
+      "prec": 44.85,
+      "srad": 1679.9,
+      "wind": 3.496074986457825,
+      "tmax": 0.755,
+      "tmin": -3.11125
     },
     "2": {
       "temp": -0.86,
-      "prec": 34.06
+      "prec": 34.06,
+      "srad": 4119.8,
+      "wind": 3.301549959182739,
+      "tmax": 1.67,
+      "tmin": -3.3962500000000007
     },
     "3": {
       "temp": 2.09,
-      "prec": 25.36
+      "prec": 25.36,
+      "srad": 8641.5,
+      "wind": 3.109974908828735,
+      "tmax": 5.86875,
+      "tmin": -1.6912500000000001
     },
     "4": {
       "temp": 6.47,
-      "prec": 35.24
+      "prec": 35.24,
+      "srad": 13091.5,
+      "wind": 3.129474949836731,
+      "tmax": 11.267499999999998,
+      "tmin": 1.6649999999999998
     },
     "5": {
       "temp": 11.26,
-      "prec": 49.33
+      "prec": 49.33,
+      "srad": 18666.4,
+      "wind": 2.9671250343322755,
+      "tmax": 17.03125,
+      "tmin": 5.496250000000001
     },
     "6": {
       "temp": 17.85,
-      "prec": 57.78
+      "prec": 57.78,
+      "srad": 20396.9,
+      "wind": 2.708975052833557,
+      "tmax": 23.54,
+      "tmin": 12.15875
     },
     "7": {
       "temp": 18.75,
-      "prec": 83.83
+      "prec": 83.83,
+      "srad": 19228.9,
+      "wind": 2.508799982070923,
+      "tmax": 23.8375,
+      "tmin": 13.66
     },
     "8": {
       "temp": 18.57,
-      "prec": 78.57
+      "prec": 78.57,
+      "srad": 15430.1,
+      "wind": 2.309374976158142,
+      "tmax": 23.805,
+      "tmin": 13.33125
     },
     "9": {
       "temp": 13.64,
-      "prec": 39.21
+      "prec": 39.21,
+      "srad": 9309.6,
+      "wind": 2.717775058746338,
+      "tmax": 18.4825,
+      "tmin": 8.795
     },
     "10": {
       "temp": 8.75,
-      "prec": 52.77
+      "prec": 52.77,
+      "srad": 4791.7,
+      "wind": 3.087624931335449,
+      "tmax": 12.076249999999998,
+      "tmin": 5.43
     },
     "11": {
       "temp": 3.43,
-      "prec": 48.91
+      "prec": 48.91,
+      "srad": 1778.7,
+      "wind": 3.4725000143051146,
+      "tmax": 5.2875,
+      "tmin": 1.5712499999999998
     },
     "12": {
       "temp": -1.24,
-      "prec": 43.36
-    }
+      "prec": 43.36,
+      "srad": 1019.5,
+      "wind": 3.169224977493286,
+      "tmax": 0.31375000000000003,
+      "tmin": -2.7837500000000004
+    },
+    "average_srad": 9846.208333333334,
+    "average_wind": 2.9982062359650925,
+    "average_tmax": 11.994583333333333,
+    "average_tmin": 4.260416666666667
   },
   "Ogres novads": {
     "average_temp": 7.52,
     "average_prec": 54.0,
     "1": {
       "temp": -2.43,
-      "prec": 48.77
+      "prec": 48.77,
+      "srad": 1644.090909090909,
+      "wind": 3.4912045218727807,
+      "tmax": 0.0011363636363636686,
+      "tmin": -4.8625
     },
     "2": {
       "temp": -1.52,
-      "prec": 35.33
+      "prec": 35.33,
+      "srad": 4116.818181818182,
+      "wind": 3.2318636720830742,
+      "tmax": 1.421590909090909,
+      "tmin": -4.469318181818182
     },
     "3": {
       "temp": 1.21,
-      "prec": 27.71
+      "prec": 27.71,
+      "srad": 8542.636363636364,
+      "wind": 3.118409026752819,
+      "tmax": 5.235227272727273,
+      "tmin": -2.818181818181818
     },
     "4": {
       "temp": 6.12,
-      "prec": 38.29
+      "prec": 38.29,
+      "srad": 13007.454545454546,
+      "wind": 3.0619772130792793,
+      "tmax": 10.802272727272728,
+      "tmin": 1.4295454545454547
     },
     "5": {
       "temp": 11.39,
-      "prec": 51.56
+      "prec": 51.56,
+      "srad": 18516.18181818182,
+      "wind": 2.9277728470889004,
+      "tmax": 16.99659090909091,
+      "tmin": 5.7920454545454545
     },
     "6": {
       "temp": 17.73,
-      "prec": 63.26
+      "prec": 63.26,
+      "srad": 20278.81818181818,
+      "wind": 2.6976363875649194,
+      "tmax": 23.420454545454543,
+      "tmin": 12.0375
     },
     "7": {
       "temp": 18.7,
-      "prec": 86.63
+      "prec": 86.63,
+      "srad": 19212.090909090908,
+      "wind": 2.4849318374286997,
+      "tmax": 23.63068181818182,
+      "tmin": 13.775
     },
     "8": {
       "temp": 17.92,
-      "prec": 85.95
+      "prec": 85.95,
+      "srad": 15192.818181818182,
+      "wind": 2.3074999939311636,
+      "tmax": 22.85681818181818,
+      "tmin": 12.973863636363637
     },
     "9": {
       "temp": 13.03,
-      "prec": 43.86
+      "prec": 43.86,
+      "srad": 9133.181818181818,
+      "wind": 2.716409141367132,
+      "tmax": 17.66477272727273,
+      "tmin": 8.388636363636362
     },
     "10": {
       "temp": 7.84,
-      "prec": 59.72
+      "prec": 59.72,
+      "srad": 4633.181818181818,
+      "wind": 3.1312499696558174,
+      "tmax": 11.054545454545453,
+      "tmin": 4.6284090909090905
     },
     "11": {
       "temp": 3.11,
-      "prec": 58.32
+      "prec": 58.32,
+      "srad": 1717.7272727272727,
+      "wind": 3.407704635099931,
+      "tmax": 5.180681818181817,
+      "tmin": 1.0340909090909092
     },
     "12": {
       "temp": -2.81,
-      "prec": 48.62
-    }
+      "prec": 48.62,
+      "srad": 978.8181818181819,
+      "wind": 3.2372500246221367,
+      "tmax": -1.028409090909091,
+      "tmin": -4.584090909090909
+    },
+    "average_srad": 9747.818181818182,
+    "average_wind": 2.984492439212221,
+    "average_tmax": 11.436363636363637,
+    "average_tmin": 3.610416666666666
   },
   "Aizkraukles novads": {
     "average_temp": 7.67,
     "average_prec": 54.15,
     "1": {
       "temp": -2.38,
-      "prec": 51.71
+      "prec": 51.71,
+      "srad": 1702.4615384615386,
+      "wind": 3.534634626828707,
+      "tmax": -0.024038461538461585,
+      "tmin": -4.741346153846154
     },
     "2": {
       "temp": -1.52,
-      "prec": 37.39
+      "prec": 37.39,
+      "srad": 4188.307692307692,
+      "wind": 3.3428653937119703,
+      "tmax": 1.4375,
+      "tmin": -4.4817307692307695
     },
     "3": {
       "temp": 1.49,
-      "prec": 28.48
+      "prec": 28.48,
+      "srad": 8601.153846153846,
+      "wind": 3.227634613330548,
+      "tmax": 5.6528846153846155,
+      "tmin": -2.664423076923077
     },
     "4": {
       "temp": 6.39,
-      "prec": 38.38
+      "prec": 38.38,
+      "srad": 13044.76923076923,
+      "wind": 3.1102883999164286,
+      "tmax": 11.141346153846154,
+      "tmin": 1.6346153846153846
     },
     "5": {
       "temp": 11.5,
-      "prec": 54.15
+      "prec": 54.15,
+      "srad": 18534.076923076922,
+      "wind": 2.964153895011315,
+      "tmax": 17.236538461538462,
+      "tmin": 5.7644230769230775
     },
     "6": {
       "temp": 17.98,
-      "prec": 65.42
+      "prec": 65.42,
+      "srad": 20167.846153846152,
+      "wind": 2.698519284908588,
+      "tmax": 23.841346153846153,
+      "tmin": 12.116346153846154
     },
     "7": {
       "temp": 19.02,
-      "prec": 82.78
+      "prec": 82.78,
+      "srad": 19079.23076923077,
+      "wind": 2.5035576820373535,
+      "tmax": 24.263461538461538,
+      "tmin": 13.773076923076923
     },
     "8": {
       "temp": 18.11,
-      "prec": 86.38
+      "prec": 86.38,
+      "srad": 15226.846153846154,
+      "wind": 2.334750010417058,
+      "tmax": 23.30096153846154,
+      "tmin": 12.919230769230769
     },
     "9": {
       "temp": 13.12,
-      "prec": 39.9
+      "prec": 39.9,
+      "srad": 9185.153846153846,
+      "wind": 2.747192309452937,
+      "tmax": 17.9125,
+      "tmin": 8.335576923076923
     },
     "10": {
       "temp": 7.63,
-      "prec": 57.94
+      "prec": 57.94,
+      "srad": 4672.076923076923,
+      "wind": 3.1943654280442457,
+      "tmax": 10.799038461538462,
+      "tmin": 4.454807692307693
     },
     "11": {
       "temp": 3.45,
-      "prec": 58.05
+      "prec": 58.05,
+      "srad": 1751.0,
+      "wind": 3.5250961046952467,
+      "tmax": 5.280769230769231,
+      "tmin": 1.6259615384615387
     },
     "12": {
       "temp": -2.69,
-      "prec": 49.19
-    }
+      "prec": 49.19,
+      "srad": 1026.2307692307693,
+      "wind": 3.335634635044978,
+      "tmax": -1.023076923076923,
+      "tmin": -4.358653846153846
+    },
+    "average_srad": 9764.929487179486,
+    "average_wind": 3.0432243652832813,
+    "average_tmax": 11.651602564102562,
+    "average_tmin": 3.698157051282051
   },
   "Jēkabpils novads": {
     "average_temp": 7.68,
     "average_prec": 56.02,
     "1": {
       "temp": -2.47,
-      "prec": 56.79
+      "prec": 56.79,
+      "srad": 1722.5625,
+      "wind": 3.588718682527542,
+      "tmax": -0.325,
+      "tmin": -4.61796875
     },
     "2": {
       "temp": -1.9,
-      "prec": 40.53
+      "prec": 40.53,
+      "srad": 4221.625,
+      "wind": 3.421250104904175,
+      "tmax": 0.96328125,
+      "tmin": -4.76015625
     },
     "3": {
       "temp": 1.44,
-      "prec": 30.71
+      "prec": 30.71,
+      "srad": 8591.0625,
+      "wind": 3.3054999709129333,
+      "tmax": 5.68203125,
+      "tmin": -2.79375
     },
     "4": {
       "temp": 6.39,
-      "prec": 41.04
+      "prec": 41.04,
+      "srad": 13065.4375,
+      "wind": 3.1309843361377716,
+      "tmax": 11.26328125,
+      "tmin": 1.509375
     },
     "5": {
       "temp": 11.36,
-      "prec": 54.62
+      "prec": 54.62,
+      "srad": 18543.9375,
+      "wind": 3.0,
+      "tmax": 17.2578125,
+      "tmin": 5.45625
     },
     "6": {
       "temp": 18.01,
-      "prec": 67.27
+      "prec": 67.27,
+      "srad": 20156.375,
+      "wind": 2.700078174471855,
+      "tmax": 23.89765625,
+      "tmin": 12.115625
     },
     "7": {
       "temp": 19.32,
-      "prec": 82.54
+      "prec": 82.54,
+      "srad": 18936.25,
+      "wind": 2.5362343341112137,
+      "tmax": 24.9375,
+      "tmin": 13.7125
     },
     "8": {
       "temp": 18.27,
-      "prec": 89.14
+      "prec": 89.14,
+      "srad": 15277.1875,
+      "wind": 2.4093594551086426,
+      "tmax": 23.7625,
+      "tmin": 12.77421875
     },
     "9": {
       "temp": 13.1,
-      "prec": 39.32
+      "prec": 39.32,
+      "srad": 9224.1875,
+      "wind": 2.8050312250852585,
+      "tmax": 17.95390625,
+      "tmin": 8.23984375
     },
     "10": {
       "temp": 7.61,
-      "prec": 57.58
+      "prec": 57.58,
+      "srad": 4690.6875,
+      "wind": 3.283640593290329,
+      "tmax": 10.784375,
+      "tmin": 4.43046875
     },
     "11": {
       "temp": 3.5,
-      "prec": 61.66
+      "prec": 61.66,
+      "srad": 1767.6875,
+      "wind": 3.6151093095541,
+      "tmax": 5.31015625,
+      "tmin": 1.6859375
     },
     "12": {
       "temp": -2.51,
-      "prec": 51.06
-    }
+      "prec": 51.06,
+      "srad": 1056.0,
+      "wind": 3.449062556028366,
+      "tmax": -0.86484375,
+      "tmin": -4.16328125
+    },
+    "average_srad": 9771.083333333334,
+    "average_wind": 3.1037473951776824,
+    "average_tmax": 11.718554687500001,
+    "average_tmin": 3.6324218750000004
   },
   "Ludzas novads": {
     "average_temp": 7.09,
     "average_prec": 53.53,
     "1": {
       "temp": -3.57,
-      "prec": 50.59
+      "prec": 50.59,
+      "srad": 1724.0833333333333,
+      "wind": 3.4445000489552817,
+      "tmax": -0.665625,
+      "tmin": -6.471875
     },
     "2": {
       "temp": -2.9,
-      "prec": 37.95
+      "prec": 37.95,
+      "srad": 4259.75,
+      "wind": 3.4962499936421714,
+      "tmax": 0.07187500000000005,
+      "tmin": -5.866666666666667
     },
     "3": {
       "temp": 0.59,
-      "prec": 28.15
+      "prec": 28.15,
+      "srad": 8506.083333333334,
+      "wind": 3.2112292051315308,
+      "tmax": 5.352083333333334,
+      "tmin": -4.177083333333334
     },
     "4": {
       "temp": 6.48,
-      "prec": 39.52
+      "prec": 39.52,
+      "srad": 12999.916666666666,
+      "wind": 3.0999999046325684,
+      "tmax": 11.590625,
+      "tmin": 1.359375
     },
     "5": {
       "temp": 12.02,
-      "prec": 51.87
+      "prec": 51.87,
+      "srad": 18439.916666666668,
+      "wind": 2.937812566757202,
+      "tmax": 18.371875,
+      "tmin": 5.669791666666667
     },
     "6": {
       "temp": 18.07,
-      "prec": 62.0
+      "prec": 62.0,
+      "srad": 20256.666666666668,
+      "wind": 2.700000047683716,
+      "tmax": 24.05833333333333,
+      "tmin": 12.075
     },
     "7": {
       "temp": 18.29,
-      "prec": 89.39
+      "prec": 89.39,
+      "srad": 19131.833333333332,
+      "wind": 2.5999999046325684,
+      "tmax": 23.890625,
+      "tmin": 12.692708333333334
     },
     "8": {
       "temp": 17.44,
-      "prec": 76.28
+      "prec": 76.28,
+      "srad": 15185.916666666666,
+      "wind": 2.5,
+      "tmax": 23.195833333333333,
+      "tmin": 11.69375
     },
     "9": {
       "temp": 12.11,
-      "prec": 35.89
+      "prec": 35.89,
+      "srad": 9302.5,
+      "wind": 2.8506667017936707,
+      "tmax": 17.560416666666665,
+      "tmin": 6.651041666666667
     },
     "10": {
       "temp": 7.66,
-      "prec": 58.63
+      "prec": 58.63,
+      "srad": 4665.0,
+      "wind": 3.2176250219345093,
+      "tmax": 11.335416666666667,
+      "tmin": 3.9916666666666663
     },
     "11": {
       "temp": 1.99,
-      "prec": 65.15
+      "prec": 65.15,
+      "srad": 1775.0833333333333,
+      "wind": 3.585208257039388,
+      "tmax": 4.345833333333333,
+      "tmin": -0.3614583333333333
     },
     "12": {
       "temp": -3.07,
-      "prec": 46.99
-    }
+      "prec": 46.99,
+      "srad": 1071.5833333333333,
+      "wind": 3.5059374570846558,
+      "tmax": -0.9083333333333332,
+      "tmin": -5.234375
+    },
+    "average_srad": 9776.527777777777,
+    "average_wind": 3.095769092440605,
+    "average_tmax": 11.51657986111111,
+    "average_tmin": 2.668489583333333
   },
   "Rēzeknes novads": {
     "average_temp": 7.24,
     "average_prec": 54.13,
     "1": {
       "temp": -3.18,
-      "prec": 53.92
+      "prec": 53.92,
+      "srad": 1714.0,
+      "wind": 3.5408749447928534,
+      "tmax": -1.0854166666666667,
+      "tmin": -5.270138888888889
     },
     "2": {
       "temp": -2.6,
-      "prec": 37.56
+      "prec": 37.56,
+      "srad": 4252.444444444444,
+      "wind": 3.4682778120040894,
+      "tmax": -0.1,
+      "tmin": -5.093750000000001
     },
     "3": {
       "temp": 0.63,
-      "prec": 29.24
+      "prec": 29.24,
+      "srad": 8529.111111111111,
+      "wind": 3.29594439930386,
+      "tmax": 4.7131944444444445,
+      "tmin": -3.458333333333333
     },
     "4": {
       "temp": 6.54,
-      "prec": 39.21
+      "prec": 39.21,
+      "srad": 13011.944444444445,
+      "wind": 3.0999999046325684,
+      "tmax": 11.150694444444445,
+      "tmin": 1.934027777777778
     },
     "5": {
       "temp": 11.72,
-      "prec": 49.52
+      "prec": 49.52,
+      "srad": 18515.333333333332,
+      "wind": 2.9995833370420666,
+      "tmax": 17.605555555555554,
+      "tmin": 5.825694444444444
     },
     "6": {
       "temp": 18.04,
-      "prec": 63.01
+      "prec": 63.01,
+      "srad": 20240.666666666668,
+      "wind": 2.700000047683716,
+      "tmax": 23.705555555555556,
+      "tmin": 12.38125
     },
     "7": {
       "temp": 18.46,
-      "prec": 88.43
+      "prec": 88.43,
+      "srad": 19072.11111111111,
+      "wind": 2.5999999046325684,
+      "tmax": 23.755555555555553,
+      "tmin": 13.154861111111112
     },
     "8": {
       "temp": 17.53,
-      "prec": 76.59
+      "prec": 76.59,
+      "srad": 15219.333333333334,
+      "wind": 2.5,
+      "tmax": 22.860416666666666,
+      "tmin": 12.191666666666666
     },
     "9": {
       "temp": 12.07,
-      "prec": 36.5
+      "prec": 36.5,
+      "srad": 9292.333333333334,
+      "wind": 2.8808195193608603,
+      "tmax": 17.00763888888889,
+      "tmin": 7.141666666666666
     },
     "10": {
       "temp": 7.9,
-      "prec": 60.77
+      "prec": 60.77,
+      "srad": 4649.944444444444,
+      "wind": 3.2946249511506824,
+      "tmax": 11.129861111111111,
+      "tmin": 4.668055555555555
     },
     "11": {
       "temp": 2.38,
-      "prec": 65.23
+      "prec": 65.23,
+      "srad": 1774.5,
+      "wind": 3.6041943629582724,
+      "tmax": 4.213888888888889,
+      "tmin": 0.5375000000000001
     },
     "12": {
       "temp": -2.63,
-      "prec": 49.63
-    }
+      "prec": 49.63,
+      "srad": 1065.0,
+      "wind": 3.5579860607783,
+      "tmax": -0.9291666666666669,
+      "tmin": -4.327083333333333
+    },
+    "average_srad": 9778.060185185184,
+    "average_wind": 3.1285254370283195,
+    "average_tmax": 11.168981481481481,
+    "average_tmin": 3.3071180555555557
   },
   "Balvu novads": {
     "average_temp": 7.23,
     "average_prec": 54.01,
     "1": {
       "temp": -3.11,
-      "prec": 49.43
+      "prec": 49.43,
+      "srad": 1616.3333333333333,
+      "wind": 3.4289583365122476,
+      "tmax": -0.7885416666666667,
+      "tmin": -5.439583333333333
     },
     "2": {
       "temp": -2.49,
-      "prec": 38.17
+      "prec": 38.17,
+      "srad": 4137.75,
+      "wind": 3.442333380381266,
+      "tmax": 0.23333333333333334,
+      "tmin": -5.207291666666666
     },
     "3": {
       "temp": 0.91,
-      "prec": 28.48
+      "prec": 28.48,
+      "srad": 8384.666666666666,
+      "wind": 3.2376041809717813,
+      "tmax": 5.107291666666667,
+      "tmin": -3.28125
     },
     "4": {
       "temp": 6.41,
-      "prec": 38.98
+      "prec": 38.98,
+      "srad": 12974.916666666666,
+      "wind": 3.0999999046325684,
+      "tmax": 11.138541666666667,
+      "tmin": 1.6729166666666664
     },
     "5": {
       "temp": 11.75,
-      "prec": 46.23
+      "prec": 46.23,
+      "srad": 18354.083333333332,
+      "wind": 2.9791250228881836,
+      "tmax": 17.70520833333333,
+      "tmin": 5.786458333333333
     },
     "6": {
       "temp": 18.01,
-      "prec": 62.02
+      "prec": 62.02,
+      "srad": 20165.166666666668,
+      "wind": 2.6999375422795615,
+      "tmax": 23.803125,
+      "tmin": 12.225
     },
     "7": {
       "temp": 18.38,
-      "prec": 87.71
+      "prec": 87.71,
+      "srad": 19054.166666666668,
+      "wind": 2.5999999046325684,
+      "tmax": 23.72291666666667,
+      "tmin": 13.028125
     },
     "8": {
       "temp": 17.58,
-      "prec": 80.18
+      "prec": 80.18,
+      "srad": 15088.666666666666,
+      "wind": 2.5,
+      "tmax": 22.901041666666664,
+      "tmin": 12.255208333333332
     },
     "9": {
       "temp": 12.2,
-      "prec": 39.78
+      "prec": 39.78,
+      "srad": 9081.333333333334,
+      "wind": 2.876791755358378,
+      "tmax": 17.090625,
+      "tmin": 7.310416666666666
     },
     "10": {
       "temp": 7.77,
-      "prec": 62.44
+      "prec": 62.44,
+      "srad": 4494.416666666667,
+      "wind": 3.2258125146230063,
+      "tmax": 11.026041666666666,
+      "tmin": 4.50625
     },
     "11": {
       "temp": 2.08,
-      "prec": 66.2
+      "prec": 66.2,
+      "srad": 1688.5833333333333,
+      "wind": 3.589812417825063,
+      "tmax": 4.166666666666666,
+      "tmin": -0.013541666666666629
     },
     "12": {
       "temp": -2.69,
-      "prec": 48.45
-    }
+      "prec": 48.45,
+      "srad": 988.3333333333334,
+      "wind": 3.529770791530609,
+      "tmax": -0.703125,
+      "tmin": -4.669791666666667
+    },
+    "average_srad": 9669.03472222222,
+    "average_wind": 3.1008454793029365,
+    "average_tmax": 11.28359375,
+    "average_tmin": 3.1810763888888887
   },
   "Madonas novads": {
     "average_temp": 7.18,
     "average_prec": 60.67,
     "1": {
       "temp": -2.94,
-      "prec": 62.42
+      "prec": 62.42,
+      "srad": 1649.388888888889,
+      "wind": 3.5758193996217518,
+      "tmax": -0.32916666666666666,
+      "tmin": -5.540972222222223
     },
     "2": {
       "temp": -2.19,
-      "prec": 43.1
+      "prec": 43.1,
+      "srad": 4151.555555555556,
+      "wind": 3.3997778627607556,
+      "tmax": 0.7791666666666666,
+      "tmin": -5.158333333333333
     },
     "3": {
       "temp": 0.88,
-      "prec": 34.1
+      "prec": 34.1,
+      "srad": 8467.277777777777,
+      "wind": 3.299458291795519,
+      "tmax": 5.245833333333334,
+      "tmin": -3.4944444444444445
     },
     "4": {
       "temp": 5.67,
-      "prec": 45.64
+      "prec": 45.64,
+      "srad": 12943.777777777777,
+      "wind": 3.1025276846355863,
+      "tmax": 10.544444444444444,
+      "tmin": 0.8055555555555556
     },
     "5": {
       "temp": 11.02,
-      "prec": 50.01
+      "prec": 50.01,
+      "srad": 18455.38888888889,
+      "wind": 3.0,
+      "tmax": 17.094444444444445,
+      "tmin": 4.95
     },
     "6": {
       "temp": 17.56,
-      "prec": 65.32
+      "prec": 65.32,
+      "srad": 20189.11111111111,
+      "wind": 2.700000047683716,
+      "tmax": 23.625694444444445,
+      "tmin": 11.495833333333334
     },
     "7": {
       "temp": 18.25,
-      "prec": 85.09
+      "prec": 85.09,
+      "srad": 19030.333333333332,
+      "wind": 2.535472181108263,
+      "tmax": 23.707638888888887,
+      "tmin": 12.79513888888889
     },
     "8": {
       "temp": 17.53,
-      "prec": 95.86
+      "prec": 95.86,
+      "srad": 15110.777777777777,
+      "wind": 2.46623612774743,
+      "tmax": 22.842361111111114,
+      "tmin": 12.221527777777778
     },
     "9": {
       "temp": 12.51,
-      "prec": 44.88
+      "prec": 44.88,
+      "srad": 9094.333333333334,
+      "wind": 2.8488750060399375,
+      "tmax": 17.302777777777777,
+      "tmin": 7.711111111111111
     },
     "10": {
       "temp": 7.71,
-      "prec": 68.76
+      "prec": 68.76,
+      "srad": 4554.055555555556,
+      "wind": 3.3019305070241294,
+      "tmax": 10.960416666666667,
+      "tmin": 4.454861111111112
     },
     "11": {
       "temp": 2.82,
-      "prec": 73.98
+      "prec": 73.98,
+      "srad": 1701.611111111111,
+      "wind": 3.589333242840237,
+      "tmax": 4.882638888888889,
+      "tmin": 0.7541666666666667
     },
     "12": {
       "temp": -2.63,
-      "prec": 58.94
-    }
+      "prec": 58.94,
+      "srad": 1004.4444444444445,
+      "wind": 3.531944433848063,
+      "tmax": -0.5138888888888887,
+      "tmin": -4.7444444444444445
+    },
+    "average_srad": 9696.00462962963,
+    "average_wind": 3.112614565425449,
+    "average_tmax": 11.34519675925926,
+    "average_tmin": 3.0208333333333335
   },
   "Smiltenes novads": {
     "average_temp": 7.01,
     "average_prec": 56.84,
     "1": {
       "temp": -3.15,
-      "prec": 50.99
+      "prec": 50.99,
+      "srad": 1566.625,
+      "wind": 3.5877499282360077,
+      "tmax": -0.6453125,
+      "tmin": -5.6625
     },
     "2": {
       "temp": -2.31,
-      "prec": 38.1
+      "prec": 38.1,
+      "srad": 4064.5,
+      "wind": 3.3594375252723694,
+      "tmax": 0.6453125,
+      "tmin": -5.265625
     },
     "3": {
       "temp": 0.76,
-      "prec": 30.62
+      "prec": 30.62,
+      "srad": 8387.625,
+      "wind": 3.2903437316417694,
+      "tmax": 4.9703125,
+      "tmin": -3.4515625
     },
     "4": {
       "temp": 5.47,
-      "prec": 41.28
+      "prec": 41.28,
+      "srad": 12869.5,
+      "wind": 3.1154061555862427,
+      "tmax": 10.2703125,
+      "tmin": 0.6734375
     },
     "5": {
       "temp": 11.06,
-      "prec": 48.04
+      "prec": 48.04,
+      "srad": 18372.625,
+      "wind": 3.0,
+      "tmax": 17.184375,
+      "tmin": 4.93125
     },
     "6": {
       "temp": 17.49,
-      "prec": 63.31
+      "prec": 63.31,
+      "srad": 20233.375,
+      "wind": 2.700000047683716,
+      "tmax": 23.6984375,
+      "tmin": 11.271875
     },
     "7": {
       "temp": 17.85,
-      "prec": 90.62
+      "prec": 90.62,
+      "srad": 19047.5,
+      "wind": 2.5075624883174896,
+      "tmax": 23.2765625,
+      "tmin": 12.4203125
     },
     "8": {
       "temp": 17.2,
-      "prec": 94.68
+      "prec": 94.68,
+      "srad": 14924.5,
+      "wind": 2.4655312597751617,
+      "tmax": 22.4359375,
+      "tmin": 11.9734375
     },
     "9": {
       "temp": 12.36,
-      "prec": 46.13
+      "prec": 46.13,
+      "srad": 9027.0,
+      "wind": 2.8673125505447388,
+      "tmax": 17.0484375,
+      "tmin": 7.6703125
     },
     "10": {
       "temp": 7.76,
-      "prec": 62.21
+      "prec": 62.21,
+      "srad": 4468.125,
+      "wind": 3.2920311987400055,
+      "tmax": 11.0296875,
+      "tmin": 4.48125
     },
     "11": {
       "temp": 2.43,
-      "prec": 64.98
+      "prec": 64.98,
+      "srad": 1639.75,
+      "wind": 3.5632499158382416,
+      "tmax": 4.4453125,
+      "tmin": 0.4171875
     },
     "12": {
       "temp": -2.73,
-      "prec": 51.15
-    }
+      "prec": 51.15,
+      "srad": 949.125,
+      "wind": 3.5780624449253082,
+      "tmax": -0.5609375,
+      "tmin": -4.9078125
+    },
+    "average_srad": 9629.1875,
+    "average_wind": 3.1105572705467543,
+    "average_tmax": 11.149869791666667,
+    "average_tmin": 2.8792968749999996
   },
   "Cēsu novads": {
     "average_temp": 6.92,
     "average_prec": 56.87,
     "1": {
       "temp": -3.46,
-      "prec": 48.24
+      "prec": 48.24,
+      "srad": 1574.5,
+      "wind": 3.530062437057495,
+      "tmax": -1.3958333333333333,
+      "tmin": -5.519791666666667
     },
     "2": {
       "temp": -2.32,
-      "prec": 34.9
+      "prec": 34.9,
+      "srad": 4067.25,
+      "wind": 3.2491458455721536,
+      "tmax": 0.18437499999999998,
+      "tmin": -4.820833333333333
     },
     "3": {
       "temp": 0.26,
-      "prec": 30.58
+      "prec": 30.58,
+      "srad": 8404.083333333334,
+      "wind": 3.1726458072662354,
+      "tmax": 3.9479166666666665,
+      "tmin": -3.41875
     },
     "4": {
       "temp": 5.58,
-      "prec": 41.22
+      "prec": 41.22,
+      "srad": 12924.166666666666,
+      "wind": 3.077687402566274,
+      "tmax": 10.010416666666666,
+      "tmin": 1.14375
     },
     "5": {
       "temp": 11.35,
-      "prec": 48.27
+      "prec": 48.27,
+      "srad": 18474.583333333332,
+      "wind": 3.000041663646698,
+      "tmax": 16.596875,
+      "tmin": 6.111458333333333
     },
     "6": {
       "temp": 17.43,
-      "prec": 63.55
+      "prec": 63.55,
+      "srad": 20282.166666666668,
+      "wind": 2.705708384513855,
+      "tmax": 23.086458333333336,
+      "tmin": 11.764583333333334
     },
     "7": {
       "temp": 17.96,
-      "prec": 93.3
+      "prec": 93.3,
+      "srad": 19118.666666666668,
+      "wind": 2.495562493801117,
+      "tmax": 22.76979166666667,
+      "tmin": 13.158333333333335
     },
     "8": {
       "temp": 17.2,
-      "prec": 94.14
+      "prec": 94.14,
+      "srad": 14987.5,
+      "wind": 2.368541717529297,
+      "tmax": 21.910416666666666,
+      "tmin": 12.482291666666665
     },
     "9": {
       "temp": 12.43,
-      "prec": 49.71
+      "prec": 49.71,
+      "srad": 9064.166666666666,
+      "wind": 2.777145822842916,
+      "tmax": 16.70625,
+      "tmin": 8.15
     },
     "10": {
       "temp": 7.65,
-      "prec": 63.89
+      "prec": 63.89,
+      "srad": 4503.166666666667,
+      "wind": 3.211395819981893,
+      "tmax": 10.492708333333333,
+      "tmin": 4.8125
     },
     "11": {
       "temp": 2.36,
-      "prec": 65.29
+      "prec": 65.29,
+      "srad": 1645.5833333333333,
+      "wind": 3.41881255308787,
+      "tmax": 3.928125,
+      "tmin": 0.79375
     },
     "12": {
       "temp": -3.45,
-      "prec": 49.32
-    }
+      "prec": 49.32,
+      "srad": 942.5,
+      "wind": 3.395020842552185,
+      "tmax": -1.6979166666666667,
+      "tmin": -5.192708333333334
+    },
+    "average_srad": 9665.694444444445,
+    "average_wind": 3.0334808992014985,
+    "average_tmax": 10.544965277777779,
+    "average_tmin": 3.2887152777777775
   },
   "Valmieras novads": {
     "average_temp": 6.82,
     "average_prec": 56.2,
     "1": {
       "temp": -3.71,
-      "prec": 48.71
+      "prec": 48.71,
+      "srad": 1485.6875,
+      "wind": 3.449171930551529,
+      "tmax": -1.51328125,
+      "tmin": -5.91171875
     },
     "2": {
       "temp": -3.08,
-      "prec": 36.52
+      "prec": 36.52,
+      "srad": 3931.75,
+      "wind": 3.156531259417534,
+      "tmax": -0.51171875,
+      "tmin": -5.65703125
     },
     "3": {
       "temp": 0.17,
-      "prec": 29.86
+      "prec": 29.86,
+      "srad": 8306.0,
+      "wind": 3.1245624125003815,
+      "tmax": 3.859375,
+      "tmin": -3.52109375
     },
     "4": {
       "temp": 5.13,
-      "prec": 36.65
+      "prec": 36.65,
+      "srad": 12906.5,
+      "wind": 3.0685155391693115,
+      "tmax": 9.45703125,
+      "tmin": 0.80078125
     },
     "5": {
       "temp": 10.73,
-      "prec": 44.1
+      "prec": 44.1,
+      "srad": 18525.75,
+      "wind": 3.0083124935626984,
+      "tmax": 16.20703125,
+      "tmin": 5.24375
     },
     "6": {
       "temp": 17.73,
-      "prec": 58.52
+      "prec": 58.52,
+      "srad": 20409.25,
+      "wind": 2.7184531539678574,
+      "tmax": 23.4,
+      "tmin": 12.0546875
     },
     "7": {
       "temp": 18.37,
-      "prec": 91.02
+      "prec": 91.02,
+      "srad": 19145.0625,
+      "wind": 2.4815625101327896,
+      "tmax": 23.34375,
+      "tmin": 13.39609375
     },
     "8": {
       "temp": 17.31,
-      "prec": 91.57
+      "prec": 91.57,
+      "srad": 14931.0,
+      "wind": 2.3919375389814377,
+      "tmax": 22.13671875,
+      "tmin": 12.4828125
     },
     "9": {
       "temp": 12.74,
-      "prec": 52.77
+      "prec": 52.77,
+      "srad": 8964.5,
+      "wind": 2.7683125138282776,
+      "tmax": 17.09453125,
+      "tmin": 8.390625
     },
     "10": {
       "temp": 7.85,
-      "prec": 66.11
+      "prec": 66.11,
+      "srad": 4385.625,
+      "wind": 3.1468124389648438,
+      "tmax": 10.95703125,
+      "tmin": 4.74375
     },
     "11": {
       "temp": 1.96,
-      "prec": 69.07
+      "prec": 69.07,
+      "srad": 1584.25,
+      "wind": 3.363984391093254,
+      "tmax": 3.634375,
+      "tmin": 0.28828125
     },
     "12": {
       "temp": -3.38,
-      "prec": 49.46
-    }
+      "prec": 49.46,
+      "srad": 885.0625,
+      "wind": 3.369281306862831,
+      "tmax": -1.7140625,
+      "tmin": -5.0546875
+    },
+    "average_srad": 9621.703125,
+    "average_wind": 3.003953124086062,
+    "average_tmax": 10.529231770833333,
+    "average_tmin": 3.1046874999999994
   },
   "Ādažu novads": {
     "average_temp": 7.87,
     "average_prec": 52.66,
     "1": {
       "temp": -1.69,
-      "prec": 45.17
+      "prec": 45.17,
+      "srad": 1571.5,
+      "wind": 4.458643198013306,
+      "tmax": 0.31708334684371947,
+      "tmin": -3.706249991059303
     },
     "2": {
       "temp": -1.2,
-      "prec": 34.62
+      "prec": 34.62,
+      "srad": 4029.0,
+      "wind": 3.9843876361846924,
+      "tmax": 1.33125,
+      "tmin": -3.7279166698455812
     },
     "3": {
       "temp": 1.6,
-      "prec": 26.76
+      "prec": 26.76,
+      "srad": 8556.0,
+      "wind": 3.693472743034363,
+      "tmax": 5.045416688919067,
+      "tmin": -1.838749998807907
     },
     "4": {
       "temp": 5.87,
-      "prec": 35.64
+      "prec": 35.64,
+      "srad": 13150.5,
+      "wind": 3.6798514127731323,
+      "tmax": 10.292083358764648,
+      "tmin": 1.4466666668653487
     },
     "5": {
       "temp": 11.11,
-      "prec": 43.9
+      "prec": 43.9,
+      "srad": 18832.5,
+      "wind": 3.5896250009536743,
+      "tmax": 16.33499994277954,
+      "tmin": 5.879583311080933
     },
     "6": {
       "temp": 17.55,
-      "prec": 56.17
+      "prec": 56.17,
+      "srad": 20734.5,
+      "wind": 3.2952845096588135,
+      "tmax": 22.879999923706055,
+      "tmin": 12.219999980926513
     },
     "7": {
       "temp": 18.55,
-      "prec": 90.6
+      "prec": 90.6,
+      "srad": 19440.5,
+      "wind": 3.126360535621643,
+      "tmax": 22.981666564941406,
+      "tmin": 14.128333377838135
     },
     "8": {
       "temp": 18.22,
-      "prec": 85.36
+      "prec": 85.36,
+      "srad": 15359.5,
+      "wind": 3.0240145921707153,
+      "tmax": 22.7966667175293,
+      "tmin": 13.650833415985108
     },
     "9": {
       "temp": 13.45,
-      "prec": 49.59
+      "prec": 49.59,
+      "srad": 9281.5,
+      "wind": 3.6157047748565674,
+      "tmax": 17.739166831970216,
+      "tmin": 9.151249980926513
     },
     "10": {
       "temp": 8.89,
-      "prec": 60.38
+      "prec": 60.38,
+      "srad": 4626.5,
+      "wind": 4.1327807903289795,
+      "tmax": 11.882500076293946,
+      "tmin": 5.892916679382324
     },
     "11": {
       "temp": 3.46,
-      "prec": 56.71
+      "prec": 56.71,
+      "srad": 1678.0,
+      "wind": 4.384735584259033,
+      "tmax": 5.122499990463257,
+      "tmin": 1.7933333225548267
     },
     "12": {
       "temp": -1.41,
-      "prec": 46.99
-    }
+      "prec": 46.99,
+      "srad": 934.0,
+      "wind": 4.218811750411987,
+      "tmax": 0.3262499928474426,
+      "tmin": -3.152083361148834
+    },
+    "average_srad": 9849.5,
+    "average_wind": 3.766972710688909,
+    "average_tmax": 11.420798619588219,
+    "average_tmin": 4.311493059558173
   },
   "Ropažu novads": {
     "average_temp": 7.79,
     "average_prec": 53.04,
     "1": {
       "temp": -1.93,
-      "prec": 45.94
+      "prec": 45.94,
+      "srad": 1602.0,
+      "wind": 3.7736666202545166,
+      "tmax": 0.0458333333333333,
+      "tmin": -3.9041666666666672
     },
     "2": {
       "temp": -1.29,
-      "prec": 34.56
+      "prec": 34.56,
+      "srad": 4069.6666666666665,
+      "wind": 3.450500011444092,
+      "tmax": 1.2416666666666667,
+      "tmin": -3.825
     },
     "3": {
       "temp": 1.58,
-      "prec": 26.87
+      "prec": 26.87,
+      "srad": 8557.333333333334,
+      "wind": 3.262999931971232,
+      "tmax": 5.308333333333333,
+      "tmin": -2.158333333333333
     },
     "4": {
       "temp": 6.11,
-      "prec": 37.09
+      "prec": 37.09,
+      "srad": 13072.333333333334,
+      "wind": 3.262499968210856,
+      "tmax": 10.679166666666667,
+      "tmin": 1.5333333333333332
     },
     "5": {
       "temp": 11.31,
-      "prec": 47.66
+      "prec": 47.66,
+      "srad": 18631.666666666668,
+      "wind": 3.1647499402364097,
+      "tmax": 16.670833333333334,
+      "tmin": 5.9416666666666655
     },
     "6": {
       "temp": 17.65,
-      "prec": 59.34
+      "prec": 59.34,
+      "srad": 20447.0,
+      "wind": 2.883833328882853,
+      "tmax": 23.020833333333336,
+      "tmin": 12.275000000000002
     },
     "7": {
       "temp": 18.61,
-      "prec": 90.23
+      "prec": 90.23,
+      "srad": 19245.666666666668,
+      "wind": 2.6905832290649414,
+      "tmax": 23.241666666666667,
+      "tmin": 13.970833333333335
     },
     "8": {
       "temp": 18.12,
-      "prec": 85.03
+      "prec": 85.03,
+      "srad": 15266.0,
+      "wind": 2.5391666889190674,
+      "tmax": 22.883333333333333,
+      "tmin": 13.3625
     },
     "9": {
       "temp": 13.35,
-      "prec": 47.15
+      "prec": 47.15,
+      "srad": 9190.666666666666,
+      "wind": 3.012083371480306,
+      "tmax": 17.76666666666667,
+      "tmin": 8.933333333333334
     },
     "10": {
       "temp": 8.53,
-      "prec": 59.83
+      "prec": 59.83,
+      "srad": 4642.0,
+      "wind": 3.4395833015441895,
+      "tmax": 11.579166666666667,
+      "tmin": 5.487499999999999
     },
     "11": {
       "temp": 3.3,
-      "prec": 55.78
+      "prec": 55.78,
+      "srad": 1702.3333333333333,
+      "wind": 3.6824166774749756,
+      "tmax": 5.245833333333334,
+      "tmin": 1.3458333333333334
     },
     "12": {
       "temp": -1.87,
-      "prec": 47.0
-    }
+      "prec": 47.0,
+      "srad": 955.3333333333334,
+      "wind": 3.4942500591278076,
+      "tmax": -0.1375,
+      "tmin": -3.5958333333333328
+    },
+    "average_srad": 9781.833333333334,
+    "average_wind": 3.221361094050937,
+    "average_tmax": 11.46215277777778,
+    "average_tmin": 4.11388888888889
   },
   "Siguldas novads": {
     "average_temp": 7.3,
     "average_prec": 54.86,
     "1": {
       "temp": -2.73,
-      "prec": 46.22
+      "prec": 46.22,
+      "srad": 1572.1666666666667,
+      "wind": 3.6796666781107583,
+      "tmax": -0.7708333333333333,
+      "tmin": -4.689583333333333
     },
     "2": {
       "temp": -1.79,
-      "prec": 33.78
+      "prec": 33.78,
+      "srad": 4073.1666666666665,
+      "wind": 3.3441250324249268,
+      "tmax": 0.70625,
+      "tmin": -4.277083333333334
     },
     "3": {
       "temp": 0.74,
-      "prec": 28.63
+      "prec": 28.63,
+      "srad": 8478.166666666666,
+      "wind": 3.203499913215637,
+      "tmax": 4.31875,
+      "tmin": -2.8416666666666663
     },
     "4": {
       "temp": 5.75,
-      "prec": 38.94
+      "prec": 38.94,
+      "srad": 13021.5,
+      "wind": 3.1803332964579263,
+      "tmax": 10.183333333333334,
+      "tmin": 1.31875
     },
     "5": {
       "temp": 11.19,
-      "prec": 46.27
+      "prec": 46.27,
+      "srad": 18587.0,
+      "wind": 3.096791664759318,
+      "tmax": 16.45416666666667,
+      "tmin": 5.916666666666667
     },
     "6": {
       "temp": 17.52,
-      "prec": 61.29
+      "prec": 61.29,
+      "srad": 20369.166666666668,
+      "wind": 2.8212083180745444,
+      "tmax": 22.904166666666665,
+      "tmin": 12.1375
     },
     "7": {
       "temp": 18.38,
-      "prec": 91.92
+      "prec": 91.92,
+      "srad": 19178.5,
+      "wind": 2.6190833250681558,
+      "tmax": 23.00625,
+      "tmin": 13.745833333333334
     },
     "8": {
       "temp": 17.69,
-      "prec": 88.07
+      "prec": 88.07,
+      "srad": 15057.166666666666,
+      "wind": 2.4766249656677246,
+      "tmax": 22.3625,
+      "tmin": 13.014583333333334
     },
     "9": {
       "temp": 12.96,
-      "prec": 50.04
+      "prec": 50.04,
+      "srad": 9110.0,
+      "wind": 2.934875011444092,
+      "tmax": 17.260416666666668,
+      "tmin": 8.660416666666666
     },
     "10": {
       "temp": 8.08,
-      "prec": 62.48
+      "prec": 62.48,
+      "srad": 4561.166666666667,
+      "wind": 3.359875043233236,
+      "tmax": 10.974999999999998,
+      "tmin": 5.191666666666667
     },
     "11": {
       "temp": 2.69,
-      "prec": 61.58
+      "prec": 61.58,
+      "srad": 1664.8333333333333,
+      "wind": 3.563833316167196,
+      "tmax": 4.372916666666667,
+      "tmin": 1.0166666666666666
     },
     "12": {
       "temp": -2.88,
-      "prec": 49.03
-    }
+      "prec": 49.03,
+      "srad": 932.5,
+      "wind": 3.4446250200271606,
+      "tmax": -1.2354166666666666,
+      "tmin": -4.529166666666667
+    },
+    "average_srad": 9717.111111111111,
+    "average_wind": 3.1437117987208896,
+    "average_tmax": 10.878124999999999,
+    "average_tmin": 3.722048611111111
   },
   "Preiļu novads": {
     "average_temp": 7.37,
     "average_prec": 56.01,
     "1": {
       "temp": -2.91,
-      "prec": 58.69
+      "prec": 58.69,
+      "srad": 1753.0,
+      "wind": 3.5831249157587686,
+      "tmax": -0.7520833333333334,
+      "tmin": -5.060416666666667
     },
     "2": {
       "temp": -2.32,
-      "prec": 40.24
+      "prec": 40.24,
+      "srad": 4288.333333333333,
+      "wind": 3.4278334379196167,
+      "tmax": 0.3833333333333333,
+      "tmin": -5.027083333333333
     },
     "3": {
       "temp": 1.06,
-      "prec": 30.93
+      "prec": 30.93,
+      "srad": 8583.666666666666,
+      "wind": 3.299999952316284,
+      "tmax": 5.2958333333333325,
+      "tmin": -3.177083333333333
     },
     "4": {
       "temp": 6.45,
-      "prec": 40.62
+      "prec": 40.62,
+      "srad": 13059.666666666666,
+      "wind": 3.0999999046325684,
+      "tmax": 11.345833333333333,
+      "tmin": 1.5479166666666668
     },
     "5": {
       "temp": 11.59,
-      "prec": 51.81
+      "prec": 51.81,
+      "srad": 18566.0,
+      "wind": 3.0,
+      "tmax": 17.677083333333336,
+      "tmin": 5.502083333333333
     },
     "6": {
       "temp": 18.03,
-      "prec": 67.12
+      "prec": 67.12,
+      "srad": 20190.333333333332,
+      "wind": 2.700000047683716,
+      "tmax": 23.95208333333333,
+      "tmin": 12.099999999999998
     },
     "7": {
       "temp": 18.52,
-      "prec": 86.83
+      "prec": 86.83,
+      "srad": 18951.5,
+      "wind": 2.5999999046325684,
+      "tmax": 24.110416666666666,
+      "tmin": 12.92083333333333
     },
     "8": {
       "temp": 17.7,
-      "prec": 81.99
+      "prec": 81.99,
+      "srad": 15286.666666666666,
+      "wind": 2.4707083304723105,
+      "tmax": 23.339583333333334,
+      "tmin": 12.052083333333332
     },
     "9": {
       "temp": 12.51,
-      "prec": 38.85
+      "prec": 38.85,
+      "srad": 9345.833333333334,
+      "wind": 2.8456667264302573,
+      "tmax": 17.560416666666665,
+      "tmin": 7.466666666666667
     },
     "10": {
       "temp": 7.78,
-      "prec": 59.03
+      "prec": 59.03,
+      "srad": 4744.333333333333,
+      "wind": 3.299833297729492,
+      "tmax": 11.145833333333332,
+      "tmin": 4.422916666666667
     },
     "11": {
       "temp": 2.64,
-      "prec": 64.53
+      "prec": 64.53,
+      "srad": 1802.6666666666667,
+      "wind": 3.5999999046325684,
+      "tmax": 4.533333333333333,
+      "tmin": 0.7416666666666666
     },
     "12": {
       "temp": -2.58,
-      "prec": 51.51
-    }
+      "prec": 51.51,
+      "srad": 1094.0,
+      "wind": 3.5046250025431314,
+      "tmax": -0.9020833333333332,
+      "tmin": -4.260416666666667
+    },
+    "average_srad": 9805.499999999998,
+    "average_wind": 3.1193159520626064,
+    "average_tmax": 11.474131944444444,
+    "average_tmin": 3.269097222222222
   },
   "Krāslavas novads": {
     "average_temp": 7.18,
     "average_prec": 54.61,
     "1": {
       "temp": -3.22,
-      "prec": 54.12
+      "prec": 54.12,
+      "srad": 1811.6,
+      "wind": 3.554749941825867,
+      "tmax": -0.6525000000000001,
+      "tmin": -5.78125
     },
     "2": {
       "temp": -2.63,
-      "prec": 38.75
+      "prec": 38.75,
+      "srad": 4360.0,
+      "wind": 3.470650053024292,
+      "tmax": 0.185,
+      "tmin": -5.441250000000001
     },
     "3": {
       "temp": 0.7,
-      "prec": 28.68
+      "prec": 28.68,
+      "srad": 8610.6,
+      "wind": 3.278274965286255,
+      "tmax": 5.1674999999999995,
+      "tmin": -3.7600000000000002
     },
     "4": {
       "temp": 6.34,
-      "prec": 39.87
+      "prec": 39.87,
+      "srad": 13043.7,
+      "wind": 3.0999999046325684,
+      "tmax": 11.19375,
+      "tmin": 1.4849999999999999
     },
     "5": {
       "temp": 11.55,
-      "prec": 57.61
+      "prec": 57.61,
+      "srad": 18467.9,
+      "wind": 2.937850069999695,
+      "tmax": 17.63375,
+      "tmin": 5.45875
     },
     "6": {
       "temp": 17.89,
-      "prec": 65.29
+      "prec": 65.29,
+      "srad": 20236.8,
+      "wind": 2.700000047683716,
+      "tmax": 23.783749999999998,
+      "tmin": 11.98625
     },
     "7": {
       "temp": 18.46,
-      "prec": 89.0
+      "prec": 89.0,
+      "srad": 19102.5,
+      "wind": 2.5999999046325684,
+      "tmax": 23.97875,
+      "tmin": 12.938749999999999
     },
     "8": {
       "temp": 17.7,
-      "prec": 77.22
+      "prec": 77.22,
+      "srad": 15300.7,
+      "wind": 2.4979000091552734,
+      "tmax": 23.25875,
+      "tmin": 12.13375
     },
     "9": {
       "temp": 12.15,
-      "prec": 35.32
+      "prec": 35.32,
+      "srad": 9450.8,
+      "wind": 2.8505500316619874,
+      "tmax": 17.4575,
+      "tmin": 6.835000000000001
     },
     "10": {
       "temp": 7.72,
-      "prec": 58.81
+      "prec": 58.81,
+      "srad": 4812.3,
+      "wind": 3.265874981880188,
+      "tmax": 11.30125,
+      "tmin": 4.1375
     },
     "11": {
       "temp": 2.24,
-      "prec": 63.45
+      "prec": 63.45,
+      "srad": 1846.7,
+      "wind": 3.6045749187469482,
+      "tmax": 4.3075,
+      "tmin": 0.18124999999999997
     },
     "12": {
       "temp": -2.68,
-      "prec": 47.17
-    }
+      "prec": 47.17,
+      "srad": 1138.4,
+      "wind": 3.5178499698638914,
+      "tmax": -0.9087500000000002,
+      "tmin": -4.4525
+    },
+    "average_srad": 9848.499999999998,
+    "average_wind": 3.1148562331994376,
+    "average_tmax": 11.3921875,
+    "average_tmin": 2.976770833333333
   },
   "Daugavpils": {
     "average_temp": 7.66,
     "average_prec": 55.02,
     "1": {
       "temp": -2.55,
-      "prec": 56.64
+      "prec": 56.64,
+      "srad": 1815.0,
+      "wind": 3.5622498989105225,
+      "tmax": -0.225,
+      "tmin": -4.875
     },
     "2": {
       "temp": -1.88,
-      "prec": 40.97
+      "prec": 40.97,
+      "srad": 4380.0,
+      "wind": 3.4000000953674316,
+      "tmax": 1.2,
+      "tmin": -4.95
     },
     "3": {
       "temp": 1.49,
-      "prec": 28.76
+      "prec": 28.76,
+      "srad": 8671.0,
+      "wind": 3.299999952316284,
+      "tmax": 5.9375,
+      "tmin": -2.95
     },
     "4": {
       "temp": 6.68,
-      "prec": 41.28
+      "prec": 41.28,
+      "srad": 13076.0,
+      "wind": 3.0999999046325684,
+      "tmax": 11.675,
+      "tmin": 1.6875
     },
     "5": {
       "temp": 12.09,
-      "prec": 55.53
+      "prec": 55.53,
+      "srad": 18560.0,
+      "wind": 3.0,
+      "tmax": 18.5125,
+      "tmin": 5.6625
     },
     "6": {
       "temp": 18.35,
-      "prec": 70.75
+      "prec": 70.75,
+      "srad": 20090.0,
+      "wind": 2.700000047683716,
+      "tmax": 24.6875,
+      "tmin": 12.0125
     },
     "7": {
       "temp": 18.64,
-      "prec": 85.44
+      "prec": 85.44,
+      "srad": 18979.0,
+      "wind": 2.5999999046325684,
+      "tmax": 24.5,
+      "tmin": 12.7875
     },
     "8": {
       "temp": 18.04,
-      "prec": 81.15
+      "prec": 81.15,
+      "srad": 15303.0,
+      "wind": 2.4005000591278076,
+      "tmax": 24.025,
+      "tmin": 12.0625
     },
     "9": {
       "temp": 12.89,
-      "prec": 38.54
+      "prec": 38.54,
+      "srad": 9424.0,
+      "wind": 2.80049991607666,
+      "tmax": 18.225,
+      "tmin": 7.55
     },
     "10": {
       "temp": 7.89,
-      "prec": 55.02
+      "prec": 55.02,
+      "srad": 4825.0,
+      "wind": 3.2992498874664307,
+      "tmax": 11.575,
+      "tmin": 4.2
     },
     "11": {
       "temp": 2.53,
-      "prec": 58.01
+      "prec": 58.01,
+      "srad": 1865.0,
+      "wind": 3.5999999046325684,
+      "tmax": 4.6,
+      "tmin": 0.4625
     },
     "12": {
       "temp": -2.25,
-      "prec": 48.2
-    }
+      "prec": 48.2,
+      "srad": 1136.0,
+      "wind": 3.473249912261963,
+      "tmax": -0.3375,
+      "tmin": -4.1625
+    },
+    "average_srad": 9843.666666666666,
+    "average_wind": 3.1029791235923767,
+    "average_tmax": 12.031249999999998,
+    "average_tmin": 3.290625
   },
   "Ķekavas novads": {
     "average_temp": 7.96,
     "average_prec": 51.32,
     "1": {
       "temp": -1.42,
-      "prec": 44.47
+      "prec": 44.47,
+      "srad": 1646.3333333333333,
+      "wind": 3.7019999821980796,
+      "tmax": 0.475,
+      "tmin": -3.3083333333333336
     },
     "2": {
       "temp": -1.04,
-      "prec": 34.21
+      "prec": 34.21,
+      "srad": 4092.0,
+      "wind": 3.4247500896453857,
+      "tmax": 1.4041666666666666,
+      "tmin": -3.479166666666667
     },
     "3": {
       "temp": 1.99,
-      "prec": 26.03
+      "prec": 26.03,
+      "srad": 8606.333333333334,
+      "wind": 3.2161666552225747,
+      "tmax": 5.65,
+      "tmin": -1.6666666666666667
     },
     "4": {
       "temp": 6.23,
-      "prec": 35.93
+      "prec": 35.93,
+      "srad": 13119.666666666666,
+      "wind": 3.2515832583109536,
+      "tmax": 10.825,
+      "tmin": 1.6416666666666668
     },
     "5": {
       "temp": 11.2,
-      "prec": 47.55
+      "prec": 47.55,
+      "srad": 18667.333333333332,
+      "wind": 3.1305832862854004,
+      "tmax": 16.5875,
+      "tmin": 5.816666666666667
     },
     "6": {
       "temp": 17.5,
-      "prec": 57.2
+      "prec": 57.2,
+      "srad": 20467.333333333332,
+      "wind": 2.851583401362101,
+      "tmax": 22.80833333333333,
+      "tmin": 12.2
     },
     "7": {
       "temp": 18.36,
-      "prec": 89.29
+      "prec": 89.29,
+      "srad": 19315.0,
+      "wind": 2.6549999713897705,
+      "tmax": 23.05,
+      "tmin": 13.670833333333334
     },
     "8": {
       "temp": 18.2,
-      "prec": 83.05
+      "prec": 83.05,
+      "srad": 15495.333333333334,
+      "wind": 2.4825832843780518,
+      "tmax": 23.0,
+      "tmin": 13.4
     },
     "9": {
       "temp": 13.58,
-      "prec": 44.74
+      "prec": 44.74,
+      "srad": 9279.0,
+      "wind": 2.9387499491373696,
+      "tmax": 18.004166666666666,
+      "tmin": 9.158333333333335
     },
     "10": {
       "temp": 8.77,
-      "prec": 57.21
+      "prec": 57.21,
+      "srad": 4709.0,
+      "wind": 3.337000052134196,
+      "tmax": 11.941666666666666,
+      "tmin": 5.591666666666667
     },
     "11": {
       "temp": 3.5,
-      "prec": 51.64
+      "prec": 51.64,
+      "srad": 1732.3333333333333,
+      "wind": 3.628166596094767,
+      "tmax": 5.4,
+      "tmin": 1.6041666666666665
     },
     "12": {
       "temp": -1.32,
-      "prec": 44.51
-    }
+      "prec": 44.51,
+      "srad": 986.6666666666666,
+      "wind": 3.3940000534057617,
+      "tmax": 0.22083333333333335,
+      "tmin": -2.8625
+    },
+    "average_srad": 9843.027777777777,
+    "average_wind": 3.1676805482970347,
+    "average_tmax": 11.613888888888889,
+    "average_tmin": 4.313888888888889
   },
   "Olaines novads": {
     "average_temp": 8.2,
     "average_prec": 50.93,
     "1": {
       "temp": -0.97,
-      "prec": 43.37
+      "prec": 43.37,
+      "srad": 1634.0,
+      "wind": 3.9512500762939453,
+      "tmax": 0.85,
+      "tmin": -2.7875
     },
     "2": {
       "temp": -1.0,
-      "prec": 33.89
+      "prec": 33.89,
+      "srad": 4046.0,
+      "wind": 3.6419999599456787,
+      "tmax": 1.4,
+      "tmin": -3.4
     },
     "3": {
       "temp": 2.33,
-      "prec": 25.89
+      "prec": 25.89,
+      "srad": 8592.0,
+      "wind": 3.375499963760376,
+      "tmax": 6.0,
+      "tmin": -1.35
     },
     "4": {
       "temp": 6.71,
-      "prec": 35.64
+      "prec": 35.64,
+      "srad": 13162.0,
+      "wind": 3.4260001182556152,
+      "tmax": 11.225,
+      "tmin": 2.2
     },
     "5": {
       "temp": 11.3,
-      "prec": 45.65
+      "prec": 45.65,
+      "srad": 18776.0,
+      "wind": 3.2947499752044678,
+      "tmax": 16.65,
+      "tmin": 5.95
     },
     "6": {
       "temp": 17.67,
-      "prec": 55.58
+      "prec": 55.58,
+      "srad": 20553.0,
+      "wind": 3.0112500190734863,
+      "tmax": 23.15,
+      "tmin": 12.2
     },
     "7": {
       "temp": 18.71,
-      "prec": 91.61
+      "prec": 91.61,
+      "srad": 19348.0,
+      "wind": 2.817500114440918,
+      "tmax": 23.5,
+      "tmin": 13.9125
     },
     "8": {
       "temp": 18.21,
-      "prec": 85.72
+      "prec": 85.72,
+      "srad": 15532.0,
+      "wind": 2.647249937057495,
+      "tmax": 23.025,
+      "tmin": 13.4
     },
     "9": {
       "temp": 13.74,
-      "prec": 44.09
+      "prec": 44.09,
+      "srad": 9338.0,
+      "wind": 3.149749994277954,
+      "tmax": 18.275,
+      "tmin": 9.2
     },
     "10": {
       "temp": 8.99,
-      "prec": 54.99
+      "prec": 54.99,
+      "srad": 4732.0,
+      "wind": 3.5522499084472656,
+      "tmax": 12.2,
+      "tmin": 5.775
     },
     "11": {
       "temp": 3.74,
-      "prec": 51.34
+      "prec": 51.34,
+      "srad": 1741.0,
+      "wind": 3.859250068664551,
+      "tmax": 5.4375,
+      "tmin": 2.0375
     },
     "12": {
       "temp": -1.02,
-      "prec": 43.38
-    }
+      "prec": 43.38,
+      "srad": 985.0,
+      "wind": 3.6424999237060547,
+      "tmax": 0.5375,
+      "tmin": -2.5875
+    },
+    "average_srad": 9869.916666666666,
+    "average_wind": 3.364104171593984,
+    "average_tmax": 11.854166666666664,
+    "average_tmin": 4.545833333333333
   },
   "Saulkrastu novads": {
     "average_temp": 7.56,
     "average_prec": 53.12,
     "1": {
       "temp": -2.19,
-      "prec": 44.6
+      "prec": 44.6,
+      "srad": 1555.5,
+      "wind": 4.459077835083008,
+      "tmax": -0.22410714626312256,
+      "tmin": -4.156249992549419
     },
     "2": {
       "temp": -1.46,
-      "prec": 33.75
+      "prec": 33.75,
+      "srad": 4007.0,
+      "wind": 3.962695598602295,
+      "tmax": 1.1375,
+      "tmin": -4.0625
     },
     "3": {
       "temp": 1.18,
-      "prec": 27.49
+      "prec": 27.49,
+      "srad": 8513.0,
+      "wind": 3.693610429763794,
+      "tmax": 4.680357146263122,
+      "tmin": -2.310714268684387
     },
     "4": {
       "temp": 5.63,
-      "prec": 36.38
+      "prec": 36.38,
+      "srad": 13137.0,
+      "wind": 3.6590036153793335,
+      "tmax": 9.875892925262452,
+      "tmin": 1.38125
     },
     "5": {
       "temp": 10.81,
-      "prec": 42.46
+      "prec": 42.46,
+      "srad": 18845.5,
+      "wind": 3.5844656229019165,
+      "tmax": 15.943750095367431,
+      "tmin": 5.667857122421265
     },
     "6": {
       "temp": 17.43,
-      "prec": 55.88
+      "prec": 55.88,
+      "srad": 20793.0,
+      "wind": 3.292509078979492,
+      "tmax": 22.65982151031494,
+      "tmin": 12.19375
     },
     "7": {
       "temp": 18.42,
-      "prec": 90.32
+      "prec": 90.32,
+      "srad": 19468.0,
+      "wind": 3.124829649925232,
+      "tmax": 22.856250190734862,
+      "tmin": 13.985714340209961
     },
     "8": {
       "temp": 17.89,
-      "prec": 85.52
+      "prec": 85.52,
+      "srad": 15242.0,
+      "wind": 3.035735607147217,
+      "tmax": 22.446428489685058,
+      "tmin": 13.331250095367432
     },
     "9": {
       "temp": 13.3,
-      "prec": 51.3
+      "prec": 51.3,
+      "srad": 9218.5,
+      "wind": 3.6284765005111694,
+      "tmax": 17.62767848968506,
+      "tmin": 8.964285755157471
     },
     "10": {
       "temp": 8.62,
-      "prec": 60.46
+      "prec": 60.46,
+      "srad": 4589.0,
+      "wind": 4.148237466812134,
+      "tmax": 11.497321510314942,
+      "tmin": 5.7383928298950195
     },
     "11": {
       "temp": 3.11,
-      "prec": 60.51
+      "prec": 60.51,
+      "srad": 1649.5,
+      "wind": 4.37843132019043,
+      "tmax": 4.772321438789367,
+      "tmin": 1.4473214268684387
     },
     "12": {
       "temp": -1.96,
-      "prec": 48.72
-    }
+      "prec": 48.72,
+      "srad": 911.0,
+      "wind": 4.247190237045288,
+      "tmax": -0.1848214328289032,
+      "tmin": -3.73125
+    },
+    "average_srad": 9827.416666666666,
+    "average_wind": 3.767855246861776,
+    "average_tmax": 11.0906994347771,
+    "average_tmin": 4.037425609057148
   },
   "Limbažu novads": {
     "average_temp": 7.11,
     "average_prec": 54.38,
     "1": {
       "temp": -2.83,
-      "prec": 45.54
+      "prec": 45.54,
+      "srad": 1481.1666666666667,
+      "wind": 4.128972589969635,
+      "tmax": -0.6878472199042638,
+      "tmin": -4.975347220897675
     },
     "2": {
       "temp": -2.19,
-      "prec": 34.01
+      "prec": 34.01,
+      "srad": 3904.0833333333335,
+      "wind": 3.6929200092951455,
+      "tmax": 0.5072916666666666,
+      "tmin": -4.885763897498449
     },
     "3": {
       "temp": 0.35,
-      "prec": 28.64
+      "prec": 28.64,
+      "srad": 8347.916666666666,
+      "wind": 3.4854663213094077,
+      "tmax": 3.829861112435659,
+      "tmin": -3.1201388875643414
     },
     "4": {
       "temp": 4.99,
-      "prec": 36.12
+      "prec": 36.12,
+      "srad": 13062.916666666666,
+      "wind": 3.46375302473704,
+      "tmax": 9.300694449742634,
+      "tmin": 0.6715277791023254
     },
     "5": {
       "temp": 10.23,
-      "prec": 40.8
+      "prec": 40.8,
+      "srad": 18811.833333333332,
+      "wind": 3.4017029205958047,
+      "tmax": 15.303472232818603,
+      "tmin": 5.163541666666666
     },
     "6": {
       "temp": 17.18,
-      "prec": 54.2
+      "prec": 54.2,
+      "srad": 20756.166666666668,
+      "wind": 3.1356380383173623,
+      "tmax": 22.431597232818604,
+      "tmin": 11.93125
     },
     "7": {
       "temp": 18.3,
-      "prec": 87.31
+      "prec": 87.31,
+      "srad": 19440.333333333332,
+      "wind": 2.9409934282302856,
+      "tmax": 22.65277779897054,
+      "tmin": 13.943402783075971
     },
     "8": {
       "temp": 17.53,
-      "prec": 87.19
+      "prec": 87.19,
+      "srad": 15086.083333333334,
+      "wind": 2.8525736927986145,
+      "tmax": 21.964236100514732,
+      "tmin": 13.092361116409302
     },
     "9": {
       "temp": 13.22,
-      "prec": 54.84
+      "prec": 54.84,
+      "srad": 9066.25,
+      "wind": 3.3887884815533957,
+      "tmax": 17.470833333333335,
+      "tmin": 8.970138883590698
     },
     "10": {
       "temp": 8.53,
-      "prec": 64.59
+      "prec": 64.59,
+      "srad": 4446.083333333333,
+      "wind": 3.8244083325068154,
+      "tmax": 11.39895831743876,
+      "tmin": 5.6649305582046505
     },
     "11": {
       "temp": 2.47,
-      "prec": 67.62
+      "prec": 67.62,
+      "srad": 1588.5833333333333,
+      "wind": 4.042803208033244,
+      "tmax": 4.196527779102325,
+      "tmin": 0.7340277771155039
     },
     "12": {
       "temp": -2.52,
-      "prec": 51.66
-    }
+      "prec": 51.66,
+      "srad": 868.6666666666666,
+      "wind": 3.9678088823954263,
+      "tmax": -0.691666667163372,
+      "tmin": -4.339236112435659
+    },
+    "average_srad": 9738.340277777776,
+    "average_wind": 3.5271524108118477,
+    "average_tmax": 10.639728011397851,
+    "average_tmin": 3.5708912038140834
   },
   "Augšdaugavas novads": {
     "average_temp": 7.54,
     "average_prec": 54.78,
     "1": {
       "temp": -2.56,
-      "prec": 56.22
+      "prec": 56.22,
+      "srad": 1802.2857142857142,
+      "wind": 3.600785664149693,
+      "tmax": -0.44285714285714295,
+      "tmin": -4.673214285714286
     },
     "2": {
       "temp": -2.11,
-      "prec": 41.04
+      "prec": 41.04,
+      "srad": 4335.5,
+      "wind": 3.4382500989096507,
+      "tmax": 0.8098214285714285,
+      "tmin": -5.0375
     },
     "3": {
       "temp": 1.33,
-      "prec": 29.0
+      "prec": 29.0,
+      "srad": 8674.142857142857,
+      "wind": 3.326928581510271,
+      "tmax": 5.722321428571428,
+      "tmin": -3.0687499999999996
     },
     "4": {
       "temp": 6.48,
-      "prec": 40.95
+      "prec": 40.95,
+      "srad": 13083.785714285714,
+      "wind": 3.1519285440444946,
+      "tmax": 11.5,
+      "tmin": 1.4589285714285716
     },
     "5": {
       "temp": 11.64,
-      "prec": 55.96
+      "prec": 55.96,
+      "srad": 18573.285714285714,
+      "wind": 2.996464286531721,
+      "tmax": 17.833928571428572,
+      "tmin": 5.441964285714286
     },
     "6": {
       "temp": 17.99,
-      "prec": 69.75
+      "prec": 69.75,
+      "srad": 20181.85714285714,
+      "wind": 2.700000047683716,
+      "tmax": 24.126785714285717,
+      "tmin": 11.848214285714286
     },
     "7": {
       "temp": 18.64,
-      "prec": 84.33
+      "prec": 84.33,
+      "srad": 18976.0,
+      "wind": 2.5999999046325684,
+      "tmax": 24.40535714285714,
+      "tmin": 12.866964285714285
     },
     "8": {
       "temp": 18.01,
-      "prec": 82.49
+      "prec": 82.49,
+      "srad": 15338.42857142857,
+      "wind": 2.44383932862963,
+      "tmax": 23.844642857142855,
+      "tmin": 12.18392857142857
     },
     "9": {
       "temp": 12.75,
-      "prec": 37.56
+      "prec": 37.56,
+      "srad": 9435.5,
+      "wind": 2.8482857261385237,
+      "tmax": 18.014285714285712,
+      "tmin": 7.482142857142857
     },
     "10": {
       "temp": 7.88,
-      "prec": 54.35
+      "prec": 54.35,
+      "srad": 4820.928571428572,
+      "wind": 3.300464255469186,
+      "tmax": 11.419642857142858,
+      "tmin": 4.3375
     },
     "11": {
       "temp": 2.76,
-      "prec": 57.65
+      "prec": 57.65,
+      "srad": 1851.142857142857,
+      "wind": 3.6456428255353654,
+      "tmax": 4.726785714285715,
+      "tmin": 0.7866071428571428
     },
     "12": {
       "temp": -2.37,
-      "prec": 48.08
-    }
+      "prec": 48.08,
+      "srad": 1128.2142857142858,
+      "wind": 3.493071402822222,
+      "tmax": -0.6151785714285714,
+      "tmin": -4.129464285714286
+    },
+    "average_srad": 9850.089285714284,
+    "average_wind": 3.128805055504754,
+    "average_tmax": 11.778794642857143,
+    "average_tmin": 3.291443452380952
   },
   "Varakļānu novads": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   }
 }

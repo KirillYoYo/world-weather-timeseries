@@ -4,207 +4,415 @@
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Chuuk": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   },
   "Pohnpei": {
     "average_temp": 27.28,
     "average_prec": 449.61,
     "1": {
       "temp": 27.22,
-      "prec": 315.65
+      "prec": 315.65,
+      "srad": 16936.0,
+      "wind": 3.5028269290924072,
+      "tmax": 29.4875,
+      "tmin": 24.95
     },
     "2": {
       "temp": 27.5,
-      "prec": 313.18
+      "prec": 313.18,
+      "srad": 18321.0,
+      "wind": 4.061483860015869,
+      "tmax": 29.4375,
+      "tmin": 25.5625
     },
     "3": {
       "temp": 27.32,
-      "prec": 457.69
+      "prec": 457.69,
+      "srad": 19244.0,
+      "wind": 4.0024733543396,
+      "tmax": 29.825,
+      "tmin": 24.8125
     },
     "4": {
       "temp": 27.09,
-      "prec": 530.83
+      "prec": 530.83,
+      "srad": 20053.0,
+      "wind": 3.9512367248535156,
+      "tmax": 29.5,
+      "tmin": 24.6875
     },
     "5": {
       "temp": 27.26,
-      "prec": 651.11
+      "prec": 651.11,
+      "srad": 20348.0,
+      "wind": 3.6572437286376953,
+      "tmax": 29.675,
+      "tmin": 24.85
     },
     "6": {
       "temp": 27.29,
-      "prec": 426.78
+      "prec": 426.78,
+      "srad": 19357.0,
+      "wind": 3.0265016555786133,
+      "tmax": 30.05,
+      "tmin": 24.5375
     },
     "7": {
       "temp": 27.27,
-      "prec": 515.78
+      "prec": 515.78,
+      "srad": 19160.0,
+      "wind": 3.0554771423339844,
+      "tmax": 30.1375,
+      "tmin": 24.4
     },
     "8": {
       "temp": 27.44,
-      "prec": 411.3
+      "prec": 411.3,
+      "srad": 19487.0,
+      "wind": 3.2328622341156006,
+      "tmax": 30.9,
+      "tmin": 23.975
     },
     "9": {
       "temp": 27.2,
-      "prec": 398.19
+      "prec": 398.19,
+      "srad": 19594.0,
+      "wind": 3.2388691902160645,
+      "tmax": 30.525,
+      "tmin": 23.875
     },
     "10": {
       "temp": 27.18,
-      "prec": 423.67
+      "prec": 423.67,
+      "srad": 19092.0,
+      "wind": 2.8392226696014404,
+      "tmax": 30.6625,
+      "tmin": 23.7
     },
     "11": {
       "temp": 27.19,
-      "prec": 475.35
+      "prec": 475.35,
+      "srad": 17071.0,
+      "wind": 2.8890459537506104,
+      "tmax": 30.225,
+      "tmin": 24.15
     },
     "12": {
       "temp": 27.39,
-      "prec": 475.77
-    }
+      "prec": 475.77,
+      "srad": 16429.0,
+      "wind": 3.5219080448150635,
+      "tmax": 29.7125,
+      "tmin": 25.075
+    },
+    "average_srad": 18757.666666666668,
+    "average_wind": 3.414929290612539,
+    "average_tmax": 30.011458333333334,
+    "average_tmin": 24.547916666666666
   },
   "Kosrae": {
     "average_temp": null,
     "average_prec": null,
     "1": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "2": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "3": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "4": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "5": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "6": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "7": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "8": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "9": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "10": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "11": {
       "temp": null,
-      "prec": null
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
     },
     "12": {
       "temp": null,
-      "prec": null
-    }
+      "prec": null,
+      "srad": null,
+      "wind": null,
+      "tmax": null,
+      "tmin": null
+    },
+    "average_srad": null,
+    "average_wind": null,
+    "average_tmax": null,
+    "average_tmin": null
   }
 }
