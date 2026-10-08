@@ -6,7 +6,7 @@ import 'maplibre-gl/dist/maplibre-gl.css'
 import { useGeojsonVtProtocol } from '../hooks/useGeojsonVtProtocol'
 import { boundsOf, countryAt, indexCountries, loadProvinces, loadWorld, WORLD_VIEW } from './data'
 import FilterBar from './FilterBar'
-import { DEFAULT_FILTER, monthTitle, type WeatherFilter } from './filter'
+import { DEFAULT_FILTER, metricTitle, type WeatherFilter } from './filter'
 import {
     countryFillLayer,
     countryLabelsClose,
@@ -186,14 +186,30 @@ export default function Weather() {
             </Map>
             <FilterBar value={filter} onChange={setFilter} />
             <aside className="weather-panel">
-                <h1>{filter.month == null ? 'Средняя температура' : monthTitle(filter.month)}</h1>
-                <div className="weather-scale" />
+                <h1>{metricTitle(filter)}</h1>
+                <div
+                    className={
+                        filter.metric === 'prec' ? 'weather-scale weather-scale-prec' : 'weather-scale'
+                    }
+                />
                 <div className="weather-ticks">
-                    <span>-20°</span>
-                    <span>0°</span>
-                    <span>15°</span>
-                    <span>30°</span>
-                    <span>40°</span>
+                    {filter.metric === 'prec' ? (
+                        <>
+                            <span>0</span>
+                            <span>50</span>
+                            <span>100</span>
+                            <span>200</span>
+                            <span>400 мм</span>
+                        </>
+                    ) : (
+                        <>
+                            <span>-20°</span>
+                            <span>0°</span>
+                            <span>15°</span>
+                            <span>30°</span>
+                            <span>40°</span>
+                        </>
+                    )}
                 </div>
                 {selection && (
                     <>

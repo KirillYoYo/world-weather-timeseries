@@ -1,7 +1,7 @@
 import type { ExpressionSpecification, FilterSpecification, StyleSpecification } from 'maplibre-gl'
 import type { LayerProps } from 'react-map-gl/maplibre'
 
-import { temperatureBounds, temperatureProperty, type WeatherFilter } from './filter'
+import { metricProperty, metricUnit, valueBounds, type WeatherFilter } from './filter'
 
 const FONT = ['Noto Sans Regular']
 const FADED_FILL = 0.22
@@ -38,11 +38,45 @@ function temperatureColor(property: string): ExpressionSpecification {
     ]
 }
 
+function precipitationColor(property: string): ExpressionSpecification {
+    return [
+        'case',
+        ['has', property],
+        [
+            'interpolate',
+            ['linear'],
+            ['to-number', ['get', property]],
+            0,
+            '#ffffd9',
+            20,
+            '#edf8b1',
+            50,
+            '#c7e9b4',
+            100,
+            '#7fcdbb',
+            150,
+            '#41b6c4',
+            200,
+            '#1d91c0',
+            300,
+            '#225ea8',
+            400,
+            '#0c2c84',
+        ],
+        '#d0d0d0',
+    ]
+}
+
+function metricColor(filter: WeatherFilter): ExpressionSpecification {
+    const property = metricProperty(filter)
+    return filter.metric === 'prec' ? precipitationColor(property) : temperatureColor(property)
+}
+
 function matchOpacity(filter: WeatherFilter, faded: number): ExpressionSpecification | number {
-    const bounds = temperatureBounds(filter)
+    const bounds = valueBounds(filter)
     if (bounds.min == null && bounds.max == null) return 1
 
-    const property = temperatureProperty(filter.month)
+    const property = metricProperty(filter)
     const tests: ExpressionSpecification[] = [['has', property]]
     if (bounds.min != null) {
         tests.push(['>=', ['to-number', ['get', property]], bounds.min])
@@ -53,8 +87,9 @@ function matchOpacity(filter: WeatherFilter, faded: number): ExpressionSpecifica
     return ['case', ['all', ...tests], 1, faded]
 }
 
-function temperatureLabel(month: number | null): ExpressionSpecification {
-    const property = temperatureProperty(month)
+function metricLabel(filter: WeatherFilter): ExpressionSpecification {
+    const property = metricProperty(filter)
+    const unit = metricUnit(filter.metric)
     return [
         'case',
         ['has', property],
@@ -67,7 +102,7 @@ function temperatureLabel(month: number | null): ExpressionSpecification {
                 ['to-number', ['get', property]],
                 { 'min-fraction-digits': 1, 'max-fraction-digits': 1 },
             ],
-            '°',
+            unit,
         ],
         ['get', 'name'],
     ]
@@ -93,13 +128,12 @@ const labelPaint = {
 } as const
 
 export function countryFillLayer(filter: WeatherFilter) {
-    const property = temperatureProperty(filter.month)
     return {
         id: 'countries-fill',
         type: 'fill' as const,
         'source-layer': 'data',
         paint: {
-            'fill-color': temperatureColor(property),
+            'fill-color': metricColor(filter),
             'fill-opacity': matchOpacity(filter, FADED_FILL),
         },
     } satisfies LayerProps
@@ -132,7 +166,7 @@ function countryLabelLayer(
         filter: featureFilter,
         ...(allowOverlap ? { minzoom: 4 } : { maxzoom: 4 }),
         layout: {
-            'text-field': temperatureLabel(filter.month),
+            'text-field': metricLabel(filter),
             'text-font': FONT,
             'text-size': ['interpolate', ['linear'], ['zoom'], 0, 9, 3, 12, 6, 15],
             'text-line-height': 1.15,
@@ -159,12 +193,11 @@ export function countryLabelsClose(selectedIso: string | null, filter: WeatherFi
 }
 
 export function provinceFillLayer(filter: WeatherFilter) {
-    const property = temperatureProperty(filter.month)
     return {
         id: 'provinces-fill',
         type: 'fill' as const,
         paint: {
-            'fill-color': temperatureColor(property),
+            'fill-color': metricColor(filter),
             'fill-opacity': matchOpacity(filter, FADED_FILL),
         },
     } satisfies LayerProps
@@ -184,7 +217,7 @@ export function provinceLabelLayer(filter: WeatherFilter) {
         id: 'province-labels',
         type: 'symbol' as const,
         layout: {
-            'text-field': temperatureLabel(filter.month),
+            'text-field': metricLabel(filter),
             'text-font': FONT,
             'text-size': ['interpolate', ['linear'], ['zoom'], 2, 10, 5, 13, 8, 16],
             'text-line-height': 1.15,
