@@ -3,8 +3,9 @@ import json
 import glob
 import numpy as np
 
-IN_DIR   = "output_json"                   # папка с по-страновыми json
-OUT_FILE = "all_countries_data.json"       # итог: одна запись на страну
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+IN_DIR   = os.path.join(SCRIPT_DIR, "output_json")          # папка с по-страновыми json
+OUT_FILE = os.path.join(SCRIPT_DIR, "all_countries_data.json")  # итог: одна запись на страну
 
 result = {}
 

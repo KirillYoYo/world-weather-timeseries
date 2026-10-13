@@ -13,18 +13,20 @@ from shapely.ops import unary_union
 # PATHS
 # ============================================================
 
-ROOT = Path(__file__).resolve().parent.parent
+SCRIPT_DIR = Path(__file__).resolve().parent
+ROOT = SCRIPT_DIR.parent
 PUBLIC = ROOT / "public"
+DATA = SCRIPT_DIR / "data"
 
-COUNTRIES_DIR = PUBLIC / "countries"
+COUNTRIES_DIR = DATA / "countries"
 JSON_FILE = PUBLIC / "all_countries_data.json"
 REGIONS_DIR = PUBLIC / "regions-by-mounts"
 
-SRAD_DIR = PUBLIC / "wc2.1_10m_srad"
-WIND_DIR = PUBLIC / "wc2.1_10m_wind"
+SRAD_DIR = DATA / "wc2.1_10m_srad"
+WIND_DIR = DATA / "wc2.1_10m_wind"
 
-TMAX_DIR = PUBLIC / "wc2.1_cruts4.09_10m_tmax_2020-2024"
-TMIN_DIR = PUBLIC / "wc2.1_cruts4.09_10m_tmin_2020-2024"
+TMAX_DIR = DATA / "wc2.1_cruts4.09_10m_tmax_2020-2024"
+TMIN_DIR = DATA / "wc2.1_cruts4.09_10m_tmin_2020-2024"
 
 
 # ============================================================

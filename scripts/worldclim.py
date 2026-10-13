@@ -12,12 +12,13 @@ import geopandas as gpd
 from rasterstats import zonal_stats
 
 # ================== НАСТРОЙКИ ==================
-BASE          = "../public"
-PREC_DIR      = os.path.join(BASE, "wc2.1_cruts4.09_10m_prec_2020-2024")
-TMAX_DIR      = os.path.join(BASE, "wc2.1_cruts4.09_10m_tmax_2020-2024")
-TMIN_DIR      = os.path.join(BASE, "wc2.1_cruts4.09_10m_tmin_2020-2024")
-COUNTRIES_DIR = os.path.join(BASE, "countries")
-OUT_DIR       = "output_json"
+SCRIPT_DIR    = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR      = os.path.join(SCRIPT_DIR, "data")
+PREC_DIR      = os.path.join(DATA_DIR, "wc2.1_cruts4.09_10m_prec_2020-2024")
+TMAX_DIR      = os.path.join(DATA_DIR, "wc2.1_cruts4.09_10m_tmax_2020-2024")
+TMIN_DIR      = os.path.join(DATA_DIR, "wc2.1_cruts4.09_10m_tmin_2020-2024")
+COUNTRIES_DIR = os.path.join(DATA_DIR, "countries")
+OUT_DIR       = os.path.join(SCRIPT_DIR, "output_json")
 
 NODATA      = -9999.0
 ALL_TOUCHED = False

@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename)
 
 const ROOT = path.resolve(__dirname, '../')
 
-const COUNTRIES_DIR = path.join(ROOT, 'public/countries')
+const COUNTRIES_DIR = path.join(__dirname, 'data/countries')
 const OUTPUT_DIR = path.join(ROOT, 'public/weather/nasa')
 
 const CONCURRENCY = 4
