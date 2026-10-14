@@ -101,7 +101,9 @@
     "average_srad": 7406.111165103242,
     "average_wind": 4.939394401395038,
     "average_tmax": -17.203603499557083,
-    "average_tmin": -23.135819209752597
+    "average_tmin": -23.135819209752597,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Avannaata": {
     "average_temp": -17.54,
@@ -205,7 +207,9 @@
     "average_srad": 8093.880108951708,
     "average_wind": 5.617011032817782,
     "average_tmax": -14.642041326074434,
-    "average_tmin": -20.43669329190585
+    "average_tmin": -20.43669329190585,
+    "population": 9168,
+    "symbol_sort_key": 1
   },
   "Sermersooq": {
     "average_temp": -13.81,
@@ -309,7 +313,9 @@
     "average_srad": 8447.236520518538,
     "average_wind": 5.216363827215239,
     "average_tmax": -10.261179698293551,
-    "average_tmin": -17.368571466248905
+    "average_tmin": -17.368571466248905,
+    "population": 22397,
+    "symbol_sort_key": 2
   },
   "Kujalleq": {
     "average_temp": -5.19,
@@ -413,7 +419,9 @@
     "average_srad": 9170.740269461077,
     "average_wind": 5.83949396448459,
     "average_tmax": -1.9455299492910534,
-    "average_tmin": -8.440553316382873
+    "average_tmin": -8.440553316382873,
+    "population": 3255,
+    "symbol_sort_key": 3
   },
   "Qeqqata": {
     "average_temp": -9.03,
@@ -517,7 +525,9 @@
     "average_srad": 8770.98390970221,
     "average_wind": 3.962061425679927,
     "average_tmax": -5.145798524318301,
-    "average_tmin": -12.913067122054619
+    "average_tmin": -12.913067122054619,
+    "population": 5582,
+    "symbol_sort_key": 0
   },
   "Qeqertalik": {
     "average_temp": -9.86,
@@ -621,6 +631,8 @@
     "average_srad": 8649.486067297583,
     "average_wind": 3.317249217087287,
     "average_tmax": -5.974091791342768,
-    "average_tmin": -13.745337547585526
+    "average_tmin": -13.745337547585526,
+    "population": 4989,
+    "symbol_sort_key": 4
   }
 }

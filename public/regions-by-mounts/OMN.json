@@ -101,7 +101,9 @@
     "average_srad": 21020.01982851018,
     "average_wind": 4.153464841817097,
     "average_tmax": 34.28633212828559,
-    "average_tmin": 20.967976832517603
+    "average_tmin": 20.967976832517603,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Al Batinah": {
     "average_temp": 27.65,
@@ -205,7 +207,9 @@
     "average_srad": 21296.45325203252,
     "average_wind": 3.229227523978164,
     "average_tmax": 33.41213583984995,
-    "average_tmin": 21.887063005881576
+    "average_tmin": 21.887063005881576,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Az Zahirah": {
     "average_temp": 29.12,
@@ -309,7 +313,9 @@
     "average_srad": 21497.345977011497,
     "average_wind": 3.2679863180237256,
     "average_tmax": 36.1184171431092,
-    "average_tmin": 22.112927683358905
+    "average_tmin": 22.112927683358905,
+    "population": 23466,
+    "symbol_sort_key": 4
   },
   "Muscat": {
     "average_temp": 27.33,
@@ -413,7 +419,9 @@
     "average_srad": 20597.399999999998,
     "average_wind": 3.3947100202242537,
     "average_tmax": 32.361155395507815,
-    "average_tmin": 22.299757063123916
+    "average_tmin": 22.299757063123916,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Ash Sharqiyah": {
     "average_temp": 27.97,
@@ -517,7 +525,9 @@
     "average_srad": 20620.232193732194,
     "average_wind": 3.2075003427997273,
     "average_tmax": 33.97948645594453,
-    "average_tmin": 21.96688586653467
+    "average_tmin": 21.96688586653467,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Ad Dakhiliyah": {
     "average_temp": 28.35,
@@ -621,7 +631,9 @@
     "average_srad": 21111.606770833332,
     "average_wind": 3.2041466970824533,
     "average_tmax": 35.03844401041666,
-    "average_tmin": 21.66893446180556
+    "average_tmin": 21.66893446180556,
+    "population": 219912,
+    "symbol_sort_key": 2
   },
   "Al Wusta": {
     "average_temp": 28.41,
@@ -725,6 +737,8 @@
     "average_srad": 21227.204831932773,
     "average_wind": 3.767372197380253,
     "average_tmax": 35.0762100811432,
-    "average_tmin": 21.740931157972298
+    "average_tmin": 21.740931157972298,
+    "population": 7814,
+    "symbol_sort_key": 6
   }
 }

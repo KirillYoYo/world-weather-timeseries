@@ -101,7 +101,9 @@
     "average_srad": 10574.916666666666,
     "average_wind": 2.97457292675972,
     "average_tmax": 15.664583333333333,
-    "average_tmin": 6.642708333333334
+    "average_tmin": 6.642708333333334,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Středočeský kraj": {
     "average_temp": 10.24,
@@ -205,7 +207,9 @@
     "average_srad": 10585.12,
     "average_wind": 3.1749312448501583,
     "average_tmax": 14.802916666666667,
-    "average_tmin": 5.670291666666667
+    "average_tmin": 5.670291666666667,
+    "population": 529872,
+    "symbol_sort_key": 0
   },
   "Jihočeský kraj": {
     "average_temp": 9.37,
@@ -309,7 +313,9 @@
     "average_srad": 10731.063492063493,
     "average_wind": 2.744748516215218,
     "average_tmax": 14.168204365079367,
-    "average_tmin": 4.572792658730159
+    "average_tmin": 4.572792658730159,
+    "population": 229519,
+    "symbol_sort_key": 5
   },
   "Plzeňský kraj": {
     "average_temp": 9.04,
@@ -413,7 +419,9 @@
     "average_srad": 10435.067129629631,
     "average_wind": 3.027609372028598,
     "average_tmax": 13.813107638888887,
-    "average_tmin": 4.266406249999999
+    "average_tmin": 4.266406249999999,
+    "population": 261042,
+    "symbol_sort_key": 7
   },
   "Karlovarský kraj": {
     "average_temp": 8.47,
@@ -517,7 +525,9 @@
     "average_srad": 10176.535714285714,
     "average_wind": 3.887183036123003,
     "average_tmax": 12.928869047619047,
-    "average_tmin": 4.003273809523809
+    "average_tmin": 4.003273809523809,
+    "population": 158914,
+    "symbol_sort_key": 13
   },
   "Ústecký kraj": {
     "average_temp": 9.96,
@@ -621,7 +631,9 @@
     "average_srad": 10300.166666666666,
     "average_wind": 3.7493463564250207,
     "average_tmax": 14.409374999999999,
-    "average_tmin": 5.509244791666667
+    "average_tmin": 5.509244791666667,
+    "population": 523430,
+    "symbol_sort_key": 4
   },
   "Liberecký kraj": {
     "average_temp": 9.21,
@@ -725,7 +737,9 @@
     "average_srad": 10461.779761904761,
     "average_wind": 4.2685208320617685,
     "average_tmax": 13.44747023809524,
-    "average_tmin": 4.979464285714285
+    "average_tmin": 4.979464285714285,
+    "population": 225944,
+    "symbol_sort_key": 12
   },
   "Královéhradecký kraj": {
     "average_temp": 9.12,
@@ -829,7 +843,9 @@
     "average_srad": 10587.595238095237,
     "average_wind": 3.8351785814951334,
     "average_tmax": 13.620882936507938,
-    "average_tmin": 4.619791666666667
+    "average_tmin": 4.619791666666667,
+    "population": 237809,
+    "symbol_sort_key": 9
   },
   "Pardubický kraj": {
     "average_temp": 9.48,
@@ -933,7 +949,9 @@
     "average_srad": 10745.617424242424,
     "average_wind": 3.5461600368673154,
     "average_tmax": 14.07836174242424,
-    "average_tmin": 4.876467803030303
+    "average_tmin": 4.876467803030303,
+    "population": 240769,
+    "symbol_sort_key": 10
   },
   "Kraj Vysočina": {
     "average_temp": 9.21,
@@ -1037,7 +1055,9 @@
     "average_srad": 10865.325520833334,
     "average_wind": 3.5998906139284372,
     "average_tmax": 13.755078124999999,
-    "average_tmin": 4.656575520833332
+    "average_tmin": 4.656575520833332,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Jihomoravský kraj": {
     "average_temp": 10.63,
@@ -1141,7 +1161,9 @@
     "average_srad": 11141.512626262627,
     "average_wind": 3.3344362384141086,
     "average_tmax": 15.468655303030305,
-    "average_tmin": 5.8001578282828286
+    "average_tmin": 5.8001578282828286,
+    "population": 641352,
+    "symbol_sort_key": 2
   },
   "Olomoucký kraj": {
     "average_temp": 9.34,
@@ -1245,7 +1267,9 @@
     "average_srad": 10820.642361111111,
     "average_wind": 3.626385416421625,
     "average_tmax": 14.28888888888889,
-    "average_tmin": 4.38650173611111
+    "average_tmin": 4.38650173611111,
+    "population": 297625,
+    "symbol_sort_key": 6
   },
   "Moravskoslezský kraj": {
     "average_temp": 9.19,
@@ -1349,7 +1373,9 @@
     "average_srad": 10725.296666666667,
     "average_wind": 3.4396191747983296,
     "average_tmax": 14.379541666666668,
-    "average_tmin": 4.006458333333333
+    "average_tmin": 4.006458333333333,
+    "population": 861042,
+    "symbol_sort_key": 3
   },
   "Zlínský kraj": {
     "average_temp": 9.77,
@@ -1453,6 +1479,8 @@
     "average_srad": 11094.611111111111,
     "average_wind": 3.485714116582164,
     "average_tmax": 15.088136574074076,
-    "average_tmin": 4.442592592592592
+    "average_tmin": 4.442592592592592,
+    "population": 236700,
+    "symbol_sort_key": 8
   }
 }

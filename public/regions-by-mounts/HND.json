@@ -101,7 +101,9 @@
     "average_srad": 18935.434027777777,
     "average_wind": 3.0528975483030085,
     "average_tmax": 30.61088623272048,
-    "average_tmin": 22.793343753947156
+    "average_tmin": 22.793343753947156,
+    "population": 38382,
+    "symbol_sort_key": 16
   },
   "Bay Islands": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Choluteca": {
     "average_temp": 26.75,
@@ -309,7 +313,9 @@
     "average_srad": 20908.397435897434,
     "average_wind": 2.352578265544696,
     "average_tmax": 32.10652779799241,
-    "average_tmin": 21.386602570460397
+    "average_tmin": 21.386602570460397,
+    "population": 115906,
+    "symbol_sort_key": 8
   },
   "Colón": {
     "average_temp": 26.09,
@@ -413,7 +419,9 @@
     "average_srad": 19145.36,
     "average_wind": 2.7787254178524017,
     "average_tmax": 30.834942852020266,
-    "average_tmin": 21.341518849690754
+    "average_tmin": 21.341518849690754,
+    "population": 192709,
+    "symbol_sort_key": 10
   },
   "El Paraíso": {
     "average_temp": 23.73,
@@ -517,7 +525,9 @@
     "average_srad": 19817.801587301587,
     "average_wind": 2.182801588187142,
     "average_tmax": 29.189980158730155,
-    "average_tmin": 18.27589285714286
+    "average_tmin": 18.27589285714286,
+    "population": 100107,
+    "symbol_sort_key": 6
   },
   "Olancho": {
     "average_temp": 24.41,
@@ -621,7 +631,9 @@
     "average_srad": 19440.581018518522,
     "average_wind": 2.143005777840261,
     "average_tmax": 29.580324074074074,
-    "average_tmin": 19.24221643518519
+    "average_tmin": 19.24221643518519,
+    "population": 172979,
+    "symbol_sort_key": 4
   },
   "Valle": {
     "average_temp": 28.54,
@@ -725,7 +737,9 @@
     "average_srad": 20915.4,
     "average_wind": 2.530505615472794,
     "average_tmax": 34.01194445292155,
-    "average_tmin": 23.062708282470698
+    "average_tmin": 23.062708282470698,
+    "population": 98642,
+    "symbol_sort_key": 14
   },
   "Atlántida": {
     "average_temp": 26.25,
@@ -829,7 +843,9 @@
     "average_srad": 19505.350000000002,
     "average_wind": 2.4060253845320805,
     "average_tmax": 31.078059096866184,
-    "average_tmin": 21.417633550431997
+    "average_tmin": 21.417633550431997,
+    "population": 286717,
+    "symbol_sort_key": 5
   },
   "Comayagua": {
     "average_temp": 22.61,
@@ -933,7 +949,9 @@
     "average_srad": 19852.999999999996,
     "average_wind": 1.9302291635956086,
     "average_tmax": 28.53363095238096,
-    "average_tmin": 16.67879464285714
+    "average_tmin": 16.67879464285714,
+    "population": 221498,
+    "symbol_sort_key": 3
   },
   "Copán": {
     "average_temp": 23.08,
@@ -1037,7 +1055,9 @@
     "average_srad": 19345.53787878788,
     "average_wind": 1.8600643891276736,
     "average_tmax": 28.26742424242424,
-    "average_tmin": 17.899053030303026
+    "average_tmin": 17.899053030303026,
+    "population": 168744,
+    "symbol_sort_key": 9
   },
   "Cortés": {
     "average_temp": 25.71,
@@ -1141,7 +1161,9 @@
     "average_srad": 19683.916666666668,
     "average_wind": 1.7839483952883517,
     "average_tmax": 31.262594696969696,
-    "average_tmin": 20.159659090909088
+    "average_tmin": 20.159659090909088,
+    "population": 1499922,
+    "symbol_sort_key": 0
   },
   "Francisco Morazán": {
     "average_temp": 22.28,
@@ -1245,7 +1267,9 @@
     "average_srad": 19907.27333333333,
     "average_wind": 2.1377049958705903,
     "average_tmax": 27.932041666666667,
-    "average_tmin": 16.633625
+    "average_tmin": 16.633625,
+    "population": 2509382,
+    "symbol_sort_key": 1
   },
   "Intibucá": {
     "average_temp": 21.09,
@@ -1349,7 +1373,9 @@
     "average_srad": 20113.689393939396,
     "average_wind": 2.2508333361510076,
     "average_tmax": 26.72935606060606,
-    "average_tmin": 15.452272727272728
+    "average_tmin": 15.452272727272728,
+    "population": 81053,
+    "symbol_sort_key": 12
   },
   "La Paz": {
     "average_temp": 21.3,
@@ -1453,7 +1479,9 @@
     "average_srad": 20373.63095238095,
     "average_wind": 2.243205351488931,
     "average_tmax": 27.06622023809524,
-    "average_tmin": 15.541815476190477
+    "average_tmin": 15.541815476190477,
+    "population": 73059,
+    "symbol_sort_key": 13
   },
   "Lempira": {
     "average_temp": 21.7,
@@ -1557,7 +1585,9 @@
     "average_srad": 19973.69230769231,
     "average_wind": 2.1625945453460402,
     "average_tmax": 27.098157051282055,
-    "average_tmin": 16.298637820512827
+    "average_tmin": 16.298637820512827,
+    "population": 81613,
+    "symbol_sort_key": 11
   },
   "Ocotepeque": {
     "average_temp": 20.16,
@@ -1661,7 +1691,9 @@
     "average_srad": 19734.833333333332,
     "average_wind": 2.384656250476837,
     "average_tmax": 25.157812499999995,
-    "average_tmin": 15.170833333333333
+    "average_tmin": 15.170833333333333,
+    "population": 19597,
+    "symbol_sort_key": 15
   },
   "Santa Bárbara": {
     "average_temp": 24.2,
@@ -1765,7 +1797,9 @@
     "average_srad": 19513.09523809524,
     "average_wind": 1.6924910644690196,
     "average_tmax": 29.815922619047615,
-    "average_tmin": 18.5922619047619
+    "average_tmin": 18.5922619047619,
+    "population": 79796,
+    "symbol_sort_key": 7
   },
   "Yoro": {
     "average_temp": 24.45,
@@ -1869,6 +1903,8 @@
     "average_srad": 19613.89423076923,
     "average_wind": 1.8561041614948177,
     "average_tmax": 29.86806891025641,
-    "average_tmin": 19.03008814102564
+    "average_tmin": 19.03008814102564,
+    "population": 313257,
+    "symbol_sort_key": 2
   }
 }

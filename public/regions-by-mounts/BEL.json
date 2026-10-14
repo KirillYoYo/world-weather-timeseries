@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2386138,
+    "symbol_sort_key": 2
   },
   "Vlaams Gewest": {
     "average_temp": 11.99,
@@ -205,7 +207,9 @@
     "average_srad": 10030.08203125,
     "average_wind": 4.002903402472536,
     "average_tmax": 15.899815539270639,
-    "average_tmin": 8.086592881567777
+    "average_tmin": 8.086592881567777,
+    "population": 6696439,
+    "symbol_sort_key": 0
   },
   "Wallonne Gewest": {
     "average_temp": 10.94,
@@ -309,6 +313,8 @@
     "average_srad": 10231.628109452737,
     "average_wind": 3.7903389245716492,
     "average_tmax": 14.951787935323386,
-    "average_tmin": 6.918283582089553
+    "average_tmin": 6.918283582089553,
+    "population": 2809729,
+    "symbol_sort_key": 1
   }
 }

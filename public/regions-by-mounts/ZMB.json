@@ -101,7 +101,9 @@
     "average_srad": 18199.001082251085,
     "average_wind": 2.62203110431954,
     "average_tmax": 29.475040584415584,
-    "average_tmin": 16.92954545454546
+    "average_tmin": 16.92954545454546,
+    "population": 206764,
+    "symbol_sort_key": 2
   },
   "Muchinga": {
     "average_temp": 21.64,
@@ -205,7 +207,9 @@
     "average_srad": 17728.40032051282,
     "average_wind": 2.78611746331056,
     "average_tmax": 27.381570512820513,
-    "average_tmin": 15.892115384615387
+    "average_tmin": 15.892115384615387,
+    "population": 128959,
+    "symbol_sort_key": 9
   },
   "North-Western": {
     "average_temp": 19.89,
@@ -309,7 +313,9 @@
     "average_srad": 16774.023809523813,
     "average_wind": 2.658188933155104,
     "average_tmax": 27.43076499118166,
-    "average_tmin": 12.347938712522046
+    "average_tmin": 12.347938712522046,
+    "population": 147000,
+    "symbol_sort_key": 8
   },
   "Luapula": {
     "average_temp": 21.6,
@@ -413,7 +419,9 @@
     "average_srad": 17161.563519813517,
     "average_wind": 2.7258442537490026,
     "average_tmax": 27.647545163170154,
-    "average_tmin": 15.547712703962704
+    "average_tmin": 15.547712703962704,
+    "population": 152354,
+    "symbol_sort_key": 5
   },
   "Central": {
     "average_temp": 21.31,
@@ -517,7 +525,9 @@
     "average_srad": 17829.626010101012,
     "average_wind": 2.984621023108261,
     "average_tmax": 28.325400883838384,
-    "average_tmin": 14.287695707070709
+    "average_tmin": 14.287695707070709,
+    "population": 421728,
+    "symbol_sort_key": 4
   },
   "Southern": {
     "average_temp": 22.05,
@@ -621,7 +631,9 @@
     "average_srad": 19039.947115384613,
     "average_wind": 2.799896927884756,
     "average_tmax": 29.311628605769233,
-    "average_tmin": 14.780198317307692
+    "average_tmin": 14.780198317307692,
+    "population": 447747,
+    "symbol_sort_key": 3
   },
   "Lusaka": {
     "average_temp": 23.08,
@@ -725,7 +737,9 @@
     "average_srad": 18547.988425925923,
     "average_wind": 2.6279548562511246,
     "average_tmax": 29.50363136574074,
-    "average_tmin": 16.66187789351852
+    "average_tmin": 16.66187789351852,
+    "population": 2598856,
+    "symbol_sort_key": 0
   },
   "Copperbelt": {
     "average_temp": 20.35,
@@ -829,7 +843,9 @@
     "average_srad": 17288.893115942028,
     "average_wind": 2.9960765347316642,
     "average_tmax": 28.06717617753623,
-    "average_tmin": 12.633084239130435
+    "average_tmin": 12.633084239130435,
+    "population": 2087815,
+    "symbol_sort_key": 1
   },
   "Northern": {
     "average_temp": 21.98,
@@ -933,7 +949,9 @@
     "average_srad": 17182.631884057973,
     "average_wind": 2.73878705052362,
     "average_tmax": 27.866526268115944,
-    "average_tmin": 16.095733695652175
+    "average_tmin": 16.095733695652175,
+    "population": 226720,
+    "symbol_sort_key": 6
   },
   "Western": {
     "average_temp": 21.62,
@@ -1037,6 +1055,8 @@
     "average_srad": 18149.665364583332,
     "average_wind": 2.8351520717195755,
     "average_tmax": 29.375420464409725,
-    "average_tmin": 13.866929796006943
+    "average_tmin": 13.866929796006943,
+    "population": 214398,
+    "symbol_sort_key": 7
   }
 }

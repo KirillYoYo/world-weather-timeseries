@@ -101,7 +101,9 @@
     "average_srad": 17171.741666666665,
     "average_wind": 0.9368749948839348,
     "average_tmax": 23.757552083333334,
-    "average_tmin": 14.508281249999998
+    "average_tmin": 14.508281249999998,
+    "population": 822468,
+    "symbol_sort_key": 19
   },
   "Amazonas": {
     "average_temp": 26.61,
@@ -205,7 +207,9 @@
     "average_srad": 13495.741746538872,
     "average_wind": 0.9605497225277975,
     "average_tmax": 30.658905750798723,
-    "average_tmin": 22.557388178913737
+    "average_tmin": 22.557388178913737,
+    "population": 43247,
+    "symbol_sort_key": 28
   },
   "Meta": {
     "average_temp": 25.76,
@@ -309,7 +313,9 @@
     "average_srad": 16051.246807151978,
     "average_wind": 1.0866890147347408,
     "average_tmax": 30.402298850574713,
-    "average_tmin": 21.10820561941252
+    "average_tmin": 21.10820561941252,
+    "population": 1001944,
+    "symbol_sort_key": 16
   },
   "Cundinamarca": {
     "average_temp": 18.16,
@@ -413,7 +419,9 @@
     "average_srad": 16575.52734375,
     "average_wind": 0.9417125599769255,
     "average_tmax": 22.899495442708332,
-    "average_tmin": 13.41103515625
+    "average_tmin": 13.41103515625,
+    "population": 2334724,
+    "symbol_sort_key": 3
   },
   "Tolima": {
     "average_temp": 20.27,
@@ -517,7 +525,9 @@
     "average_srad": 16457.0901826484,
     "average_wind": 1.045189497269452,
     "average_tmax": 24.952753995433795,
-    "average_tmin": 15.59359303652968
+    "average_tmin": 15.59359303652968,
+    "population": 1092765,
+    "symbol_sort_key": 10
   },
   "Antioquia": {
     "average_temp": 23.55,
@@ -621,7 +631,9 @@
     "average_srad": 17742.29761904762,
     "average_wind": 1.0897495629663398,
     "average_tmax": 28.11897494368242,
-    "average_tmin": 18.97299492548382
+    "average_tmin": 18.97299492548382,
+    "population": 5397266,
+    "symbol_sort_key": 1
   },
   "Atlántico": {
     "average_temp": 28.6,
@@ -725,7 +737,9 @@
     "average_srad": 19026.175,
     "average_wind": 3.2306591312090553,
     "average_tmax": 33.62760416666667,
-    "average_tmin": 23.576979166666664
+    "average_tmin": 23.576979166666664,
+    "population": 2656844,
+    "symbol_sort_key": 4
   },
   "Bolívar": {
     "average_temp": 27.45,
@@ -829,7 +843,9 @@
     "average_srad": 18336.398958333335,
     "average_wind": 1.9401782147586344,
     "average_tmax": 32.5287315428257,
-    "average_tmin": 22.372069027026498
+    "average_tmin": 22.372069027026498,
+    "population": 1848785,
+    "symbol_sort_key": 5
   },
   "Cesar": {
     "average_temp": 26.48,
@@ -933,7 +949,9 @@
     "average_srad": 18220.245169082125,
     "average_wind": 2.2669882197023017,
     "average_tmax": 31.7199577294686,
-    "average_tmin": 21.23143115942029
+    "average_tmin": 21.23143115942029,
+    "population": 994024,
+    "symbol_sort_key": 17
   },
   "Magdalena": {
     "average_temp": 26.5,
@@ -1037,7 +1055,9 @@
     "average_srad": 18825.55641025641,
     "average_wind": 2.767068558625686,
     "average_tmax": 31.838200856233254,
-    "average_tmin": 21.161942302508233
+    "average_tmin": 21.161942302508233,
+    "population": 1328010,
+    "symbol_sort_key": 12
   },
   "Sucre": {
     "average_temp": 28.43,
@@ -1141,7 +1161,9 @@
     "average_srad": 18307.725000000002,
     "average_wind": 1.995188057422638,
     "average_tmax": 33.58372980223761,
-    "average_tmin": 23.273467390272355
+    "average_tmin": 23.273467390272355,
+    "population": 728435,
+    "symbol_sort_key": 20
   },
   "Córdoba": {
     "average_temp": 27.39,
@@ -1245,7 +1267,9 @@
     "average_srad": 18058.40990990991,
     "average_wind": 1.5070149330673992,
     "average_tmax": 31.993461093387086,
-    "average_tmin": 22.788990779395576
+    "average_tmin": 22.788990779395576,
+    "population": 1332181,
+    "symbol_sort_key": 7
   },
   "La Guajira": {
     "average_temp": 27.43,
@@ -1349,7 +1373,9 @@
     "average_srad": 18896.413888888892,
     "average_wind": 3.9982580893569524,
     "average_tmax": 32.12046809938219,
-    "average_tmin": 22.739312197897167
+    "average_tmin": 22.739312197897167,
+    "population": 904024,
+    "symbol_sort_key": 15
   },
   "Chocó": {
     "average_temp": 25.89,
@@ -1453,7 +1479,9 @@
     "average_srad": 16925.50669099757,
     "average_wind": 0.9903691540451814,
     "average_tmax": 30.112208574763756,
-    "average_tmin": 21.66547234713886
+    "average_tmin": 21.66547234713886,
+    "population": 319937,
+    "symbol_sort_key": 24
   },
   "Valle del Cauca": {
     "average_temp": 21.33,
@@ -1557,7 +1585,9 @@
     "average_srad": 16266.963888888886,
     "average_wind": 1.049682911982139,
     "average_tmax": 25.94766550911797,
-    "average_tmin": 16.71532638814714
+    "average_tmin": 16.71532638814714,
+    "population": 4798756,
+    "symbol_sort_key": 2
   },
   "Norte de Santander": {
     "average_temp": 21.31,
@@ -1661,7 +1691,9 @@
     "average_srad": 17052.38440860215,
     "average_wind": 1.6385493880958968,
     "average_tmax": 26.01597782258064,
-    "average_tmin": 16.609795026881724
+    "average_tmin": 16.609795026881724,
+    "population": 1337177,
+    "symbol_sort_key": 11
   },
   "Quindío": {
     "average_temp": 17.76,
@@ -1765,7 +1797,9 @@
     "average_srad": 16551.600000000002,
     "average_wind": 0.9601041664679847,
     "average_tmax": 22.409166666666668,
-    "average_tmin": 13.106041666666664
+    "average_tmin": 13.106041666666664,
+    "population": 537745,
+    "symbol_sort_key": 22
   },
   "Vichada": {
     "average_temp": 27.6,
@@ -1869,7 +1903,9 @@
     "average_srad": 16194.187722419927,
     "average_wind": 1.3804494393890014,
     "average_tmax": 32.280601275207594,
-    "average_tmin": 22.916763048635826
+    "average_tmin": 22.916763048635826,
+    "population": 73661,
+    "symbol_sort_key": 30
   },
   "Vaupés": {
     "average_temp": 26.13,
@@ -1973,7 +2009,9 @@
     "average_srad": 14269.124737945493,
     "average_wind": 0.9944955497605245,
     "average_tmax": 30.432900943396223,
-    "average_tmin": 21.82950078616352
+    "average_tmin": 21.82950078616352,
+    "population": 29850,
+    "symbol_sort_key": 31
   },
   "Santander": {
     "average_temp": 22.34,
@@ -2077,7 +2115,9 @@
     "average_srad": 17343.12546816479,
     "average_wind": 1.1003771067112125,
     "average_tmax": 27.425632022471913,
-    "average_tmin": 17.251217228464423
+    "average_tmin": 17.251217228464423,
+    "population": 2175499,
+    "symbol_sort_key": 6
   },
   "Risaralda": {
     "average_temp": 18.54,
@@ -2181,7 +2221,9 @@
     "average_srad": 17059.946969696968,
     "average_wind": 0.9274355990417077,
     "average_tmax": 23.07481060606061,
-    "average_tmin": 14.01467803030303
+    "average_tmin": 14.01467803030303,
+    "population": 1021610,
+    "symbol_sort_key": 18
   },
   "Putumayo": {
     "average_temp": 24.46,
@@ -2285,7 +2327,9 @@
     "average_srad": 14061.5,
     "average_wind": 0.9728328033039969,
     "average_tmax": 29.04779947916666,
-    "average_tmin": 19.867096354166666
+    "average_tmin": 19.867096354166666,
+    "population": 274288,
+    "symbol_sort_key": 25
   },
   "Nariño": {
     "average_temp": 21.1,
@@ -2389,7 +2433,9 @@
     "average_srad": 14279.143772893774,
     "average_wind": 1.435764790945874,
     "average_tmax": 25.37138282563951,
-    "average_tmin": 16.83620403537044
+    "average_tmin": 16.83620403537044,
+    "population": 1138839,
+    "symbol_sort_key": 8
   },
   "Guaviare": {
     "average_temp": 26.92,
@@ -2493,7 +2539,9 @@
     "average_srad": 15356.202380952382,
     "average_wind": 0.9934627320887386,
     "average_tmax": 31.432142857142853,
-    "average_tmin": 22.39831133540373
+    "average_tmin": 22.39831133540373,
+    "population": 33653,
+    "symbol_sort_key": 27
   },
   "Guainía": {
     "average_temp": 26.65,
@@ -2597,7 +2645,9 @@
     "average_srad": 15398.111370716508,
     "average_wind": 1.0647444489681832,
     "average_tmax": 31.559375000000003,
-    "average_tmin": 21.749303933021807
+    "average_tmin": 21.749303933021807,
+    "population": 20279,
+    "symbol_sort_key": 29
   },
   "Bogota Capital District": {
     "average_temp": 10.53,
@@ -2701,7 +2751,9 @@
     "average_srad": 16114.979166666666,
     "average_wind": 1.0830885420242946,
     "average_tmax": 15.167447916666667,
-    "average_tmin": 5.890625
+    "average_tmin": 5.890625,
+    "population": 8599705,
+    "symbol_sort_key": 0
   },
   "Arauca": {
     "average_temp": 25.74,
@@ -2805,7 +2857,9 @@
     "average_srad": 16484.519953051644,
     "average_wind": 1.5298720573735347,
     "average_tmax": 30.548796948356813,
-    "average_tmin": 20.930267018779343
+    "average_tmin": 20.930267018779343,
+    "population": 185870,
+    "symbol_sort_key": 26
   },
   "Boyacá": {
     "average_temp": 16.12,
@@ -2909,7 +2963,9 @@
     "average_srad": 16603.33088235294,
     "average_wind": 1.0104745711181677,
     "average_tmax": 20.928354779411766,
-    "average_tmin": 11.318259803921569
+    "average_tmin": 11.318259803921569,
+    "population": 630271,
+    "symbol_sort_key": 13
   },
   "Casanare": {
     "average_temp": 26.87,
@@ -3013,7 +3069,9 @@
     "average_srad": 16490.22868217054,
     "average_wind": 1.3491406677536262,
     "average_tmax": 31.754102067183457,
-    "average_tmin": 21.980894702842377
+    "average_tmin": 21.980894702842377,
+    "population": 357934,
+    "symbol_sort_key": 21
   },
   "Cauca": {
     "average_temp": 19.5,
@@ -3117,7 +3175,9 @@
     "average_srad": 15301.843518518517,
     "average_wind": 1.1973813782687541,
     "average_tmax": 24.362498438402955,
-    "average_tmin": 14.645444756411434
+    "average_tmin": 14.645444756411434,
+    "population": 1398540,
+    "symbol_sort_key": 9
   },
   "Caquetá": {
     "average_temp": 25.61,
@@ -3221,7 +3281,9 @@
     "average_srad": 14582.275471698114,
     "average_wind": 0.901516192682884,
     "average_tmax": 30.049917452830186,
-    "average_tmin": 21.165051100628933
+    "average_tmin": 21.165051100628933,
+    "population": 376369,
+    "symbol_sort_key": 23
   },
   "Huila": {
     "average_temp": 19.71,
@@ -3325,7 +3387,9 @@
     "average_srad": 15269.540123456793,
     "average_wind": 1.1646601126333813,
     "average_tmax": 24.469695216049384,
-    "average_tmin": 14.958584104938273
+    "average_tmin": 14.958584104938273,
+    "population": 1726963,
+    "symbol_sort_key": 14
   },
   "Archipiélago de San Andrés, Providencia y Santa Catalina": {
     "average_temp": null,
@@ -3429,6 +3493,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 32
   }
 }

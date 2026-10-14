@@ -101,7 +101,9 @@
     "average_srad": 10591.635953608245,
     "average_wind": 4.8223600297244555,
     "average_tmax": 4.306743605408204,
-    "average_tmin": -4.7868103404226625
+    "average_tmin": -4.7868103404226625,
+    "population": 312244,
+    "symbol_sort_key": 8
   },
   "Prince Edward Island": {
     "average_temp": 7.32,
@@ -205,7 +207,9 @@
     "average_srad": 12164.266666666665,
     "average_wind": 5.014948182106019,
     "average_tmax": 11.670516604940095,
-    "average_tmin": 2.9760728300263484
+    "average_tmin": 2.9760728300263484,
+    "population": 79318,
+    "symbol_sort_key": 9
   },
   "Nova Scotia": {
     "average_temp": 7.8,
@@ -309,7 +313,9 @@
     "average_srad": 12257.550370370373,
     "average_wind": 4.263872648698312,
     "average_tmax": 12.57769894119104,
-    "average_tmin": 3.0169751130695697
+    "average_tmin": 3.0169751130695697,
+    "population": 676775,
+    "symbol_sort_key": 6
   },
   "New Brunswick": {
     "average_temp": 6.04,
@@ -413,7 +419,9 @@
     "average_srad": 12237.147043010751,
     "average_wind": 3.589111993517927,
     "average_tmax": 11.611494988697752,
-    "average_tmin": 0.4783788855261693
+    "average_tmin": 0.4783788855261693,
+    "population": 416200,
+    "symbol_sort_key": 7
   },
   "Quebec": {
     "average_temp": -0.54,
@@ -517,7 +525,9 @@
     "average_srad": 11132.311119443686,
     "average_wind": 4.031158928599816,
     "average_tmax": 4.086288091692624,
-    "average_tmin": -5.171506773879423
+    "average_tmin": -5.171506773879423,
+    "population": 9204224,
+    "symbol_sort_key": 1
   },
   "Ontario": {
     "average_temp": 1.7,
@@ -621,7 +631,9 @@
     "average_srad": 11917.539485359363,
     "average_wind": 3.3376018788485937,
     "average_tmax": 7.312090552842322,
-    "average_tmin": -3.9125572631308843
+    "average_tmin": -3.9125572631308843,
+    "population": 17563558,
+    "symbol_sort_key": 0
   },
   "Manitoba": {
     "average_temp": -1.15,
@@ -725,7 +737,9 @@
     "average_srad": 11720.509123716582,
     "average_wind": 4.003160873545952,
     "average_tmax": 4.2445752736950535,
-    "average_tmin": -6.5350846816475014
+    "average_tmin": -6.5350846816475014,
+    "population": 975477,
+    "symbol_sort_key": 4
   },
   "Saskatchewan": {
     "average_temp": 0.93,
@@ -829,7 +843,9 @@
     "average_srad": 12190.220779553369,
     "average_wind": 3.6353915248877495,
     "average_tmax": 6.755600478897766,
-    "average_tmin": -4.891143912620365
+    "average_tmin": -4.891143912620365,
+    "population": 696161,
+    "symbol_sort_key": 5
   },
   "Alberta": {
     "average_temp": 1.4,
@@ -933,7 +949,9 @@
     "average_srad": 11925.331900385414,
     "average_wind": 3.306134227964055,
     "average_tmax": 7.724865969957506,
-    "average_tmin": -4.915195115624074
+    "average_tmin": -4.915195115624074,
+    "population": 3513921,
+    "symbol_sort_key": 3
   },
   "British Columbia": {
     "average_temp": 1.59,
@@ -1037,7 +1055,9 @@
     "average_srad": 10634.804473000493,
     "average_wind": 2.440069458058741,
     "average_tmax": 6.911393485939539,
-    "average_tmin": -3.737331607820098
+    "average_tmin": -3.737331607820098,
+    "population": 6302340,
+    "symbol_sort_key": 2
   },
   "Yukon": {
     "average_temp": -5.33,
@@ -1141,7 +1161,9 @@
     "average_srad": 8771.188100517367,
     "average_wind": 2.55768099199088,
     "average_tmax": 0.07630682885481492,
-    "average_tmin": -10.726348058944081
+    "average_tmin": -10.726348058944081,
+    "population": 28201,
+    "symbol_sort_key": 11
   },
   "Northwest Territories": {
     "average_temp": -8.04,
@@ -1245,7 +1267,9 @@
     "average_srad": 9370.583171056678,
     "average_wind": 3.7304059178622673,
     "average_tmax": -3.5915001080475455,
-    "average_tmin": -12.49542772736367
+    "average_tmin": -12.49542772736367,
+    "population": 20340,
+    "symbol_sort_key": 10
   },
   "Nunavut": {
     "average_temp": -14.06,
@@ -1349,6 +1373,8 @@
     "average_srad": 9104.882580650947,
     "average_wind": 4.388473196170584,
     "average_tmax": -10.689293043616983,
-    "average_tmin": -17.438539228170328
+    "average_tmin": -17.438539228170328,
+    "population": 7740,
+    "symbol_sort_key": 12
   }
 }

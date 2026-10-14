@@ -101,7 +101,9 @@
     "average_srad": 18568.279761904763,
     "average_wind": 4.341209761443592,
     "average_tmax": 26.9914617061615,
-    "average_tmin": 16.33858089844386
+    "average_tmin": 16.33858089844386,
+    "population": 377509,
+    "symbol_sort_key": 10
   },
   "Tangier-Tetouan-Al Hoceima": {
     "average_temp": 17.98,
@@ -205,7 +207,9 @@
     "average_srad": 17539.40625,
     "average_wind": 3.4327841340785934,
     "average_tmax": 23.312053667931334,
-    "average_tmin": 12.642985448241234
+    "average_tmin": 12.642985448241234,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Oriental": {
     "average_temp": 17.53,
@@ -309,7 +313,9 @@
     "average_srad": 18659.596681096682,
     "average_wind": 3.336026061406899,
     "average_tmax": 23.912236523593833,
-    "average_tmin": 11.140400773587851
+    "average_tmin": 11.140400773587851,
+    "population": 1918813,
+    "symbol_sort_key": 7
   },
   "Drâa-Tafilalet": {
     "average_temp": 19.31,
@@ -413,7 +419,9 @@
     "average_srad": 19554.70517241379,
     "average_wind": 3.784349860062544,
     "average_tmax": 26.12438577586207,
-    "average_tmin": 12.496587643678161
+    "average_tmin": 12.496587643678161,
+    "population": 1111082,
+    "symbol_sort_key": 8
   },
   "Souss-Massa": {
     "average_temp": 20.22,
@@ -517,7 +525,9 @@
     "average_srad": 19391.28333333333,
     "average_wind": 4.1276695447939415,
     "average_tmax": 26.344816302723356,
-    "average_tmin": 14.102503693192096
+    "average_tmin": 14.102503693192096,
+    "population": 2231368,
+    "symbol_sort_key": 5
   },
   "Guelmim-Oued Noun": {
     "average_temp": 21.24,
@@ -621,7 +631,9 @@
     "average_srad": 18900.93546365915,
     "average_wind": 4.399626073383149,
     "average_tmax": 27.110583789844565,
-    "average_tmin": 15.363691417077431
+    "average_tmin": 15.363691417077431,
+    "population": 319992,
+    "symbol_sort_key": 9
   },
   "Casablanca-Settat": {
     "average_temp": 19.28,
@@ -725,7 +737,9 @@
     "average_srad": 17982.766203703704,
     "average_wind": 3.0818536772772114,
     "average_tmax": 25.457944850126896,
-    "average_tmin": 13.092299075369482
+    "average_tmin": 13.092299075369482,
+    "population": 6635756,
+    "symbol_sort_key": 0
   },
   "Marrakech-Safi": {
     "average_temp": 18.52,
@@ -829,7 +843,9 @@
     "average_srad": 18648.1355721393,
     "average_wind": 3.266704514548554,
     "average_tmax": 24.44679319609457,
-    "average_tmin": 12.601779124985882
+    "average_tmin": 12.601779124985882,
+    "population": 3578852,
+    "symbol_sort_key": 2
   },
   "Rabat-Salé-Kenitra": {
     "average_temp": 18.99,
@@ -933,7 +949,9 @@
     "average_srad": 17671.943121693123,
     "average_wind": 2.9644672999937067,
     "average_tmax": 24.599175643668605,
-    "average_tmin": 13.382171203598142
+    "average_tmin": 13.382171203598142,
+    "population": 4194533,
+    "symbol_sort_key": 1
   },
   "Fez-Meknes": {
     "average_temp": 16.48,
@@ -1037,7 +1055,9 @@
     "average_srad": 18114.82839506173,
     "average_wind": 3.021554787070663,
     "average_tmax": 22.664760802469136,
-    "average_tmin": 10.295810185185184
+    "average_tmin": 10.295810185185184,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Béni Mellal-Khénifra": {
     "average_temp": 16.22,
@@ -1141,6 +1161,8 @@
     "average_srad": 18511.775773195874,
     "average_wind": 2.884817651866637,
     "average_tmax": 22.673163659793815,
-    "average_tmin": 9.768545962199314
+    "average_tmin": 9.768545962199314,
+    "population": 1818168,
+    "symbol_sort_key": 6
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 21362.06782464847,
     "average_wind": 4.432784702533332,
     "average_tmax": 19.858827074506834,
-    "average_tmin": 5.311230203866762
+    "average_tmin": 5.311230203866762,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "RegiÃ³n de Arica y Parinacota": {
     "average_temp": 9.53,
@@ -205,7 +207,9 @@
     "average_srad": 19381.033653846152,
     "average_wind": 2.892611315617195,
     "average_tmax": 16.164986836604584,
-    "average_tmin": 2.889726418715257
+    "average_tmin": 2.889726418715257,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "RegiÃ³n de Atacama": {
     "average_temp": 10.09,
@@ -309,7 +313,9 @@
     "average_srad": 20391.13688085676,
     "average_wind": 4.293453289522543,
     "average_tmax": 15.79388602868301,
-    "average_tmin": 4.391226903469847
+    "average_tmin": 4.391226903469847,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "RegiÃ³n de AysÃ©n del Gral.IbaÃ±ez del Campo": {
     "average_temp": 6.32,
@@ -413,7 +419,9 @@
     "average_srad": 9595.52589563863,
     "average_wind": 6.330564509949579,
     "average_tmax": 10.097913652519198,
-    "average_tmin": 2.5417149805025754
+    "average_tmin": 2.5417149805025754,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "RegiÃ³n de Coquimbo": {
     "average_temp": 9.8,
@@ -517,7 +525,9 @@
     "average_srad": 19217.85251798561,
     "average_wind": 3.5893383637892544,
     "average_tmax": 15.179138832869862,
-    "average_tmin": 4.4262586354637605
+    "average_tmin": 4.4262586354637605,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "RegiÃ³n de La AraucanÃ­a": {
     "average_temp": 10.6,
@@ -621,7 +631,9 @@
     "average_srad": 14161.221074380164,
     "average_wind": 3.0758921855408956,
     "average_tmax": 16.804331874059248,
-    "average_tmin": 4.395572609086996
+    "average_tmin": 4.395572609086996,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "RegiÃ³n de Los Lagos": {
     "average_temp": 9.24,
@@ -725,7 +737,9 @@
     "average_srad": 11568.084244080144,
     "average_wind": 4.2790883035824825,
     "average_tmax": 13.694499779051553,
-    "average_tmin": 4.780723836193563
+    "average_tmin": 4.780723836193563,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "RegiÃ³n de Los RÃ­os": {
     "average_temp": 10.35,
@@ -829,7 +843,9 @@
     "average_srad": 12773.777380952384,
     "average_wind": 3.4358036837407524,
     "average_tmax": 15.75890306064061,
-    "average_tmin": 4.942249149992352
+    "average_tmin": 4.942249149992352,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "RegiÃ³n de Magallanes y AntÃ¡rtica Chilena": {
     "average_temp": 5.45,
@@ -933,7 +949,9 @@
     "average_srad": 8414.30219614922,
     "average_wind": 7.7070846644764766,
     "average_tmax": 9.213149034513835,
-    "average_tmin": 1.6952867217636876
+    "average_tmin": 1.6952867217636876,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "RegiÃ³n de Ãuble": {
     "average_temp": 12.09,
@@ -1037,7 +1055,9 @@
     "average_srad": 15555.491666666669,
     "average_wind": 2.737347306410472,
     "average_tmax": 18.31499444325765,
-    "average_tmin": 5.860652779022852
+    "average_tmin": 5.860652779022852,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "RegiÃ³n de TarapacÃ¡": {
     "average_temp": 12.38,
@@ -1141,7 +1161,9 @@
     "average_srad": 20668.482098765428,
     "average_wind": 3.313280995392505,
     "average_tmax": 18.793491396727386,
-    "average_tmin": 5.957265712596752
+    "average_tmin": 5.957265712596752,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "RegiÃ³n de ValparaÃ­so": {
     "average_temp": 12.34,
@@ -1245,7 +1267,9 @@
     "average_srad": 17192.73538011696,
     "average_wind": 3.2387105066176747,
     "average_tmax": 18.312894214942443,
-    "average_tmin": 6.357362555620964
+    "average_tmin": 6.357362555620964,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "RegiÃ³n del BÃ­o-BÃ­o": {
     "average_temp": 11.54,
@@ -1349,7 +1373,9 @@
     "average_srad": 15142.89678030303,
     "average_wind": 3.0560844409646406,
     "average_tmax": 17.480284490729826,
-    "average_tmin": 5.606345800062019
+    "average_tmin": 5.606345800062019,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "RegiÃ³n del Libertador Bernardo O'Higgins": {
     "average_temp": 12.39,
@@ -1453,7 +1479,9 @@
     "average_srad": 16221.22881355932,
     "average_wind": 3.037205834509962,
     "average_tmax": 18.310815171333356,
-    "average_tmin": 6.462565576289333
+    "average_tmin": 6.462565576289333,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "RegiÃ³n del Maule": {
     "average_temp": 11.44,
@@ -1557,7 +1585,9 @@
     "average_srad": 15859.359327217127,
     "average_wind": 2.867586649430272,
     "average_tmax": 17.66257326712302,
-    "average_tmin": 5.2272107540649735
+    "average_tmin": 5.2272107540649735,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "RegiÃ³n Metropolitana de Santiago": {
     "average_temp": 9.83,
@@ -1661,6 +1691,8 @@
     "average_srad": 16750.45151515151,
     "average_wind": 3.729875001943473,
     "average_tmax": 15.891174242424242,
-    "average_tmin": 3.7686174242424237
+    "average_tmin": 3.7686174242424237,
+    "population": 0,
+    "symbol_sort_key": 0
   }
 }

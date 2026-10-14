@@ -101,7 +101,9 @@
     "average_srad": 17700.335616438355,
     "average_wind": 3.2185288237654457,
     "average_tmax": 23.063984018264843,
-    "average_tmin": 10.286515410958904
+    "average_tmin": 10.286515410958904,
+    "population": 508416,
+    "symbol_sort_key": 10
   },
   "Ouargla": {
     "average_temp": 24.58,
@@ -205,7 +207,9 @@
     "average_srad": 20376.449485199486,
     "average_wind": 4.042510824237244,
     "average_tmax": 31.993953104890604,
-    "average_tmin": 17.163708574646073
+    "average_tmin": 17.163708574646073,
+    "population": 325941,
+    "symbol_sort_key": 27
   },
   "Saïda": {
     "average_temp": 17.04,
@@ -309,7 +313,9 @@
     "average_srad": 17658.99603174603,
     "average_wind": 3.078300604744564,
     "average_tmax": 23.584523809523805,
-    "average_tmin": 10.501785714285713
+    "average_tmin": 10.501785714285713,
+    "population": 128413,
+    "symbol_sort_key": 41
   },
   "Aïn Defla": {
     "average_temp": 18.62,
@@ -413,7 +419,9 @@
     "average_srad": 17020.916666666668,
     "average_wind": 3.121632813165585,
     "average_tmax": 24.048177083333332,
-    "average_tmin": 13.186197916666666
+    "average_tmin": 13.186197916666666,
+    "population": 418987,
+    "symbol_sort_key": 17
   },
   "Adrar": {
     "average_temp": 26.86,
@@ -517,7 +525,9 @@
     "average_srad": 21775.784397163126,
     "average_wind": 4.235516671818762,
     "average_tmax": 34.445760195035454,
-    "average_tmin": 19.281474586288418
+    "average_tmin": 19.281474586288418,
+    "population": 195663,
+    "symbol_sort_key": 36
   },
   "Aïn Témouchent": {
     "average_temp": 19.1,
@@ -621,7 +631,9 @@
     "average_srad": 17103.479166666668,
     "average_wind": 3.1306914538145065,
     "average_tmax": 25.62185764710108,
-    "average_tmin": 12.574149303634961
+    "average_tmin": 12.574149303634961,
+    "population": 317750,
+    "symbol_sort_key": 40
   },
   "Béchar": {
     "average_temp": 24.18,
@@ -725,7 +737,9 @@
     "average_srad": 20621.979585618526,
     "average_wind": 4.045720516763613,
     "average_tmax": 31.555282602071912,
-    "average_tmin": 16.796737888482635
+    "average_tmin": 16.796737888482635,
+    "population": 203964,
+    "symbol_sort_key": 43
   },
   "Biskra": {
     "average_temp": 21.87,
@@ -829,7 +843,9 @@
     "average_srad": 18784.685064935067,
     "average_wind": 3.725372020300332,
     "average_tmax": 27.954031385281382,
-    "average_tmin": 15.783590367965369
+    "average_tmin": 15.783590367965369,
+    "population": 353614,
+    "symbol_sort_key": 14
   },
   "Bordj Bou Arreridj‎": {
     "average_temp": 16.5,
@@ -933,7 +949,9 @@
     "average_srad": 17379.749999999996,
     "average_wind": 3.1141592193217504,
     "average_tmax": 21.87388392857143,
-    "average_tmin": 11.133482142857142
+    "average_tmin": 11.133482142857142,
+    "population": 461091,
+    "symbol_sort_key": 29
   },
   "Chlef": {
     "average_temp": 19.15,
@@ -1037,7 +1055,9 @@
     "average_srad": 16942.141025641027,
     "average_wind": 3.298168685191717,
     "average_tmax": 25.3599358974359,
-    "average_tmin": 12.949038461538462
+    "average_tmin": 12.949038461538462,
+    "population": 823190,
+    "symbol_sort_key": 8
   },
   "Constantine": {
     "average_temp": 16.35,
@@ -1141,7 +1161,9 @@
     "average_srad": 17025.821428571428,
     "average_wind": 2.9876250142142884,
     "average_tmax": 22.031696428571433,
-    "average_tmin": 10.668749999999998
+    "average_tmin": 10.668749999999998,
+    "population": 996520,
+    "symbol_sort_key": 7
   },
   "El Tarf": {
     "average_temp": 18.73,
@@ -1245,7 +1267,9 @@
     "average_srad": 16817.725,
     "average_wind": 3.4758534133434296,
     "average_tmax": 23.881874995231627,
-    "average_tmin": 13.583560605049135
+    "average_tmin": 13.583560605049135,
+    "population": 134386,
+    "symbol_sort_key": 37
   },
   "Ghardaia": {
     "average_temp": 23.02,
@@ -1349,7 +1373,9 @@
     "average_srad": 20614.324106113036,
     "average_wind": 4.2446730795478596,
     "average_tmax": 30.33426326412918,
-    "average_tmin": 15.7040369088812
+    "average_tmin": 15.7040369088812,
+    "population": 251094,
+    "symbol_sort_key": 39
   },
   "Tindouf": {
     "average_temp": 25.84,
@@ -1453,7 +1479,9 @@
     "average_srad": 20894.24420426065,
     "average_wind": 4.495578709140157,
     "average_tmax": 33.226713267543865,
-    "average_tmin": 18.453849467418546
+    "average_tmin": 18.453849467418546,
+    "population": 45610,
+    "symbol_sort_key": 46
   },
   "Skikda": {
     "average_temp": 17.88,
@@ -1557,7 +1585,9 @@
     "average_srad": 16866.42777777778,
     "average_wind": 3.230113436116113,
     "average_tmax": 22.72886572519938,
-    "average_tmin": 13.021516978475782
+    "average_tmin": 13.021516978475782,
+    "population": 380107,
+    "symbol_sort_key": 12
   },
   "Tipaza": {
     "average_temp": 19.26,
@@ -1661,7 +1691,9 @@
     "average_srad": 16902.899999999998,
     "average_wind": 3.4724618792533875,
     "average_tmax": 24.65113780339559,
-    "average_tmin": 13.873193705876668
+    "average_tmin": 13.873193705876668,
+    "population": 364405,
+    "symbol_sort_key": 32
   },
   "Tissemsilt": {
     "average_temp": 16.94,
@@ -1765,7 +1797,9 @@
     "average_srad": 17370.17777777778,
     "average_wind": 3.107258341047499,
     "average_tmax": 22.743194444444445,
-    "average_tmin": 11.145416666666668
+    "average_tmin": 11.145416666666668,
+    "population": 123689,
+    "symbol_sort_key": 33
   },
   "Tlemcen": {
     "average_temp": 16.83,
@@ -1869,7 +1903,9 @@
     "average_srad": 17763.65625,
     "average_wind": 3.1687618096669516,
     "average_tmax": 23.53309678435326,
-    "average_tmin": 10.13100260173281
+    "average_tmin": 10.13100260173281,
+    "population": 663078,
+    "symbol_sort_key": 11
   },
   "Sidi Bel Abbès": {
     "average_temp": 17.06,
@@ -1973,7 +2009,9 @@
     "average_srad": 17711.72972972973,
     "average_wind": 3.087505073697717,
     "average_tmax": 23.65123873873874,
-    "average_tmin": 10.464949324324325
+    "average_tmin": 10.464949324324325,
+    "population": 346895,
+    "symbol_sort_key": 30
   },
   "Sétif": {
     "average_temp": 15.6,
@@ -2077,7 +2115,9 @@
     "average_srad": 17293.28623188406,
     "average_wind": 3.2231404012528024,
     "average_tmax": 21.098233695652173,
-    "average_tmin": 10.100317028985508
+    "average_tmin": 10.100317028985508,
+    "population": 785465,
+    "symbol_sort_key": 2
   },
   "Relizane": {
     "average_temp": 19.27,
@@ -2181,7 +2221,9 @@
     "average_srad": 17105.63725490196,
     "average_wind": 2.8767953491678426,
     "average_tmax": 25.499754901960788,
-    "average_tmin": 13.034742647058822
+    "average_tmin": 13.034742647058822,
+    "population": 304520,
+    "symbol_sort_key": 22
   },
   "Oum El Bouaghi": {
     "average_temp": 16.76,
@@ -2285,7 +2327,9 @@
     "average_srad": 17332.201388888887,
     "average_wind": 3.187059895031982,
     "average_tmax": 22.962022569444443,
-    "average_tmin": 10.552170138888888
+    "average_tmin": 10.552170138888888,
+    "population": 485339,
+    "symbol_sort_key": 26
   },
   "Naâma": {
     "average_temp": 17.87,
@@ -2389,7 +2433,9 @@
     "average_srad": 18910.078478964406,
     "average_wind": 3.450034380923583,
     "average_tmax": 24.646146844660198,
-    "average_tmin": 11.094680420711974
+    "average_tmin": 11.094680420711974,
+    "population": 133614,
+    "symbol_sort_key": 42
   },
   "M'Sila": {
     "average_temp": 18.78,
@@ -2493,7 +2539,9 @@
     "average_srad": 18014.052564102563,
     "average_wind": 3.4518128153605336,
     "average_tmax": 24.71823717948718,
-    "average_tmin": 12.845833333333337
+    "average_tmin": 12.845833333333337,
+    "population": 649795,
+    "symbol_sort_key": 6
   },
   "Mila": {
     "average_temp": 16.04,
@@ -2597,7 +2645,9 @@
     "average_srad": 17061.340277777777,
     "average_wind": 3.0478767255942034,
     "average_tmax": 21.666406249999998,
-    "average_tmin": 10.418402777777777
+    "average_tmin": 10.418402777777777,
+    "population": 363653,
+    "symbol_sort_key": 18
   },
   "Illizi": {
     "average_temp": 24.0,
@@ -2701,7 +2751,9 @@
     "average_srad": 21578.628258602712,
     "average_wind": 3.8692477791724538,
     "average_tmax": 31.5746513295099,
-    "average_tmin": 16.417706160931527
+    "average_tmin": 16.417706160931527,
+    "population": 26477,
+    "symbol_sort_key": 47
   },
   "Guelma": {
     "average_temp": 17.14,
@@ -2805,7 +2857,9 @@
     "average_srad": 16971.51785714286,
     "average_wind": 3.045657734076182,
     "average_tmax": 22.744866071428575,
-    "average_tmin": 11.544419642857143
+    "average_tmin": 11.544419642857143,
+    "population": 285467,
+    "symbol_sort_key": 35
   },
   "Djelfa": {
     "average_temp": 18.41,
@@ -2909,7 +2963,9 @@
     "average_srad": 18528.7087020649,
     "average_wind": 3.671513267147155,
     "average_tmax": 24.834255162241885,
-    "average_tmin": 11.99074483775811
+    "average_tmin": 11.99074483775811,
+    "population": 838968,
+    "symbol_sort_key": 3
   },
   "El Oued": {
     "average_temp": 23.83,
@@ -3013,7 +3069,9 @@
     "average_srad": 19294.003205128203,
     "average_wind": 3.7882438598789725,
     "average_tmax": 30.562439903846155,
-    "average_tmin": 17.092828525641025
+    "average_tmin": 17.092828525641025,
+    "population": 357631,
+    "symbol_sort_key": 20
   },
   "Batna": {
     "average_temp": 16.33,
@@ -3117,7 +3175,9 @@
     "average_srad": 17889.486111111113,
     "average_wind": 3.3813368072585455,
     "average_tmax": 21.95642361111111,
-    "average_tmin": 10.708829365079366
+    "average_tmin": 10.708829365079366,
+    "population": 679014,
+    "symbol_sort_key": 4
   },
   "Algiers": {
     "average_temp": 19.11,
@@ -3221,7 +3281,9 @@
     "average_srad": 16787.555555555555,
     "average_wind": 3.3307599425315852,
     "average_tmax": 24.569801584879556,
-    "average_tmin": 13.649338579177856
+    "average_tmin": 13.649338579177856,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Laghouat": {
     "average_temp": 18.82,
@@ -3325,7 +3387,9 @@
     "average_srad": 18974.36479591837,
     "average_wind": 3.816683246975854,
     "average_tmax": 25.52886904761905,
-    "average_tmin": 12.117091836734694
+    "average_tmin": 12.117091836734694,
+    "population": 309417,
+    "symbol_sort_key": 28
   },
   "Jijel": {
     "average_temp": 17.03,
@@ -3429,7 +3493,9 @@
     "average_srad": 16922.533333333333,
     "average_wind": 3.388085214296977,
     "average_tmax": 21.631910719871524,
-    "average_tmin": 12.422318445841471
+    "average_tmin": 12.422318445841471,
+    "population": 507748,
+    "symbol_sort_key": 31
   },
   "Mascara": {
     "average_temp": 18.6,
@@ -3533,7 +3599,9 @@
     "average_srad": 17139.2149122807,
     "average_wind": 2.879244512633273,
     "average_tmax": 24.936129385964904,
-    "average_tmin": 12.264144736842105
+    "average_tmin": 12.264144736842105,
+    "population": 568198,
+    "symbol_sort_key": 16
   },
   "Médéa": {
     "average_temp": 16.69,
@@ -3637,7 +3705,9 @@
     "average_srad": 17306.982758620692,
     "average_wind": 3.0701221268752517,
     "average_tmax": 21.973419540229884,
-    "average_tmin": 11.39698275862069
+    "average_tmin": 11.39698275862069,
+    "population": 640298,
+    "symbol_sort_key": 19
   },
   "Mostaganem": {
     "average_temp": 19.4,
@@ -3741,7 +3811,9 @@
     "average_srad": 16880.116666666665,
     "average_wind": 3.250482046604157,
     "average_tmax": 25.332635858853653,
-    "average_tmin": 13.463473219474158
+    "average_tmin": 13.463473219474158,
+    "population": 579290,
+    "symbol_sort_key": 21
   },
   "Tébessa": {
     "average_temp": 18.06,
@@ -3845,7 +3917,9 @@
     "average_srad": 18109.508333333328,
     "average_wind": 3.54566542506218,
     "average_tmax": 24.100604166666667,
-    "average_tmin": 12.012958333333335
+    "average_tmin": 12.012958333333335,
+    "population": 564404,
+    "symbol_sort_key": 24
   },
   "Boumerdès": {
     "average_temp": 18.68,
@@ -3949,7 +4023,9 @@
     "average_srad": 16854.666666666668,
     "average_wind": 3.18277462720871,
     "average_tmax": 23.912430524826053,
-    "average_tmin": 13.44245370864868
+    "average_tmin": 13.44245370864868,
+    "population": 639147,
+    "symbol_sort_key": 13
   },
   "Blida": {
     "average_temp": 18.17,
@@ -4053,7 +4129,9 @@
     "average_srad": 16892.430555555555,
     "average_wind": 3.1072013841734996,
     "average_tmax": 23.357986111111106,
-    "average_tmin": 12.979513888888889
+    "average_tmin": 12.979513888888889,
+    "population": 1073125,
+    "symbol_sort_key": 5
   },
   "Bejaia": {
     "average_temp": 17.53,
@@ -4157,7 +4235,9 @@
     "average_srad": 17042.315476190477,
     "average_wind": 3.3048021310851694,
     "average_tmax": 22.369211311567398,
-    "average_tmin": 12.695342262018293
+    "average_tmin": 12.695342262018293,
+    "population": 466277,
+    "symbol_sort_key": 15
   },
   "Tamanrasset": {
     "average_temp": 25.35,
@@ -4261,7 +4341,9 @@
     "average_srad": 22208.35869944212,
     "average_wind": 3.92392909174559,
     "average_tmax": 33.069071979602505,
-    "average_tmin": 17.63657110791492
+    "average_tmin": 17.63657110791492,
+    "population": 106006,
+    "symbol_sort_key": 45
   },
   "Khenchela": {
     "average_temp": 18.36,
@@ -4365,7 +4447,9 @@
     "average_srad": 18180.053030303032,
     "average_wind": 3.5223238745121037,
     "average_tmax": 24.40722853535353,
-    "average_tmin": 12.315372474747477
+    "average_tmin": 12.315372474747477,
+    "population": 196119,
+    "symbol_sort_key": 38
   },
   "Oran": {
     "average_temp": 18.83,
@@ -4469,7 +4553,9 @@
     "average_srad": 16920.761904761905,
     "average_wind": 3.214003877980368,
     "average_tmax": 24.821279761904762,
-    "average_tmin": 12.838690476190477
+    "average_tmin": 12.838690476190477,
+    "population": 1681963,
+    "symbol_sort_key": 1
   },
   "Bouira": {
     "average_temp": 17.2,
@@ -4573,7 +4659,9 @@
     "average_srad": 17207.925925925923,
     "average_wind": 2.9877974457210965,
     "average_tmax": 22.56064814814815,
-    "average_tmin": 11.844155092592594
+    "average_tmin": 11.844155092592594,
+    "population": 465994,
+    "symbol_sort_key": 25
   },
   "El Bayadh": {
     "average_temp": 19.98,
@@ -4677,7 +4765,9 @@
     "average_srad": 19551.689608636978,
     "average_wind": 3.8374329421684332,
     "average_tmax": 26.875729588394066,
-    "average_tmin": 13.075678981106615
+    "average_tmin": 13.075678981106615,
+    "population": 136445,
+    "symbol_sort_key": 44
   },
   "Annaba": {
     "average_temp": 18.74,
@@ -4781,7 +4871,9 @@
     "average_srad": 16658.766666666666,
     "average_wind": 3.38513666788737,
     "average_tmax": 23.54291667938232,
-    "average_tmin": 13.93395834604899
+    "average_tmin": 13.93395834604899,
+    "population": 743187,
+    "symbol_sort_key": 23
   },
   "Souk Ahras": {
     "average_temp": 16.54,
@@ -4885,7 +4977,9 @@
     "average_srad": 17198.56111111111,
     "average_wind": 3.2230902671813966,
     "average_tmax": 22.364166666666666,
-    "average_tmin": 10.714375000000002
+    "average_tmin": 10.714375000000002,
+    "population": 155259,
+    "symbol_sort_key": 34
   },
   "Tizi Ouzou": {
     "average_temp": 18.17,
@@ -4989,6 +5083,8 @@
     "average_srad": 16948.98148148148,
     "average_wind": 2.990655086658619,
     "average_tmax": 23.163310185185182,
-    "average_tmin": 13.185185185185183
+    "average_tmin": 13.185185185185183,
+    "population": 764961,
+    "symbol_sort_key": 9
   }
 }

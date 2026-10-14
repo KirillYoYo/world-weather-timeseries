@@ -101,7 +101,9 @@
     "average_srad": 21461.905906264943,
     "average_wind": 4.039671921718639,
     "average_tmax": 35.93777050454327,
-    "average_tmin": 21.045987266857964
+    "average_tmin": 21.045987266857964,
+    "population": 35170,
+    "symbol_sort_key": 11
   },
   "Assaba": {
     "average_temp": 30.66,
@@ -205,7 +207,9 @@
     "average_srad": 21186.924041297934,
     "average_wind": 2.8608727858657335,
     "average_tmax": 37.85353982300885,
-    "average_tmin": 23.474815634218288
+    "average_tmin": 23.474815634218288,
+    "population": 72529,
+    "symbol_sort_key": 3
   },
   "Brakna": {
     "average_temp": 30.87,
@@ -309,7 +313,9 @@
     "average_srad": 21330.83171521036,
     "average_wind": 3.043117314866446,
     "average_tmax": 38.07304813915858,
-    "average_tmin": 23.675647249190934
+    "average_tmin": 23.675647249190934,
+    "population": 47918,
+    "symbol_sort_key": 4
   },
   "Dakhlet Nouadhibou": {
     "average_temp": 25.26,
@@ -413,7 +419,9 @@
     "average_srad": 20590.86764705882,
     "average_wind": 5.384756178248163,
     "average_tmax": 31.444108902550994,
-    "average_tmin": 19.083744743446896
+    "average_tmin": 19.083744743446896,
+    "population": 173525,
+    "symbol_sort_key": 8
   },
   "Gorgol": {
     "average_temp": 31.13,
@@ -517,7 +525,9 @@
     "average_srad": 21136.936507936505,
     "average_wind": 2.5842524785844105,
     "average_tmax": 38.327728174603166,
-    "average_tmin": 23.923536706349207
+    "average_tmin": 23.923536706349207,
+    "population": 49152,
+    "symbol_sort_key": 2
   },
   "Guidimaka": {
     "average_temp": 30.36,
@@ -621,7 +631,9 @@
     "average_srad": 20810.0376344086,
     "average_wind": 2.4797224367177613,
     "average_tmax": 37.44415322580645,
-    "average_tmin": 23.269422043010753
+    "average_tmin": 23.269422043010753,
+    "population": 26420,
+    "symbol_sort_key": 6
   },
   "Hodh ech Chargui": {
     "average_temp": 29.69,
@@ -725,7 +737,9 @@
     "average_srad": 21364.940122377622,
     "average_wind": 3.1441163663819673,
     "average_tmax": 37.34406869172495,
-    "average_tmin": 22.0333351544289
+    "average_tmin": 22.0333351544289,
+    "population": 62259,
+    "symbol_sort_key": 1
   },
   "Hodh el Gharbi": {
     "average_temp": 30.5,
@@ -829,7 +843,9 @@
     "average_srad": 20979.45833333333,
     "average_wind": 2.8687440303299163,
     "average_tmax": 37.87876388888889,
-    "average_tmin": 23.122027777777777
+    "average_tmin": 23.122027777777777,
+    "population": 22796,
+    "symbol_sort_key": 5
   },
   "Inchiri": {
     "average_temp": 27.63,
@@ -933,7 +949,9 @@
     "average_srad": 20861.122377622378,
     "average_wind": 4.244803787389279,
     "average_tmax": 34.31578768505639,
-    "average_tmin": 20.941977467125668
+    "average_tmin": 20.941977467125668,
+    "population": 18138,
+    "symbol_sort_key": 12
   },
   "Nouakchott": {
     "average_temp": 26.56,
@@ -1037,7 +1055,9 @@
     "average_srad": 20808.63888888889,
     "average_wind": 4.913826399379306,
     "average_tmax": 33.17916666666667,
-    "average_tmin": 19.93784722222222
+    "average_tmin": 19.93784722222222,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Tagant": {
     "average_temp": 29.59,
@@ -1141,7 +1161,9 @@
     "average_srad": 21469.334795321636,
     "average_wind": 3.368616303574969,
     "average_tmax": 36.94670321637427,
-    "average_tmin": 22.229952485380114
+    "average_tmin": 22.229952485380114,
+    "population": 19386,
+    "symbol_sort_key": 9
   },
   "Tiris Zemmour": {
     "average_temp": 26.63,
@@ -1245,7 +1267,9 @@
     "average_srad": 21052.329513470046,
     "average_wind": 4.732613968259606,
     "average_tmax": 34.05480247285886,
-    "average_tmin": 19.21238188580619
+    "average_tmin": 19.21238188580619,
+    "population": 75626,
+    "symbol_sort_key": 10
   },
   "Trarza": {
     "average_temp": 28.92,
@@ -1349,6 +1373,8 @@
     "average_srad": 20994.67924528302,
     "average_wind": 3.5164351728539796,
     "average_tmax": 35.898614486058555,
-    "average_tmin": 21.944100598494213
+    "average_tmin": 21.944100598494213,
+    "population": 49054,
+    "symbol_sort_key": 7
   }
 }

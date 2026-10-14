@@ -101,7 +101,9 @@
     "average_srad": 19439.441176470587,
     "average_wind": 3.0961925741337257,
     "average_tmax": 27.03034838935574,
-    "average_tmin": 13.394353991596638
+    "average_tmin": 13.394353991596638,
+    "population": 30046,
+    "symbol_sort_key": 10
   },
   "Karak": {
     "average_temp": 20.74,
@@ -205,7 +207,9 @@
     "average_srad": 19371.63095238095,
     "average_wind": 2.7558154619875412,
     "average_tmax": 26.533035714285713,
-    "average_tmin": 14.95297619047619
+    "average_tmin": 14.95297619047619,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Madaba": {
     "average_temp": 20.6,
@@ -309,7 +313,9 @@
     "average_srad": 19274.111111111113,
     "average_wind": 2.721236079931259,
     "average_tmax": 25.779513888888886,
-    "average_tmin": 15.416319444444447
+    "average_tmin": 15.416319444444447,
+    "population": 84600,
+    "symbol_sort_key": 6
   },
   "Balqa": {
     "average_temp": 22.58,
@@ -413,7 +419,9 @@
     "average_srad": 19079.770833333332,
     "average_wind": 2.5909270693858466,
     "average_tmax": 27.76953125,
-    "average_tmin": 17.389583333333334
+    "average_tmin": 17.389583333333334,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Jerash": {
     "average_temp": 19.18,
@@ -517,7 +525,9 @@
     "average_srad": 19072.166666666668,
     "average_wind": 2.8535833160082498,
     "average_tmax": 24.653125000000003,
-    "average_tmin": 13.706249999999997
+    "average_tmin": 13.706249999999997,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Ajloun": {
     "average_temp": 18.88,
@@ -621,7 +631,9 @@
     "average_srad": 19008.0,
     "average_wind": 2.898729125658671,
     "average_tmax": 23.941666666666666,
-    "average_tmin": 13.814583333333337
+    "average_tmin": 13.814583333333337,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Irbid": {
     "average_temp": 20.4,
@@ -725,7 +737,9 @@
     "average_srad": 18784.714285714283,
     "average_wind": 2.6542202418758754,
     "average_tmax": 25.819791666666664,
-    "average_tmin": 14.98482142857143
+    "average_tmin": 14.98482142857143,
+    "population": 1105410,
+    "symbol_sort_key": 1
   },
   "Mafraq": {
     "average_temp": 20.02,
@@ -829,7 +843,9 @@
     "average_srad": 19243.094202898552,
     "average_wind": 3.2191847815461787,
     "average_tmax": 27.05435914855073,
-    "average_tmin": 12.98925498188406
+    "average_tmin": 12.98925498188406,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Tafilah": {
     "average_temp": 19.71,
@@ -933,7 +949,9 @@
     "average_srad": 19486.277777777774,
     "average_wind": 2.754746543036567,
     "average_tmax": 25.762152777777782,
-    "average_tmin": 13.652604166666665
+    "average_tmin": 13.652604166666665,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Aqaba": {
     "average_temp": 20.95,
@@ -1037,7 +1055,9 @@
     "average_srad": 19640.216666666667,
     "average_wind": 3.194110422333081,
     "average_tmax": 27.240104166666665,
-    "average_tmin": 14.667239583333332
+    "average_tmin": 14.667239583333332,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Amman": {
     "average_temp": 19.61,
@@ -1141,7 +1161,9 @@
     "average_srad": 19157.24666666667,
     "average_wind": 3.000051656564077,
     "average_tmax": 25.803083333333333,
-    "average_tmin": 13.426374999999998
+    "average_tmin": 13.426374999999998,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Zarqa": {
     "average_temp": 20.56,
@@ -1245,6 +1267,8 @@
     "average_srad": 19134.244444444445,
     "average_wind": 3.085626390245226,
     "average_tmax": 26.9025,
-    "average_tmin": 14.208541666666667
+    "average_tmin": 14.208541666666667,
+    "population": 0,
+    "symbol_sort_key": 2
   }
 }

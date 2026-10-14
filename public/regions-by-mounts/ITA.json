@@ -101,7 +101,9 @@
     "average_srad": 13697.65682137834,
     "average_wind": 1.913848095847249,
     "average_tmax": 15.974810526340825,
-    "average_tmin": 6.786877724338644
+    "average_tmin": 6.786877724338644,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Nord-Est": {
     "average_temp": 11.77,
@@ -205,7 +207,9 @@
     "average_srad": 12781.059477124183,
     "average_wind": 1.8432613408059073,
     "average_tmax": 16.48274264650407,
-    "average_tmin": 7.051253150856376
+    "average_tmin": 7.051253150856376,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Centro": {
     "average_temp": 14.75,
@@ -309,7 +313,9 @@
     "average_srad": 14148.910116448327,
     "average_wind": 2.340790125523766,
     "average_tmax": 19.373835416548115,
-    "average_tmin": 10.12532505281107
+    "average_tmin": 10.12532505281107,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Sud": {
     "average_temp": 15.35,
@@ -413,7 +419,9 @@
     "average_srad": 14811.671672555947,
     "average_wind": 2.993655180657289,
     "average_tmax": 19.171446107578053,
-    "average_tmin": 11.533441796962249
+    "average_tmin": 11.533441796962249,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Isole": {
     "average_temp": 17.06,
@@ -517,6 +525,8 @@
     "average_srad": 15993.393243243243,
     "average_wind": 3.32496782696999,
     "average_tmax": 21.014179190128772,
-    "average_tmin": 13.106900624197882
+    "average_tmin": 13.106900624197882,
+    "population": 0,
+    "symbol_sort_key": 4
   }
 }

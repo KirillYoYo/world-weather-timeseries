@@ -101,7 +101,9 @@
     "average_srad": 14867.333333333334,
     "average_wind": 2.216500004132589,
     "average_tmax": 23.5,
-    "average_tmin": 14.035416666666668
+    "average_tmin": 14.035416666666668,
+    "population": 0,
+    "symbol_sort_key": 30
   },
   "North Khorasan": {
     "average_temp": 14.06,
@@ -205,7 +207,9 @@
     "average_srad": 16814.12385321101,
     "average_wind": 2.4581471721695833,
     "average_tmax": 20.292478975535165,
-    "average_tmin": 7.824741972477065
+    "average_tmin": 7.824741972477065,
+    "population": 0,
+    "symbol_sort_key": 24
   },
   "Kerman": {
     "average_temp": 21.02,
@@ -309,7 +313,9 @@
     "average_srad": 19318.27481974487,
     "average_wind": 2.695491086226731,
     "average_tmax": 27.574057127010537,
-    "average_tmin": 14.46128674431503
+    "average_tmin": 14.46128674431503,
+    "population": 1803881,
+    "symbol_sort_key": 8
   },
   "Ilam": {
     "average_temp": 21.65,
@@ -413,7 +419,9 @@
     "average_srad": 18232.645833333332,
     "average_wind": 2.882045041550608,
     "average_tmax": 28.85147058823529,
-    "average_tmin": 14.446599264705883
+    "average_tmin": 14.446599264705883,
+    "population": 127945,
+    "symbol_sort_key": 29
   },
   "Lorestan": {
     "average_temp": 16.59,
@@ -517,7 +525,9 @@
     "average_srad": 17855.175347222223,
     "average_wind": 2.453481764946547,
     "average_tmax": 23.967838541666666,
-    "average_tmin": 9.205501302083334
+    "average_tmin": 9.205501302083334,
+    "population": 1059955,
+    "symbol_sort_key": 15
   },
   "Markazi": {
     "average_temp": 14.56,
@@ -621,7 +631,9 @@
     "average_srad": 17503.770627062706,
     "average_wind": 2.257840544378797,
     "average_tmax": 21.515862211221123,
-    "average_tmin": 7.605497112211222
+    "average_tmin": 7.605497112211222,
+    "population": 1059404,
+    "symbol_sort_key": 18
   },
   "Chaharmahal and Bakhtiari": {
     "average_temp": 14.04,
@@ -725,7 +737,9 @@
     "average_srad": 18484.533625730994,
     "average_wind": 1.9992551143057862,
     "average_tmax": 21.237774122807018,
-    "average_tmin": 6.832309941520467
+    "average_tmin": 6.832309941520467,
+    "population": 0,
+    "symbol_sort_key": 25
   },
   "Kermanshah": {
     "average_temp": 16.45,
@@ -829,7 +843,9 @@
     "average_srad": 17706.749063670413,
     "average_wind": 2.5811079090900635,
     "average_tmax": 23.85573501872659,
-    "average_tmin": 9.050994850187266
+    "average_tmin": 9.050994850187266,
+    "population": 1318288,
+    "symbol_sort_key": 11
   },
   "Hamadan": {
     "average_temp": 12.57,
@@ -933,7 +949,9 @@
     "average_srad": 17158.310714285715,
     "average_wind": 2.3376008862540836,
     "average_tmax": 20.34625,
-    "average_tmin": 4.798035714285715
+    "average_tmin": 4.798035714285715,
+    "population": 1045429,
+    "symbol_sort_key": 13
   },
   "Qazvin": {
     "average_temp": 13.97,
@@ -1037,7 +1055,9 @@
     "average_srad": 16235.073099415209,
     "average_wind": 2.4409996314704068,
     "average_tmax": 20.888559941520466,
-    "average_tmin": 7.053563596491229
+    "average_tmin": 7.053563596491229,
+    "population": 769193,
+    "symbol_sort_key": 20
   },
   "Gilan": {
     "average_temp": 14.0,
@@ -1141,7 +1161,9 @@
     "average_srad": 14548.614779874217,
     "average_wind": 2.28811870074872,
     "average_tmax": 19.014485062893083,
-    "average_tmin": 8.981584119496857
+    "average_tmin": 8.981584119496857,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Zanjan": {
     "average_temp": 12.18,
@@ -1245,7 +1267,9 @@
     "average_srad": 16261.377705627709,
     "average_wind": 2.385972121706257,
     "average_tmax": 19.200622294372295,
-    "average_tmin": 5.161823593073593
+    "average_tmin": 5.161823593073593,
+    "population": 647274,
+    "symbol_sort_key": 23
   },
   "Semnan": {
     "average_temp": 19.32,
@@ -1349,7 +1373,9 @@
     "average_srad": 17486.386752136754,
     "average_wind": 2.395415241477157,
     "average_tmax": 25.51723943494777,
-    "average_tmin": 13.118607549857549
+    "average_tmin": 13.118607549857549,
+    "population": 547565,
+    "symbol_sort_key": 28
   },
   "Isfahan": {
     "average_temp": 17.97,
@@ -1453,7 +1479,9 @@
     "average_srad": 18396.124327956986,
     "average_wind": 2.2871571383222027,
     "average_tmax": 24.827343749999997,
-    "average_tmin": 11.108014112903225
+    "average_tmin": 11.108014112903225,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Kohgiluyeh and Boyer-Ahmad": {
     "average_temp": 19.88,
@@ -1557,7 +1585,9 @@
     "average_srad": 18803.147435897434,
     "average_wind": 2.4145308507558627,
     "average_tmax": 26.975200320512815,
-    "average_tmin": 12.794110576923076
+    "average_tmin": 12.794110576923076,
+    "population": 0,
+    "symbol_sort_key": 27
   },
   "Kurdistan": {
     "average_temp": 12.39,
@@ -1661,7 +1691,9 @@
     "average_srad": 17015.673202614376,
     "average_wind": 2.3159632267905215,
     "average_tmax": 19.714532271241833,
-    "average_tmin": 5.060222630718954
+    "average_tmin": 5.060222630718954,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "West Azerbaijan": {
     "average_temp": 11.82,
@@ -1765,7 +1797,9 @@
     "average_srad": 16637.592528735633,
     "average_wind": 2.1171547337510117,
     "average_tmax": 18.076271551724137,
-    "average_tmin": 5.555675287356322
+    "average_tmin": 5.555675287356322,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Fars": {
     "average_temp": 20.05,
@@ -1869,7 +1903,9 @@
     "average_srad": 19569.186371100168,
     "average_wind": 2.5548761257005643,
     "average_tmax": 26.974107142857147,
-    "average_tmin": 13.121692836617404
+    "average_tmin": 13.121692836617404,
+    "population": 2676050,
+    "symbol_sort_key": 4
   },
   "Bushehr": {
     "average_temp": 25.22,
@@ -1973,7 +2009,9 @@
     "average_srad": 19354.572368421053,
     "average_wind": 3.3285432847445464,
     "average_tmax": 31.458284362575466,
-    "average_tmin": 18.982142217117442
+    "average_tmin": 18.982142217117442,
+    "population": 781923,
+    "symbol_sort_key": 17
   },
   "Ardabil": {
     "average_temp": 11.64,
@@ -2077,7 +2115,9 @@
     "average_srad": 15064.31038647343,
     "average_wind": 2.3040715497760957,
     "average_tmax": 17.819127415458937,
-    "average_tmin": 5.46574577294686
+    "average_tmin": 5.46574577294686,
+    "population": 710925,
+    "symbol_sort_key": 21
   },
   "Golestan": {
     "average_temp": 17.34,
@@ -2181,7 +2221,9 @@
     "average_srad": 15291.661111111107,
     "average_wind": 2.416806662744946,
     "average_tmax": 22.961208333333335,
-    "average_tmin": 11.727763888888889
+    "average_tmin": 11.727763888888889,
+    "population": 890555,
+    "symbol_sort_key": 12
   },
   "Razavi Khorasan": {
     "average_temp": 16.26,
@@ -2285,7 +2327,9 @@
     "average_srad": 17735.962067610064,
     "average_wind": 2.4729442773562558,
     "average_tmax": 23.021457350628932,
-    "average_tmin": 9.501749213836478
+    "average_tmin": 9.501749213836478,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "South Khorasan": {
     "average_temp": 20.53,
@@ -2389,7 +2433,9 @@
     "average_srad": 18615.73503861004,
     "average_wind": 2.7531826277880747,
     "average_tmax": 27.93358067889318,
-    "average_tmin": 13.123618484555983
+    "average_tmin": 13.123618484555983,
+    "population": 0,
+    "symbol_sort_key": 26
   },
   "Sistan and Baluchestan": {
     "average_temp": 24.34,
@@ -2493,7 +2539,9 @@
     "average_srad": 19451.50476190476,
     "average_wind": 2.839649847224981,
     "average_tmax": 31.117677561655768,
-    "average_tmin": 17.56799684569949
+    "average_tmin": 17.56799684569949,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Qom": {
     "average_temp": 19.0,
@@ -2597,7 +2645,9 @@
     "average_srad": 17561.729674796745,
     "average_wind": 2.458066059321892,
     "average_tmax": 25.393318089430895,
-    "average_tmin": 12.598475609756095
+    "average_tmin": 12.598475609756095,
+    "population": 1210545,
+    "symbol_sort_key": 19
   },
   "Alborz": {
     "average_temp": 13.21,
@@ -2701,7 +2751,9 @@
     "average_srad": 16604.948412698413,
     "average_wind": 2.318713295081305,
     "average_tmax": 19.273164682539683,
-    "average_tmin": 7.140327380952382
+    "average_tmin": 7.140327380952382,
+    "population": 2645921,
+    "symbol_sort_key": 7
   },
   "East Azerbaijan": {
     "average_temp": 11.72,
@@ -2805,7 +2857,9 @@
     "average_srad": 15993.978448275862,
     "average_wind": 2.280739938904499,
     "average_tmax": 17.895282567049808,
-    "average_tmin": 5.549838362068965
+    "average_tmin": 5.549838362068965,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Yazd": {
     "average_temp": 19.34,
@@ -2909,7 +2963,9 @@
     "average_srad": 18887.182270916335,
     "average_wind": 2.461919402795167,
     "average_tmax": 26.813271912350597,
-    "average_tmin": 11.876577025232406
+    "average_tmin": 11.876577025232406,
+    "population": 900635,
+    "symbol_sort_key": 22
   },
   "Hormozgan": {
     "average_temp": 26.11,
@@ -3013,7 +3069,9 @@
     "average_srad": 20087.987734487735,
     "average_wind": 3.018401581573624,
     "average_tmax": 30.81706790180949,
-    "average_tmin": 21.396846104631518
+    "average_tmin": 21.396846104631518,
+    "population": 713491,
+    "symbol_sort_key": 14
   },
   "Khuzestan": {
     "average_temp": 25.54,
@@ -3117,7 +3175,9 @@
     "average_srad": 18372.34799382716,
     "average_wind": 2.912857404645578,
     "average_tmax": 32.768082466096054,
-    "average_tmin": 18.315512013435363
+    "average_tmin": 18.315512013435363,
+    "population": 4210047,
+    "symbol_sort_key": 3
   },
   "Tehran": {
     "average_temp": 15.66,
@@ -3221,6 +3281,8 @@
     "average_srad": 17171.74131944445,
     "average_wind": 2.2900169191675057,
     "average_tmax": 21.532161458333334,
-    "average_tmin": 9.789973958333333
+    "average_tmin": 9.789973958333333,
+    "population": 17305604,
+    "symbol_sort_key": 0
   }
 }

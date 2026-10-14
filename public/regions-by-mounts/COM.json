@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 18277,
+    "symbol_sort_key": 1
   },
   "Anjouan": {
     "average_temp": 23.54,
@@ -205,7 +207,9 @@
     "average_srad": 20701.166666666668,
     "average_wind": 3.6284722089767456,
     "average_tmax": 27.488461367289222,
-    "average_tmin": 19.59358952840169
+    "average_tmin": 19.59358952840169,
+    "population": 113243,
+    "symbol_sort_key": 2
   },
   "Grande Comore": {
     "average_temp": 22.6,
@@ -309,6 +313,8 @@
     "average_srad": 20336.083333333332,
     "average_wind": 3.6814046005407968,
     "average_tmax": 26.73198728561401,
-    "average_tmin": 18.477628223101295
+    "average_tmin": 18.477628223101295,
+    "population": 125217,
+    "symbol_sort_key": 0
   }
 }

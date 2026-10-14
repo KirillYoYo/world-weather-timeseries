@@ -101,7 +101,9 @@
     "average_srad": 20724.375,
     "average_wind": 2.5904999723037085,
     "average_tmax": 28.724218750000002,
-    "average_tmin": 12.223177083333333
+    "average_tmin": 12.223177083333333,
+    "population": 83277,
+    "symbol_sort_key": 2
   },
   "Kgatleng District": {
     "average_temp": 21.94,
@@ -205,7 +207,9 @@
     "average_srad": 20570.093333333334,
     "average_wind": 2.4343124838670094,
     "average_tmax": 30.455833333333334,
-    "average_tmin": 13.417583333333335
+    "average_tmin": 13.417583333333335,
+    "population": 44339,
+    "symbol_sort_key": 6
   },
   "North-East District": {
     "average_temp": 21.56,
@@ -309,7 +313,9 @@
     "average_srad": 20524.466666666667,
     "average_wind": 2.509705544842614,
     "average_tmax": 28.874513888888888,
-    "average_tmin": 14.241180555555554
+    "average_tmin": 14.241180555555554,
+    "population": 5696,
+    "symbol_sort_key": 5
   },
   "Central District": {
     "average_temp": 22.76,
@@ -413,7 +419,9 @@
     "average_srad": 20696.069206008582,
     "average_wind": 2.596743198252884,
     "average_tmax": 30.663523783977112,
-    "average_tmin": 14.86619724606581
+    "average_tmin": 14.86619724606581,
+    "population": 199895,
+    "symbol_sort_key": 0
   },
   "Ghanzi District": {
     "average_temp": 22.72,
@@ -517,7 +525,9 @@
     "average_srad": 21604.692237442923,
     "average_wind": 2.6907328151676757,
     "average_tmax": 31.237237442922375,
-    "average_tmin": 14.203359018264841
+    "average_tmin": 14.203359018264841,
+    "population": 21420,
+    "symbol_sort_key": 8
   },
   "Kweneng District": {
     "average_temp": 22.35,
@@ -621,7 +631,9 @@
     "average_srad": 21194.755747126434,
     "average_wind": 2.779885776512239,
     "average_tmax": 30.878987068965515,
-    "average_tmin": 13.823976293103449
+    "average_tmin": 13.823976293103449,
+    "population": 227317,
+    "symbol_sort_key": 1
   },
   "Southern District": {
     "average_temp": 21.73,
@@ -725,7 +737,9 @@
     "average_srad": 21244.912921348314,
     "average_wind": 2.8091004238593,
     "average_tmax": 30.34820926966292,
-    "average_tmin": 13.11191479400749
+    "average_tmin": 13.11191479400749,
+    "population": 86592,
+    "symbol_sort_key": 3
   },
   "Kgalagadi District": {
     "average_temp": 21.82,
@@ -829,7 +843,9 @@
     "average_srad": 21953.98003992016,
     "average_wind": 2.6476757765530112,
     "average_tmax": 30.876553143712574,
-    "average_tmin": 12.754456711576845
+    "average_tmin": 12.754456711576845,
+    "population": 12696,
+    "symbol_sort_key": 7
   },
   "North-West District": {
     "average_temp": 23.65,
@@ -933,7 +949,9 @@
     "average_srad": 20923.367202729045,
     "average_wind": 2.638606062351379,
     "average_tmax": 31.796649610136452,
-    "average_tmin": 15.499406067251458
+    "average_tmin": 15.499406067251458,
+    "population": 89222,
+    "symbol_sort_key": 4
   },
   "Chobe District": {
     "average_temp": 24.04,
@@ -1037,6 +1055,8 @@
     "average_srad": 20070.159090909092,
     "average_wind": 2.7387026476137564,
     "average_tmax": 32.08645833333333,
-    "average_tmin": 15.995675505050505
+    "average_tmin": 15.995675505050505,
+    "population": 9008,
+    "symbol_sort_key": 9
   }
 }

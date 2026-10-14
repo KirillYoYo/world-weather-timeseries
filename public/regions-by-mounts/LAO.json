@@ -101,7 +101,9 @@
     "average_srad": 17379.785714285714,
     "average_wind": 1.2536964291820722,
     "average_tmax": 30.133184523809522,
-    "average_tmin": 19.28643707482993
+    "average_tmin": 19.28643707482993,
+    "population": 75700,
+    "symbol_sort_key": 7
   },
   "Attapeu": {
     "average_temp": 25.52,
@@ -205,7 +207,9 @@
     "average_srad": 19281.66388888889,
     "average_wind": 1.7676034645901788,
     "average_tmax": 29.271284722222223,
-    "average_tmin": 21.770138888888884
+    "average_tmin": 21.770138888888884,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Bokeo": {
     "average_temp": 24.63,
@@ -309,7 +313,9 @@
     "average_srad": 17354.733333333334,
     "average_wind": 1.1413156216343245,
     "average_tmax": 30.015729166666663,
-    "average_tmin": 19.236718749999998
+    "average_tmin": 19.236718749999998,
+    "population": 17687,
+    "symbol_sort_key": 14
   },
   "Bolikhamsai": {
     "average_temp": 23.14,
@@ -413,7 +419,9 @@
     "average_srad": 17047.613475177302,
     "average_wind": 1.5125780169000016,
     "average_tmax": 27.10538563829787,
-    "average_tmin": 19.182491134751775
+    "average_tmin": 19.182491134751775,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Champasak": {
     "average_temp": 26.3,
@@ -517,7 +525,9 @@
     "average_srad": 19606.958333333332,
     "average_wind": 1.7327051648627159,
     "average_tmax": 30.64227807971014,
-    "average_tmin": 21.951947463768118
+    "average_tmin": 21.951947463768118,
+    "population": 182576,
+    "symbol_sort_key": 2
   },
   "Houaphan": {
     "average_temp": 20.92,
@@ -621,7 +631,9 @@
     "average_srad": 15444.648809523807,
     "average_wind": 1.7072053470072293,
     "average_tmax": 24.843340773809526,
-    "average_tmin": 16.994549851190477
+    "average_tmin": 16.994549851190477,
+    "population": 56900,
+    "symbol_sort_key": 13
   },
   "Khammouane": {
     "average_temp": 24.42,
@@ -725,7 +737,9 @@
     "average_srad": 18056.964743589742,
     "average_wind": 1.536126600053066,
     "average_tmax": 28.26702724358974,
-    "average_tmin": 20.573477564102564
+    "average_tmin": 20.573477564102564,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Luang Namtha": {
     "average_temp": 23.03,
@@ -829,7 +843,9 @@
     "average_srad": 16741.4609375,
     "average_wind": 1.2419863318403561,
     "average_tmax": 28.3634765625,
-    "average_tmin": 17.692317708333334
+    "average_tmin": 17.692317708333334,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Luang Prabang": {
     "average_temp": 23.1,
@@ -933,7 +949,9 @@
     "average_srad": 16156.22307692308,
     "average_wind": 1.4681509618575757,
     "average_tmax": 27.864919871794868,
-    "average_tmin": 18.326602564102565
+    "average_tmin": 18.326602564102565,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Oudomxay": {
     "average_temp": 23.35,
@@ -1037,7 +1055,9 @@
     "average_srad": 16515.328703703704,
     "average_wind": 1.320473962497932,
     "average_tmax": 28.619965277777776,
-    "average_tmin": 18.07702546296296
+    "average_tmin": 18.07702546296296,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Phongsaly": {
     "average_temp": 21.68,
@@ -1141,7 +1161,9 @@
     "average_srad": 15832.58843537415,
     "average_wind": 1.4668333331743877,
     "average_tmax": 26.429634353741495,
-    "average_tmin": 16.93690476190476
+    "average_tmin": 16.93690476190476,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Salavan": {
     "average_temp": 25.55,
@@ -1245,7 +1267,9 @@
     "average_srad": 19136.880952380954,
     "average_wind": 1.6806815525605565,
     "average_tmax": 29.773883928571426,
-    "average_tmin": 21.32146577380952
+    "average_tmin": 21.32146577380952,
+    "population": 100900,
+    "symbol_sort_key": 6
   },
   "Savannakhet": {
     "average_temp": 26.03,
@@ -1349,7 +1373,9 @@
     "average_srad": 18924.678385416668,
     "average_wind": 1.5506191433717806,
     "average_tmax": 30.24422200520834,
-    "average_tmin": 21.810009765625
+    "average_tmin": 21.810009765625,
+    "population": 124000,
+    "symbol_sort_key": 1
   },
   "Vientiane Capital": {
     "average_temp": 26.18,
@@ -1453,7 +1479,9 @@
     "average_srad": 17362.6,
     "average_wind": 1.2967500001192092,
     "average_tmax": 31.04791666666667,
-    "average_tmin": 21.303124999999998
+    "average_tmin": 21.303124999999998,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Vientiane": {
     "average_temp": 25.19,
@@ -1557,7 +1585,9 @@
     "average_srad": 17175.955128205132,
     "average_wind": 1.3178878188387961,
     "average_tmax": 30.18106303418804,
-    "average_tmin": 20.19300213675214
+    "average_tmin": 20.19300213675214,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Xaisomboun": {
     "average_temp": 22.52,
@@ -1661,7 +1691,9 @@
     "average_srad": 16669.33680555556,
     "average_wind": 1.574570308956835,
     "average_tmax": 26.923350694444448,
-    "average_tmin": 18.120095486111108
+    "average_tmin": 18.120095486111108,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Xekong": {
     "average_temp": 22.8,
@@ -1765,7 +1797,9 @@
     "average_srad": 18616.240384615387,
     "average_wind": 1.8777395781034079,
     "average_tmax": 26.61133814102564,
-    "average_tmin": 18.987820512820516
+    "average_tmin": 18.987820512820516,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Xiangkhouang": {
     "average_temp": 21.08,
@@ -1869,6 +1903,8 @@
     "average_srad": 16057.100877192983,
     "average_wind": 1.7051836466580106,
     "average_tmax": 25.326672149122803,
-    "average_tmin": 16.83478618421053
+    "average_tmin": 16.83478618421053,
+    "population": 304679,
+    "symbol_sort_key": 10
   }
 }

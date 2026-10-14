@@ -101,7 +101,9 @@
     "average_srad": 11299.978333333334,
     "average_wind": 3.9745183376471203,
     "average_tmax": 16.656458333333333,
-    "average_tmin": 7.943666666666668
+    "average_tmin": 7.943666666666668,
+    "population": 19517762,
+    "symbol_sort_key": 0
   },
   "Centre-Val de Loire": {
     "average_temp": 12.75,
@@ -205,7 +207,9 @@
     "average_srad": 11804.939176245212,
     "average_wind": 3.718459763403596,
     "average_tmax": 17.50387332375479,
-    "average_tmin": 7.996886973180078
+    "average_tmin": 7.996886973180078,
+    "population": 1140926,
+    "symbol_sort_key": 11
   },
   "Bourgogne-Franche-Comté": {
     "average_temp": 11.71,
@@ -309,7 +313,9 @@
     "average_srad": 11883.660685805422,
     "average_wind": 3.0957485040979527,
     "average_tmax": 16.31541566985646,
-    "average_tmin": 7.102352472089315
+    "average_tmin": 7.102352472089315,
+    "population": 815664,
+    "symbol_sort_key": 10
   },
   "Normandie": {
     "average_temp": 12.26,
@@ -413,7 +419,9 @@
     "average_srad": 10999.655852417302,
     "average_wind": 4.49229842272727,
     "average_tmax": 16.071056973175846,
-    "average_tmin": 8.45637033216219
+    "average_tmin": 8.45637033216219,
+    "population": 1532374,
+    "symbol_sort_key": 9
   },
   "Hauts-de-France": {
     "average_temp": 11.8,
@@ -517,7 +525,9 @@
     "average_srad": 10600.94313063063,
     "average_wind": 4.379781650261836,
     "average_tmax": 15.76962150050713,
-    "average_tmin": 7.8232552921718295
+    "average_tmin": 7.8232552921718295,
+    "population": 3667794,
+    "symbol_sort_key": 4
   },
   "Grand Est": {
     "average_temp": 11.47,
@@ -621,7 +631,9 @@
     "average_srad": 11283.546113306982,
     "average_wind": 3.323538866910067,
     "average_tmax": 16.06469449934124,
-    "average_tmin": 6.883378623188406
+    "average_tmin": 6.883378623188406,
+    "population": 2141264,
+    "symbol_sort_key": 5
   },
   "Pays de la Loire": {
     "average_temp": 13.25,
@@ -725,7 +737,9 @@
     "average_srad": 12042.987132352939,
     "average_wind": 3.8867443431826203,
     "average_tmax": 17.64586019001755,
-    "average_tmin": 8.856528222151832
+    "average_tmin": 8.856528222151832,
+    "population": 2119260,
+    "symbol_sort_key": 7
   },
   "Bretagne": {
     "average_temp": 12.87,
@@ -829,7 +843,9 @@
     "average_srad": 11564.095338983052,
     "average_wind": 4.561842815855802,
     "average_tmax": 16.42900772404536,
-    "average_tmin": 9.317955327033996
+    "average_tmin": 9.317955327033996,
+    "population": 1301982,
+    "symbol_sort_key": 8
   },
   "Nouvelle-Aquitaine": {
     "average_temp": 13.8,
@@ -933,7 +949,9 @@
     "average_srad": 12638.760000000002,
     "average_wind": 3.064309615719886,
     "average_tmax": 18.669176191466196,
-    "average_tmin": 8.926626119681767
+    "average_tmin": 8.926626119681767,
+    "population": 3081746,
+    "symbol_sort_key": 3
   },
   "Occitanie": {
     "average_temp": 13.23,
@@ -1037,7 +1055,9 @@
     "average_srad": 13690.954648526078,
     "average_wind": 3.915385812250665,
     "average_tmax": 18.197919204986555,
-    "average_tmin": 8.253179941858564
+    "average_tmin": 8.253179941858564,
+    "population": 3373605,
+    "symbol_sort_key": 2
   },
   "Auvergne-Rhône-Alpes": {
     "average_temp": 10.89,
@@ -1141,7 +1161,9 @@
     "average_srad": 13018.18742889647,
     "average_wind": 3.325943399987801,
     "average_tmax": 15.654547070534697,
-    "average_tmin": 6.123275739476676
+    "average_tmin": 6.123275739476676,
+    "population": 4921644,
+    "symbol_sort_key": 1
   },
   "Provence-Alpes-Côte d'Azur": {
     "average_temp": 12.18,
@@ -1245,7 +1267,9 @@
     "average_srad": 14987.44133333333,
     "average_wind": 3.7419667318662007,
     "average_tmax": 17.05766630007426,
-    "average_tmin": 7.299533224868775
+    "average_tmin": 7.299533224868775,
+    "population": 5324078,
+    "symbol_sort_key": 6
   },
   "Corse": {
     "average_temp": 15.0,
@@ -1349,6 +1373,8 @@
     "average_srad": 15187.716145833334,
     "average_wind": 4.395643922189872,
     "average_tmax": 18.781864152352018,
-    "average_tmin": 11.227695314213632
+    "average_tmin": 11.227695314213632,
+    "population": 0,
+    "symbol_sort_key": 12
   }
 }

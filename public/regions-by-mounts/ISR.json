@@ -101,7 +101,9 @@
     "average_srad": 19609.82993197279,
     "average_wind": 2.885630139485509,
     "average_tmax": 27.19517148595278,
-    "average_tmin": 15.382864228884378
+    "average_tmin": 15.382864228884378,
+    "population": 974262,
+    "symbol_sort_key": 3
   },
   "Central District": {
     "average_temp": 20.97,
@@ -205,7 +207,9 @@
     "average_srad": 18990.125,
     "average_wind": 3.0886130332946777,
     "average_tmax": 26.01173609892528,
-    "average_tmin": 15.93034722606341
+    "average_tmin": 15.93034722606341,
+    "population": 1792104,
+    "symbol_sort_key": 0
   },
   "Jerusalem District": {
     "average_temp": 19.44,
@@ -309,7 +313,9 @@
     "average_srad": 19200.5,
     "average_wind": 2.9878958066304526,
     "average_tmax": 24.400000000000002,
-    "average_tmin": 14.481250000000001
+    "average_tmin": 14.481250000000001,
+    "population": 1067054,
+    "symbol_sort_key": 4
   },
   "Tel Aviv": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2343287,
+    "symbol_sort_key": 2
   },
   "Haifa": {
     "average_temp": 20.91,
@@ -517,7 +525,9 @@
     "average_srad": 18603.916666666668,
     "average_wind": 3.2626815338929496,
     "average_tmax": 25.696875000000002,
-    "average_tmin": 16.129166666666666
+    "average_tmin": 16.129166666666666,
+    "population": 1107276,
+    "symbol_sort_key": 5
   },
   "Northern District": {
     "average_temp": 20.62,
@@ -621,6 +631,8 @@
     "average_srad": 18335.21794871795,
     "average_wind": 2.853628137936959,
     "average_tmax": 25.613888883590704,
-    "average_tmin": 15.626682684971735
+    "average_tmin": 15.626682684971735,
+    "population": 637189,
+    "symbol_sort_key": 1
   }
 }

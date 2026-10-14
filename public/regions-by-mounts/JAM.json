@@ -101,7 +101,9 @@
     "average_srad": 19126.6,
     "average_wind": 2.783941360314687,
     "average_tmax": 27.76898808161418,
-    "average_tmin": 19.04744045893351
+    "average_tmin": 19.04744045893351,
+    "population": 30342,
+    "symbol_sort_key": 5
   },
   "Trelawny": {
     "average_temp": 24.78,
@@ -205,7 +207,9 @@
     "average_srad": 19422.666666666668,
     "average_wind": 2.7770854284365973,
     "average_tmax": 29.210156249999997,
-    "average_tmin": 20.357812499999998
+    "average_tmin": 20.357812499999998,
+    "population": 7779,
+    "symbol_sort_key": 12
   },
   "Saint Mary": {
     "average_temp": 24.95,
@@ -309,7 +313,9 @@
     "average_srad": 19280.291666666668,
     "average_wind": 2.9642713169256845,
     "average_tmax": 28.830969476699824,
-    "average_tmin": 21.070192146301267
+    "average_tmin": 21.070192146301267,
+    "population": 122467,
+    "symbol_sort_key": 8
   },
   "Portland": {
     "average_temp": 22.6,
@@ -413,7 +419,9 @@
     "average_srad": 18793.416666666668,
     "average_wind": 2.7855074604352317,
     "average_tmax": 26.350000000000005,
-    "average_tmin": 18.848958333333332
+    "average_tmin": 18.848958333333332,
+    "population": 14816,
+    "symbol_sort_key": 11
   },
   "Saint James": {
     "average_temp": 26.24,
@@ -517,7 +525,9 @@
     "average_srad": 19592.333333333332,
     "average_wind": 3.0158119797706604,
     "average_tmax": 30.671111075083417,
-    "average_tmin": 21.801111125946047
+    "average_tmin": 21.801111125946047,
+    "population": 123994,
+    "symbol_sort_key": 4
   },
   "Hanover": {
     "average_temp": 26.81,
@@ -621,7 +631,9 @@
     "average_srad": 19741.166666666668,
     "average_wind": 3.0134703318277993,
     "average_tmax": 31.17692321141561,
-    "average_tmin": 22.43717959721883
+    "average_tmin": 22.43717959721883,
+    "population": 6002,
+    "symbol_sort_key": 13
   },
   "Westmoreland": {
     "average_temp": 27.03,
@@ -725,7 +737,9 @@
     "average_srad": 19739.527777777777,
     "average_wind": 2.9509199857711788,
     "average_tmax": 31.53844250573052,
-    "average_tmin": 22.514037799835208
+    "average_tmin": 22.514037799835208,
+    "population": 22600,
+    "symbol_sort_key": 7
   },
   "Saint Elizabeth": {
     "average_temp": 26.38,
@@ -829,7 +843,9 @@
     "average_srad": 19560.958333333332,
     "average_wind": 2.965190574526787,
     "average_tmax": 30.835954920450845,
-    "average_tmin": 21.924895842870075
+    "average_tmin": 21.924895842870075,
+    "population": 4261,
+    "symbol_sort_key": 6
   },
   "Saint Thomas": {
     "average_temp": 25.98,
@@ -933,7 +949,9 @@
     "average_srad": 19387.777777777777,
     "average_wind": 2.926086571481493,
     "average_tmax": 29.509682411617703,
-    "average_tmin": 22.450238206651477
+    "average_tmin": 22.450238206651477,
+    "population": 22657,
+    "symbol_sort_key": 9
   },
   "Clarendon": {
     "average_temp": 25.54,
@@ -1037,7 +1055,9 @@
     "average_srad": 19371.333333333332,
     "average_wind": 2.831926092505455,
     "average_tmax": 29.858246548970545,
-    "average_tmin": 21.21649305820465
+    "average_tmin": 21.21649305820465,
+    "population": 61548,
+    "symbol_sort_key": 2
   },
   "Saint Catherine": {
     "average_temp": 26.07,
@@ -1141,7 +1161,9 @@
     "average_srad": 19482.0,
     "average_wind": 2.95467217763265,
     "average_tmax": 30.171170592308044,
-    "average_tmin": 21.973355682690936
+    "average_tmin": 21.973355682690936,
+    "population": 392327,
+    "symbol_sort_key": 1
   },
   "Manchester": {
     "average_temp": 24.83,
@@ -1245,7 +1267,9 @@
     "average_srad": 19298.458333333332,
     "average_wind": 2.7701279123624167,
     "average_tmax": 29.30677083333333,
-    "average_tmin": 20.34375
+    "average_tmin": 20.34375,
+    "population": 48317,
+    "symbol_sort_key": 3
   },
   "Kingston": {
     "average_temp": null,
@@ -1349,7 +1373,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Saint Andrew": {
     "average_temp": 23.03,
@@ -1453,6 +1479,8 @@
     "average_srad": 18828.166666666668,
     "average_wind": 2.809541662534078,
     "average_tmax": 27.173958333333335,
-    "average_tmin": 18.885416666666668
+    "average_tmin": 18.885416666666668,
+    "population": 1286494,
+    "symbol_sort_key": 0
   }
 }

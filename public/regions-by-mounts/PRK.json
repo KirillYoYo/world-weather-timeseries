@@ -101,7 +101,9 @@
     "average_srad": 13554.665458937197,
     "average_wind": 1.8393647280580183,
     "average_tmax": 12.03365036231884,
-    "average_tmin": -0.7169987922705311
+    "average_tmin": -0.7169987922705311,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Kangwon": {
     "average_temp": 9.89,
@@ -205,7 +207,9 @@
     "average_srad": 13010.27235772358,
     "average_wind": 2.2702248787007684,
     "average_tmax": 14.952318505639951,
-    "average_tmin": 4.821974018482658
+    "average_tmin": 4.821974018482658,
+    "population": 486061,
+    "symbol_sort_key": 8
   },
   "Nampo": {
     "average_temp": 11.8,
@@ -309,7 +313,9 @@
     "average_srad": 13899.933333333334,
     "average_wind": 2.576125470797221,
     "average_tmax": 16.735736104448637,
-    "average_tmin": 6.873861117884515
+    "average_tmin": 6.873861117884515,
+    "population": 703317,
+    "symbol_sort_key": 9
   },
   "North Hamgyong": {
     "average_temp": 5.91,
@@ -413,7 +419,9 @@
     "average_srad": 12950.213709677419,
     "average_wind": 2.2690208557472435,
     "average_tmax": 11.235644310754873,
-    "average_tmin": 0.5869824898639512
+    "average_tmin": 0.5869824898639512,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "North Hwanghae": {
     "average_temp": 11.09,
@@ -517,7 +525,9 @@
     "average_srad": 13516.71271929825,
     "average_wind": 1.8751573392696546,
     "average_tmax": 16.346189692982456,
-    "average_tmin": 5.836759868421052
+    "average_tmin": 5.836759868421052,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "North Pyongan": {
     "average_temp": 9.22,
@@ -621,7 +631,9 @@
     "average_srad": 13879.757575757578,
     "average_wind": 2.0999461062478293,
     "average_tmax": 14.963162875604448,
-    "average_tmin": 3.4719002520467974
+    "average_tmin": 3.4719002520467974,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Pyongyang": {
     "average_temp": 11.14,
@@ -725,7 +737,9 @@
     "average_srad": 13607.500000000002,
     "average_wind": 1.7957326339350805,
     "average_tmax": 16.715277777777775,
-    "average_tmin": 5.5661458333333345
+    "average_tmin": 5.5661458333333345,
+    "population": 2863000,
+    "symbol_sort_key": 3
   },
   "Ryanggang": {
     "average_temp": 2.32,
@@ -829,7 +843,9 @@
     "average_srad": 13002.511006289307,
     "average_wind": 2.231881679416452,
     "average_tmax": 8.817413522012579,
-    "average_tmin": -4.1831761006289305
+    "average_tmin": -4.1831761006289305,
+    "population": 227990,
+    "symbol_sort_key": 10
   },
   "South Hamgyong": {
     "average_temp": 6.79,
@@ -933,7 +949,9 @@
     "average_srad": 13126.397887323945,
     "average_wind": 2.18447139229573,
     "average_tmax": 12.63668459790973,
-    "average_tmin": 0.9477536522516626
+    "average_tmin": 0.9477536522516626,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "South Hwanghae": {
     "average_temp": 12.29,
@@ -1037,7 +1055,9 @@
     "average_srad": 13996.931547619051,
     "average_wind": 2.7706234884404,
     "average_tmax": 16.754458022898152,
-    "average_tmin": 7.832992819195525
+    "average_tmin": 7.832992819195525,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "South Pyongan": {
     "average_temp": 8.75,
@@ -1141,6 +1161,8 @@
     "average_srad": 13458.412962962962,
     "average_wind": 1.9398832733984346,
     "average_tmax": 14.564906080453488,
-    "average_tmin": 2.9328489853027797
+    "average_tmin": 2.9328489853027797,
+    "population": 0,
+    "symbol_sort_key": 0
   }
 }

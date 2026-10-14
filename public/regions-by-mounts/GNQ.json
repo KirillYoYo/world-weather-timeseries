@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 5008,
+    "symbol_sort_key": 6
   },
   "Bioko Norte": {
     "average_temp": 22.65,
@@ -205,7 +207,9 @@
     "average_srad": 13943.083333333334,
     "average_wind": 2.739321847756704,
     "average_tmax": 26.034201351801556,
-    "average_tmin": 19.271180709203083
+    "average_tmin": 19.271180709203083,
+    "population": 336366,
+    "symbol_sort_key": 1
   },
   "Bioko Sur": {
     "average_temp": 23.26,
@@ -309,7 +313,9 @@
     "average_srad": 14066.36111111111,
     "average_wind": 2.7868000864982605,
     "average_tmax": 26.674974759419765,
-    "average_tmin": 19.846870846218533
+    "average_tmin": 19.846870846218533,
+    "population": 7739,
+    "symbol_sort_key": 5
   },
   "Litoral Province": {
     "average_temp": 25.65,
@@ -413,7 +419,9 @@
     "average_srad": 14150.254901960785,
     "average_wind": 1.6005109428775075,
     "average_tmax": 29.41389296662574,
-    "average_tmin": 21.89551061555451
+    "average_tmin": 21.89551061555451,
+    "population": 304662,
+    "symbol_sort_key": 0
   },
   "Kié-Ntem Province": {
     "average_temp": 24.3,
@@ -517,7 +525,9 @@
     "average_srad": 13125.383333333333,
     "average_wind": 1.0670229241251947,
     "average_tmax": 28.3834375,
-    "average_tmin": 20.210208333333334
+    "average_tmin": 20.210208333333334,
+    "population": 36565,
+    "symbol_sort_key": 3
   },
   "Centro Sur Province": {
     "average_temp": 23.64,
@@ -621,7 +631,9 @@
     "average_srad": 13349.548076923078,
     "average_wind": 1.2136826954590971,
     "average_tmax": 27.59178685897436,
-    "average_tmin": 19.69134615384616
+    "average_tmin": 19.69134615384616,
+    "population": 52239,
+    "symbol_sort_key": 4
   },
   "Wele-Nzas Province": {
     "average_temp": 23.82,
@@ -725,6 +737,8 @@
     "average_srad": 12823.412037037036,
     "average_wind": 1.0503761696594733,
     "average_tmax": 27.99010416666667,
-    "average_tmin": 19.654282407407408
+    "average_tmin": 19.654282407407408,
+    "population": 52903,
+    "symbol_sort_key": 2
   }
 }

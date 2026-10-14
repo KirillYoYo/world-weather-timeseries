@@ -101,7 +101,9 @@
     "average_srad": 12738.026666666665,
     "average_wind": 1.5615466684103012,
     "average_tmax": 14.610208333333333,
-    "average_tmin": 4.566583333333333
+    "average_tmin": 4.566583333333333,
+    "population": 161793,
+    "symbol_sort_key": 29
   },
   "ARAD": {
     "average_temp": 12.06,
@@ -205,7 +207,9 @@
     "average_srad": 12754.411616161613,
     "average_wind": 2.166342798808609,
     "average_tmax": 17.70899621212121,
-    "average_tmin": 6.414867424242424
+    "average_tmin": 6.414867424242424,
+    "population": 188335,
+    "symbol_sort_key": 21
   },
   "ARGES": {
     "average_temp": 9.62,
@@ -309,7 +313,9 @@
     "average_srad": 13013.258333333331,
     "average_wind": 2.0521909683942794,
     "average_tmax": 14.96920138888889,
-    "average_tmin": 4.264444444444444
+    "average_tmin": 4.264444444444444,
+    "population": 258907,
+    "symbol_sort_key": 9
   },
   "BACAU": {
     "average_temp": 10.26,
@@ -413,7 +419,9 @@
     "average_srad": 13068.528735632184,
     "average_wind": 2.7067406636545024,
     "average_tmax": 15.355316091954023,
-    "average_tmin": 5.157219827586207
+    "average_tmin": 5.157219827586207,
+    "population": 247447,
+    "symbol_sort_key": 11
   },
   "BIHOR": {
     "average_temp": 11.24,
@@ -517,7 +525,9 @@
     "average_srad": 12393.71875,
     "average_wind": 2.037540358491242,
     "average_tmax": 16.65735677083333,
-    "average_tmin": 5.823209635416666
+    "average_tmin": 5.823209635416666,
+    "population": 251566,
+    "symbol_sort_key": 10
   },
   "BISTRITA-NASAUD": {
     "average_temp": 8.76,
@@ -621,7 +631,9 @@
     "average_srad": 12474.691666666668,
     "average_wind": 1.5584437496960162,
     "average_tmax": 14.0615625,
-    "average_tmin": 3.45078125
+    "average_tmin": 3.45078125,
+    "population": 111283,
+    "symbol_sort_key": 36
   },
   "BOTOSANI": {
     "average_temp": 11.14,
@@ -725,7 +737,9 @@
     "average_srad": 12602.90873015873,
     "average_wind": 2.7321458298062518,
     "average_tmax": 16.351984126984124,
-    "average_tmin": 5.932787698412699
+    "average_tmin": 5.932787698412699,
+    "population": 135412,
+    "symbol_sort_key": 23
   },
   "BRAILA": {
     "average_temp": 13.18,
@@ -829,7 +843,9 @@
     "average_srad": 13593.973958333334,
     "average_wind": 3.0335104130208492,
     "average_tmax": 18.7275390625,
-    "average_tmin": 7.632486979166667
+    "average_tmin": 7.632486979166667,
+    "population": 163655,
+    "symbol_sort_key": 34
   },
   "BRASOV": {
     "average_temp": 8.51,
@@ -933,7 +949,9 @@
     "average_srad": 12988.992063492064,
     "average_wind": 1.8333492023604256,
     "average_tmax": 14.227876984126985,
-    "average_tmin": 2.790625
+    "average_tmin": 2.790625,
+    "population": 364665,
+    "symbol_sort_key": 13
   },
   "BUZAU": {
     "average_temp": 11.34,
@@ -1037,7 +1055,9 @@
     "average_srad": 13353.993827160493,
     "average_wind": 2.8486635846856196,
     "average_tmax": 16.76195987654321,
-    "average_tmin": 5.921952160493828
+    "average_tmin": 5.921952160493828,
+    "population": 142719,
+    "symbol_sort_key": 18
   },
   "CALARASI": {
     "average_temp": 13.4,
@@ -1141,7 +1161,9 @@
     "average_srad": 13512.507936507935,
     "average_wind": 2.8108908770576355,
     "average_tmax": 19.121825396825397,
-    "average_tmin": 7.6738591269841265
+    "average_tmin": 7.6738591269841265,
+    "population": 108300,
+    "symbol_sort_key": 0
   },
   "CARAS-SEVERIN": {
     "average_temp": 10.28,
@@ -1245,7 +1267,9 @@
     "average_srad": 12913.580729166666,
     "average_wind": 2.3415878834202886,
     "average_tmax": 15.292675781249999,
-    "average_tmin": 5.265787760416666
+    "average_tmin": 5.265787760416666,
+    "population": 111680,
+    "symbol_sort_key": 35
   },
   "CLUJ": {
     "average_temp": 9.47,
@@ -1349,7 +1373,9 @@
     "average_srad": 12578.885057471263,
     "average_wind": 1.6106831893838685,
     "average_tmax": 14.678448275862067,
-    "average_tmin": 4.251580459770116
+    "average_tmin": 4.251580459770116,
+    "population": 469969,
+    "symbol_sort_key": 5
   },
   "CONSTANTA": {
     "average_temp": 13.59,
@@ -1453,7 +1479,9 @@
     "average_srad": 13467.077380952382,
     "average_wind": 3.6087401417039686,
     "average_tmax": 18.482728178728195,
-    "average_tmin": 8.701624502871361
+    "average_tmin": 8.701624502871361,
+    "population": 428830,
+    "symbol_sort_key": 6
   },
   "COVASNA": {
     "average_temp": 8.21,
@@ -1557,7 +1585,9 @@
     "average_srad": 13023.755555555554,
     "average_wind": 2.3522930483023323,
     "average_tmax": 13.763263888888888,
-    "average_tmin": 2.6560416666666664
+    "average_tmin": 2.6560416666666664,
+    "population": 75531,
+    "symbol_sort_key": 40
   },
   "DAMBOVITA": {
     "average_temp": 11.09,
@@ -1661,7 +1691,9 @@
     "average_srad": 13272.358333333332,
     "average_wind": 2.123620828986168,
     "average_tmax": 16.856302083333336,
-    "average_tmin": 5.321666666666666
+    "average_tmin": 5.321666666666666,
+    "population": 117264,
+    "symbol_sort_key": 15
   },
   "DOLJ": {
     "average_temp": 13.4,
@@ -1765,7 +1797,9 @@
     "average_srad": 13163.052777777777,
     "average_wind": 1.8777701367934545,
     "average_tmax": 18.911909722222223,
-    "average_tmin": 7.882569444444445
+    "average_tmin": 7.882569444444445,
+    "population": 298286,
+    "symbol_sort_key": 7
   },
   "GALATI": {
     "average_temp": 12.57,
@@ -1869,7 +1903,9 @@
     "average_srad": 13503.158333333335,
     "average_wind": 3.084621871511141,
     "average_tmax": 17.816614583333333,
-    "average_tmin": 7.318177083333334
+    "average_tmin": 7.318177083333334,
+    "population": 280874,
+    "symbol_sort_key": 16
   },
   "GIURGIU": {
     "average_temp": 12.98,
@@ -1973,7 +2009,9 @@
     "average_srad": 13422.749999999998,
     "average_wind": 2.3881794810295105,
     "average_tmax": 18.978445512820514,
-    "average_tmin": 6.991025641025643
+    "average_tmin": 6.991025641025643,
+    "population": 67357,
+    "symbol_sort_key": 32
   },
   "GORJ": {
     "average_temp": 11.1,
@@ -2077,7 +2115,9 @@
     "average_srad": 12972.486666666671,
     "average_wind": 1.6189491655429202,
     "average_tmax": 16.503291666666666,
-    "average_tmin": 5.688041666666666
+    "average_tmin": 5.688041666666666,
+    "population": 83791,
+    "symbol_sort_key": 30
   },
   "HARGHITA": {
     "average_temp": 6.95,
@@ -2181,7 +2221,9 @@
     "average_srad": 12686.262345679015,
     "average_wind": 2.171293979257713,
     "average_tmax": 12.534799382716045,
-    "average_tmin": 1.3583333333333334
+    "average_tmin": 1.3583333333333334,
+    "population": 103109,
+    "symbol_sort_key": 33
   },
   "HUNEDOARA": {
     "average_temp": 9.82,
@@ -2285,7 +2327,9 @@
     "average_srad": 12786.41388888889,
     "average_wind": 1.6382423604528107,
     "average_tmax": 14.913645833333334,
-    "average_tmin": 4.720729166666666
+    "average_tmin": 4.720729166666666,
+    "population": 252316,
+    "symbol_sort_key": 24
   },
   "IALOMITA": {
     "average_temp": 13.13,
@@ -2389,7 +2433,9 @@
     "average_srad": 13519.253968253966,
     "average_wind": 2.863579355535053,
     "average_tmax": 18.911359126984127,
-    "average_tmin": 7.347867063492063
+    "average_tmin": 7.347867063492063,
+    "population": 91516,
+    "symbol_sort_key": 37
   },
   "IASI": {
     "average_temp": 11.39,
@@ -2493,7 +2539,9 @@
     "average_srad": 12966.79861111111,
     "average_wind": 2.7860807155569396,
     "average_tmax": 16.621484375,
-    "average_tmin": 6.157552083333333
+    "average_tmin": 6.157552083333333,
+    "population": 376697,
+    "symbol_sort_key": 2
   },
   "ILFOV": {
     "average_temp": 12.51,
@@ -2597,7 +2645,9 @@
     "average_srad": 13483.854166666666,
     "average_wind": 2.3827135488390923,
     "average_tmax": 18.543229166666666,
-    "average_tmin": 6.46875
+    "average_tmin": 6.46875,
+    "population": 250122,
+    "symbol_sort_key": 14
   },
   "MARAMURES": {
     "average_temp": 8.89,
@@ -2701,7 +2751,9 @@
     "average_srad": 12177.181034482759,
     "average_wind": 1.716191806669893,
     "average_tmax": 13.85290948275862,
-    "average_tmin": 3.925754310344828
+    "average_tmin": 3.925754310344828,
+    "population": 228712,
+    "symbol_sort_key": 17
   },
   "MEHEDINTI": {
     "average_temp": 12.57,
@@ -2805,7 +2857,9 @@
     "average_srad": 13146.730158730157,
     "average_wind": 1.8828869017343672,
     "average_tmax": 18.09360119047619,
-    "average_tmin": 7.055257936507936
+    "average_tmin": 7.055257936507936,
+    "population": 123401,
+    "symbol_sort_key": 38
   },
   "BUCURESTI": {
     "average_temp": 12.71,
@@ -2909,7 +2963,9 @@
     "average_srad": 13370.25,
     "average_wind": 2.3899791638056436,
     "average_tmax": 18.735416666666666,
-    "average_tmin": 6.686458333333333
+    "average_tmin": 6.686458333333333,
+    "population": 2527032,
+    "symbol_sort_key": 1
   },
   "MURES": {
     "average_temp": 9.19,
@@ -3013,7 +3069,9 @@
     "average_srad": 12754.419540229886,
     "average_wind": 1.5030632181756796,
     "average_tmax": 14.749066091954026,
-    "average_tmin": 3.6375359195402304
+    "average_tmin": 3.6375359195402304,
+    "population": 223915,
+    "symbol_sort_key": 12
   },
   "NEAMT": {
     "average_temp": 9.31,
@@ -3117,7 +3175,9 @@
     "average_srad": 12776.986666666666,
     "average_wind": 2.545184999306996,
     "average_tmax": 14.566208333333334,
-    "average_tmin": 4.058666666666668
+    "average_tmin": 4.058666666666668,
+    "population": 155863,
+    "symbol_sort_key": 20
   },
   "OLT": {
     "average_temp": 13.21,
@@ -3221,7 +3281,9 @@
     "average_srad": 13138.02777777778,
     "average_wind": 1.932699393658411,
     "average_tmax": 18.782787698412697,
-    "average_tmin": 7.629513888888887
+    "average_tmin": 7.629513888888887,
+    "population": 141047,
+    "symbol_sort_key": 19
   },
   "PRAHOVA": {
     "average_temp": 10.14,
@@ -3325,7 +3387,9 @@
     "average_srad": 13213.666666666664,
     "average_wind": 2.470408990194923,
     "average_tmax": 15.690405701754386,
-    "average_tmin": 4.589089912280703
+    "average_tmin": 4.589089912280703,
+    "population": 306737,
+    "symbol_sort_key": 3
   },
   "SALAJ": {
     "average_temp": 11.12,
@@ -3429,7 +3493,9 @@
     "average_srad": 12444.171875,
     "average_wind": 1.5900950444241364,
     "average_tmax": 16.279947916666668,
-    "average_tmin": 5.964778645833334
+    "average_tmin": 5.964778645833334,
+    "population": 75984,
+    "symbol_sort_key": 39
   },
   "SATU MARE": {
     "average_temp": 11.87,
@@ -3533,7 +3599,9 @@
     "average_srad": 12185.444444444443,
     "average_wind": 1.7545595187989491,
     "average_tmax": 17.24032738095238,
-    "average_tmin": 6.506398809523809
+    "average_tmin": 6.506398809523809,
+    "population": 125093,
+    "symbol_sort_key": 28
   },
   "SIBIU": {
     "average_temp": 9.35,
@@ -3637,7 +3705,9 @@
     "average_srad": 12904.363333333333,
     "average_wind": 1.5269008328517277,
     "average_tmax": 14.743583333333332,
-    "average_tmin": 3.963875000000001
+    "average_tmin": 3.963875000000001,
+    "population": 226116,
+    "symbol_sort_key": 22
   },
   "SUCEAVA": {
     "average_temp": 8.19,
@@ -3741,7 +3811,9 @@
     "average_srad": 12409.470720720723,
     "average_wind": 2.3954211621134127,
     "average_tmax": 13.354786036036037,
-    "average_tmin": 3.033868243243243
+    "average_tmin": 3.033868243243243,
+    "population": 287022,
+    "symbol_sort_key": 8
   },
   "TELEORMAN": {
     "average_temp": 13.43,
@@ -3845,7 +3917,9 @@
     "average_srad": 13206.00724637681,
     "average_wind": 2.1909030684526414,
     "average_tmax": 19.36539855072464,
-    "average_tmin": 7.486639492753624
+    "average_tmin": 7.486639492753624,
+    "population": 104977,
+    "symbol_sort_key": 25
   },
   "TIMIS": {
     "average_temp": 12.51,
@@ -3949,7 +4023,9 @@
     "average_srad": 12971.83108108108,
     "average_wind": 2.2834487581575242,
     "average_tmax": 18.14448198198198,
-    "average_tmin": 6.872775900900902
+    "average_tmin": 6.872775900900902,
+    "population": 345118,
+    "symbol_sort_key": 4
   },
   "TULCEA": {
     "average_temp": 13.12,
@@ -4053,7 +4129,9 @@
     "average_srad": 13542.55637254902,
     "average_wind": 3.7221845534502296,
     "average_tmax": 17.732012748952002,
-    "average_tmin": 8.506049863446284
+    "average_tmin": 8.506049863446284,
+    "population": 74837,
+    "symbol_sort_key": 41
   },
   "VALCEA": {
     "average_temp": 10.54,
@@ -4157,7 +4235,9 @@
     "average_srad": 13023.19927536232,
     "average_wind": 1.660141299168269,
     "average_tmax": 15.818840579710146,
-    "average_tmin": 5.270561594202899
+    "average_tmin": 5.270561594202899,
+    "population": 108768,
+    "symbol_sort_key": 27
   },
   "VASLUI": {
     "average_temp": 11.75,
@@ -4261,7 +4341,9 @@
     "average_srad": 13248.515873015873,
     "average_wind": 3.0044851123340544,
     "average_tmax": 16.742261904761907,
-    "average_tmin": 6.764186507936508
+    "average_tmin": 6.764186507936508,
+    "population": 140555,
+    "symbol_sort_key": 26
   },
   "VRANCEA": {
     "average_temp": 11.11,
@@ -4365,6 +4447,8 @@
     "average_srad": 13302.854166666666,
     "average_wind": 2.926541674137115,
     "average_tmax": 16.070885416666666,
-    "average_tmin": 6.158281250000001
+    "average_tmin": 6.158281250000001,
+    "population": 102563,
+    "symbol_sort_key": 31
   }
 }

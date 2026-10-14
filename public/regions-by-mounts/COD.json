@@ -101,7 +101,9 @@
     "average_srad": 17206.92037037037,
     "average_wind": 1.5101412795576048,
     "average_tmax": 29.810000000000002,
-    "average_tmin": 18.492199074074072
+    "average_tmin": 18.492199074074072,
+    "population": 0,
+    "symbol_sort_key": 20
   },
   "Ituri": {
     "average_temp": 22.99,
@@ -205,7 +207,9 @@
     "average_srad": 16454.36413043478,
     "average_wind": 1.6570190177231592,
     "average_tmax": 28.180780117753624,
-    "average_tmin": 17.79253849637681
+    "average_tmin": 17.79253849637681,
+    "population": 568170,
+    "symbol_sort_key": 7
   },
   "Tshopo": {
     "average_temp": 24.8,
@@ -309,7 +313,9 @@
     "average_srad": 15278.53274853801,
     "average_wind": 1.15271517392139,
     "average_tmax": 29.58466739766082,
-    "average_tmin": 20.0090168128655
+    "average_tmin": 20.0090168128655,
+    "population": 1164650,
+    "symbol_sort_key": 13
   },
   "Lower Uele": {
     "average_temp": 24.38,
@@ -413,7 +419,9 @@
     "average_srad": 17066.947963800903,
     "average_wind": 1.15517967730356,
     "average_tmax": 29.868394136500754,
-    "average_tmin": 18.888694852941175
+    "average_tmin": 18.888694852941175,
+    "population": 0,
+    "symbol_sort_key": 24
   },
   "Mongala": {
     "average_temp": 25.55,
@@ -517,7 +525,9 @@
     "average_srad": 16192.443434343433,
     "average_wind": 0.9274064317496137,
     "average_tmax": 30.671060606060607,
-    "average_tmin": 20.43142045454545
+    "average_tmin": 20.43142045454545,
+    "population": 251827,
+    "symbol_sort_key": 19
   },
   "Nord-Ubangi": {
     "average_temp": 25.31,
@@ -621,7 +631,9 @@
     "average_srad": 17474.49644308943,
     "average_wind": 1.0196404898978346,
     "average_tmax": 30.828144054878052,
-    "average_tmin": 19.78863694105691
+    "average_tmin": 19.78863694105691,
+    "population": 260030,
+    "symbol_sort_key": 23
   },
   "Tshuapa": {
     "average_temp": 25.44,
@@ -725,7 +737,9 @@
     "average_srad": 14779.029820261438,
     "average_wind": 1.0340553593815736,
     "average_tmax": 30.280828737745097,
-    "average_tmin": 20.605307904411767
+    "average_tmin": 20.605307904411767,
+    "population": 36449,
+    "symbol_sort_key": 21
   },
   "Équateur": {
     "average_temp": 26.04,
@@ -829,7 +843,9 @@
     "average_srad": 15434.96977124183,
     "average_wind": 0.98750054628501,
     "average_tmax": 30.890134803921573,
-    "average_tmin": 21.182257625272328
+    "average_tmin": 21.182257625272328,
+    "population": 399764,
+    "symbol_sort_key": 17
   },
   "Haut-Katanga": {
     "average_temp": 21.08,
@@ -933,7 +949,9 @@
     "average_srad": 16790.313492063488,
     "average_wind": 2.5008081941482674,
     "average_tmax": 27.343796847442675,
-    "average_tmin": 14.816253306878307
+    "average_tmin": 14.816253306878307,
+    "population": 2621002,
+    "symbol_sort_key": 0
   },
   "Haut-Lomami": {
     "average_temp": 23.14,
@@ -1037,7 +1055,9 @@
     "average_srad": 16242.14282051282,
     "average_wind": 1.873297947308956,
     "average_tmax": 28.952778846153844,
-    "average_tmin": 17.323951923076923
+    "average_tmin": 17.323951923076923,
+    "population": 287563,
+    "symbol_sort_key": 2
   },
   "Kongo-Central": {
     "average_temp": 24.94,
@@ -1141,7 +1161,9 @@
     "average_srad": 12940.606451612903,
     "average_wind": 1.3327188868356006,
     "average_tmax": 29.446142473118282,
-    "average_tmin": 20.43877016129032
+    "average_tmin": 20.43877016129032,
+    "population": 998406,
+    "symbol_sort_key": 16
   },
   "Kwango": {
     "average_temp": 23.62,
@@ -1245,7 +1267,9 @@
     "average_srad": 15303.21540880503,
     "average_wind": 1.6407652501040284,
     "average_tmax": 29.56169025157233,
-    "average_tmin": 17.685180817610064
+    "average_tmin": 17.685180817610064,
+    "population": 118740,
+    "symbol_sort_key": 18
   },
   "Sankuru": {
     "average_temp": 24.49,
@@ -1349,7 +1373,9 @@
     "average_srad": 14588.73637820513,
     "average_wind": 1.2097783253456538,
     "average_tmax": 29.56364516559829,
-    "average_tmin": 19.406583867521366
+    "average_tmin": 19.406583867521366,
+    "population": 1598582,
+    "symbol_sort_key": 25
   },
   "Sud-Ubangi": {
     "average_temp": 25.63,
@@ -1453,7 +1479,9 @@
     "average_srad": 16572.469498910676,
     "average_wind": 0.9693457178755263,
     "average_tmax": 30.871507352941176,
-    "average_tmin": 20.38082107843137
+    "average_tmin": 20.38082107843137,
+    "population": 219323,
+    "symbol_sort_key": 15
   },
   "Tanganyika": {
     "average_temp": 23.14,
@@ -1557,7 +1585,9 @@
     "average_srad": 16441.097432659935,
     "average_wind": 1.9922021727018089,
     "average_tmax": 28.514112478956225,
-    "average_tmin": 17.7697469486532
+    "average_tmin": 17.7697469486532,
+    "population": 405482,
+    "symbol_sort_key": 9
   },
   "Kasai": {
     "average_temp": 24.98,
@@ -1661,7 +1691,9 @@
     "average_srad": 15010.993944636677,
     "average_wind": 1.3074126319901753,
     "average_tmax": 30.0969723183391,
-    "average_tmin": 19.87102076124567
+    "average_tmin": 19.87102076124567,
+    "population": 977027,
+    "symbol_sort_key": 5
   },
   "Kasai-Oriental": {
     "average_temp": 24.69,
@@ -1765,7 +1797,9 @@
     "average_srad": 15496.25,
     "average_wind": 1.4708218269649593,
     "average_tmax": 30.35574712643678,
-    "average_tmin": 19.022880747126436
+    "average_tmin": 19.022880747126436,
+    "population": 2976651,
+    "symbol_sort_key": 8
   },
   "Maniema": {
     "average_temp": 24.19,
@@ -1869,7 +1903,9 @@
     "average_srad": 15374.845238095237,
     "average_wind": 1.3901976970347987,
     "average_tmax": 29.09534832451499,
-    "average_tmin": 19.278932429453263
+    "average_tmin": 19.278932429453263,
+    "population": 279695,
+    "symbol_sort_key": 14
   },
   "North Kivu": {
     "average_temp": 21.21,
@@ -1973,7 +2009,9 @@
     "average_srad": 15067.74053030303,
     "average_wind": 1.7190982404757633,
     "average_tmax": 26.21118016098484,
-    "average_tmin": 16.217566287878785
+    "average_tmin": 16.217566287878785,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "South Kivu": {
     "average_temp": 20.79,
@@ -2077,7 +2115,9 @@
     "average_srad": 15306.888268156426,
     "average_wind": 1.7642730400104985,
     "average_tmax": 25.55960195530727,
-    "average_tmin": 16.023219273743017
+    "average_tmin": 16.023219273743017,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Central Kasai": {
     "average_temp": 24.08,
@@ -2181,7 +2221,9 @@
     "average_srad": 15510.19918699187,
     "average_wind": 1.4875171432892482,
     "average_tmax": 29.417505081300813,
-    "average_tmin": 18.73396849593496
+    "average_tmin": 18.73396849593496,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Lomami": {
     "average_temp": 23.93,
@@ -2285,7 +2327,9 @@
     "average_srad": 15845.710416666669,
     "average_wind": 1.5953434800108273,
     "average_tmax": 29.640520833333337,
-    "average_tmin": 18.210611979166668
+    "average_tmin": 18.210611979166668,
+    "population": 956907,
+    "symbol_sort_key": 11
   },
   "Lualaba": {
     "average_temp": 21.55,
@@ -2389,7 +2433,9 @@
     "average_srad": 16252.434802571166,
     "average_wind": 2.0303956005855697,
     "average_tmax": 27.916755624426074,
-    "average_tmin": 15.179166666666665
+    "average_tmin": 15.179166666666665,
+    "population": 533927,
+    "symbol_sort_key": 12
   },
   "Kinshasa": {
     "average_temp": 25.01,
@@ -2493,7 +2539,9 @@
     "average_srad": 14084.113888888887,
     "average_wind": 1.3203368016415171,
     "average_tmax": 29.983958333333337,
-    "average_tmin": 20.045069444444447
+    "average_tmin": 20.045069444444447,
+    "population": 19526873,
+    "symbol_sort_key": 3
   },
   "Kwilu": {
     "average_temp": 25.1,
@@ -2597,7 +2645,9 @@
     "average_srad": 15010.977729885055,
     "average_wind": 1.36713550719379,
     "average_tmax": 30.275906968390803,
-    "average_tmin": 19.9214215158046
+    "average_tmin": 19.9214215158046,
+    "population": 791212,
+    "symbol_sort_key": 10
   },
   "Mai-Ndombe": {
     "average_temp": 25.94,
@@ -2701,6 +2751,8 @@
     "average_srad": 14850.048873873873,
     "average_wind": 1.1612174676345275,
     "average_tmax": 30.600515202702706,
-    "average_tmin": 21.28712837837838
+    "average_tmin": 21.28712837837838,
+    "population": 146775,
+    "symbol_sort_key": 22
   }
 }

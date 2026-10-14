@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Phoenix Islands": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Line Islands": {
     "average_temp": 27.52,
@@ -309,6 +313,8 @@
     "average_srad": 17013.5,
     "average_wind": 4.4614825050036115,
     "average_tmax": 30.826388835906982,
-    "average_tmin": 24.215277671813965
+    "average_tmin": 24.215277671813965,
+    "population": 0,
+    "symbol_sort_key": 2
   }
 }

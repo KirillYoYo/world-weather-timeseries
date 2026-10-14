@@ -101,7 +101,9 @@
     "average_srad": 18534.055555555555,
     "average_wind": 2.574933144781325,
     "average_tmax": 26.906944444444445,
-    "average_tmin": 14.727777777777781
+    "average_tmin": 14.727777777777781,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Limassol": {
     "average_temp": 18.72,
@@ -205,7 +207,9 @@
     "average_srad": 18640.916666666668,
     "average_wind": 2.711841519673665,
     "average_tmax": 23.958486086527504,
-    "average_tmin": 13.47241667906443
+    "average_tmin": 13.47241667906443,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Paphos": {
     "average_temp": 18.61,
@@ -309,7 +313,9 @@
     "average_srad": 18702.104166666668,
     "average_wind": 2.5912045190731683,
     "average_tmax": 23.66979166666667,
-    "average_tmin": 13.554166666666665
+    "average_tmin": 13.554166666666665,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Nicosia": {
     "average_temp": 18.79,
@@ -413,7 +419,9 @@
     "average_srad": 18524.979166666668,
     "average_wind": 2.512756564964851,
     "average_tmax": 24.544531250000002,
-    "average_tmin": 13.040885416666667
+    "average_tmin": 13.040885416666667,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Famagusta": {
     "average_temp": 20.7,
@@ -517,7 +525,9 @@
     "average_srad": 18273.416666666668,
     "average_wind": 2.616876145203908,
     "average_tmax": 26.46815450759161,
-    "average_tmin": 14.925026155653455
+    "average_tmin": 14.925026155653455,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Kyrenia": {
     "average_temp": 20.67,
@@ -621,6 +631,8 @@
     "average_srad": 18626.583333333336,
     "average_wind": 2.627277778254615,
     "average_tmax": 26.753124999999997,
-    "average_tmin": 14.579166666666666
+    "average_tmin": 14.579166666666666,
+    "population": 0,
+    "symbol_sort_key": 5
   }
 }

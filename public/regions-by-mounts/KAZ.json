@@ -101,7 +101,9 @@
     "average_srad": 12169.736970217642,
     "average_wind": 3.8059020146881184,
     "average_tmax": 10.429010953608248,
-    "average_tmin": -0.9042149914089346
+    "average_tmin": -0.9042149914089346,
+    "population": 606805,
+    "symbol_sort_key": 12
   },
   "Jambyl Region": {
     "average_temp": 10.76,
@@ -205,7 +207,9 @@
     "average_srad": 15286.175910125143,
     "average_wind": 2.6543046761732185,
     "average_tmax": 17.273202858361774,
-    "average_tmin": 4.252223762798635
+    "average_tmin": 4.252223762798635,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Kostanay Region": {
     "average_temp": 5.28,
@@ -309,7 +313,9 @@
     "average_srad": 12982.094068413391,
     "average_wind": 3.917818277813982,
     "average_tmax": 11.713257368995633,
-    "average_tmin": -1.148464792576419
+    "average_tmin": -1.148464792576419,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Mangystau Region": {
     "average_temp": 13.24,
@@ -413,7 +419,9 @@
     "average_srad": 14071.197466666665,
     "average_wind": 4.129795695368449,
     "average_tmax": 18.95183085874799,
-    "average_tmin": 7.518920545746387
+    "average_tmin": 7.518920545746387,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Karaganda Region": {
     "average_temp": 6.22,
@@ -517,7 +525,9 @@
     "average_srad": 13928.702623126339,
     "average_wind": 3.4288607212069366,
     "average_tmax": 12.28901454318344,
-    "average_tmin": 0.14798302551748796
+    "average_tmin": 0.14798302551748796,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Kyzylorda Region": {
     "average_temp": 11.55,
@@ -621,7 +631,9 @@
     "average_srad": 15915.267045454546,
     "average_wind": 3.419433031784852,
     "average_tmax": 17.87240147005772,
-    "average_tmin": 5.230898268398268
+    "average_tmin": 5.230898268398268,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "East Kazakhstan Region": {
     "average_temp": 4.14,
@@ -725,7 +737,9 @@
     "average_srad": 13935.697949735453,
     "average_wind": 2.7994339266072505,
     "average_tmax": 10.43264136904762,
-    "average_tmin": -2.155603505291006
+    "average_tmin": -2.155603505291006,
+    "population": 426453,
+    "symbol_sort_key": 3
   },
   "Aktobe Region": {
     "average_temp": 7.92,
@@ -829,7 +843,9 @@
     "average_srad": 14152.01964149504,
     "average_wind": 3.827628779799284,
     "average_tmax": 16.293718217645566,
-    "average_tmin": -0.4619835367404021
+    "average_tmin": -0.4619835367404021,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Atyrau Region": {
     "average_temp": 10.9,
@@ -933,7 +949,9 @@
     "average_srad": 13077.050619834712,
     "average_wind": 4.165407585498387,
     "average_tmax": 17.979177562761507,
-    "average_tmin": 3.8238319386331945
+    "average_tmin": 3.8238319386331945,
+    "population": 452293,
+    "symbol_sort_key": 14
   },
   "South Kazakhstan Region": {
     "average_temp": 13.4,
@@ -1037,7 +1055,9 @@
     "average_srad": 15869.385149572649,
     "average_wind": 2.6734586398613414,
     "average_tmax": 19.84442663817664,
-    "average_tmin": 6.950331641737893
+    "average_tmin": 6.950331641737893,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Akmola Region": {
     "average_temp": 4.08,
@@ -1141,7 +1161,9 @@
     "average_srad": 12165.307139376217,
     "average_wind": 4.022321436140273,
     "average_tmax": 9.646890229044834,
-    "average_tmin": -1.4888416788499015
+    "average_tmin": -1.4888416788499015,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Almaty Region": {
     "average_temp": 8.03,
@@ -1245,7 +1267,9 @@
     "average_srad": 14969.875769091568,
     "average_wind": 2.4528401374299156,
     "average_tmax": 14.569658206659426,
-    "average_tmin": 1.4925092743394863
+    "average_tmin": 1.4925092743394863,
+    "population": 2739255,
+    "symbol_sort_key": 1
   },
   "North Kazakhstan Region": {
     "average_temp": 3.77,
@@ -1349,7 +1373,9 @@
     "average_srad": 11387.088530838531,
     "average_wind": 3.8690086942287425,
     "average_tmax": 9.090120408870407,
-    "average_tmin": -1.5437781531531538
+    "average_tmin": -1.5437781531531538,
+    "population": 283591,
+    "symbol_sort_key": 15
   },
   "Almaty": {
     "average_temp": 3.58,
@@ -1453,7 +1479,9 @@
     "average_srad": 14831.333333333334,
     "average_wind": 2.139069437980652,
     "average_tmax": 9.116319444444445,
-    "average_tmin": -1.9527777777777775
+    "average_tmin": -1.9527777777777775,
+    "population": 2739255,
+    "symbol_sort_key": 2
   },
   "West Kazakhstan Region": {
     "average_temp": 9.13,
@@ -1557,7 +1585,9 @@
     "average_srad": 12223.639371980678,
     "average_wind": 3.7712157293218347,
     "average_tmax": 16.078541666666666,
-    "average_tmin": 2.18232940821256
+    "average_tmin": 2.18232940821256,
+    "population": 295416,
+    "symbol_sort_key": 13
   },
   "Astana": {
     "average_temp": 4.45,
@@ -1661,6 +1691,8 @@
     "average_srad": 12259.65,
     "average_wind": 3.9130041758219396,
     "average_tmax": 9.879583333333334,
-    "average_tmin": -0.9750000000000001
+    "average_tmin": -0.9750000000000001,
+    "population": 0,
+    "symbol_sort_key": 5
   }
 }

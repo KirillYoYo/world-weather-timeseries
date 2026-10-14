@@ -101,7 +101,9 @@
     "average_srad": 19275.916666666668,
     "average_wind": 2.4842962920665745,
     "average_tmax": 28.75729166666667,
-    "average_tmin": 20.38449074074074
+    "average_tmin": 20.38449074074074,
+    "population": 437481,
+    "symbol_sort_key": 3
   },
   "Provincia Guanacaste": {
     "average_temp": 26.61,
@@ -205,7 +207,9 @@
     "average_srad": 20229.124999999996,
     "average_wind": 3.2614933884806105,
     "average_tmax": 31.60647137218051,
-    "average_tmin": 21.611607432895237
+    "average_tmin": 21.611607432895237,
+    "population": 358391,
+    "symbol_sort_key": 6
   },
   "Provincia Alajuela": {
     "average_temp": 24.74,
@@ -309,7 +313,9 @@
     "average_srad": 19425.401785714286,
     "average_wind": 2.5886897274426053,
     "average_tmax": 29.145163690476185,
-    "average_tmin": 20.328236607142856
+    "average_tmin": 20.328236607142856,
+    "population": 835425,
+    "symbol_sort_key": 1
   },
   "Provincia San José": {
     "average_temp": 22.11,
@@ -413,7 +419,9 @@
     "average_srad": 19600.833333333332,
     "average_wind": 3.149732342031267,
     "average_tmax": 27.367708333333336,
-    "average_tmin": 16.84958333333333
+    "average_tmin": 16.84958333333333,
+    "population": 2133585,
+    "symbol_sort_key": 0
   },
   "Provincia Puntarenas": {
     "average_temp": 24.38,
@@ -517,7 +525,9 @@
     "average_srad": 19282.416666666668,
     "average_wind": 2.795745966255024,
     "average_tmax": 29.52340077328425,
-    "average_tmin": 19.23116508196759
+    "average_tmin": 19.23116508196759,
+    "population": 404116,
+    "symbol_sort_key": 4
   },
   "Provincia Cartago": {
     "average_temp": 18.41,
@@ -621,7 +631,9 @@
     "average_srad": 18831.113636363636,
     "average_wind": 3.0154677963618077,
     "average_tmax": 23.139204545454547,
-    "average_tmin": 13.683522727272726
+    "average_tmin": 13.683522727272726,
+    "population": 129463,
+    "symbol_sort_key": 2
   },
   "Provincia Limón": {
     "average_temp": 23.48,
@@ -725,6 +737,8 @@
     "average_srad": 18884.702898550724,
     "average_wind": 2.6833107246868853,
     "average_tmax": 27.810621988600577,
-    "average_tmin": 19.14814311455989
+    "average_tmin": 19.14814311455989,
+    "population": 413750,
+    "symbol_sort_key": 5
   }
 }

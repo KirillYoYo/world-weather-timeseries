@@ -101,7 +101,9 @@
     "average_srad": 7650.652777777777,
     "average_wind": 6.750928931766086,
     "average_tmax": 6.827604166666666,
-    "average_tmin": 1.3874999999999995
+    "average_tmin": 1.3874999999999995,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Eastern Region": {
     "average_temp": 1.01,
@@ -205,7 +207,9 @@
     "average_srad": 7399.057352941177,
     "average_wind": 7.548449599976633,
     "average_tmax": 3.5182102733507175,
-    "average_tmin": -1.4938320898812483
+    "average_tmin": -1.4938320898812483,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Northeastern Region": {
     "average_temp": 1.44,
@@ -309,7 +313,9 @@
     "average_srad": 7344.687222222223,
     "average_wind": 6.536641261445152,
     "average_tmax": 4.2411937826193045,
-    "average_tmin": -1.3544921053805286
+    "average_tmin": -1.3544921053805286,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Northwestern Region": {
     "average_temp": 1.56,
@@ -413,7 +419,9 @@
     "average_srad": 7471.357279693487,
     "average_wind": 6.221700759683075,
     "average_tmax": 4.687845506314973,
-    "average_tmin": -1.5624492317994776
+    "average_tmin": -1.5624492317994776,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Westfjords": {
     "average_temp": 2.46,
@@ -517,7 +525,9 @@
     "average_srad": 7434.520202020204,
     "average_wind": 5.448459907011553,
     "average_tmax": 5.038880845780174,
-    "average_tmin": -0.12342354697410474
+    "average_tmin": -0.12342354697410474,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Western Region": {
     "average_temp": 3.04,
@@ -621,7 +631,9 @@
     "average_srad": 7562.372126436781,
     "average_wind": 6.0047266969735595,
     "average_tmax": 5.790953292789729,
-    "average_tmin": 0.29246179943625933
+    "average_tmin": 0.29246179943625933,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Southern Peninsula": {
     "average_temp": 4.96,
@@ -725,7 +737,9 @@
     "average_srad": 7753.416666666668,
     "average_wind": 7.037226327260335,
     "average_tmax": 7.661666666666666,
-    "average_tmin": 2.262916666666667
+    "average_tmin": 2.262916666666667,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Southern Region": {
     "average_temp": 2.5,
@@ -829,6 +843,8 @@
     "average_srad": 7573.503205128206,
     "average_wind": 6.904343034849208,
     "average_tmax": 5.240305078669618,
-    "average_tmin": -0.2443298400148878
+    "average_tmin": -0.2443298400148878,
+    "population": 0,
+    "symbol_sort_key": 3
   }
 }

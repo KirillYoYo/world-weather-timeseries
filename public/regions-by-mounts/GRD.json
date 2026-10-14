@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Saint David": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 12,
+    "symbol_sort_key": 2
   },
   "Saint Mark": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Saint John": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Saint George": {
     "average_temp": 26.64,
@@ -517,7 +525,9 @@
     "average_srad": 19164.666666666668,
     "average_wind": 4.402583261330922,
     "average_tmax": 29.955555693308515,
-    "average_tmin": 23.331944370269778
+    "average_tmin": 23.331944370269778,
+    "population": 33734,
+    "symbol_sort_key": 0
   },
   "Saint Patrick": {
     "average_temp": null,
@@ -621,7 +631,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Southern Grenadine Islands": {
     "average_temp": null,
@@ -725,6 +737,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 5
   }
 }

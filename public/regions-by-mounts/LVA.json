@@ -101,7 +101,9 @@
     "average_srad": 9588.489583333334,
     "average_wind": 3.1196093559265137,
     "average_tmax": 10.916666666666664,
-    "average_tmin": 3.1500000000000004
+    "average_tmin": 3.1500000000000004,
+    "population": 0,
+    "symbol_sort_key": 35
   },
   "Līvānu novads": {
     "average_temp": 7.64,
@@ -205,7 +207,9 @@
     "average_srad": 9774.166666666666,
     "average_wind": 3.1030676861604056,
     "average_tmax": 11.88515625,
-    "average_tmin": 3.4005208333333345
+    "average_tmin": 3.4005208333333345,
+    "population": 0,
+    "symbol_sort_key": 38
   },
   "Gulbenes novads": {
     "average_temp": 7.4,
@@ -309,7 +313,9 @@
     "average_srad": 9640.499999999998,
     "average_wind": 3.129983309904734,
     "average_tmax": 11.401145833333333,
-    "average_tmin": 3.408333333333333
+    "average_tmin": 3.408333333333333,
+    "population": 0,
+    "symbol_sort_key": 31
   },
   "Ventspils novads": {
     "average_temp": 8.52,
@@ -413,7 +419,9 @@
     "average_srad": 10039.234848484848,
     "average_wind": 4.006782732226632,
     "average_tmax": 11.692742910010343,
-    "average_tmin": 5.338089224120433
+    "average_tmin": 5.338089224120433,
+    "population": 0,
+    "symbol_sort_key": 39
   },
   "Valkas novads": {
     "average_temp": 7.21,
@@ -517,7 +525,9 @@
     "average_srad": 9578.29761904762,
     "average_wind": 3.0773511784417287,
     "average_tmax": 11.376934523809524,
-    "average_tmin": 3.044940476190476
+    "average_tmin": 3.044940476190476,
+    "population": 0,
+    "symbol_sort_key": 40
   },
   "Salaspils novads": {
     "average_temp": 7.85,
@@ -621,7 +631,9 @@
     "average_srad": 9805.833333333334,
     "average_wind": 3.2875624696413674,
     "average_tmax": 11.505208333333336,
-    "average_tmin": 4.204166666666667
+    "average_tmin": 4.204166666666667,
+    "population": 0,
+    "symbol_sort_key": 32
   },
   "Jelgavas": {
     "average_temp": null,
@@ -725,7 +737,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Rēzeknes": {
     "average_temp": null,
@@ -829,7 +843,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 25
   },
   "Jūrmalas": {
     "average_temp": null,
@@ -933,7 +949,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Ventspils": {
     "average_temp": 8.71,
@@ -1037,7 +1055,9 @@
     "average_srad": 10145.916666666666,
     "average_wind": 4.604376753171285,
     "average_tmax": 11.71805552840233,
-    "average_tmin": 5.69305553548038
+    "average_tmin": 5.69305553548038,
+    "population": 32723,
+    "symbol_sort_key": 13
   },
   "Rīga": {
     "average_temp": 8.34,
@@ -1141,7 +1161,9 @@
     "average_srad": 9854.083333333334,
     "average_wind": 3.623562475045522,
     "average_tmax": 11.958333333333334,
-    "average_tmin": 4.723958333333333
+    "average_tmin": 4.723958333333333,
+    "population": 615764,
+    "symbol_sort_key": 0
   },
   "Liepājas": {
     "average_temp": null,
@@ -1245,7 +1267,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Dienvidkurzemes novads": {
     "average_temp": 8.28,
@@ -1349,7 +1373,9 @@
     "average_srad": 10130.450757575758,
     "average_wind": 3.637587510275118,
     "average_tmax": 11.647932561199097,
-    "average_tmin": 4.906523715450683
+    "average_tmin": 4.906523715450683,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Kuldīgas novads": {
     "average_temp": 8.11,
@@ -1453,7 +1479,9 @@
     "average_srad": 9998.16111111111,
     "average_wind": 3.3693277650409272,
     "average_tmax": 11.627291666666665,
-    "average_tmin": 4.596180555555555
+    "average_tmin": 4.596180555555555,
+    "population": 0,
+    "symbol_sort_key": 22
   },
   "Saldus novads": {
     "average_temp": 7.99,
@@ -1557,7 +1585,9 @@
     "average_srad": 9959.854166666666,
     "average_wind": 3.306230910950237,
     "average_tmax": 11.744531250000001,
-    "average_tmin": 4.225694444444444
+    "average_tmin": 4.225694444444444,
+    "population": 0,
+    "symbol_sort_key": 20
   },
   "Talsu novads": {
     "average_temp": 8.08,
@@ -1661,7 +1691,9 @@
     "average_srad": 9935.661458333334,
     "average_wind": 3.7921970697740712,
     "average_tmax": 11.616520195873454,
-    "average_tmin": 4.535198510981476
+    "average_tmin": 4.535198510981476,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Tukuma novads": {
     "average_temp": 8.08,
@@ -1765,7 +1797,9 @@
     "average_srad": 9905.794871794873,
     "average_wind": 3.4340514617088513,
     "average_tmax": 11.833407295323335,
-    "average_tmin": 4.317788460344459
+    "average_tmin": 4.317788460344459,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Dobeles novads": {
     "average_temp": 8.4,
@@ -1869,7 +1903,9 @@
     "average_srad": 9933.185185185186,
     "average_wind": 3.1433356492607682,
     "average_tmax": 12.098842592592591,
-    "average_tmin": 4.70775462962963
+    "average_tmin": 4.70775462962963,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Jelgavas novads": {
     "average_temp": 8.45,
@@ -1973,7 +2009,9 @@
     "average_srad": 9891.369047619048,
     "average_wind": 3.1896160642306017,
     "average_tmax": 12.179017857142854,
-    "average_tmin": 4.7178571428571425
+    "average_tmin": 4.7178571428571425,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Mārupes novads": {
     "average_temp": 8.28,
@@ -2077,7 +2115,9 @@
     "average_srad": 9903.5,
     "average_wind": 3.8782066835297475,
     "average_tmax": 11.845833333333333,
-    "average_tmin": 4.714583333333334
+    "average_tmin": 4.714583333333334,
+    "population": 0,
+    "symbol_sort_key": 26
   },
   "Bauskas novads": {
     "average_temp": 8.13,
@@ -2181,7 +2221,9 @@
     "average_srad": 9846.208333333334,
     "average_wind": 2.9982062359650925,
     "average_tmax": 11.994583333333333,
-    "average_tmin": 4.260416666666667
+    "average_tmin": 4.260416666666667,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Ogres novads": {
     "average_temp": 7.52,
@@ -2285,7 +2327,9 @@
     "average_srad": 9747.818181818182,
     "average_wind": 2.984492439212221,
     "average_tmax": 11.436363636363637,
-    "average_tmin": 3.610416666666666
+    "average_tmin": 3.610416666666666,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Aizkraukles novads": {
     "average_temp": 7.67,
@@ -2389,7 +2433,9 @@
     "average_srad": 9764.929487179486,
     "average_wind": 3.0432243652832813,
     "average_tmax": 11.651602564102562,
-    "average_tmin": 3.698157051282051
+    "average_tmin": 3.698157051282051,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "Jēkabpils novads": {
     "average_temp": 7.68,
@@ -2493,7 +2539,9 @@
     "average_srad": 9771.083333333334,
     "average_wind": 3.1037473951776824,
     "average_tmax": 11.718554687500001,
-    "average_tmin": 3.6324218750000004
+    "average_tmin": 3.6324218750000004,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Ludzas novads": {
     "average_temp": 7.09,
@@ -2597,7 +2645,9 @@
     "average_srad": 9776.527777777777,
     "average_wind": 3.095769092440605,
     "average_tmax": 11.51657986111111,
-    "average_tmin": 2.668489583333333
+    "average_tmin": 2.668489583333333,
+    "population": 0,
+    "symbol_sort_key": 27
   },
   "Rēzeknes novads": {
     "average_temp": 7.24,
@@ -2701,7 +2751,9 @@
     "average_srad": 9778.060185185184,
     "average_wind": 3.1285254370283195,
     "average_tmax": 11.168981481481481,
-    "average_tmin": 3.3071180555555557
+    "average_tmin": 3.3071180555555557,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Balvu novads": {
     "average_temp": 7.23,
@@ -2805,7 +2857,9 @@
     "average_srad": 9669.03472222222,
     "average_wind": 3.1008454793029365,
     "average_tmax": 11.28359375,
-    "average_tmin": 3.1810763888888887
+    "average_tmin": 3.1810763888888887,
+    "population": 0,
+    "symbol_sort_key": 30
   },
   "Madonas novads": {
     "average_temp": 7.18,
@@ -2909,7 +2963,9 @@
     "average_srad": 9696.00462962963,
     "average_wind": 3.112614565425449,
     "average_tmax": 11.34519675925926,
-    "average_tmin": 3.0208333333333335
+    "average_tmin": 3.0208333333333335,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Smiltenes novads": {
     "average_temp": 7.01,
@@ -3013,7 +3069,9 @@
     "average_srad": 9629.1875,
     "average_wind": 3.1105572705467543,
     "average_tmax": 11.149869791666667,
-    "average_tmin": 2.8792968749999996
+    "average_tmin": 2.8792968749999996,
+    "population": 0,
+    "symbol_sort_key": 33
   },
   "Cēsu novads": {
     "average_temp": 6.92,
@@ -3117,7 +3175,9 @@
     "average_srad": 9665.694444444445,
     "average_wind": 3.0334808992014985,
     "average_tmax": 10.544965277777779,
-    "average_tmin": 3.2887152777777775
+    "average_tmin": 3.2887152777777775,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Valmieras novads": {
     "average_temp": 6.82,
@@ -3221,7 +3281,9 @@
     "average_srad": 9621.703125,
     "average_wind": 3.003953124086062,
     "average_tmax": 10.529231770833333,
-    "average_tmin": 3.1046874999999994
+    "average_tmin": 3.1046874999999994,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Ādažu novads": {
     "average_temp": 7.87,
@@ -3325,7 +3387,9 @@
     "average_srad": 9849.5,
     "average_wind": 3.766972710688909,
     "average_tmax": 11.420798619588219,
-    "average_tmin": 4.311493059558173
+    "average_tmin": 4.311493059558173,
+    "population": 0,
+    "symbol_sort_key": 37
   },
   "Ropažu novads": {
     "average_temp": 7.79,
@@ -3429,7 +3493,9 @@
     "average_srad": 9781.833333333334,
     "average_wind": 3.221361094050937,
     "average_tmax": 11.46215277777778,
-    "average_tmin": 4.11388888888889
+    "average_tmin": 4.11388888888889,
+    "population": 0,
+    "symbol_sort_key": 28
   },
   "Siguldas novads": {
     "average_temp": 7.3,
@@ -3533,7 +3599,9 @@
     "average_srad": 9717.111111111111,
     "average_wind": 3.1437117987208896,
     "average_tmax": 10.878124999999999,
-    "average_tmin": 3.722048611111111
+    "average_tmin": 3.722048611111111,
+    "population": 0,
+    "symbol_sort_key": 21
   },
   "Preiļu novads": {
     "average_temp": 7.37,
@@ -3637,7 +3705,9 @@
     "average_srad": 9805.499999999998,
     "average_wind": 3.1193159520626064,
     "average_tmax": 11.474131944444444,
-    "average_tmin": 3.269097222222222
+    "average_tmin": 3.269097222222222,
+    "population": 0,
+    "symbol_sort_key": 34
   },
   "Krāslavas novads": {
     "average_temp": 7.18,
@@ -3741,7 +3811,9 @@
     "average_srad": 9848.499999999998,
     "average_wind": 3.1148562331994376,
     "average_tmax": 11.3921875,
-    "average_tmin": 2.976770833333333
+    "average_tmin": 2.976770833333333,
+    "population": 0,
+    "symbol_sort_key": 24
   },
   "Daugavpils": {
     "average_temp": 7.66,
@@ -3845,7 +3917,9 @@
     "average_srad": 9843.666666666666,
     "average_wind": 3.1029791235923767,
     "average_tmax": 12.031249999999998,
-    "average_tmin": 3.290625
+    "average_tmin": 3.290625,
+    "population": 78126,
+    "symbol_sort_key": 1
   },
   "Ķekavas novads": {
     "average_temp": 7.96,
@@ -3949,7 +4023,9 @@
     "average_srad": 9843.027777777777,
     "average_wind": 3.1676805482970347,
     "average_tmax": 11.613888888888889,
-    "average_tmin": 4.313888888888889
+    "average_tmin": 4.313888888888889,
+    "population": 0,
+    "symbol_sort_key": 29
   },
   "Olaines novads": {
     "average_temp": 8.2,
@@ -4053,7 +4129,9 @@
     "average_srad": 9869.916666666666,
     "average_wind": 3.364104171593984,
     "average_tmax": 11.854166666666664,
-    "average_tmin": 4.545833333333333
+    "average_tmin": 4.545833333333333,
+    "population": 0,
+    "symbol_sort_key": 36
   },
   "Saulkrastu novads": {
     "average_temp": 7.56,
@@ -4157,7 +4235,9 @@
     "average_srad": 9827.416666666666,
     "average_wind": 3.767855246861776,
     "average_tmax": 11.0906994347771,
-    "average_tmin": 4.037425609057148
+    "average_tmin": 4.037425609057148,
+    "population": 0,
+    "symbol_sort_key": 41
   },
   "Limbažu novads": {
     "average_temp": 7.11,
@@ -4261,7 +4341,9 @@
     "average_srad": 9738.340277777776,
     "average_wind": 3.5271524108118477,
     "average_tmax": 10.639728011397851,
-    "average_tmin": 3.5708912038140834
+    "average_tmin": 3.5708912038140834,
+    "population": 0,
+    "symbol_sort_key": 23
   },
   "Augšdaugavas novads": {
     "average_temp": 7.54,
@@ -4365,7 +4447,9 @@
     "average_srad": 9850.089285714284,
     "average_wind": 3.128805055504754,
     "average_tmax": 11.778794642857143,
-    "average_tmin": 3.291443452380952
+    "average_tmin": 3.291443452380952,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Varakļānu novads": {
     "average_temp": null,
@@ -4469,6 +4553,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 42
   }
 }

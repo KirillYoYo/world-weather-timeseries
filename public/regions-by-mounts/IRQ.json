@@ -101,7 +101,9 @@
     "average_srad": 19203.555555555555,
     "average_wind": 3.277544480065505,
     "average_tmax": 30.14817925347222,
-    "average_tmin": 15.080640190972224
+    "average_tmin": 15.080640190972224,
+    "population": 1773660,
+    "symbol_sort_key": 9
   },
   "Karbala": {
     "average_temp": 25.35,
@@ -205,7 +207,9 @@
     "average_srad": 19282.641025641024,
     "average_wind": 3.2976698653820233,
     "average_tmax": 32.570512820512825,
-    "average_tmin": 18.134535256410256
+    "average_tmin": 18.134535256410256,
+    "population": 774200,
+    "symbol_sort_key": 16
   },
   "An-Najaf": {
     "average_temp": 25.43,
@@ -309,7 +313,9 @@
     "average_srad": 19623.583333333336,
     "average_wind": 3.6387810305500707,
     "average_tmax": 32.69698581560284,
-    "average_tmin": 18.159607712765958
+    "average_tmin": 18.159607712765958,
+    "population": 896005,
+    "symbol_sort_key": 13
   },
   "Babil": {
     "average_temp": 25.31,
@@ -413,7 +419,9 @@
     "average_srad": 19253.56172839506,
     "average_wind": 3.274960652545646,
     "average_tmax": 32.649729938271605,
-    "average_tmin": 17.963194444444444
+    "average_tmin": 17.963194444444444,
+    "population": 1056499,
+    "symbol_sort_key": 2
   },
   "Baghdad": {
     "average_temp": 24.72,
@@ -517,7 +525,9 @@
     "average_srad": 18998.833333333332,
     "average_wind": 3.077805558840433,
     "average_tmax": 32.34722222222222,
-    "average_tmin": 17.088541666666668
+    "average_tmin": 17.088541666666668,
+    "population": 8126755,
+    "symbol_sort_key": 0
   },
   "Al-Qadisiyah": {
     "average_temp": 26.03,
@@ -621,7 +631,9 @@
     "average_srad": 19432.583333333332,
     "average_wind": 3.532226560637355,
     "average_tmax": 33.35462239583333,
-    "average_tmin": 18.7025390625
+    "average_tmin": 18.7025390625,
+    "population": 1166600,
+    "symbol_sort_key": 11
   },
   "Al-Muthanna": {
     "average_temp": 26.53,
@@ -725,7 +737,9 @@
     "average_srad": 19554.548295454548,
     "average_wind": 3.787645351931905,
     "average_tmax": 33.94196851325757,
-    "average_tmin": 19.12411221590909
+    "average_tmin": 19.12411221590909,
+    "population": 330431,
+    "symbol_sort_key": 17
   },
   "Dhi Qar": {
     "average_temp": 26.29,
@@ -829,7 +843,9 @@
     "average_srad": 19302.731292517008,
     "average_wind": 3.5453809495685857,
     "average_tmax": 33.661713435374146,
-    "average_tmin": 18.92110969387755
+    "average_tmin": 18.92110969387755,
+    "population": 851642,
+    "symbol_sort_key": 8
   },
   "Al-Basrah": {
     "average_temp": 26.62,
@@ -933,7 +949,9 @@
     "average_srad": 19243.764367816093,
     "average_wind": 3.437946577524317,
     "average_tmax": 34.163020833333334,
-    "average_tmin": 19.077119252873562
+    "average_tmin": 19.077119252873562,
+    "population": 2239613,
+    "symbol_sort_key": 3
   },
   "Maysan": {
     "average_temp": 26.09,
@@ -1037,7 +1055,9 @@
     "average_srad": 18803.8591954023,
     "average_wind": 3.2549831127298297,
     "average_tmax": 33.67882543103448,
-    "average_tmin": 18.508782327586207
+    "average_tmin": 18.508782327586207,
+    "population": 511500,
+    "symbol_sort_key": 15
   },
   "Wasit": {
     "average_temp": 25.77,
@@ -1141,7 +1161,9 @@
     "average_srad": 18949.120218579235,
     "average_wind": 3.2697899683577116,
     "average_tmax": 33.30963114754098,
-    "average_tmin": 18.23002049180328
+    "average_tmin": 18.23002049180328,
+    "population": 368368,
+    "symbol_sort_key": 14
   },
   "Ninawa": {
     "average_temp": 22.65,
@@ -1245,7 +1267,9 @@
     "average_srad": 17987.789102564104,
     "average_wind": 2.4295410204392214,
     "average_tmax": 29.485961538461538,
-    "average_tmin": 15.811674679487181
+    "average_tmin": 15.811674679487181,
+    "population": 2183640,
+    "symbol_sort_key": 1
   },
   "Dohuk": {
     "average_temp": 18.27,
@@ -1349,7 +1373,9 @@
     "average_srad": 17576.35256410256,
     "average_wind": 2.059702725364612,
     "average_tmax": 24.370673076923083,
-    "average_tmin": 12.170432692307692
+    "average_tmin": 12.170432692307692,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Salah al-Din": {
     "average_temp": 25.61,
@@ -1453,7 +1479,9 @@
     "average_srad": 18512.179629629627,
     "average_wind": 2.819083101881875,
     "average_tmax": 33.06116898148148,
-    "average_tmin": 18.16292824074074
+    "average_tmin": 18.16292824074074,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Diyala": {
     "average_temp": 24.84,
@@ -1557,7 +1585,9 @@
     "average_srad": 18470.64734299517,
     "average_wind": 2.9590437747718052,
     "average_tmax": 32.364281400966185,
-    "average_tmin": 17.306612318840582
+    "average_tmin": 17.306612318840582,
+    "population": 1155524,
+    "symbol_sort_key": 6
   },
   "Kirkuk": {
     "average_temp": 24.37,
@@ -1661,7 +1691,9 @@
     "average_srad": 18148.602083333335,
     "average_wind": 2.592689056197802,
     "average_tmax": 31.459348958333337,
-    "average_tmin": 17.271979166666668
+    "average_tmin": 17.271979166666668,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Erbil": {
     "average_temp": 19.13,
@@ -1765,7 +1797,9 @@
     "average_srad": 17617.62925170068,
     "average_wind": 2.256430265043868,
     "average_tmax": 25.80720663265306,
-    "average_tmin": 12.461777210884351
+    "average_tmin": 12.461777210884351,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Al-Sulaimaniyah": {
     "average_temp": 19.85,
@@ -1869,6 +1903,8 @@
     "average_srad": 17596.321038251368,
     "average_wind": 2.476444324020479,
     "average_tmax": 26.6478825136612,
-    "average_tmin": 13.054713114754096
+    "average_tmin": 13.054713114754096,
+    "population": 0,
+    "symbol_sort_key": 10
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 18174.74846014493,
     "average_wind": 3.0036848145442594,
     "average_tmax": 24.809819289589853,
-    "average_tmin": 11.30810775761443
+    "average_tmin": 11.30810775761443,
+    "population": 7260954,
+    "symbol_sort_key": 0
   },
   "Victoria": {
     "average_temp": 14.5,
@@ -205,7 +207,9 @@
     "average_srad": 16248.560670731706,
     "average_wind": 3.9163057611240597,
     "average_tmax": 20.429904946234167,
-    "average_tmin": 8.561032949550365
+    "average_tmin": 8.561032949550365,
+    "population": 6590963,
+    "symbol_sort_key": 1
   },
   "Queensland": {
     "average_temp": 23.94,
@@ -309,7 +313,9 @@
     "average_srad": 20656.737157273998,
     "average_wind": 2.7001681715907697,
     "average_tmax": 30.811235558520664,
-    "average_tmin": 17.076004810772144
+    "average_tmin": 17.076004810772144,
+    "population": 4988155,
+    "symbol_sort_key": 2
   },
   "South Australia": {
     "average_temp": 19.99,
@@ -413,7 +419,9 @@
     "average_srad": 20284.397395362845,
     "average_wind": 3.8912862705248705,
     "average_tmax": 27.12926198727608,
-    "average_tmin": 12.849991984287444
+    "average_tmin": 12.849991984287444,
+    "population": 1563440,
+    "symbol_sort_key": 4
   },
   "Western Australia": {
     "average_temp": 23.13,
@@ -517,7 +525,9 @@
     "average_srad": 21290.7853402608,
     "average_wind": 3.4345819171150715,
     "average_tmax": 30.568853863136695,
-    "average_tmin": 15.698572732207248
+    "average_tmin": 15.698572732207248,
+    "population": 2653196,
+    "symbol_sort_key": 3
   },
   "Tasmania": {
     "average_temp": 11.04,
@@ -621,7 +631,9 @@
     "average_srad": 14082.281172839508,
     "average_wind": 5.309172053763896,
     "average_tmax": 15.486035535777058,
-    "average_tmin": 6.590520973808972
+    "average_tmin": 6.590520973808972,
+    "population": 359726,
+    "symbol_sort_key": 5
   },
   "Northern Territory": {
     "average_temp": 25.48,
@@ -725,7 +737,9 @@
     "average_srad": 21946.29337325349,
     "average_wind": 2.8059140770449607,
     "average_tmax": 32.84925926787172,
-    "average_tmin": 18.105533803060382
+    "average_tmin": 18.105533803060382,
+    "population": 216579,
+    "symbol_sort_key": 7
   },
   "Australian Capital Territory": {
     "average_temp": 12.06,
@@ -829,7 +843,9 @@
     "average_srad": 16937.895833333332,
     "average_wind": 3.397276053826014,
     "average_tmax": 18.41653645833333,
-    "average_tmin": 5.695572916666667
+    "average_tmin": 5.695572916666667,
+    "population": 387725,
+    "symbol_sort_key": 6
   },
   "Other Territories": {
     "average_temp": null,
@@ -933,6 +949,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 8
   }
 }

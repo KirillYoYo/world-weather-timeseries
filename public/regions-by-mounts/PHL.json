@@ -101,7 +101,9 @@
     "average_srad": 16639.993243243243,
     "average_wind": 1.4952107329626338,
     "average_tmax": 31.173426622098635,
-    "average_tmin": 22.27193002614889
+    "average_tmin": 22.27193002614889,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "CAR": {
     "average_temp": 23.81,
@@ -205,7 +207,9 @@
     "average_srad": 16692.880503144654,
     "average_wind": 2.1424205914233463,
     "average_tmax": 27.14728773584906,
-    "average_tmin": 20.47751572327044
+    "average_tmin": 20.47751572327044,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "NCR": {
     "average_temp": 28.11,
@@ -309,7 +313,9 @@
     "average_srad": 15938.916666666666,
     "average_wind": 2.338989570736885,
     "average_tmax": 31.644270833333334,
-    "average_tmin": 24.571875000000002
+    "average_tmin": 24.571875000000002,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Ilocos Region": {
     "average_temp": 26.95,
@@ -413,7 +419,9 @@
     "average_srad": 17581.573232323233,
     "average_wind": 2.416276905873809,
     "average_tmax": 30.46717179905285,
-    "average_tmin": 23.429548263549805
+    "average_tmin": 23.429548263549805,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Cagayan Valley": {
     "average_temp": 25.89,
@@ -517,7 +525,9 @@
     "average_srad": 16501.05967078189,
     "average_wind": 2.199763297176165,
     "average_tmax": 29.466829325755437,
-    "average_tmin": 22.314927203655245
+    "average_tmin": 22.314927203655245,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Central Luzon": {
     "average_temp": 26.85,
@@ -621,7 +631,9 @@
     "average_srad": 17009.19615384615,
     "average_wind": 2.20151693102641,
     "average_tmax": 30.409698080405207,
-    "average_tmin": 23.297890620598427
+    "average_tmin": 23.297890620598427,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Calabarzon": {
     "average_temp": 27.08,
@@ -725,7 +737,9 @@
     "average_srad": 15859.678333333335,
     "average_wind": 2.2124885358413064,
     "average_tmax": 30.086037185668943,
-    "average_tmin": 24.068680854161585
+    "average_tmin": 24.068680854161585,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Mimaropa": {
     "average_temp": 26.8,
@@ -829,7 +843,9 @@
     "average_srad": 16332.951576576577,
     "average_wind": 2.30625291947309,
     "average_tmax": 30.2477193136473,
-    "average_tmin": 23.351965786530087
+    "average_tmin": 23.351965786530087,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Zamboanga Peninsula": {
     "average_temp": 27.23,
@@ -933,7 +949,9 @@
     "average_srad": 16083.585365853658,
     "average_wind": 1.5997653243745245,
     "average_tmax": 31.32316651185354,
-    "average_tmin": 23.13465122938156
+    "average_tmin": 23.13465122938156,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Bicol Region": {
     "average_temp": 27.44,
@@ -1037,7 +1055,9 @@
     "average_srad": 15930.99826388889,
     "average_wind": 2.1660612875388727,
     "average_tmax": 30.538736518562263,
-    "average_tmin": 24.335687805067565
+    "average_tmin": 24.335687805067565,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Western Visayas": {
     "average_temp": 27.32,
@@ -1141,7 +1161,9 @@
     "average_srad": 15777.060734463279,
     "average_wind": 1.8633962074915569,
     "average_tmax": 30.949368251649673,
-    "average_tmin": 23.69684116072574
+    "average_tmin": 23.69684116072574,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Central Visayas": {
     "average_temp": 27.4,
@@ -1245,7 +1267,9 @@
     "average_srad": 15260.817073170734,
     "average_wind": 1.7899005502704683,
     "average_tmax": 31.173037207126615,
-    "average_tmin": 23.62664538065592
+    "average_tmin": 23.62664538065592,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Eastern Visayas": {
     "average_temp": 26.77,
@@ -1349,7 +1373,9 @@
     "average_srad": 16079.96875,
     "average_wind": 1.837314486680996,
     "average_tmax": 29.954792181083135,
-    "average_tmin": 23.58119061787923
+    "average_tmin": 23.58119061787923,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Northern Mindanao": {
     "average_temp": 25.61,
@@ -1453,7 +1479,9 @@
     "average_srad": 16444.94871794872,
     "average_wind": 1.4488798435299826,
     "average_tmax": 29.926235011979646,
-    "average_tmin": 21.29123092788497
+    "average_tmin": 21.29123092788497,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Davao Region": {
     "average_temp": 25.84,
@@ -1557,7 +1585,9 @@
     "average_srad": 16179.156250000002,
     "average_wind": 1.5415220656210467,
     "average_tmax": 29.904292884873758,
-    "average_tmin": 21.77999890292132
+    "average_tmin": 21.77999890292132,
+    "population": 1232958,
+    "symbol_sort_key": 7
   },
   "Soccsksargen": {
     "average_temp": 26.41,
@@ -1661,7 +1691,9 @@
     "average_srad": 16419.036666666663,
     "average_wind": 1.312429810067018,
     "average_tmax": 30.83172476704915,
-    "average_tmin": 21.9850474319458
+    "average_tmin": 21.9850474319458,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Caraga": {
     "average_temp": 26.86,
@@ -1765,6 +1797,8 @@
     "average_srad": 16217.487421383647,
     "average_wind": 1.477990007063128,
     "average_tmax": 30.29606274658779,
-    "average_tmin": 23.42959761109742
+    "average_tmin": 23.42959761109742,
+    "population": 0,
+    "symbol_sort_key": 14
   }
 }

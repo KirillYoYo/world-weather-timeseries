@@ -101,7 +101,9 @@
     "average_srad": 15711.507936507936,
     "average_wind": 2.03843054364598,
     "average_tmax": 17.709771825396825,
-    "average_tmin": 6.257093253968255
+    "average_tmin": 6.257093253968255,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Contiguous Azerbaijan": {
     "average_temp": 13.56,
@@ -205,6 +207,8 @@
     "average_srad": 14067.271374458876,
     "average_wind": 2.298323923407437,
     "average_tmax": 18.554951298701297,
-    "average_tmin": 8.566680194805194
+    "average_tmin": 8.566680194805194,
+    "population": 0,
+    "symbol_sort_key": 0
   }
 }

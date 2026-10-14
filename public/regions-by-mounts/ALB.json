@@ -101,7 +101,9 @@
     "average_srad": 15024.107142857145,
     "average_wind": 1.4675982005539394,
     "average_tmax": 18.798214285714284,
-    "average_tmin": 8.543005952380954
+    "average_tmin": 8.543005952380954,
+    "population": 74939,
+    "symbol_sort_key": 8
   },
   "Dibër": {
     "average_temp": 11.23,
@@ -205,7 +207,9 @@
     "average_srad": 14570.685185185184,
     "average_wind": 1.604085643534307,
     "average_tmax": 16.213773148148146,
-    "average_tmin": 6.240393518518519
+    "average_tmin": 6.240393518518519,
+    "population": 24113,
+    "symbol_sort_key": 9
   },
   "Durrës": {
     "average_temp": 17.15,
@@ -309,7 +313,9 @@
     "average_srad": 14941.916666666666,
     "average_wind": 1.5639573857188225,
     "average_tmax": 22.436979166666664,
-    "average_tmin": 11.859895833333333
+    "average_tmin": 11.859895833333333,
+    "population": 278121,
+    "symbol_sort_key": 2
   },
   "Elbasan": {
     "average_temp": 13.78,
@@ -413,7 +419,9 @@
     "average_srad": 14907.402777777776,
     "average_wind": 1.437767367810011,
     "average_tmax": 18.944097222222222,
-    "average_tmin": 8.617274305555556
+    "average_tmin": 8.617274305555556,
+    "population": 112264,
+    "symbol_sort_key": 3
   },
   "Fier": {
     "average_temp": 17.45,
@@ -517,7 +525,9 @@
     "average_srad": 15246.488095238094,
     "average_wind": 1.558252289891243,
     "average_tmax": 22.88497023809524,
-    "average_tmin": 12.022916666666667
+    "average_tmin": 12.022916666666667,
+    "population": 90723,
+    "symbol_sort_key": 1
   },
   "Gjirokastër": {
     "average_temp": 13.55,
@@ -621,7 +631,9 @@
     "average_srad": 15064.833333333334,
     "average_wind": 1.6596979167726305,
     "average_tmax": 18.607465277777777,
-    "average_tmin": 8.495138888888887
+    "average_tmin": 8.495138888888887,
+    "population": 28987,
+    "symbol_sort_key": 11
   },
   "Korçë": {
     "average_temp": 11.15,
@@ -725,7 +737,9 @@
     "average_srad": 14825.743589743592,
     "average_wind": 1.958621786190913,
     "average_tmax": 15.958814102564103,
-    "average_tmin": 6.348237179487179
+    "average_tmin": 6.348237179487179,
+    "population": 92457,
+    "symbol_sort_key": 5
   },
   "Kukës": {
     "average_temp": 11.11,
@@ -829,7 +843,9 @@
     "average_srad": 14189.962962962964,
     "average_wind": 1.637993053705604,
     "average_tmax": 16.056134259259256,
-    "average_tmin": 6.157175925925926
+    "average_tmin": 6.157175925925926,
+    "population": 20983,
+    "symbol_sort_key": 10
   },
   "Lezhë": {
     "average_temp": 15.13,
@@ -933,7 +949,9 @@
     "average_srad": 14778.4,
     "average_wind": 1.5681240340073905,
     "average_tmax": 20.18297620773316,
-    "average_tmin": 10.08485119422277
+    "average_tmin": 10.08485119422277,
+    "population": 41399,
+    "symbol_sort_key": 7
   },
   "Shkodër": {
     "average_temp": 13.03,
@@ -1037,7 +1055,9 @@
     "average_srad": 14381.563725490196,
     "average_wind": 1.6551839212576545,
     "average_tmax": 17.856127450980395,
-    "average_tmin": 8.206188725490195
+    "average_tmin": 8.206188725490195,
+    "population": 99160,
+    "symbol_sort_key": 4
   },
   "Tiranë": {
     "average_temp": 15.47,
@@ -1141,7 +1161,9 @@
     "average_srad": 14935.875,
     "average_wind": 1.4960972708132532,
     "average_tmax": 20.65451388888889,
-    "average_tmin": 10.283159722222223
+    "average_tmin": 10.283159722222223,
+    "population": 628732,
+    "symbol_sort_key": 0
   },
   "Vlorë": {
     "average_temp": 15.76,
@@ -1245,6 +1267,8 @@
     "average_srad": 15220.703703703706,
     "average_wind": 2.141689686863511,
     "average_tmax": 20.823881154590183,
-    "average_tmin": 10.697700620580603
+    "average_tmin": 10.697700620580603,
+    "population": 137874,
+    "symbol_sort_key": 6
   }
 }

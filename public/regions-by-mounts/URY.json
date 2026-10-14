@@ -101,7 +101,9 @@
     "average_srad": 16531.034313725493,
     "average_wind": 3.429196074118023,
     "average_tmax": 25.404044117647057,
-    "average_tmin": 12.83578431372549
+    "average_tmin": 12.83578431372549,
+    "population": 124878,
+    "symbol_sort_key": 3
   },
   "Artigas": {
     "average_temp": 19.73,
@@ -205,7 +207,9 @@
     "average_srad": 16503.29268292683,
     "average_wind": 3.461024383703867,
     "average_tmax": 25.850558943089435,
-    "average_tmin": 13.601448170731707
+    "average_tmin": 13.601448170731707,
+    "population": 65671,
+    "symbol_sort_key": 8
   },
   "Canelones": {
     "average_temp": 17.02,
@@ -309,7 +313,9 @@
     "average_srad": 16220.240196078434,
     "average_wind": 3.7488328440516603,
     "average_tmax": 22.151477503309067,
-    "average_tmin": 11.890161204104329
+    "average_tmin": 11.890161204104329,
+    "population": 436700,
+    "symbol_sort_key": 1
   },
   "Rivera": {
     "average_temp": 18.89,
@@ -413,7 +419,9 @@
     "average_srad": 16022.757575757578,
     "average_wind": 3.3712885084778375,
     "average_tmax": 24.82023358585859,
-    "average_tmin": 12.952935606060606
+    "average_tmin": 12.952935606060606,
+    "population": 92010,
+    "symbol_sort_key": 7
   },
   "Montevideo": {
     "average_temp": null,
@@ -517,7 +525,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 1805756,
+    "symbol_sort_key": 0
   },
   "Maldonado": {
     "average_temp": 16.62,
@@ -621,7 +631,9 @@
     "average_srad": 15840.08333333333,
     "average_wind": 3.689413870082182,
     "average_tmax": 21.06168959281024,
-    "average_tmin": 12.169248361213539
+    "average_tmin": 12.169248361213539,
+    "population": 189193,
+    "symbol_sort_key": 2
   },
   "Lavalleja": {
     "average_temp": 16.87,
@@ -725,7 +737,9 @@
     "average_srad": 15981.314814814816,
     "average_wind": 3.005818865917347,
     "average_tmax": 22.02757523148148,
-    "average_tmin": 11.703790509259258
+    "average_tmin": 11.703790509259258,
+    "population": 40946,
+    "symbol_sort_key": 14
   },
   "Florida": {
     "average_temp": 17.13,
@@ -829,7 +843,9 @@
     "average_srad": 16251.675675675675,
     "average_wind": 3.1288338931831152,
     "average_tmax": 22.923310810810808,
-    "average_tmin": 11.343355855855854
+    "average_tmin": 11.343355855855854,
+    "population": 36449,
+    "symbol_sort_key": 13
   },
   "San José": {
     "average_temp": 17.31,
@@ -933,7 +949,9 @@
     "average_srad": 16336.447368421052,
     "average_wind": 3.6219477663960373,
     "average_tmax": 23.042795010616903,
-    "average_tmin": 11.567303151415105
+    "average_tmin": 11.567303151415105,
+    "population": 89770,
+    "symbol_sort_key": 6
   },
   "Treinta y Tres": {
     "average_temp": 17.59,
@@ -1037,7 +1055,9 @@
     "average_srad": 15782.827956989247,
     "average_wind": 2.859015454528152,
     "average_tmax": 22.96733870967742,
-    "average_tmin": 12.21021505376344
+    "average_tmin": 12.21021505376344,
+    "population": 29830,
+    "symbol_sort_key": 17
   },
   "Flores": {
     "average_temp": 17.78,
@@ -1141,7 +1161,9 @@
     "average_srad": 16377.355263157899,
     "average_wind": 3.1709627122209785,
     "average_tmax": 24.005208333333332,
-    "average_tmin": 11.560197368421052
+    "average_tmin": 11.560197368421052,
+    "population": 22893,
+    "symbol_sort_key": 18
   },
   "Durazno": {
     "average_temp": 17.93,
@@ -1245,7 +1267,9 @@
     "average_srad": 16293.66666666667,
     "average_wind": 3.299817185600599,
     "average_tmax": 24.057187499999998,
-    "average_tmin": 11.808541666666665
+    "average_tmin": 11.808541666666665,
+    "population": 40279,
+    "symbol_sort_key": 15
   },
   "Soriano": {
     "average_temp": 17.97,
@@ -1349,7 +1373,9 @@
     "average_srad": 16463.9453125,
     "average_wind": 3.386245454971989,
     "average_tmax": 24.13003722528617,
-    "average_tmin": 11.803777711465955
+    "average_tmin": 11.803777711465955,
+    "population": 72750,
+    "symbol_sort_key": 11
   },
   "Colonia": {
     "average_temp": 17.65,
@@ -1453,7 +1479,9 @@
     "average_srad": 16313.04761904762,
     "average_wind": 3.7961419395038063,
     "average_tmax": 23.429487430481682,
-    "average_tmin": 11.867225525871156
+    "average_tmin": 11.867225525871156,
+    "population": 87214,
+    "symbol_sort_key": 4
   },
   "Rocha": {
     "average_temp": 17.11,
@@ -1557,7 +1585,9 @@
     "average_srad": 15577.613425925927,
     "average_wind": 3.216911164146883,
     "average_tmax": 21.60705963505639,
-    "average_tmin": 12.622407337471289
+    "average_tmin": 12.622407337471289,
+    "population": 55314,
+    "symbol_sort_key": 12
   },
   "Cerro Largo": {
     "average_temp": 18.11,
@@ -1661,7 +1691,9 @@
     "average_srad": 15760.898936170212,
     "average_wind": 3.004719852978456,
     "average_tmax": 23.691777482269504,
-    "average_tmin": 12.528435283687942
+    "average_tmin": 12.528435283687942,
+    "population": 73364,
+    "symbol_sort_key": 10
   },
   "Tacuarembó": {
     "average_temp": 18.54,
@@ -1765,7 +1797,9 @@
     "average_srad": 16238.018181818183,
     "average_wind": 3.392449616302143,
     "average_tmax": 24.667878787878788,
-    "average_tmin": 12.407935606060606
+    "average_tmin": 12.407935606060606,
+    "population": 74791,
+    "symbol_sort_key": 9
   },
   "Paysandú": {
     "average_temp": 18.83,
@@ -1869,7 +1903,9 @@
     "average_srad": 16611.44444444444,
     "average_wind": 3.2637495675848593,
     "average_tmax": 25.09144965277778,
-    "average_tmin": 12.565755208333334
+    "average_tmin": 12.565755208333334,
+    "population": 83880,
+    "symbol_sort_key": 5
   },
   "Río Negro": {
     "average_temp": 18.61,
@@ -1973,6 +2009,8 @@
     "average_srad": 16543.936274509804,
     "average_wind": 3.4297773458209693,
     "average_tmax": 24.801807598039215,
-    "average_tmin": 12.415318627450981
+    "average_tmin": 12.415318627450981,
+    "population": 44765,
+    "symbol_sort_key": 16
   }
 }

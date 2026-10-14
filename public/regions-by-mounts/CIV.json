@@ -101,7 +101,9 @@
     "average_srad": 17142.680555555555,
     "average_wind": 1.470927999901866,
     "average_tmax": 30.35904348539928,
-    "average_tmin": 22.409099117914838
+    "average_tmin": 22.409099117914838,
+    "population": 960444,
+    "symbol_sort_key": 3
   },
   "Denguele": {
     "average_temp": 26.77,
@@ -205,7 +207,9 @@
     "average_srad": 18297.719444444447,
     "average_wind": 1.7679621481233172,
     "average_tmax": 33.330468749999994,
-    "average_tmin": 20.216666666666665
+    "average_tmin": 20.216666666666665,
+    "population": 110530,
+    "symbol_sort_key": 13
   },
   "District Autonome D'Abidjan": {
     "average_temp": 27.11,
@@ -309,7 +313,9 @@
     "average_srad": 17285.194444444445,
     "average_wind": 1.91699833340115,
     "average_tmax": 30.448348082436457,
-    "average_tmin": 23.772927194171483
+    "average_tmin": 23.772927194171483,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "District Autonome De Yamoussoukro": {
     "average_temp": 27.05,
@@ -413,7 +419,9 @@
     "average_srad": 17310.95,
     "average_wind": 1.2286041647195816,
     "average_tmax": 32.19083333333334,
-    "average_tmin": 21.912291666666665
+    "average_tmin": 21.912291666666665,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Goh-Djiboua": {
     "average_temp": 26.39,
@@ -517,7 +525,9 @@
     "average_srad": 17410.166666666668,
     "average_wind": 1.2391091465302138,
     "average_tmax": 30.67119565217391,
-    "average_tmin": 22.112703804347827
+    "average_tmin": 22.112703804347827,
+    "population": 713637,
+    "symbol_sort_key": 5
   },
   "Lacs": {
     "average_temp": 27.27,
@@ -621,7 +631,9 @@
     "average_srad": 17213.04594017094,
     "average_wind": 1.2339361612486024,
     "average_tmax": 31.983867521367518,
-    "average_tmin": 22.549145299145298
+    "average_tmin": 22.549145299145298,
+    "population": 334195,
+    "symbol_sort_key": 8
   },
   "Montagnes": {
     "average_temp": 25.82,
@@ -725,7 +737,9 @@
     "average_srad": 16565.31835205993,
     "average_wind": 1.4554084742560367,
     "average_tmax": 32.04130383895131,
-    "average_tmin": 19.603125000000002
+    "average_tmin": 19.603125000000002,
+    "population": 967955,
+    "symbol_sort_key": 1
   },
   "Sassandra-Marahoue": {
     "average_temp": 26.57,
@@ -829,7 +843,9 @@
     "average_srad": 17134.87142857143,
     "average_wind": 1.336943749799615,
     "average_tmax": 31.894925595238096,
-    "average_tmin": 21.246770833333333
+    "average_tmin": 21.246770833333333,
+    "population": 1123938,
+    "symbol_sort_key": 2
   },
   "Savanes": {
     "average_temp": 27.75,
@@ -933,7 +949,9 @@
     "average_srad": 18668.617768595042,
     "average_wind": 1.7618161050741337,
     "average_tmax": 33.346444559228644,
-    "average_tmin": 22.160416666666666
+    "average_tmin": 22.160416666666666,
+    "population": 785247,
+    "symbol_sort_key": 4
   },
   "Valle Du Bandama": {
     "average_temp": 27.43,
@@ -1037,7 +1055,9 @@
     "average_srad": 17722.836345381525,
     "average_wind": 1.4649824269684444,
     "average_tmax": 32.53995983935743,
-    "average_tmin": 22.32710843373494
+    "average_tmin": 22.32710843373494,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Woroba": {
     "average_temp": 26.49,
@@ -1141,7 +1161,9 @@
     "average_srad": 17550.937037037038,
     "average_wind": 1.6385136521524848,
     "average_tmax": 32.67945601851852,
-    "average_tmin": 20.301747685185187
+    "average_tmin": 20.301747685185187,
+    "population": 258221,
+    "symbol_sort_key": 11
   },
   "Zanzan": {
     "average_temp": 27.66,
@@ -1245,7 +1267,9 @@
     "average_srad": 17576.699852507376,
     "average_wind": 1.559214777431305,
     "average_tmax": 32.69705936578171,
-    "average_tmin": 22.617514749262536
+    "average_tmin": 22.617514749262536,
+    "population": 256951,
+    "symbol_sort_key": 10
   },
   "Lagunes": {
     "average_temp": 27.14,
@@ -1349,7 +1373,9 @@
     "average_srad": 17281.50847457627,
     "average_wind": 1.3193369259436925,
     "average_tmax": 30.925151834649558,
-    "average_tmin": 23.35889712996402
+    "average_tmin": 23.35889712996402,
+    "population": 777859,
+    "symbol_sort_key": 6
   },
   "Comoe": {
     "average_temp": 27.16,
@@ -1453,6 +1479,8 @@
     "average_srad": 16728.814393939396,
     "average_wind": 1.3399249836802485,
     "average_tmax": 31.05432765267112,
-    "average_tmin": 23.265339331915886
+    "average_tmin": 23.265339331915886,
+    "population": 429473,
+    "symbol_sort_key": 9
   }
 }

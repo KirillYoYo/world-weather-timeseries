@@ -101,7 +101,9 @@
     "average_srad": 22331.508251924217,
     "average_wind": 3.434299184853082,
     "average_tmax": 34.89719601095323,
-    "average_tmin": 19.60949942643576
+    "average_tmin": 19.60949942643576,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Dossa": {
     "average_temp": 29.63,
@@ -205,7 +207,9 @@
     "average_srad": 20394.06786941581,
     "average_wind": 2.635066363614859,
     "average_tmax": 36.36397121993127,
-    "average_tmin": 22.905090206185566
+    "average_tmin": 22.905090206185566,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Niamey": {
     "average_temp": 30.18,
@@ -309,7 +313,9 @@
     "average_srad": 20884.083333333332,
     "average_wind": 2.5925625016291938,
     "average_tmax": 36.85989583333333,
-    "average_tmin": 23.505729166666665
+    "average_tmin": 23.505729166666665,
+    "population": 1520542,
+    "symbol_sort_key": 5
   },
   "Tillaberi": {
     "average_temp": 29.94,
@@ -413,7 +419,9 @@
     "average_srad": 21109.41304347826,
     "average_wind": 2.659205086565248,
     "average_tmax": 36.829415760869566,
-    "average_tmin": 23.051819142512084
+    "average_tmin": 23.051819142512084,
+    "population": 138987,
+    "symbol_sort_key": 3
   },
   "Maradi": {
     "average_temp": 28.14,
@@ -517,7 +525,9 @@
     "average_srad": 20790.242997198882,
     "average_wind": 2.9049830231346,
     "average_tmax": 34.774238445378145,
-    "average_tmin": 21.514697128851537
+    "average_tmin": 21.514697128851537,
+    "population": 284774,
+    "symbol_sort_key": 2
   },
   "Zinder/Diffa": {
     "average_temp": 27.73,
@@ -621,6 +631,8 @@
     "average_srad": 21817.54106009705,
     "average_wind": 3.020392102463649,
     "average_tmax": 35.20961646136619,
-    "average_tmin": 20.257549458753264
+    "average_tmin": 20.257549458753264,
+    "population": 0,
+    "symbol_sort_key": 0
   }
 }

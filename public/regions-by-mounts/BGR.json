@@ -101,7 +101,9 @@
     "average_srad": 13562.939102564102,
     "average_wind": 2.6384519128463206,
     "average_tmax": 15.902123397435895,
-    "average_tmin": 5.252043269230769
+    "average_tmin": 5.252043269230769,
+    "population": 205066,
+    "symbol_sort_key": 4
   },
   "Burgas": {
     "average_temp": 13.9,
@@ -205,7 +207,9 @@
     "average_srad": 14102.669753086417,
     "average_wind": 2.9322941457783736,
     "average_tmax": 19.294300022242982,
-    "average_tmin": 8.499254114530336
+    "average_tmin": 8.499254114530336,
+    "population": 342820,
+    "symbol_sort_key": 3
   },
   "Dobrich": {
     "average_temp": 13.31,
@@ -309,7 +313,9 @@
     "average_srad": 13397.438596491227,
     "average_wind": 3.576415098550027,
     "average_tmax": 18.278829882019444,
-    "average_tmin": 8.35099203943422
+    "average_tmin": 8.35099203943422,
+    "population": 101718,
+    "symbol_sort_key": 13
   },
   "Gabrovo": {
     "average_temp": 12.25,
@@ -413,7 +419,9 @@
     "average_srad": 13069.854166666666,
     "average_wind": 2.578046885629495,
     "average_tmax": 18.405338541666666,
-    "average_tmin": 6.098958333333333
+    "average_tmin": 6.098958333333333,
+    "population": 71696,
+    "symbol_sort_key": 25
   },
   "Haskovo": {
     "average_temp": 14.26,
@@ -517,7 +525,9 @@
     "average_srad": 14160.797619047624,
     "average_wind": 2.1245525545544095,
     "average_tmax": 20.359821428571433,
-    "average_tmin": 8.157341269841268
+    "average_tmin": 8.157341269841268,
+    "population": 164210,
+    "symbol_sort_key": 10
   },
   "Kardzhali": {
     "average_temp": 13.35,
@@ -621,7 +631,9 @@
     "average_srad": 14077.696428571428,
     "average_wind": 2.3117395788431168,
     "average_tmax": 19.076785714285716,
-    "average_tmin": 7.615848214285713
+    "average_tmin": 7.615848214285713,
+    "population": 93436,
+    "symbol_sort_key": 16
   },
   "Kyustendil": {
     "average_temp": 10.18,
@@ -725,7 +737,9 @@
     "average_srad": 13316.534722222224,
     "average_wind": 2.834543403651979,
     "average_tmax": 16.188975694444444,
-    "average_tmin": 4.177083333333333
+    "average_tmin": 4.177083333333333,
+    "population": 104112,
+    "symbol_sort_key": 20
   },
   "Lovech": {
     "average_temp": 11.73,
@@ -829,7 +843,9 @@
     "average_srad": 12890.805555555555,
     "average_wind": 2.575850003295475,
     "average_tmax": 17.663680555555555,
-    "average_tmin": 5.80513888888889
+    "average_tmin": 5.80513888888889,
+    "population": 78896,
+    "symbol_sort_key": 19
   },
   "Montana": {
     "average_temp": 12.36,
@@ -933,7 +949,9 @@
     "average_srad": 12978.511904761903,
     "average_wind": 2.3295312360638665,
     "average_tmax": 17.811011904761905,
-    "average_tmin": 6.916592261904761
+    "average_tmin": 6.916592261904761,
+    "population": 76020,
+    "symbol_sort_key": 18
   },
   "Pazardzhik": {
     "average_temp": 10.95,
@@ -1037,7 +1055,9 @@
     "average_srad": 13248.661764705883,
     "average_wind": 2.5673566063245135,
     "average_tmax": 16.442279411764705,
-    "average_tmin": 5.459068627450981
+    "average_tmin": 5.459068627450981,
+    "population": 178990,
+    "symbol_sort_key": 6
   },
   "Pernik": {
     "average_temp": 10.4,
@@ -1141,7 +1161,9 @@
     "average_srad": 13083.489583333334,
     "average_wind": 2.772138031820456,
     "average_tmax": 16.761718749999996,
-    "average_tmin": 4.036588541666667
+    "average_tmin": 4.036588541666667,
+    "population": 92672,
+    "symbol_sort_key": 17
   },
   "Pleven": {
     "average_temp": 13.6,
@@ -1245,7 +1267,9 @@
     "average_srad": 12974.518518518518,
     "average_wind": 2.2124073875171164,
     "average_tmax": 19.458043981481485,
-    "average_tmin": 7.748784722222222
+    "average_tmin": 7.748784722222222,
+    "population": 125771,
+    "symbol_sort_key": 7
   },
   "Plovdiv": {
     "average_temp": 12.61,
@@ -1349,7 +1373,9 @@
     "average_srad": 13284.643939393942,
     "average_wind": 2.3283153284679763,
     "average_tmax": 18.752367424242426,
-    "average_tmin": 6.473863636363635
+    "average_tmin": 6.473863636363635,
+    "population": 528296,
+    "symbol_sort_key": 1
   },
   "Razgrad": {
     "average_temp": 13.07,
@@ -1453,7 +1479,9 @@
     "average_srad": 13495.216666666667,
     "average_wind": 2.763535426060359,
     "average_tmax": 18.597604166666667,
-    "average_tmin": 7.538541666666667
+    "average_tmin": 7.538541666666667,
+    "population": 67450,
+    "symbol_sort_key": 26
   },
   "Ruse": {
     "average_temp": 13.53,
@@ -1557,7 +1585,9 @@
     "average_srad": 13412.645833333334,
     "average_wind": 2.540803818239106,
     "average_tmax": 19.541579861111114,
-    "average_tmin": 7.522222222222223
+    "average_tmin": 7.522222222222223,
+    "population": 137159,
+    "symbol_sort_key": 11
   },
   "Shumen": {
     "average_temp": 12.79,
@@ -1661,7 +1691,9 @@
     "average_srad": 13566.029761904761,
     "average_wind": 2.797391379163379,
     "average_tmax": 18.37626488095238,
-    "average_tmin": 7.211383928571429
+    "average_tmin": 7.211383928571429,
+    "population": 109661,
+    "symbol_sort_key": 14
   },
   "Silistra": {
     "average_temp": 13.27,
@@ -1765,7 +1797,9 @@
     "average_srad": 13521.878787878786,
     "average_wind": 2.873479174845146,
     "average_tmax": 18.719034090909087,
-    "average_tmin": 7.815151515151515
+    "average_tmin": 7.815151515151515,
+    "population": 49978,
+    "symbol_sort_key": 24
   },
   "Sliven": {
     "average_temp": 13.06,
@@ -1869,7 +1903,9 @@
     "average_srad": 13617.647435897436,
     "average_wind": 2.57171794007986,
     "average_tmax": 18.73020833333333,
-    "average_tmin": 7.396794871794872
+    "average_tmin": 7.396794871794872,
+    "population": 169299,
+    "symbol_sort_key": 12
   },
   "Smolyan": {
     "average_temp": 10.17,
@@ -1973,7 +2009,9 @@
     "average_srad": 13639.76282051282,
     "average_wind": 2.840391023036761,
     "average_tmax": 15.365464743589742,
-    "average_tmin": 4.976201923076922
+    "average_tmin": 4.976201923076922,
+    "population": 41249,
+    "symbol_sort_key": 23
   },
   "Sofia": {
     "average_temp": 9.9,
@@ -2077,7 +2115,9 @@
     "average_srad": 12854.091954022988,
     "average_wind": 2.950143674324299,
     "average_tmax": 15.60991379310345,
-    "average_tmin": 4.192816091954023
+    "average_tmin": 4.192816091954023,
+    "population": 160731,
+    "symbol_sort_key": 8
   },
   "Sofia City": {
     "average_temp": 10.59,
@@ -2181,7 +2221,9 @@
     "average_srad": 12787.400000000003,
     "average_wind": 2.799399995803833,
     "average_tmax": 16.737916666666667,
-    "average_tmin": 4.436041666666667
+    "average_tmin": 4.436041666666667,
+    "population": 160731,
+    "symbol_sort_key": 0
   },
   "Stara Zagora": {
     "average_temp": 13.12,
@@ -2285,7 +2327,9 @@
     "average_srad": 13428.74621212121,
     "average_wind": 2.422139203909672,
     "average_tmax": 19.333285984848484,
-    "average_tmin": 6.90809659090909
+    "average_tmin": 6.90809659090909,
+    "population": 258862,
+    "symbol_sort_key": 5
   },
   "Targovishte": {
     "average_temp": 12.98,
@@ -2389,7 +2433,9 @@
     "average_srad": 13504.333333333336,
     "average_wind": 2.675223951538404,
     "average_tmax": 18.699479166666666,
-    "average_tmin": 7.255208333333335
+    "average_tmin": 7.255208333333335,
+    "population": 76681,
+    "symbol_sort_key": 22
   },
   "Varna": {
     "average_temp": 13.37,
@@ -2493,7 +2539,9 @@
     "average_srad": 13519.194444444447,
     "average_wind": 3.2404362095726857,
     "average_tmax": 18.66763425562117,
-    "average_tmin": 8.06297685114046
+    "average_tmin": 8.06297685114046,
+    "population": 343121,
+    "symbol_sort_key": 2
   },
   "Veliko Tarnovo": {
     "average_temp": 13.5,
@@ -2597,7 +2645,9 @@
     "average_srad": 13286.70098039216,
     "average_wind": 2.4712071138269764,
     "average_tmax": 19.826899509803923,
-    "average_tmin": 7.172732843137255
+    "average_tmin": 7.172732843137255,
+    "population": 154202,
+    "symbol_sort_key": 9
   },
   "Vidin": {
     "average_temp": 12.06,
@@ -2701,7 +2751,9 @@
     "average_srad": 13125.955128205125,
     "average_wind": 2.3681955024217944,
     "average_tmax": 17.524839743589745,
-    "average_tmin": 6.601201923076921
+    "average_tmin": 6.601201923076921,
+    "population": 46269,
+    "symbol_sort_key": 27
   },
   "Vratsa": {
     "average_temp": 12.95,
@@ -2805,7 +2857,9 @@
     "average_srad": 12924.01785714286,
     "average_wind": 2.211084800816718,
     "average_tmax": 18.286011904761907,
-    "average_tmin": 7.605208333333334
+    "average_tmin": 7.605208333333334,
+    "population": 122653,
+    "symbol_sort_key": 15
   },
   "Yambol": {
     "average_temp": 14.36,
@@ -2909,6 +2963,8 @@
     "average_srad": 14134.766666666665,
     "average_wind": 2.238127761416965,
     "average_tmax": 20.494930555555555,
-    "average_tmin": 8.233194444444443
+    "average_tmin": 8.233194444444443,
+    "population": 89068,
+    "symbol_sort_key": 21
   }
 }

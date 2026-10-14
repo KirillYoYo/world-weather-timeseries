@@ -101,7 +101,9 @@
     "average_srad": 15036.68660130719,
     "average_wind": 3.4719466884346573,
     "average_tmax": 22.278707044673542,
-    "average_tmin": 11.127096219931273
+    "average_tmin": 11.127096219931273,
+    "population": 408381,
+    "symbol_sort_key": 4
   },
   "Ahai": {
     "average_temp": 17.88,
@@ -205,7 +207,9 @@
     "average_srad": 16822.97898961284,
     "average_wind": 2.7788332670336064,
     "average_tmax": 24.218065391879133,
-    "average_tmin": 11.550050165250235
+    "average_tmin": 11.550050165250235,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Dasoguz": {
     "average_temp": 15.56,
@@ -309,7 +313,9 @@
     "average_srad": 16137.025912838633,
     "average_wind": 3.0980910618117057,
     "average_tmax": 21.72702444051826,
-    "average_tmin": 9.384415488810365
+    "average_tmin": 9.384415488810365,
+    "population": 309077,
+    "symbol_sort_key": 3
   },
   "Lebap": {
     "average_temp": 17.46,
@@ -413,7 +419,9 @@
     "average_srad": 16879.27140883978,
     "average_wind": 2.964246550015762,
     "average_tmax": 24.47654811233886,
-    "average_tmin": 10.435724562615102
+    "average_tmin": 10.435724562615102,
+    "population": 364312,
+    "symbol_sort_key": 2
   },
   "Mary": {
     "average_temp": 17.94,
@@ -517,6 +525,8 @@
     "average_srad": 17230.896687697157,
     "average_wind": 2.7099202812407417,
     "average_tmax": 25.067300867507882,
-    "average_tmin": 10.811317034700316
+    "average_tmin": 10.811317034700316,
+    "population": 310280,
+    "symbol_sort_key": 1
   }
 }

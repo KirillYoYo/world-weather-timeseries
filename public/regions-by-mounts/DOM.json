@@ -101,7 +101,9 @@
     "average_srad": 18007.68333333333,
     "average_wind": 2.1791166583697,
     "average_tmax": 33.09708333333334,
-    "average_tmin": 21.342916666666664
+    "average_tmin": 21.342916666666664,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Dajabón": {
     "average_temp": 26.42,
@@ -205,7 +207,9 @@
     "average_srad": 17799.166666666668,
     "average_wind": 1.8327812403440475,
     "average_tmax": 32.221354166666664,
-    "average_tmin": 20.61041666666667
+    "average_tmin": 20.61041666666667,
+    "population": 0,
+    "symbol_sort_key": 25
   },
   "La Estrelleta": {
     "average_temp": 24.08,
@@ -309,7 +313,9 @@
     "average_srad": 17996.770833333332,
     "average_wind": 1.6957864587505658,
     "average_tmax": 29.882552083333334,
-    "average_tmin": 18.278645833333336
+    "average_tmin": 18.278645833333336,
+    "population": 0,
+    "symbol_sort_key": 28
   },
   "Independencia": {
     "average_temp": 24.5,
@@ -413,7 +419,9 @@
     "average_srad": 18362.68055555555,
     "average_wind": 1.9368437512053382,
     "average_tmax": 30.09652777777777,
-    "average_tmin": 18.910069444444446
+    "average_tmin": 18.910069444444446,
+    "population": 0,
+    "symbol_sort_key": 27
   },
   "Pedernales": {
     "average_temp": 24.9,
@@ -517,7 +525,9 @@
     "average_srad": 18834.216666666664,
     "average_wind": 2.496942041317622,
     "average_tmax": 30.24,
-    "average_tmin": 19.559375
+    "average_tmin": 19.559375,
+    "population": 0,
+    "symbol_sort_key": 31
   },
   "La Altagracia": {
     "average_temp": 26.8,
@@ -621,7 +631,9 @@
     "average_srad": 18850.907407407405,
     "average_wind": 3.9508808056513463,
     "average_tmax": 31.276684171182136,
-    "average_tmin": 22.313885932498508
+    "average_tmin": 22.313885932498508,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "El Seybo": {
     "average_temp": 26.06,
@@ -725,7 +737,9 @@
     "average_srad": 18756.972222222223,
     "average_wind": 3.6114431652757855,
     "average_tmax": 31.209895833333334,
-    "average_tmin": 20.913715277777776
+    "average_tmin": 20.913715277777776,
+    "population": 0,
+    "symbol_sort_key": 22
   },
   "Hato Mayor": {
     "average_temp": 26.06,
@@ -829,7 +843,9 @@
     "average_srad": 18888.066666666662,
     "average_wind": 3.4596929510434467,
     "average_tmax": 31.205265115102133,
-    "average_tmin": 20.912746238708493
+    "average_tmin": 20.912746238708493,
+    "population": 0,
+    "symbol_sort_key": 26
   },
   "Samaná": {
     "average_temp": 26.12,
@@ -933,7 +949,9 @@
     "average_srad": 18770.104166666668,
     "average_wind": 3.6390343755483627,
     "average_tmax": 30.830243039131165,
-    "average_tmin": 21.407495069503785
+    "average_tmin": 21.407495069503785,
+    "population": 0,
+    "symbol_sort_key": 23
   },
   "María Trinidad Sánchez": {
     "average_temp": 26.34,
@@ -1037,7 +1055,9 @@
     "average_srad": 18689.53333333333,
     "average_wind": 3.2344909310340877,
     "average_tmax": 31.129927361806235,
-    "average_tmin": 21.542633520762127
+    "average_tmin": 21.542633520762127,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Espaillat": {
     "average_temp": 25.81,
@@ -1141,7 +1161,9 @@
     "average_srad": 18546.166666666668,
     "average_wind": 2.843698627418942,
     "average_tmax": 30.918750000000003,
-    "average_tmin": 20.693749999999998
+    "average_tmin": 20.693749999999998,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Puerto Plata": {
     "average_temp": 25.83,
@@ -1245,7 +1267,9 @@
     "average_srad": 18467.375000000004,
     "average_wind": 2.805509239435196,
     "average_tmax": 31.165297100279066,
-    "average_tmin": 20.498341062333846
+    "average_tmin": 20.498341062333846,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Barahona": {
     "average_temp": 25.09,
@@ -1349,7 +1373,9 @@
     "average_srad": 18798.854166666668,
     "average_wind": 2.625885486602783,
     "average_tmax": 30.53822115262349,
-    "average_tmin": 19.639443127314248
+    "average_tmin": 19.639443127314248,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Azua": {
     "average_temp": 23.43,
@@ -1453,7 +1479,9 @@
     "average_srad": 18880.60185185185,
     "average_wind": 2.682365434037314,
     "average_tmax": 29.012924402731432,
-    "average_tmin": 17.85488864050971
+    "average_tmin": 17.85488864050971,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Peravia": {
     "average_temp": 25.67,
@@ -1557,7 +1585,9 @@
     "average_srad": 19019.1875,
     "average_wind": 3.147629345456759,
     "average_tmax": 30.83573705355327,
-    "average_tmin": 20.497268962860108
+    "average_tmin": 20.497268962860108,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "San Cristóbal": {
     "average_temp": 24.86,
@@ -1661,7 +1691,9 @@
     "average_srad": 18794.666666666668,
     "average_wind": 2.9171862072414823,
     "average_tmax": 29.990300941467282,
-    "average_tmin": 19.72849530114068
+    "average_tmin": 19.72849530114068,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Santo Domingo": {
     "average_temp": 26.69,
@@ -1765,7 +1797,9 @@
     "average_srad": 18923.833333333332,
     "average_wind": 3.228854166136848,
     "average_tmax": 31.993055555555554,
-    "average_tmin": 21.37777777777778
+    "average_tmin": 21.37777777777778,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Distrito Nacional": {
     "average_temp": null,
@@ -1869,7 +1903,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "San Pedro de Macorís": {
     "average_temp": 26.75,
@@ -1973,7 +2009,9 @@
     "average_srad": 18870.30555555556,
     "average_wind": 3.5319097373220654,
     "average_tmax": 32.30104166666666,
-    "average_tmin": 21.191319444444446
+    "average_tmin": 21.191319444444446,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "La Romana": {
     "average_temp": 27.0,
@@ -2077,7 +2115,9 @@
     "average_srad": 18787.138888888887,
     "average_wind": 3.9175486233499313,
     "average_tmax": 32.0894956058926,
-    "average_tmin": 21.913186868031815
+    "average_tmin": 21.913186868031815,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Valverde": {
     "average_temp": 26.79,
@@ -2181,7 +2221,9 @@
     "average_srad": 18508.75,
     "average_wind": 2.2550208121538162,
     "average_tmax": 32.626041666666666,
-    "average_tmin": 20.959374999999998
+    "average_tmin": 20.959374999999998,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Santiago Rodríguez": {
     "average_temp": 24.25,
@@ -2285,7 +2327,9 @@
     "average_srad": 18090.527777777777,
     "average_wind": 1.9481597012943694,
     "average_tmax": 29.90972222222223,
-    "average_tmin": 18.585416666666664
+    "average_tmin": 18.585416666666664,
+    "population": 0,
+    "symbol_sort_key": 30
   },
   "La Vega": {
     "average_temp": 21.53,
@@ -2389,7 +2433,9 @@
     "average_srad": 18597.760416666668,
     "average_wind": 2.626067710419496,
     "average_tmax": 26.876171875,
-    "average_tmin": 16.176692708333334
+    "average_tmin": 16.176692708333334,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Hermanas": {
     "average_temp": 25.1,
@@ -2493,7 +2539,9 @@
     "average_srad": 18383.333333333332,
     "average_wind": 2.6458333333333335,
     "average_tmax": 30.254166666666674,
-    "average_tmin": 19.9375
+    "average_tmin": 19.9375,
+    "population": 0,
+    "symbol_sort_key": 24
   },
   "Duarte": {
     "average_temp": 26.11,
@@ -2597,7 +2645,9 @@
     "average_srad": 18592.333333333332,
     "average_wind": 2.7494097285800514,
     "average_tmax": 31.162847222222222,
-    "average_tmin": 21.063194444444445
+    "average_tmin": 21.063194444444445,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Santiago": {
     "average_temp": 22.13,
@@ -2701,7 +2751,9 @@
     "average_srad": 18499.731481481485,
     "average_wind": 2.4619884192943573,
     "average_tmax": 27.57986111111111,
-    "average_tmin": 16.673726851851853
+    "average_tmin": 16.673726851851853,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Bahoruco": {
     "average_temp": 25.38,
@@ -2805,7 +2857,9 @@
     "average_srad": 18372.133333333335,
     "average_wind": 2.0731791496276855,
     "average_tmax": 31.147916666666664,
-    "average_tmin": 19.616041666666664
+    "average_tmin": 19.616041666666664,
+    "population": 0,
+    "symbol_sort_key": 21
   },
   "San Juan": {
     "average_temp": 22.58,
@@ -2909,7 +2963,9 @@
     "average_srad": 18506.399999999998,
     "average_wind": 2.0395458181699118,
     "average_tmax": 28.378749999999997,
-    "average_tmin": 16.780729166666664
+    "average_tmin": 16.780729166666664,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Monseñor Nouel": {
     "average_temp": 23.37,
@@ -3013,7 +3069,9 @@
     "average_srad": 18605.375,
     "average_wind": 2.5458229184150696,
     "average_tmax": 28.702604166666664,
-    "average_tmin": 18.042708333333334
+    "average_tmin": 18.042708333333334,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "Sánchez Ramírez": {
     "average_temp": 26.37,
@@ -3117,7 +3175,9 @@
     "average_srad": 18805.750000000004,
     "average_wind": 2.6852999965349835,
     "average_tmax": 31.642083333333336,
-    "average_tmin": 21.104583333333334
+    "average_tmin": 21.104583333333334,
+    "population": 0,
+    "symbol_sort_key": 20
   },
   "San José de Ocoa": {
     "average_temp": 21.28,
@@ -3221,7 +3281,9 @@
     "average_srad": 18715.0,
     "average_wind": 2.8326770861943564,
     "average_tmax": 26.599479166666665,
-    "average_tmin": 15.955729166666666
+    "average_tmin": 15.955729166666666,
+    "population": 0,
+    "symbol_sort_key": 29
   },
   "Monte Plata": {
     "average_temp": 25.99,
@@ -3325,6 +3387,8 @@
     "average_srad": 18844.604166666668,
     "average_wind": 3.0436093707879386,
     "average_tmax": 31.245052083333334,
-    "average_tmin": 20.733984375
+    "average_tmin": 20.733984375,
+    "population": 0,
+    "symbol_sort_key": 12
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 16850.333333333332,
     "average_wind": 2.777187486489614,
     "average_tmax": 29.281249999999996,
-    "average_tmin": 17.984375
+    "average_tmin": 17.984375,
+    "population": 752812,
+    "symbol_sort_key": 3
   },
   "CONCEPCION": {
     "average_temp": 24.45,
@@ -205,7 +207,9 @@
     "average_srad": 16580.103107344636,
     "average_wind": 2.758362990651427,
     "average_tmax": 30.568979519774015,
-    "average_tmin": 18.333156779661017
+    "average_tmin": 18.333156779661017,
+    "population": 200681,
+    "symbol_sort_key": 8
   },
   "SAN PEDRO": {
     "average_temp": 24.19,
@@ -309,7 +313,9 @@
     "average_srad": 16686.415364583332,
     "average_wind": 2.7458076182131967,
     "average_tmax": 30.29085286458334,
-    "average_tmin": 18.081933593749998
+    "average_tmin": 18.081933593749998,
+    "population": 126574,
+    "symbol_sort_key": 5
   },
   "CORDILLERA": {
     "average_temp": 23.5,
@@ -413,7 +419,9 @@
     "average_srad": 16854.41176470588,
     "average_wind": 2.731672804729611,
     "average_tmax": 29.198590686274503,
-    "average_tmin": 17.805882352941175
+    "average_tmin": 17.805882352941175,
+    "population": 470613,
+    "symbol_sort_key": 6
   },
   "GUAIRA": {
     "average_temp": 22.71,
@@ -517,7 +525,9 @@
     "average_srad": 16486.23076923077,
     "average_wind": 2.6969439417887955,
     "average_tmax": 28.514743589743592,
-    "average_tmin": 16.90969551282051
+    "average_tmin": 16.90969551282051,
+    "population": 84061,
+    "symbol_sort_key": 10
   },
   "CAAGUAZU": {
     "average_temp": 22.82,
@@ -621,7 +631,9 @@
     "average_srad": 16426.846153846152,
     "average_wind": 2.7038990518985653,
     "average_tmax": 28.968295940170943,
-    "average_tmin": 16.675854700854703
+    "average_tmin": 16.675854700854703,
+    "population": 282372,
+    "symbol_sort_key": 4
   },
   "CAAZAPA": {
     "average_temp": 22.53,
@@ -725,7 +737,9 @@
     "average_srad": 16310.42741935484,
     "average_wind": 2.665713060286737,
     "average_tmax": 28.488944892473118,
-    "average_tmin": 16.571034946236555
+    "average_tmin": 16.571034946236555,
+    "population": 113662,
+    "symbol_sort_key": 12
   },
   "ITAPUA": {
     "average_temp": 22.2,
@@ -829,7 +843,9 @@
     "average_srad": 16132.66384180791,
     "average_wind": 2.657860528951311,
     "average_tmax": 28.24044844632768,
-    "average_tmin": 16.149752824858755
+    "average_tmin": 16.149752824858755,
+    "population": 129340,
+    "symbol_sort_key": 2
   },
   "MISIONES": {
     "average_temp": 22.4,
@@ -933,7 +949,9 @@
     "average_srad": 16561.503205128203,
     "average_wind": 2.808608168974901,
     "average_tmax": 28.102964743589748,
-    "average_tmin": 16.691225961538464
+    "average_tmin": 16.691225961538464,
+    "population": 124298,
+    "symbol_sort_key": 14
   },
   "PARAGUARI": {
     "average_temp": 22.75,
@@ -1037,7 +1055,9 @@
     "average_srad": 16691.95679012346,
     "average_wind": 2.7714398142732217,
     "average_tmax": 28.41412037037037,
-    "average_tmin": 17.09104938271605
+    "average_tmin": 17.09104938271605,
+    "population": 126543,
+    "symbol_sort_key": 9
   },
   "ALTO PARANA": {
     "average_temp": 22.02,
@@ -1141,7 +1161,9 @@
     "average_srad": 16056.253703703705,
     "average_wind": 2.5789583422519544,
     "average_tmax": 28.583379629629633,
-    "average_tmin": 15.45351851851852
+    "average_tmin": 15.45351851851852,
+    "population": 452840,
+    "symbol_sort_key": 1
   },
   "CENTRAL": {
     "average_temp": 23.3,
@@ -1245,7 +1267,9 @@
     "average_srad": 16895.190476190477,
     "average_wind": 2.7803422581581843,
     "average_tmax": 28.914583333333336,
-    "average_tmin": 17.676190476190474
+    "average_tmin": 17.676190476190474,
+    "population": 1598575,
+    "symbol_sort_key": 0
   },
   "ÑEEMBUCU": {
     "average_temp": 22.44,
@@ -1349,7 +1373,9 @@
     "average_srad": 16736.220085470086,
     "average_wind": 2.863700298162607,
     "average_tmax": 28.207692307692312,
-    "average_tmin": 16.680048076923075
+    "average_tmin": 16.680048076923075,
+    "population": 42489,
+    "symbol_sort_key": 15
   },
   "AMAMBAY": {
     "average_temp": 23.64,
@@ -1453,7 +1479,9 @@
     "average_srad": 16310.678294573641,
     "average_wind": 2.9973909887232524,
     "average_tmax": 29.606346899224807,
-    "average_tmin": 17.67424903100775
+    "average_tmin": 17.67424903100775,
+    "population": 144901,
+    "symbol_sort_key": 13
   },
   "CANINDEYU": {
     "average_temp": 22.88,
@@ -1557,7 +1585,9 @@
     "average_srad": 16223.13224637681,
     "average_wind": 2.7553274355072905,
     "average_tmax": 29.154098731884062,
-    "average_tmin": 16.612160326086958
+    "average_tmin": 16.612160326086958,
+    "population": 117675,
+    "symbol_sort_key": 7
   },
   "PRESIDENTE HAYES": {
     "average_temp": 24.58,
@@ -1661,7 +1691,9 @@
     "average_srad": 17020.701185495116,
     "average_wind": 2.7556297970283645,
     "average_tmax": 31.248705543933056,
-    "average_tmin": 17.905857740585773
+    "average_tmin": 17.905857740585773,
+    "population": 111828,
+    "symbol_sort_key": 11
   },
   "BOQUERON": {
     "average_temp": 25.3,
@@ -1765,7 +1797,9 @@
     "average_srad": 16484.912514827996,
     "average_wind": 2.8621719261788248,
     "average_tmax": 32.28547227164887,
-    "average_tmin": 18.310713226571767
+    "average_tmin": 18.310713226571767,
+    "population": 45889,
+    "symbol_sort_key": 16
   },
   "ALTO PARAGUAY": {
     "average_temp": 26.46,
@@ -1869,6 +1903,8 @@
     "average_srad": 16251.626543209875,
     "average_wind": 2.73262371529604,
     "average_tmax": 32.876466049382714,
-    "average_tmin": 20.046754972565157
+    "average_tmin": 20.046754972565157,
+    "population": 13878,
+    "symbol_sort_key": 17
   }
 }

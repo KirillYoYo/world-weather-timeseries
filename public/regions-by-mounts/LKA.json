@@ -101,7 +101,9 @@
     "average_srad": 20756.926282051278,
     "average_wind": 2.534682030479113,
     "average_tmax": 31.818167621661456,
-    "average_tmin": 24.75019226807814
+    "average_tmin": 24.75019226807814,
+    "population": 107123,
+    "symbol_sort_key": 8
   },
   "Eastern Province": {
     "average_temp": 28.31,
@@ -205,7 +207,9 @@
     "average_srad": 20307.722222222223,
     "average_wind": 2.480965445439021,
     "average_tmax": 32.135249493445876,
-    "average_tmin": 24.490787778077294
+    "average_tmin": 24.490787778077294,
+    "population": 286081,
+    "symbol_sort_key": 5
   },
   "Central Province": {
     "average_temp": 24.39,
@@ -309,7 +313,9 @@
     "average_srad": 18885.36274509804,
     "average_wind": 1.9058443483184366,
     "average_tmax": 28.453982843137254,
-    "average_tmin": 20.32205882352941
+    "average_tmin": 20.32205882352941,
+    "population": 451012,
+    "symbol_sort_key": 2
   },
   "North Central Province": {
     "average_temp": 28.01,
@@ -413,7 +419,9 @@
     "average_srad": 20393.14247311828,
     "average_wind": 2.0491989226110516,
     "average_tmax": 32.075,
-    "average_tmin": 23.94203629032258
+    "average_tmin": 23.94203629032258,
+    "population": 370720,
+    "symbol_sort_key": 6
   },
   "North Western Province": {
     "average_temp": 27.96,
@@ -517,7 +525,9 @@
     "average_srad": 19789.253787878795,
     "average_wind": 2.2273663472045553,
     "average_tmax": 31.839356059739075,
-    "average_tmin": 24.08787878787879
+    "average_tmin": 24.08787878787879,
+    "population": 365778,
+    "symbol_sort_key": 3
   },
   "Sabaragamuwa Province": {
     "average_temp": 25.63,
@@ -621,7 +631,9 @@
     "average_srad": 18618.034313725493,
     "average_wind": 2.0562659250754938,
     "average_tmax": 29.1140931372549,
-    "average_tmin": 22.137193627450984
+    "average_tmin": 22.137193627450984,
+    "population": 345025,
+    "symbol_sort_key": 4
   },
   "Southern Province": {
     "average_temp": 27.38,
@@ -725,7 +737,9 @@
     "average_srad": 18975.98214285714,
     "average_wind": 2.57597487171491,
     "average_tmax": 30.385099202110656,
-    "average_tmin": 24.37196667307899
+    "average_tmin": 24.37196667307899,
+    "population": 631111,
+    "symbol_sort_key": 1
   },
   "Uva Province": {
     "average_temp": 26.56,
@@ -829,7 +843,9 @@
     "average_srad": 19258.211538461543,
     "average_wind": 2.233189900716146,
     "average_tmax": 30.236939102564104,
-    "average_tmin": 22.89130608974359
+    "average_tmin": 22.89130608974359,
+    "population": 127940,
+    "symbol_sort_key": 7
   },
   "Western Province": {
     "average_temp": 27.64,
@@ -933,6 +949,8 @@
     "average_srad": 18882.638888888887,
     "average_wind": 2.5049757096502514,
     "average_tmax": 30.902069989840186,
-    "average_tmin": 24.371340809928043
+    "average_tmin": 24.371340809928043,
+    "population": 3752511,
+    "symbol_sort_key": 0
   }
 }

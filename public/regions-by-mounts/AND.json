@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 9915,
+    "symbol_sort_key": 4
   },
   "Canillo": {
     "average_temp": 5.0,
@@ -205,7 +207,9 @@
     "average_srad": 14946.0,
     "average_wind": 6.796072920163472,
     "average_tmax": 9.799479166666666,
-    "average_tmin": 0.20885416666666679
+    "average_tmin": 0.20885416666666679,
+    "population": 28037,
+    "symbol_sort_key": 5
   },
   "Ordino": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "La Massana": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 16449,
+    "symbol_sort_key": 3
   },
   "Encamp": {
     "average_temp": null,
@@ -517,7 +525,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 12826,
+    "symbol_sort_key": 1
   },
   "Escaldes-Engordany": {
     "average_temp": null,
@@ -621,7 +631,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 15506,
+    "symbol_sort_key": 2
   },
   "Andorra la Vella": {
     "average_temp": null,
@@ -725,6 +737,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 22615,
+    "symbol_sort_key": 0
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 43
   },
   "Qala": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2284,
+    "symbol_sort_key": 50
   },
   "Saint Lawerence": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Gharb": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Ghasri": {
     "average_temp": null,
@@ -517,7 +525,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Żebbuġ Gozo": {
     "average_temp": null,
@@ -621,7 +631,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Kerċem": {
     "average_temp": null,
@@ -725,7 +737,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 1938,
+    "symbol_sort_key": 49
   },
   "Munxar": {
     "average_temp": null,
@@ -829,7 +843,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 1454,
+    "symbol_sort_key": 50
   },
   "Fontana": {
     "average_temp": null,
@@ -933,7 +949,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 922,
+    "symbol_sort_key": 50
   },
   "Rabat Gozo": {
     "average_temp": null,
@@ -1037,7 +1055,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 27
   },
   "Xgħajra": {
     "average_temp": null,
@@ -1141,7 +1161,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 3712,
+    "symbol_sort_key": 37
   },
   "Sannat": {
     "average_temp": null,
@@ -1245,7 +1267,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2260,
+    "symbol_sort_key": 50
   },
   "Xewkija": {
     "average_temp": null,
@@ -1349,7 +1373,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 3712,
+    "symbol_sort_key": 35
   },
   "Nadur": {
     "average_temp": null,
@@ -1453,7 +1479,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 4630,
+    "symbol_sort_key": 32
   },
   "Marsaskala": {
     "average_temp": null,
@@ -1557,7 +1585,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 15579,
+    "symbol_sort_key": 20
   },
   "Mellieħa": {
     "average_temp": null,
@@ -1661,7 +1691,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 14288,
+    "symbol_sort_key": 19
   },
   "Gżira": {
     "average_temp": null,
@@ -1765,7 +1797,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2508,
+    "symbol_sort_key": 21
   },
   "Mġarr": {
     "average_temp": null,
@@ -1869,7 +1903,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 31
   },
   "Saint Paul's Bay": {
     "average_temp": null,
@@ -1973,7 +2009,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Naxxar": {
     "average_temp": null,
@@ -2077,7 +2115,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 14890,
+    "symbol_sort_key": 6
   },
   "Għargħur": {
     "average_temp": null,
@@ -2181,7 +2221,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 4001,
+    "symbol_sort_key": 36
   },
   "Pembroke": {
     "average_temp": null,
@@ -2285,7 +2327,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 19133,
+    "symbol_sort_key": 50
   },
   "Saint Julian's": {
     "average_temp": null,
@@ -2389,7 +2433,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 24
   },
   "Sliema": {
     "average_temp": null,
@@ -2493,7 +2539,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 22591,
+    "symbol_sort_key": 15
   },
   "Swieqi": {
     "average_temp": null,
@@ -2597,7 +2645,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 13792,
+    "symbol_sort_key": 17
   },
   "Saint John": {
     "average_temp": null,
@@ -2701,7 +2751,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Iklin": {
     "average_temp": null,
@@ -2805,7 +2857,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 8811,
+    "symbol_sort_key": 45
   },
   "Valletta": {
     "average_temp": null,
@@ -2909,7 +2963,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 482339,
+    "symbol_sort_key": 40
   },
   "Ta' Xbiex": {
     "average_temp": null,
@@ -3013,7 +3069,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 7087,
+    "symbol_sort_key": 42
   },
   "Floriana": {
     "average_temp": null,
@@ -3117,7 +3175,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Pietà": {
     "average_temp": null,
@@ -3221,7 +3281,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Msida": {
     "average_temp": null,
@@ -3325,7 +3387,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Ħamrun": {
     "average_temp": null,
@@ -3429,7 +3493,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 11936,
+    "symbol_sort_key": 25
   },
   "Santa Venera": {
     "average_temp": null,
@@ -3533,7 +3599,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 9758,
+    "symbol_sort_key": 11
   },
   "Birkirkara": {
     "average_temp": null,
@@ -3637,7 +3705,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 24356,
+    "symbol_sort_key": 5
   },
   "Balzan": {
     "average_temp": null,
@@ -3741,7 +3811,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 28
   },
   "Lija": {
     "average_temp": null,
@@ -3845,7 +3917,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 3793,
+    "symbol_sort_key": 23
   },
   "Mosta": {
     "average_temp": 20.09,
@@ -3949,7 +4023,9 @@
     "average_srad": 17700.5,
     "average_wind": 3.834493319193522,
     "average_tmax": 23.53571410179138,
-    "average_tmin": 16.64047621091207
+    "average_tmin": 16.64047621091207,
+    "population": 25496,
+    "symbol_sort_key": 0
   },
   "Mdina": {
     "average_temp": null,
@@ -4053,7 +4129,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Mtarfa": {
     "average_temp": null,
@@ -4157,7 +4235,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Rabat Malta": {
     "average_temp": null,
@@ -4261,7 +4341,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Dingli": {
     "average_temp": null,
@@ -4365,7 +4447,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 3941,
+    "symbol_sort_key": 33
   },
   "Attard": {
     "average_temp": null,
@@ -4469,7 +4553,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 12268,
+    "symbol_sort_key": 10
   },
   "Xagħra": {
     "average_temp": null,
@@ -4573,7 +4659,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 5359,
+    "symbol_sort_key": 44
   },
   "Kalkara": {
     "average_temp": null,
@@ -4677,7 +4765,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 3014,
+    "symbol_sort_key": 46
   },
   "Birgu": {
     "average_temp": null,
@@ -4781,7 +4871,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 8286,
+    "symbol_sort_key": 50
   },
   "Żebbuġ Malta": {
     "average_temp": null,
@@ -4885,7 +4977,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Qormi": {
     "average_temp": null,
@@ -4989,7 +5083,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 20041,
+    "symbol_sort_key": 3
   },
   "Isla": {
     "average_temp": null,
@@ -5093,7 +5189,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2784,
+    "symbol_sort_key": 50
   },
   "Siġġiewi": {
     "average_temp": null,
@@ -5197,7 +5295,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 9756,
+    "symbol_sort_key": 18
   },
   "Luqa": {
     "average_temp": null,
@@ -5301,7 +5401,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 7128,
+    "symbol_sort_key": 26
   },
   "Marsa": {
     "average_temp": null,
@@ -5405,7 +5507,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 17851,
+    "symbol_sort_key": 41
   },
   "Qrendi": {
     "average_temp": null,
@@ -5509,7 +5613,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 3321,
+    "symbol_sort_key": 47
   },
   "Mqabba": {
     "average_temp": null,
@@ -5613,7 +5719,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 39
   },
   "Kirkop": {
     "average_temp": null,
@@ -5717,7 +5825,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2656,
+    "symbol_sort_key": 34
   },
   "Safi": {
     "average_temp": null,
@@ -5821,7 +5931,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2965,
+    "symbol_sort_key": 50
   },
   "Żurrieq": {
     "average_temp": null,
@@ -5925,7 +6037,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 10823,
+    "symbol_sort_key": 13
   },
   "Paola": {
     "average_temp": null,
@@ -6029,7 +6143,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 29
   },
   "Bormla": {
     "average_temp": null,
@@ -6133,7 +6249,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 38
   },
   "Tarxien": {
     "average_temp": null,
@@ -6237,7 +6355,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 10048,
+    "symbol_sort_key": 22
   },
   "Fgura": {
     "average_temp": null,
@@ -6341,7 +6461,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 13986,
+    "symbol_sort_key": 9
   },
   "Saint Lucia's": {
     "average_temp": null,
@@ -6445,7 +6567,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Gudja": {
     "average_temp": null,
@@ -6549,7 +6673,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 3483,
+    "symbol_sort_key": 48
   },
   "Għaxaq": {
     "average_temp": null,
@@ -6653,7 +6779,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 5865,
+    "symbol_sort_key": 30
   },
   "Birżebbuġa": {
     "average_temp": null,
@@ -6757,7 +6885,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 12601,
+    "symbol_sort_key": 12
   },
   "Żejtun": {
     "average_temp": null,
@@ -6861,7 +6991,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 12858,
+    "symbol_sort_key": 4
   },
   "Żabbar": {
     "average_temp": null,
@@ -6965,7 +7097,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 17962,
+    "symbol_sort_key": 2
   },
   "Marsaxlokk": {
     "average_temp": null,
@@ -7069,6 +7203,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 4245,
+    "symbol_sort_key": 50
   }
 }

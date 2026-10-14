@@ -101,7 +101,9 @@
     "average_srad": 15660.90277777778,
     "average_wind": 1.7687078101767435,
     "average_tmax": 31.539236111111112,
-    "average_tmin": 21.256597222222222
+    "average_tmin": 21.256597222222222,
+    "population": 13360,
+    "symbol_sort_key": 12
   },
   "Bong": {
     "average_temp": 26.18,
@@ -205,7 +207,9 @@
     "average_srad": 15661.5,
     "average_wind": 1.3401641704638798,
     "average_tmax": 32.53508333333334,
-    "average_tmin": 19.822916666666664
+    "average_tmin": 19.822916666666664,
+    "population": 34046,
+    "symbol_sort_key": 2
   },
   "Gbarpolu": {
     "average_temp": 26.63,
@@ -309,7 +313,9 @@
     "average_srad": 16011.666666666666,
     "average_wind": 1.4737458369798129,
     "average_tmax": 32.74659722222221,
-    "average_tmin": 20.507708333333333
+    "average_tmin": 20.507708333333333,
+    "population": 2908,
+    "symbol_sort_key": 10
   },
   "Grand Bassa": {
     "average_temp": 26.38,
@@ -413,7 +419,9 @@
     "average_srad": 15417.996376811594,
     "average_wind": 1.6416326232146525,
     "average_tmax": 31.907900174458828,
-    "average_tmin": 20.859577060091322
+    "average_tmin": 20.859577060091322,
+    "population": 82585,
+    "symbol_sort_key": 4
   },
   "Grand Cape Mount": {
     "average_temp": 26.47,
@@ -517,7 +525,9 @@
     "average_srad": 15989.82638888889,
     "average_wind": 1.6613368632064924,
     "average_tmax": 31.69136573208702,
-    "average_tmin": 21.24860532283783
+    "average_tmin": 21.24860532283783,
+    "population": 3933,
+    "symbol_sort_key": 8
   },
   "Grand Gedeh": {
     "average_temp": 26.27,
@@ -621,7 +631,9 @@
     "average_srad": 16129.353535353535,
     "average_wind": 1.2697455873995118,
     "average_tmax": 31.733301767676767,
-    "average_tmin": 20.80864898989899
+    "average_tmin": 20.80864898989899,
+    "population": 23903,
+    "symbol_sort_key": 7
   },
   "Grand Kru": {
     "average_temp": 25.6,
@@ -725,7 +737,9 @@
     "average_srad": 16185.083333333334,
     "average_wind": 1.887191913066766,
     "average_tmax": 29.648690896156506,
-    "average_tmin": 21.542209874666653
+    "average_tmin": 21.542209874666653,
+    "population": 2641,
+    "symbol_sort_key": 14
   },
   "Lofa": {
     "average_temp": 25.77,
@@ -829,7 +843,9 @@
     "average_srad": 16281.141666666668,
     "average_wind": 1.6501305520534515,
     "average_tmax": 32.956111111111106,
-    "average_tmin": 18.581041666666668
+    "average_tmin": 18.581041666666668,
+    "population": 47163,
+    "symbol_sort_key": 3
   },
   "Margibi": {
     "average_temp": 26.64,
@@ -933,7 +949,9 @@
     "average_srad": 15404.22222222222,
     "average_wind": 1.682705397407214,
     "average_tmax": 32.090699381298485,
-    "average_tmin": 21.189310524198746
+    "average_tmin": 21.189310524198746,
+    "population": 59254,
+    "symbol_sort_key": 5
   },
   "Maryland": {
     "average_temp": 25.75,
@@ -1037,7 +1055,9 @@
     "average_srad": 16548.822916666668,
     "average_wind": 1.8037436672796805,
     "average_tmax": 29.411718738079074,
-    "average_tmin": 22.081199924151104
+    "average_tmin": 22.081199924151104,
+    "population": 40530,
+    "symbol_sort_key": 6
   },
   "Montserrado": {
     "average_temp": 26.58,
@@ -1141,7 +1161,9 @@
     "average_srad": 15427.888888888892,
     "average_wind": 1.7491265071762934,
     "average_tmax": 31.83611111111111,
-    "average_tmin": 21.321006944444445
+    "average_tmin": 21.321006944444445,
+    "population": 1427943,
+    "symbol_sort_key": 0
   },
   "Nimba": {
     "average_temp": 26.15,
@@ -1245,7 +1267,9 @@
     "average_srad": 15875.109523809524,
     "average_wind": 1.3466940539223808,
     "average_tmax": 33.18383928571429,
-    "average_tmin": 19.11434523809524
+    "average_tmin": 19.11434523809524,
+    "population": 123500,
+    "symbol_sort_key": 1
   },
   "River Gee": {
     "average_temp": 26.04,
@@ -1349,7 +1373,9 @@
     "average_srad": 16565.847222222223,
     "average_wind": 1.3107951498693893,
     "average_tmax": 30.31623263888889,
-    "average_tmin": 21.758072916666666
+    "average_tmin": 21.758072916666666,
+    "population": 127981,
+    "symbol_sort_key": 13
   },
   "Rivercess": {
     "average_temp": 26.24,
@@ -1453,7 +1479,9 @@
     "average_srad": 15500.799999999997,
     "average_wind": 1.5843907816542517,
     "average_tmax": 31.653125000000003,
-    "average_tmin": 20.82756944444444
+    "average_tmin": 20.82756944444444,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Sinoe": {
     "average_temp": 25.99,
@@ -1557,6 +1585,8 @@
     "average_srad": 15792.103448275864,
     "average_wind": 1.5809558664245167,
     "average_tmax": 30.861491858822177,
-    "average_tmin": 21.113065136438127
+    "average_tmin": 21.113065136438127,
+    "population": 17574,
+    "symbol_sort_key": 9
   }
 }

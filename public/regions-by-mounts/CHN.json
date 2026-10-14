@@ -101,7 +101,9 @@
     "average_srad": 17318.112794612793,
     "average_wind": 2.4872730532880585,
     "average_tmax": 28.32760477579804,
-    "average_tmin": 21.575343605163525
+    "average_tmin": 21.575343605163525,
+    "population": 8057067,
+    "symbol_sort_key": 27
   },
   "Guangxi Zhuang Autonomous Region": {
     "average_temp": 20.69,
@@ -205,7 +207,9 @@
     "average_srad": 14384.531088082904,
     "average_wind": 1.8082951533130414,
     "average_tmax": 24.365135200777203,
-    "average_tmin": 17.008967508635575
+    "average_tmin": 17.008967508635575,
+    "population": 33238163,
+    "symbol_sort_key": 12
   },
   "Fujian Province": {
     "average_temp": 19.05,
@@ -309,7 +313,9 @@
     "average_srad": 14749.168589743591,
     "average_wind": 2.3530400201550914,
     "average_tmax": 23.18900456542643,
-    "average_tmin": 14.906087057121796
+    "average_tmin": 14.906087057121796,
+    "population": 23182739,
+    "symbol_sort_key": 17
   },
   "Yunnan Province": {
     "average_temp": 16.38,
@@ -413,7 +419,9 @@
     "average_srad": 15024.154310586913,
     "average_wind": 1.8296811424951078,
     "average_tmax": 21.631920457736587,
-    "average_tmin": 11.130475112327998
+    "average_tmin": 11.130475112327998,
+    "population": 31681756,
+    "symbol_sort_key": 11
   },
   "Guizhou Province": {
     "average_temp": 15.78,
@@ -517,7 +525,9 @@
     "average_srad": 12816.81221461187,
     "average_wind": 1.7474725248640803,
     "average_tmax": 19.71032926655251,
-    "average_tmin": 11.846905322488587
+    "average_tmin": 11.846905322488587,
+    "population": 18953639,
+    "symbol_sort_key": 18
   },
   "Jiangxi Province": {
     "average_temp": 18.76,
@@ -621,7 +631,9 @@
     "average_srad": 14476.334675014908,
     "average_wind": 2.096840173947932,
     "average_tmax": 22.90505739415623,
-    "average_tmin": 14.606477340488967
+    "average_tmin": 14.606477340488967,
+    "population": 28762043,
+    "symbol_sort_key": 10
   },
   "Hunan Province": {
     "average_temp": 17.86,
@@ -725,7 +737,9 @@
     "average_srad": 13501.71588693957,
     "average_wind": 1.8899606628085668,
     "average_tmax": 21.781505847953216,
-    "average_tmin": 13.933305921052634
+    "average_tmin": 13.933305921052634,
+    "population": 27421389,
+    "symbol_sort_key": 6
   },
   "Zhejiang Province": {
     "average_temp": 17.18,
@@ -829,7 +843,9 @@
     "average_srad": 14472.27020958084,
     "average_wind": 2.772106522333598,
     "average_tmax": 21.0372673810304,
-    "average_tmin": 13.330997865353977
+    "average_tmin": 13.330997865353977,
+    "population": 21352245,
+    "symbol_sort_key": 7
   },
   "Shanghai Municipality": {
     "average_temp": 17.52,
@@ -933,7 +949,9 @@
     "average_srad": 14688.895833333334,
     "average_wind": 3.0782395799954734,
     "average_tmax": 21.089843749999996,
-    "average_tmin": 13.958072916666666
+    "average_tmin": 13.958072916666666,
+    "population": 33786655,
+    "symbol_sort_key": 26
   },
   "Chongqing Municipality": {
     "average_temp": 16.31,
@@ -1037,7 +1055,9 @@
     "average_srad": 12428.216060606062,
     "average_wind": 1.6206477988308128,
     "average_tmax": 19.9292803030303,
-    "average_tmin": 12.692753787878788
+    "average_tmin": 12.692753787878788,
+    "population": 24068210,
+    "symbol_sort_key": 23
   },
   "Hubei Province": {
     "average_temp": 16.4,
@@ -1141,7 +1161,9 @@
     "average_srad": 13557.748288572935,
     "average_wind": 2.0741714266270566,
     "average_tmax": 20.70809801211164,
-    "average_tmin": 12.087105055292257
+    "average_tmin": 12.087105055292257,
+    "population": 34037063,
+    "symbol_sort_key": 9
   },
   "Sichuan Province": {
     "average_temp": 8.96,
@@ -1245,7 +1267,9 @@
     "average_srad": 12773.075159489636,
     "average_wind": 2.25206898949874,
     "average_tmax": 14.24135454047049,
-    "average_tmin": 3.680716706539075
+    "average_tmin": 3.680716706539075,
+    "population": 57353981,
+    "symbol_sort_key": 3
   },
   "Anhui Province": {
     "average_temp": 16.79,
@@ -1349,7 +1373,9 @@
     "average_srad": 15163.443977591036,
     "average_wind": 2.475942791301329,
     "average_tmax": 21.18565519957983,
-    "average_tmin": 12.39106924019608
+    "average_tmin": 12.39106924019608,
+    "population": 30060592,
+    "symbol_sort_key": 8
   },
   "Jiangsu Province": {
     "average_temp": 16.19,
@@ -1453,7 +1479,9 @@
     "average_srad": 15387.526606425701,
     "average_wind": 2.7990883174071826,
     "average_tmax": 20.322993457785547,
-    "average_tmin": 12.055021051906072
+    "average_tmin": 12.055021051906072,
+    "population": 71346645,
+    "symbol_sort_key": 4
   },
   "Henan Province": {
     "average_temp": 15.77,
@@ -1557,7 +1585,9 @@
     "average_srad": 14863.408564814812,
     "average_wind": 2.2669768387934677,
     "average_tmax": 20.916623263888887,
-    "average_tmin": 10.615840205439815
+    "average_tmin": 10.615840205439815,
+    "population": 41713781,
+    "symbol_sort_key": 1
   },
   "Tibet Autonomous Region": {
     "average_temp": -1.56,
@@ -1661,7 +1691,9 @@
     "average_srad": 16217.024360299818,
     "average_wind": 3.5485661059291913,
     "average_tmax": 4.990206071767037,
-    "average_tmin": -8.103988164469717
+    "average_tmin": -8.103988164469717,
+    "population": 3418353,
+    "symbol_sort_key": 30
   },
   "Shandong Province": {
     "average_temp": 14.44,
@@ -1765,7 +1797,9 @@
     "average_srad": 16075.955938697318,
     "average_wind": 2.852043519893216,
     "average_tmax": 19.467109086744173,
-    "average_tmin": 9.405868866546067
+    "average_tmin": 9.405868866546067,
+    "population": 64786035,
+    "symbol_sort_key": 2
   },
   "Qinghai Province": {
     "average_temp": -1.46,
@@ -1869,7 +1903,9 @@
     "average_srad": 16023.15831021271,
     "average_wind": 3.3783898778424137,
     "average_tmax": 5.398916633637203,
-    "average_tmin": -8.317882563746863
+    "average_tmin": -8.317882563746863,
+    "population": 3158757,
+    "symbol_sort_key": 29
   },
   "Ningxia Ningxia Hui Autonomous Region": {
     "average_temp": 9.36,
@@ -1973,7 +2009,9 @@
     "average_srad": 15952.562499999998,
     "average_wind": 2.4484145078754085,
     "average_tmax": 15.88416553442029,
-    "average_tmin": 2.8314424818840584
+    "average_tmin": 2.8314424818840584,
+    "population": 6535018,
+    "symbol_sort_key": 28
   },
   "Shaanxi Province": {
     "average_temp": 11.58,
@@ -2077,7 +2115,9 @@
     "average_srad": 14770.882724719098,
     "average_wind": 2.132243233450343,
     "average_tmax": 16.957383836610486,
-    "average_tmin": 6.199050503277153
+    "average_tmin": 6.199050503277153,
+    "population": 31995896,
+    "symbol_sort_key": 14
   },
   "Tianjin Municipality": {
     "average_temp": 13.6,
@@ -2181,7 +2221,9 @@
     "average_srad": 15538.285714285712,
     "average_wind": 2.6282191477597707,
     "average_tmax": 19.064762850224028,
-    "average_tmin": 8.14005716312972
+    "average_tmin": 8.14005716312972,
+    "population": 14611711,
+    "symbol_sort_key": 25
   },
   "Shanxi Province": {
     "average_temp": 9.3,
@@ -2285,7 +2327,9 @@
     "average_srad": 15768.74292035398,
     "average_wind": 2.6746733350036416,
     "average_tmax": 15.632924041297938,
-    "average_tmin": 2.9632190265486726
+    "average_tmin": 2.9632190265486726,
+    "population": 17171728,
+    "symbol_sort_key": 16
   },
   "Beijing Municipality": {
     "average_temp": 11.68,
@@ -2389,7 +2433,9 @@
     "average_srad": 15265.433035714284,
     "average_wind": 2.372264128355753,
     "average_tmax": 17.689992559523812,
-    "average_tmin": 5.662611607142856
+    "average_tmin": 5.662611607142856,
+    "population": 25524552,
+    "symbol_sort_key": 19
   },
   "Gansu Province": {
     "average_temp": 6.48,
@@ -2493,7 +2539,9 @@
     "average_srad": 15680.714210747274,
     "average_wind": 2.8060282931782736,
     "average_tmax": 13.16075251889169,
-    "average_tmin": -0.19171651973131754
+    "average_tmin": -0.19171651973131754,
+    "population": 15764716,
+    "symbol_sort_key": 22
   },
   "Hebei Province": {
     "average_temp": 10.84,
@@ -2597,7 +2645,9 @@
     "average_srad": 15771.389051808406,
     "average_wind": 2.6978198999970537,
     "average_tmax": 16.85332472195024,
-    "average_tmin": 4.819519431109405
+    "average_tmin": 4.819519431109405,
+    "population": 42681817,
+    "symbol_sort_key": 5
   },
   "Liaoning Province": {
     "average_temp": 8.99,
@@ -2701,7 +2751,9 @@
     "average_srad": 14819.469414893618,
     "average_wind": 2.848918429362295,
     "average_tmax": 14.810558537829303,
-    "average_tmin": 3.1704923175469073
+    "average_tmin": 3.1704923175469073,
+    "population": 31493269,
+    "symbol_sort_key": 13
   },
   "Jilin Province": {
     "average_temp": 5.46,
@@ -2805,7 +2857,9 @@
     "average_srad": 14027.13335607094,
     "average_wind": 2.7582977142400122,
     "average_tmax": 11.529045873124149,
-    "average_tmin": -0.6122754661209636
+    "average_tmin": -0.6122754661209636,
+    "population": 12343226,
+    "symbol_sort_key": 20
   },
   "Xinjiang Uyghur Autonomous Region": {
     "average_temp": 6.99,
@@ -2909,7 +2963,9 @@
     "average_srad": 15765.66940557544,
     "average_wind": 2.580796105319022,
     "average_tmax": 14.213678103644646,
-    "average_tmin": -0.23379603264996174
+    "average_tmin": -0.23379603264996174,
+    "population": 15390570,
+    "symbol_sort_key": 24
   },
   "Inner Mongolia Autonomous Region": {
     "average_temp": 4.94,
@@ -3013,7 +3069,9 @@
     "average_srad": 15297.037031012796,
     "average_wind": 3.241310618561967,
     "average_tmax": 11.653596020386034,
-    "average_tmin": -1.7709381551362686
+    "average_tmin": -1.7709381551362686,
+    "population": 10465536,
+    "symbol_sort_key": 21
   },
   "Heilongjiang Province": {
     "average_temp": 2.49,
@@ -3117,7 +3175,9 @@
     "average_srad": 13256.3620585702,
     "average_wind": 3.0366632839660004,
     "average_tmax": 8.52040805340224,
-    "average_tmin": -3.5319234496124032
+    "average_tmin": -3.5319234496124032,
+    "population": 27611751,
+    "symbol_sort_key": 15
   },
   "Macau Special Administrative Region": {
     "average_temp": null,
@@ -3221,7 +3281,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 32
   },
   "Hong Kong Special Administrative Region": {
     "average_temp": 23.14,
@@ -3325,7 +3387,9 @@
     "average_srad": 13655.52777777778,
     "average_wind": 3.2540299163924327,
     "average_tmax": 26.23680555555556,
-    "average_tmin": 20.044097222222224
+    "average_tmin": 20.044097222222224,
+    "population": 0,
+    "symbol_sort_key": 31
   },
   "Guangzhou Province": {
     "average_temp": 21.85,
@@ -3429,6 +3493,8 @@
     "average_srad": 14396.56168224299,
     "average_wind": 2.06271275695982,
     "average_tmax": 25.693482771335727,
-    "average_tmin": 18.005558608283877
+    "average_tmin": 18.005558608283877,
+    "population": 0,
+    "symbol_sort_key": 0
   }
 }

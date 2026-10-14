@@ -101,7 +101,9 @@
     "average_srad": 20423.833333333332,
     "average_wind": 2.7499190121889114,
     "average_tmax": 33.29270833333333,
-    "average_tmin": 24.800520833333334
+    "average_tmin": 24.800520833333334,
+    "population": 561043,
+    "symbol_sort_key": 29
   },
   "Mahārāshtra": {
     "average_temp": 26.78,
@@ -205,7 +207,9 @@
     "average_srad": 19996.95541623128,
     "average_wind": 2.0192631702002064,
     "average_tmax": 33.13335322453477,
-    "average_tmin": 20.42257816988348
+    "average_tmin": 20.42257816988348,
+    "population": 62786583,
+    "symbol_sort_key": 1
   },
   "Nāgāland": {
     "average_temp": 20.25,
@@ -309,7 +313,9 @@
     "average_srad": 16459.00431034483,
     "average_wind": 1.0933182469900997,
     "average_tmax": 25.09400143678161,
-    "average_tmin": 15.400053879310349
+    "average_tmin": 15.400053879310349,
+    "population": 362744,
+    "symbol_sort_key": 25
   },
   "Lakshadweep": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 11473,
+    "symbol_sort_key": 35
   },
   "Uttar Pradesh": {
     "average_temp": 25.73,
@@ -517,7 +525,9 @@
     "average_srad": 19092.5533459596,
     "average_wind": 1.3424084060182577,
     "average_tmax": 32.06220933291245,
-    "average_tmin": 19.394735111531986
+    "average_tmin": 19.394735111531986,
+    "population": 43356679,
+    "symbol_sort_key": 0
   },
   "Tamil Nādu": {
     "average_temp": 28.11,
@@ -621,7 +631,9 @@
     "average_srad": 19998.949738903397,
     "average_wind": 2.256141039602024,
     "average_tmax": 32.8910104334095,
-    "average_tmin": 23.33835166710371
+    "average_tmin": 23.33835166710371,
+    "population": 52024028,
+    "symbol_sort_key": 5
   },
   "Chhattīsgarh": {
     "average_temp": 26.06,
@@ -725,7 +737,9 @@
     "average_srad": 19219.581367924526,
     "average_wind": 1.498243067530716,
     "average_tmax": 31.826144850628936,
-    "average_tmin": 20.290416175314462
+    "average_tmin": 20.290416175314462,
+    "population": 7116236,
+    "symbol_sort_key": 17
   },
   "Gujarāt": {
     "average_temp": 27.62,
@@ -829,7 +843,9 @@
     "average_srad": 20067.135797101448,
     "average_wind": 2.2177947211697484,
     "average_tmax": 34.280094904802844,
-    "average_tmin": 20.953504820063493
+    "average_tmin": 20.953504820063493,
+    "population": 40433848,
+    "symbol_sort_key": 7
   },
   "Delhi": {
     "average_temp": 25.46,
@@ -933,7 +949,9 @@
     "average_srad": 18775.46666666667,
     "average_wind": 1.328674997886022,
     "average_tmax": 31.859999999999996,
-    "average_tmin": 19.065625
+    "average_tmin": 19.065625,
+    "population": 19942206,
+    "symbol_sort_key": 18
   },
   "Sikkim": {
     "average_temp": 4.41,
@@ -1037,7 +1055,9 @@
     "average_srad": 16505.22303921569,
     "average_wind": 2.676332718017054,
     "average_tmax": 9.634742647058824,
-    "average_tmin": -0.817095588235294
+    "average_tmin": -0.817095588235294,
+    "population": 112476,
+    "symbol_sort_key": 32
   },
   "Tripura": {
     "average_temp": 24.95,
@@ -1141,7 +1161,9 @@
     "average_srad": 17890.022058823528,
     "average_wind": 1.101612753362632,
     "average_tmax": 29.986825980392155,
-    "average_tmin": 19.919822303921567
+    "average_tmin": 19.919822303921567,
+    "population": 701798,
+    "symbol_sort_key": 22
   },
   "West Bengal": {
     "average_temp": 26.02,
@@ -1245,7 +1267,9 @@
     "average_srad": 18068.363073110286,
     "average_wind": 1.4470569073341444,
     "average_tmax": 31.040023751241126,
-    "average_tmin": 20.99468762995733
+    "average_tmin": 20.99468762995733,
+    "population": 41033263,
+    "symbol_sort_key": 3
   },
   "Odisha": {
     "average_temp": 26.24,
@@ -1349,7 +1373,9 @@
     "average_srad": 18756.68115942029,
     "average_wind": 1.5761934039693932,
     "average_tmax": 31.335719225734085,
-    "average_tmin": 21.135532798332704
+    "average_tmin": 21.135532798332704,
+    "population": 6624546,
+    "symbol_sort_key": 10
   },
   "Bihār": {
     "average_temp": 25.66,
@@ -1453,7 +1479,9 @@
     "average_srad": 18871.783441208197,
     "average_wind": 1.3293207937845521,
     "average_tmax": 31.378880124056092,
-    "average_tmin": 19.937243797195254
+    "average_tmin": 19.937243797195254,
+    "population": 37920422,
+    "symbol_sort_key": 2
   },
   "Ladākh": {
     "average_temp": -3.75,
@@ -1557,7 +1585,9 @@
     "average_srad": 15568.28770739065,
     "average_wind": 2.6628635910256775,
     "average_tmax": 1.5578007164404226,
-    "average_tmin": -9.061731711915536
+    "average_tmin": -9.061731711915536,
+    "population": 0,
+    "symbol_sort_key": 34
   },
   "Rājasthān": {
     "average_temp": 26.76,
@@ -1661,7 +1691,9 @@
     "average_srad": 20053.978851291187,
     "average_wind": 1.7384992184183232,
     "average_tmax": 34.18780238943307,
-    "average_tmin": 19.33760017809439
+    "average_tmin": 19.33760017809439,
+    "population": 14992862,
+    "symbol_sort_key": 6
   },
   "Telangāna": {
     "average_temp": 27.89,
@@ -1765,7 +1797,9 @@
     "average_srad": 20000.14161849711,
     "average_wind": 1.9040579209409236,
     "average_tmax": 33.775632225433526,
-    "average_tmin": 22.00616570327553
+    "average_tmin": 22.00616570327553,
+    "population": 17988398,
+    "symbol_sort_key": 12
   },
   "Andhra Pradesh": {
     "average_temp": 28.11,
@@ -1869,7 +1903,9 @@
     "average_srad": 20108.71670047329,
     "average_wind": 1.9337874877243288,
     "average_tmax": 33.07188732006648,
-    "average_tmin": 23.152726117818236
+    "average_tmin": 23.152726117818236,
+    "population": 23621172,
+    "symbol_sort_key": 9
   },
   "Mizoram": {
     "average_temp": 22.35,
@@ -1973,7 +2009,9 @@
     "average_srad": 18025.54411764706,
     "average_wind": 1.1150134834004386,
     "average_tmax": 26.983854166666664,
-    "average_tmin": 17.712300857843136
+    "average_tmin": 17.712300857843136,
+    "population": 722281,
+    "symbol_sort_key": 28
   },
   "Arunāchal Pradesh": {
     "average_temp": 14.33,
@@ -2077,7 +2115,9 @@
     "average_srad": 15515.306491885143,
     "average_wind": 1.4993741406632424,
     "average_tmax": 19.123533083645444,
-    "average_tmin": 9.528842852684145
+    "average_tmin": 9.528842852684145,
+    "population": 145136,
+    "symbol_sort_key": 26
   },
   "Meghālaya": {
     "average_temp": 21.85,
@@ -2181,7 +2221,9 @@
     "average_srad": 17233.30633802817,
     "average_wind": 1.234126468149709,
     "average_tmax": 26.20550176056338,
-    "average_tmin": 17.49994131455399
+    "average_tmin": 17.49994131455399,
+    "population": 261645,
+    "symbol_sort_key": 23
   },
   "Jhārkhand": {
     "average_temp": 25.31,
@@ -2285,7 +2327,9 @@
     "average_srad": 18573.16248391248,
     "average_wind": 1.4362939145113967,
     "average_tmax": 30.904737773487767,
-    "average_tmin": 19.70568693693694
+    "average_tmin": 19.70568693693694,
+    "population": 7137293,
+    "symbol_sort_key": 11
   },
   "Assam": {
     "average_temp": 24.31,
@@ -2389,7 +2433,9 @@
     "average_srad": 16837.53955901427,
     "average_wind": 1.0190302406844773,
     "average_tmax": 29.110846303501944,
-    "average_tmin": 19.51815418287938
+    "average_tmin": 19.51815418287938,
+    "population": 6768789,
+    "symbol_sort_key": 13
   },
   "Manipur": {
     "average_temp": 20.41,
@@ -2493,7 +2539,9 @@
     "average_srad": 17216.944047619047,
     "average_wind": 1.1105300575494768,
     "average_tmax": 25.39111607142857,
-    "average_tmin": 15.426755952380953
+    "average_tmin": 15.426755952380953,
+    "population": 634455,
+    "symbol_sort_key": 24
   },
   "Karnātaka": {
     "average_temp": 25.74,
@@ -2597,7 +2645,9 @@
     "average_srad": 20082.815331010454,
     "average_wind": 2.1308549868935907,
     "average_tmax": 31.117469491249732,
-    "average_tmin": 20.360749218106687
+    "average_tmin": 20.360749218106687,
+    "population": 29973033,
+    "symbol_sort_key": 8
   },
   "Uttarākhand": {
     "average_temp": 13.66,
@@ -2701,7 +2751,9 @@
     "average_srad": 17220.53849902534,
     "average_wind": 1.7283868144246333,
     "average_tmax": 18.542909356725144,
-    "average_tmin": 8.772270955165693
+    "average_tmin": 8.772270955165693,
+    "population": 23447095,
+    "symbol_sort_key": 20
   },
   "Dādra and Nagar Haveli and Damān and Diu": {
     "average_temp": 27.26,
@@ -2805,7 +2857,9 @@
     "average_srad": 19404.75,
     "average_wind": 2.2037916580835977,
     "average_tmax": 33.18854166666666,
-    "average_tmin": 21.335416666666664
+    "average_tmin": 21.335416666666664,
+    "population": 118246,
+    "symbol_sort_key": 31
   },
   "Madhya Pradesh": {
     "average_temp": 26.06,
@@ -2909,7 +2963,9 @@
     "average_srad": 19304.056523224044,
     "average_wind": 1.660615435282349,
     "average_tmax": 32.81547771516394,
-    "average_tmin": 19.304582906420766
+    "average_tmin": 19.304582906420766,
+    "population": 24094742,
+    "symbol_sort_key": 4
   },
   "Goa": {
     "average_temp": 26.67,
@@ -3013,7 +3069,9 @@
     "average_srad": 19700.704545454544,
     "average_wind": 2.5536504116925323,
     "average_tmax": 31.022916695565893,
-    "average_tmin": 22.319708436908144
+    "average_tmin": 22.319708436908144,
+    "population": 716837,
+    "symbol_sort_key": 27
   },
   "Kerala": {
     "average_temp": 26.36,
@@ -3117,7 +3175,9 @@
     "average_srad": 19383.622076023392,
     "average_wind": 2.2284510568742864,
     "average_tmax": 30.230103928025006,
-    "average_tmin": 22.48524994236684
+    "average_tmin": 22.48524994236684,
+    "population": 31429075,
+    "symbol_sort_key": 14
   },
   "Chandīgarh": {
     "average_temp": 24.23,
@@ -3221,7 +3281,9 @@
     "average_srad": 18344.916666666668,
     "average_wind": 1.1854374955097835,
     "average_tmax": 29.87395833333333,
-    "average_tmin": 18.59375
+    "average_tmin": 18.59375,
+    "population": 1053335,
+    "symbol_sort_key": 30
   },
   "Andaman and Nicobar Islands": {
     "average_temp": 27.75,
@@ -3325,7 +3387,9 @@
     "average_srad": 17243.11764705883,
     "average_wind": 2.146546934749566,
     "average_tmax": 30.86614443884955,
-    "average_tmin": 24.631188837687176
+    "average_tmin": 24.631188837687176,
+    "population": 157205,
+    "symbol_sort_key": 33
   },
   "Himāchal Pradesh": {
     "average_temp": 8.21,
@@ -3429,7 +3493,9 @@
     "average_srad": 16694.577127659577,
     "average_wind": 1.8352291644253629,
     "average_tmax": 13.027753767730497,
-    "average_tmin": 3.385477615248227
+    "average_tmin": 3.385477615248227,
+    "population": 2067257,
+    "symbol_sort_key": 21
   },
   "Jammu and Kashmīr": {
     "average_temp": 10.9,
@@ -3533,7 +3599,9 @@
     "average_srad": 15944.399006622514,
     "average_wind": 1.3220028969033664,
     "average_tmax": 16.17813879690949,
-    "average_tmin": 5.6190259381898455
+    "average_tmin": 5.6190259381898455,
+    "population": 4337318,
+    "symbol_sort_key": 19
   },
   "Punjab": {
     "average_temp": 24.37,
@@ -3637,7 +3705,9 @@
     "average_srad": 18843.641176470588,
     "average_wind": 1.1809760983960302,
     "average_tmax": 30.705508578431374,
-    "average_tmin": 18.03515931372549
+    "average_tmin": 18.03515931372549,
+    "population": 13236790,
+    "symbol_sort_key": 15
   },
   "Haryāna": {
     "average_temp": 25.03,
@@ -3741,6 +3811,8 @@
     "average_srad": 19046.369757174394,
     "average_wind": 1.3156291342136874,
     "average_tmax": 31.71186534216336,
-    "average_tmin": 18.341997792494478
+    "average_tmin": 18.341997792494478,
+    "population": 7616957,
+    "symbol_sort_key": 16
   }
 }

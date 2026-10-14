@@ -101,7 +101,9 @@
     "average_srad": 12942.47222222222,
     "average_wind": 1.9177430470784502,
     "average_tmax": 18.47986111111111,
-    "average_tmin": 7.049652777777779
+    "average_tmin": 7.049652777777779,
+    "population": 39893,
+    "symbol_sort_key": 2
   },
   "Republika Srpska": {
     "average_temp": 11.32,
@@ -205,7 +207,9 @@
     "average_srad": 13182.969471947195,
     "average_wind": 2.0533232239410033,
     "average_tmax": 16.483735561056104,
-    "average_tmin": 6.160509488448844
+    "average_tmin": 6.160509488448844,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Federation of Bosnia and Herzegovina": {
     "average_temp": 11.02,
@@ -309,6 +313,8 @@
     "average_srad": 13211.806891025642,
     "average_wind": 2.0903035000157666,
     "average_tmax": 16.19091546474359,
-    "average_tmin": 5.845122195512822
+    "average_tmin": 5.845122195512822,
+    "population": 0,
+    "symbol_sort_key": 0
   }
 }

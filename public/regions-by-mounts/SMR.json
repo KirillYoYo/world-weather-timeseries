@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2118,
+    "symbol_sort_key": 5
   },
   "Borgo Maggiore": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 4040,
+    "symbol_sort_key": 1
   },
   "Chiesanuova": {
     "average_temp": 14.64,
@@ -309,7 +313,9 @@
     "average_srad": 13298.833333333334,
     "average_wind": 2.4281874895095825,
     "average_tmax": 19.128125,
-    "average_tmin": 10.15
+    "average_tmin": 10.15,
+    "population": 1097,
+    "symbol_sort_key": 8
   },
   "Domagnano": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 10281,
+    "symbol_sort_key": 2
   },
   "Faetano": {
     "average_temp": null,
@@ -517,7 +525,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 1212,
+    "symbol_sort_key": 6
   },
   "Fiorentino": {
     "average_temp": null,
@@ -621,7 +631,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2526,
+    "symbol_sort_key": 4
   },
   "Montegiardino": {
     "average_temp": null,
@@ -725,7 +737,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 910,
+    "symbol_sort_key": 7
   },
   "Città di San Marino": {
     "average_temp": null,
@@ -829,7 +843,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Serravalle": {
     "average_temp": null,
@@ -933,6 +949,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 11226,
+    "symbol_sort_key": 0
   }
 }

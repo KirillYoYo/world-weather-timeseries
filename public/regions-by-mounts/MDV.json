@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Haa Dhaalu": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Shaviyani": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Lhaviyani": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Raa": {
     "average_temp": null,
@@ -517,7 +525,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Baa": {
     "average_temp": null,
@@ -621,7 +631,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Alif Alif": {
     "average_temp": null,
@@ -725,7 +737,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Dhaalu": {
     "average_temp": null,
@@ -829,7 +843,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Faafu": {
     "average_temp": null,
@@ -933,7 +949,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Thaa": {
     "average_temp": null,
@@ -1037,7 +1055,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Addu": {
     "average_temp": 27.96,
@@ -1141,7 +1161,9 @@
     "average_srad": 20271.583333333332,
     "average_wind": 4.226190447807312,
     "average_tmax": 30.316666793823245,
-    "average_tmin": 25.6111112276713
+    "average_tmin": 25.6111112276713,
+    "population": 16865,
+    "symbol_sort_key": 0
   },
   "Kaafu": {
     "average_temp": null,
@@ -1245,7 +1267,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Vaavu": {
     "average_temp": null,
@@ -1349,6 +1373,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 12
   }
 }

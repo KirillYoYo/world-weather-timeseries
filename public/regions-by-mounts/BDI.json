@@ -101,7 +101,9 @@
     "average_srad": 15898.888888888889,
     "average_wind": 2.226225675808059,
     "average_tmax": 23.843229166666664,
-    "average_tmin": 13.669444444444446
+    "average_tmin": 13.669444444444446,
+    "population": 135467,
+    "symbol_sort_key": 1
   },
   "Kirundo": {
     "average_temp": 20.68,
@@ -205,7 +207,9 @@
     "average_srad": 15845.683333333332,
     "average_wind": 2.1242749671141308,
     "average_tmax": 25.77291666666667,
-    "average_tmin": 15.578958333333333
+    "average_tmin": 15.578958333333333,
+    "population": 10024,
+    "symbol_sort_key": 3
   },
   "Muyinga": {
     "average_temp": 20.0,
@@ -309,7 +313,9 @@
     "average_srad": 16097.486111111111,
     "average_wind": 2.2475103967719607,
     "average_tmax": 25.169270833333332,
-    "average_tmin": 14.826736111111112
+    "average_tmin": 14.826736111111112,
+    "population": 9609,
+    "symbol_sort_key": 0
   },
   "Ngozi": {
     "average_temp": 19.58,
@@ -413,7 +419,9 @@
     "average_srad": 15629.416666666666,
     "average_wind": 2.0990364427367845,
     "average_tmax": 24.64583333333334,
-    "average_tmin": 14.508333333333331
+    "average_tmin": 14.508333333333331,
+    "population": 39884,
+    "symbol_sort_key": 5
   },
   "Makamba": {
     "average_temp": 20.49,
@@ -517,7 +525,9 @@
     "average_srad": 16198.805555555553,
     "average_wind": 2.2027187413639493,
     "average_tmax": 25.431250000000002,
-    "average_tmin": 15.555208333333333
+    "average_tmin": 15.555208333333333,
+    "population": 9396,
+    "symbol_sort_key": 9
   },
   "Rutana": {
     "average_temp": 19.7,
@@ -621,7 +631,9 @@
     "average_srad": 16237.200000000003,
     "average_wind": 2.286445826292038,
     "average_tmax": 24.777916666666666,
-    "average_tmin": 14.620833333333332
+    "average_tmin": 14.620833333333332,
+    "population": 5865,
+    "symbol_sort_key": 10
   },
   "Ruyigi": {
     "average_temp": 19.99,
@@ -725,7 +737,9 @@
     "average_srad": 16437.023809523813,
     "average_wind": 2.3712589130515145,
     "average_tmax": 25.12291666666667,
-    "average_tmin": 14.854761904761906
+    "average_tmin": 14.854761904761906,
+    "population": 7139,
+    "symbol_sort_key": 7
   },
   "Cankuzo": {
     "average_temp": 19.87,
@@ -829,7 +843,9 @@
     "average_srad": 16522.180555555555,
     "average_wind": 2.4037951131661734,
     "average_tmax": 25.02065972222222,
-    "average_tmin": 14.719791666666667
+    "average_tmin": 14.719791666666667,
+    "population": 3624,
+    "symbol_sort_key": 17
   },
   "Karuzi": {
     "average_temp": 19.17,
@@ -933,7 +949,9 @@
     "average_srad": 16021.520833333334,
     "average_wind": 2.289645810921987,
     "average_tmax": 24.313281250000003,
-    "average_tmin": 14.02734375
+    "average_tmin": 14.02734375,
+    "population": 82404,
+    "symbol_sort_key": 11
   },
   "Cibitoke": {
     "average_temp": 20.3,
@@ -1037,7 +1055,9 @@
     "average_srad": 15289.1875,
     "average_wind": 1.918932278951009,
     "average_tmax": 25.375520833333336,
-    "average_tmin": 15.227864583333334
+    "average_tmin": 15.227864583333334,
+    "population": 23885,
+    "symbol_sort_key": 8
   },
   "Kayanza": {
     "average_temp": 18.56,
@@ -1141,7 +1161,9 @@
     "average_srad": 15100.88888888889,
     "average_wind": 1.9247916539510088,
     "average_tmax": 23.365972222222222,
-    "average_tmin": 13.759027777777776
+    "average_tmin": 13.759027777777776,
+    "population": 21767,
+    "symbol_sort_key": 2
   },
   "Bubanza": {
     "average_temp": 23.36,
@@ -1245,7 +1267,9 @@
     "average_srad": 15812.694444444443,
     "average_wind": 2.050215270784166,
     "average_tmax": 28.431250000000002,
-    "average_tmin": 18.28298611111111
+    "average_tmin": 18.28298611111111,
+    "population": 20031,
+    "symbol_sort_key": 14
   },
   "Muramvya": {
     "average_temp": 18.29,
@@ -1349,7 +1373,9 @@
     "average_srad": 15246.458333333334,
     "average_wind": 1.9505520711342494,
     "average_tmax": 23.155729166666664,
-    "average_tmin": 13.431770833333331
+    "average_tmin": 13.431770833333331,
+    "population": 5458,
+    "symbol_sort_key": 15
   },
   "Bujumbura Rural": {
     "average_temp": 20.12,
@@ -1453,7 +1479,9 @@
     "average_srad": 15319.333333333334,
     "average_wind": 1.8342083344856899,
     "average_tmax": 24.7609375,
-    "average_tmin": 15.482291666666667
+    "average_tmin": 15.482291666666667,
+    "population": 11700,
+    "symbol_sort_key": 6
   },
   "Bujumbura Mairie": {
     "average_temp": null,
@@ -1557,7 +1585,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 1143202,
+    "symbol_sort_key": 4
   },
   "Bururi": {
     "average_temp": 17.82,
@@ -1661,7 +1691,9 @@
     "average_srad": 15511.699999999999,
     "average_wind": 1.972020822763443,
     "average_tmax": 22.68375,
-    "average_tmin": 12.956041666666666
+    "average_tmin": 12.956041666666666,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Mwaro": {
     "average_temp": 17.21,
@@ -1765,7 +1797,9 @@
     "average_srad": 15322.805555555553,
     "average_wind": 1.9328263766235774,
     "average_tmax": 22.162499999999998,
-    "average_tmin": 12.249305555555557
+    "average_tmin": 12.249305555555557,
+    "population": 135467,
+    "symbol_sort_key": 16
   },
   "Rumonge": {
     "average_temp": 19.57,
@@ -1869,6 +1903,8 @@
     "average_srad": 15540.916666666666,
     "average_wind": 1.901861111323039,
     "average_tmax": 24.09548611111111,
-    "average_tmin": 15.035416666666668
+    "average_tmin": 15.035416666666668,
+    "population": 35931,
+    "symbol_sort_key": 12
   }
 }

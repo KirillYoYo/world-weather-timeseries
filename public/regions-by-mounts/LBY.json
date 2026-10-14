@@ -101,7 +101,9 @@
     "average_srad": 19846.986111111113,
     "average_wind": 3.9798113706412614,
     "average_tmax": 28.244139451951952,
-    "average_tmin": 14.034895833333335
+    "average_tmin": 14.034895833333335,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "An Nuqat al Khams": {
     "average_temp": 21.62,
@@ -205,7 +207,9 @@
     "average_srad": 18435.071428571428,
     "average_wind": 3.7456681539141936,
     "average_tmax": 26.878098555216713,
-    "average_tmin": 16.36883598168691
+    "average_tmin": 16.36883598168691,
+    "population": 302048,
+    "symbol_sort_key": 6
   },
   "Al Kufrah": {
     "average_temp": 23.62,
@@ -309,7 +313,9 @@
     "average_srad": 21943.77647278151,
     "average_wind": 3.601180825605636,
     "average_tmax": 31.016372265722094,
-    "average_tmin": 16.22079449415859
+    "average_tmin": 16.22079449415859,
+    "population": 18587,
+    "symbol_sort_key": 20
   },
   "Murzuq": {
     "average_temp": 23.01,
@@ -413,7 +419,9 @@
     "average_srad": 21828.225940265485,
     "average_wind": 3.607005284115628,
     "average_tmax": 30.516014472713866,
-    "average_tmin": 15.507450682153392
+    "average_tmin": 15.507450682153392,
+    "population": 49320,
+    "symbol_sort_key": 16
   },
   "Al Butnan": {
     "average_temp": 21.7,
@@ -517,7 +525,9 @@
     "average_srad": 19827.78245942572,
     "average_wind": 3.551520035359148,
     "average_tmax": 28.004410352480694,
-    "average_tmin": 15.394755353939518
+    "average_tmin": 15.394755353939518,
+    "population": 147941,
+    "symbol_sort_key": 14
   },
   "Ajdabiya": {
     "average_temp": 22.57,
@@ -621,7 +631,9 @@
     "average_srad": 20417.228183663112,
     "average_wind": 3.5026918173985457,
     "average_tmax": 29.14450553069558,
-    "average_tmin": 16.001612150288064
+    "average_tmin": 16.001612150288064,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Ash Shati'": {
     "average_temp": 22.56,
@@ -725,7 +737,9 @@
     "average_srad": 20748.01366982124,
     "average_wind": 3.81707748222301,
     "average_tmax": 29.99394716088328,
-    "average_tmin": 15.1329587276551
+    "average_tmin": 15.1329587276551,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Ghat": {
     "average_temp": 24.34,
@@ -829,7 +843,9 @@
     "average_srad": 21602.00511247444,
     "average_wind": 3.7311016112748834,
     "average_tmax": 31.902300613496934,
-    "average_tmin": 16.779403118609405
+    "average_tmin": 16.779403118609405,
+    "population": 22000,
+    "symbol_sort_key": 21
   },
   "Surt": {
     "average_temp": 20.47,
@@ -933,7 +949,9 @@
     "average_srad": 19688.70424836601,
     "average_wind": 3.684267127176256,
     "average_tmax": 26.64326298055046,
-    "average_tmin": 14.287412400650823
+    "average_tmin": 14.287412400650823,
+    "population": 95649,
+    "symbol_sort_key": 12
   },
   "Misratah": {
     "average_temp": 21.44,
@@ -1037,7 +1055,9 @@
     "average_srad": 19366.186666666665,
     "average_wind": 3.6907506367138456,
     "average_tmax": 27.39319633938017,
-    "average_tmin": 15.492522749128797
+    "average_tmin": 15.492522749128797,
+    "population": 309880,
+    "symbol_sort_key": 4
   },
   "Al Marqab": {
     "average_temp": 21.18,
@@ -1141,7 +1161,9 @@
     "average_srad": 18690.291666666668,
     "average_wind": 3.798809507654773,
     "average_tmax": 26.609982638888884,
-    "average_tmin": 15.742621527777779
+    "average_tmin": 15.742621527777779,
+    "population": 295207,
+    "symbol_sort_key": 3
   },
   "Tajura' wa an Nawahi al Arba": {
     "average_temp": 21.44,
@@ -1245,7 +1267,9 @@
     "average_srad": 18008.825,
     "average_wind": 3.715684707959493,
     "average_tmax": 27.07380553563436,
-    "average_tmin": 15.801020851929982
+    "average_tmin": 15.801020851929982,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Az Zawiyah": {
     "average_temp": 21.37,
@@ -1349,7 +1373,9 @@
     "average_srad": 18093.408333333336,
     "average_wind": 3.6577559173107144,
     "average_tmax": 27.001875,
-    "average_tmin": 15.74561011473338
+    "average_tmin": 15.74561011473338,
+    "population": 286640,
+    "symbol_sort_key": 2
   },
   "Al Qubbah": {
     "average_temp": 20.16,
@@ -1453,7 +1479,9 @@
     "average_srad": 18905.671296296296,
     "average_wind": 3.8879650237935555,
     "average_tmax": 25.74295980047297,
-    "average_tmin": 14.583635086262666
+    "average_tmin": 14.583635086262666,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Al Jabal al Akhdar": {
     "average_temp": 19.34,
@@ -1557,7 +1585,9 @@
     "average_srad": 18812.548850574716,
     "average_wind": 3.9680690779083077,
     "average_tmax": 24.735632183359957,
-    "average_tmin": 13.941322863787066
+    "average_tmin": 13.941322863787066,
+    "population": 295000,
+    "symbol_sort_key": 8
   },
   "Al Marj": {
     "average_temp": 19.81,
@@ -1661,7 +1691,9 @@
     "average_srad": 19022.906462585033,
     "average_wind": 3.8441437499052817,
     "average_tmax": 25.300414039650743,
-    "average_tmin": 14.310146377848929
+    "average_tmin": 14.310146377848929,
+    "population": 192704,
+    "symbol_sort_key": 7
   },
   "Benghazi": {
     "average_temp": 21.26,
@@ -1765,7 +1797,9 @@
     "average_srad": 19333.880952380954,
     "average_wind": 3.862435539563497,
     "average_tmax": 26.85786475136166,
-    "average_tmin": 15.666659382865541
+    "average_tmin": 15.666659382865541,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Al Jifarah": {
     "average_temp": 21.21,
@@ -1869,7 +1903,9 @@
     "average_srad": 18249.777777777777,
     "average_wind": 3.494201382001241,
     "average_tmax": 27.28368055555556,
-    "average_tmin": 15.139583333333334
+    "average_tmin": 15.139583333333334,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "Mizdah": {
     "average_temp": 21.27,
@@ -1973,7 +2009,9 @@
     "average_srad": 19637.48175381264,
     "average_wind": 3.885100544537855,
     "average_tmax": 28.09999319172113,
-    "average_tmin": 14.437857434640526
+    "average_tmin": 14.437857434640526,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Al Jufrah": {
     "average_temp": 20.99,
@@ -2077,7 +2115,9 @@
     "average_srad": 20694.666666666668,
     "average_wind": 3.6506269514825607,
     "average_tmax": 28.09228333333333,
-    "average_tmin": 13.88861111111111
+    "average_tmin": 13.88861111111111,
+    "population": 56365,
+    "symbol_sort_key": 18
   },
   "Sabha": {
     "average_temp": 21.96,
@@ -2181,7 +2221,9 @@
     "average_srad": 21007.795454545452,
     "average_wind": 3.6707318204821964,
     "average_tmax": 29.25282196969697,
-    "average_tmin": 14.665132575757577
+    "average_tmin": 14.665132575757577,
+    "population": 99328,
+    "symbol_sort_key": 10
   },
   "Wadi al Hayaa": {
     "average_temp": 23.06,
@@ -2285,6 +2327,8 @@
     "average_srad": 21318.728395061727,
     "average_wind": 3.687016229938578,
     "average_tmax": 30.586709104938276,
-    "average_tmin": 15.531529706790122
+    "average_tmin": 15.531529706790122,
+    "population": 0,
+    "symbol_sort_key": 17
   }
 }

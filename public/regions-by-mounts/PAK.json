@@ -101,7 +101,9 @@
     "average_srad": 19413.56193791703,
     "average_wind": 2.1482329702711054,
     "average_tmax": 30.973528070701594,
-    "average_tmin": 16.084868399149993
+    "average_tmin": 16.084868399149993,
+    "population": 2916842,
+    "symbol_sort_key": 3
   },
   "Sindh": {
     "average_temp": 27.86,
@@ -205,7 +207,9 @@
     "average_srad": 20209.71791951405,
     "average_wind": 2.125967993936307,
     "average_tmax": 35.449413871620315,
-    "average_tmin": 20.277956815298165
+    "average_tmin": 20.277956815298165,
+    "population": 29272553,
+    "symbol_sort_key": 1
   },
   "Gilgit-Baltistan": {
     "average_temp": -1.02,
@@ -309,7 +313,9 @@
     "average_srad": 14853.893574297188,
     "average_wind": 2.3336311903105207,
     "average_tmax": 4.455438420348059,
-    "average_tmin": -6.492030622489961
+    "average_tmin": -6.492030622489961,
+    "population": 809578,
+    "symbol_sort_key": 6
   },
   "Azad Kashmir": {
     "average_temp": 15.06,
@@ -413,7 +419,9 @@
     "average_srad": 16096.652777777776,
     "average_wind": 1.238922618625183,
     "average_tmax": 20.87638888888889,
-    "average_tmin": 9.241121031746031
+    "average_tmin": 9.241121031746031,
+    "population": 541959,
+    "symbol_sort_key": 4
   },
   "Khyber Pakhtunkhwa": {
     "average_temp": 15.42,
@@ -517,7 +525,9 @@
     "average_srad": 16882.85743801653,
     "average_wind": 1.5854863952794023,
     "average_tmax": 21.666841712580347,
-    "average_tmin": 9.16879591368228
+    "average_tmin": 9.16879591368228,
+    "population": 6886288,
+    "symbol_sort_key": 2
   },
   "Punjab": {
     "average_temp": 25.32,
@@ -621,7 +631,9 @@
     "average_srad": 18801.444604316548,
     "average_wind": 1.4210012274180095,
     "average_tmax": 32.664890587529975,
-    "average_tmin": 17.976476318944844
+    "average_tmin": 17.976476318944844,
+    "population": 40662341,
+    "symbol_sort_key": 0
   },
   "Islamabad Capital Territory": {
     "average_temp": 21.59,
@@ -725,6 +737,8 @@
     "average_srad": 16826.833333333332,
     "average_wind": 1.238302079339822,
     "average_tmax": 28.222395833333337,
-    "average_tmin": 14.950520833333336
+    "average_tmin": 14.950520833333336,
+    "population": 1026825,
+    "symbol_sort_key": 5
   }
 }

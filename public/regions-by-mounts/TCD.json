@@ -101,7 +101,9 @@
     "average_srad": 22558.442498758075,
     "average_wind": 3.6751983584424366,
     "average_tmax": 32.12375031048187,
-    "average_tmin": 16.332796199701935
+    "average_tmin": 16.332796199701935,
+    "population": 6432,
+    "symbol_sort_key": 22
   },
   "Borkou": {
     "average_temp": 28.36,
@@ -205,7 +207,9 @@
     "average_srad": 22562.197282608697,
     "average_wind": 3.308076991767123,
     "average_tmax": 35.991870471014494,
-    "average_tmin": 20.72250226449275
+    "average_tmin": 20.72250226449275,
+    "population": 75572,
+    "symbol_sort_key": 19
   },
   "Ennedi-Ouest": {
     "average_temp": 26.49,
@@ -309,7 +313,9 @@
     "average_srad": 22467.643640350874,
     "average_wind": 3.5890140394369765,
     "average_tmax": 34.17229166666666,
-    "average_tmin": 18.80972861842105
+    "average_tmin": 18.80972861842105,
+    "population": 23786,
+    "symbol_sort_key": 21
   },
   "Wadi Fira": {
     "average_temp": 27.09,
@@ -413,7 +419,9 @@
     "average_srad": 21505.87003968254,
     "average_wind": 2.8094868562997335,
     "average_tmax": 34.924001736111116,
-    "average_tmin": 19.263746279761904
+    "average_tmin": 19.263746279761904,
+    "population": 45412,
+    "symbol_sort_key": 4
   },
   "Salamat": {
     "average_temp": 27.66,
@@ -517,7 +525,9 @@
     "average_srad": 20491.169983416254,
     "average_wind": 2.0632604622030337,
     "average_tmax": 35.21653192371476,
-    "average_tmin": 20.097429519071316
+    "average_tmin": 20.097429519071316,
+    "population": 97078,
+    "symbol_sort_key": 18
   },
   "Sila": {
     "average_temp": 27.57,
@@ -621,7 +631,9 @@
     "average_srad": 20326.359327217124,
     "average_wind": 2.3070925114169394,
     "average_tmax": 35.54345374617736,
-    "average_tmin": 19.590156727828745
+    "average_tmin": 19.590156727828745,
+    "population": 107960,
+    "symbol_sort_key": 14
   },
   "Ouaddaï": {
     "average_temp": 28.0,
@@ -725,7 +737,9 @@
     "average_srad": 20931.475000000002,
     "average_wind": 2.566386333880601,
     "average_tmax": 35.785393518518525,
-    "average_tmin": 20.22346064814815
+    "average_tmin": 20.22346064814815,
+    "population": 137129,
+    "symbol_sort_key": 2
   },
   "Guéra": {
     "average_temp": 28.67,
@@ -829,7 +843,9 @@
     "average_srad": 20926.730555555554,
     "average_wind": 2.239516781160125,
     "average_tmax": 35.770277777777785,
-    "average_tmin": 21.570515046296297
+    "average_tmin": 21.570515046296297,
+    "population": 59244,
+    "symbol_sort_key": 10
   },
   "Batha": {
     "average_temp": 29.62,
@@ -933,7 +949,9 @@
     "average_srad": 21725.19609665428,
     "average_wind": 2.6966424990246884,
     "average_tmax": 37.116802199504335,
-    "average_tmin": 22.127307930607188
+    "average_tmin": 22.127307930607188,
+    "population": 204566,
+    "symbol_sort_key": 13
   },
   "Hadjer-Lamis": {
     "average_temp": 29.24,
@@ -1037,7 +1055,9 @@
     "average_srad": 21181.55277777778,
     "average_wind": 2.4415956050157543,
     "average_tmax": 36.84454861111111,
-    "average_tmin": 21.627800925925925
+    "average_tmin": 21.627800925925925,
+    "population": 50895,
+    "symbol_sort_key": 12
   },
   "Bahr el Gazel": {
     "average_temp": 28.87,
@@ -1141,7 +1161,9 @@
     "average_srad": 21946.241666666665,
     "average_wind": 2.789145708142542,
     "average_tmax": 36.39039215686274,
-    "average_tmin": 21.345337009803924
+    "average_tmin": 21.345337009803924,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Kanem": {
     "average_temp": 28.45,
@@ -1245,7 +1267,9 @@
     "average_srad": 22091.83864379085,
     "average_wind": 2.911233152634178,
     "average_tmax": 36.04333639705883,
-    "average_tmin": 20.861386846405228
+    "average_tmin": 20.861386846405228,
+    "population": 19004,
+    "symbol_sort_key": 16
   },
   "Chari-Baguirmi": {
     "average_temp": 28.81,
@@ -1349,7 +1373,9 @@
     "average_srad": 20746.617149758455,
     "average_wind": 2.270044386242899,
     "average_tmax": 36.00013586956522,
-    "average_tmin": 21.6223731884058
+    "average_tmin": 21.6223731884058,
+    "population": 35648,
+    "symbol_sort_key": 6
   },
   "Lac": {
     "average_temp": 28.27,
@@ -1453,7 +1479,9 @@
     "average_srad": 21659.954166666666,
     "average_wind": 2.8052215253313384,
     "average_tmax": 35.710520833333334,
-    "average_tmin": 20.830520833333335
+    "average_tmin": 20.830520833333335,
+    "population": 11700,
+    "symbol_sort_key": 15
   },
   "Logone Occidental": {
     "average_temp": 27.71,
@@ -1557,7 +1585,9 @@
     "average_srad": 19843.30448717949,
     "average_wind": 1.9100136126463225,
     "average_tmax": 34.33685897435897,
-    "average_tmin": 21.07391826923077
+    "average_tmin": 21.07391826923077,
+    "population": 180271,
+    "symbol_sort_key": 5
   },
   "Logone Oriental": {
     "average_temp": 27.42,
@@ -1661,7 +1691,9 @@
     "average_srad": 19822.437198067633,
     "average_wind": 1.7928435982425437,
     "average_tmax": 33.869504830917876,
-    "average_tmin": 20.964507850241546
+    "average_tmin": 20.964507850241546,
+    "population": 44335,
+    "symbol_sort_key": 1
   },
   "Mandoul": {
     "average_temp": 27.68,
@@ -1765,7 +1797,9 @@
     "average_srad": 20192.767973856207,
     "average_wind": 1.8224922371845615,
     "average_tmax": 34.402144607843134,
-    "average_tmin": 20.955575980392158
+    "average_tmin": 20.955575980392158,
+    "population": 112993,
+    "symbol_sort_key": 7
   },
   "Mayo-Kebbi Est": {
     "average_temp": 28.41,
@@ -1869,7 +1903,9 @@
     "average_srad": 20214.954678362574,
     "average_wind": 2.1332507354822776,
     "average_tmax": 35.06345029239766,
-    "average_tmin": 21.75182748538012
+    "average_tmin": 21.75182748538012,
+    "population": 106639,
+    "symbol_sort_key": 3
   },
   "Mayo-Kebbi Ouest": {
     "average_temp": 27.76,
@@ -1973,7 +2009,9 @@
     "average_srad": 19595.36403508772,
     "average_wind": 2.0315454923792884,
     "average_tmax": 33.940296052631574,
-    "average_tmin": 21.587143640350877
+    "average_tmin": 21.587143640350877,
+    "population": 129439,
+    "symbol_sort_key": 11
   },
   "Moyen-Chari": {
     "average_temp": 28.0,
@@ -2077,7 +2115,9 @@
     "average_srad": 20326.57283464567,
     "average_wind": 1.8955580626572839,
     "average_tmax": 34.91482119422572,
-    "average_tmin": 21.085137795275593
+    "average_tmin": 21.085137795275593,
+    "population": 124021,
+    "symbol_sort_key": 9
   },
   "Tandjilé": {
     "average_temp": 28.35,
@@ -2181,7 +2221,9 @@
     "average_srad": 20257.589506172844,
     "average_wind": 2.010550148693132,
     "average_tmax": 35.13865740740741,
-    "average_tmin": 21.566743827160497
+    "average_tmin": 21.566743827160497,
+    "population": 130264,
+    "symbol_sort_key": 8
   },
   "N'Djamena Region": {
     "average_temp": 28.87,
@@ -2285,7 +2327,9 @@
     "average_srad": 20743.75,
     "average_wind": 2.3628541827201843,
     "average_tmax": 36.152083333333344,
-    "average_tmin": 21.58020833333333
+    "average_tmin": 21.58020833333333,
+    "population": 1092066,
+    "symbol_sort_key": 0
   },
   "Ennedi-Est": {
     "average_temp": 24.46,
@@ -2389,6 +2433,8 @@
     "average_srad": 22218.72002635046,
     "average_wind": 3.4320917391808448,
     "average_tmax": 32.34844367588933,
-    "average_tmin": 16.579467226613968
+    "average_tmin": 16.579467226613968,
+    "population": 20850,
+    "symbol_sort_key": 20
   }
 }

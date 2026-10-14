@@ -101,7 +101,9 @@
     "average_srad": 19500.632575757576,
     "average_wind": 5.27065407055797,
     "average_tmax": 23.309803406397503,
-    "average_tmin": 15.815433963862331
+    "average_tmin": 15.815433963862331,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Ciudad Autónoma de Melilla": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Ciudad Autónoma de Ceuta": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "La Rioja": {
     "average_temp": 12.14,
@@ -413,7 +419,9 @@
     "average_srad": 14150.308333333332,
     "average_wind": 3.2231052021185564,
     "average_tmax": 17.789583333333333,
-    "average_tmin": 6.4945312500000005
+    "average_tmin": 6.4945312500000005,
+    "population": 236070,
+    "symbol_sort_key": 16
   },
   "País Vasco/Euskadi": {
     "average_temp": 13.51,
@@ -517,7 +525,9 @@
     "average_srad": 12892.657407407409,
     "average_wind": 3.2534602409527626,
     "average_tmax": 18.19849046483452,
-    "average_tmin": 8.815596241421169
+    "average_tmin": 8.815596241421169,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Comunidad Foral de Navarra": {
     "average_temp": 13.46,
@@ -621,7 +631,9 @@
     "average_srad": 13817.811507936509,
     "average_wind": 3.480089780357149,
     "average_tmax": 18.51361607142857,
-    "average_tmin": 8.408482142857142
+    "average_tmin": 8.408482142857142,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Región de Murcia": {
     "average_temp": 17.22,
@@ -725,7 +737,9 @@
     "average_srad": 16734.337209302324,
     "average_wind": 3.2607432007789607,
     "average_tmax": 23.97261789011401,
-    "average_tmin": 10.475686367630036
+    "average_tmin": 10.475686367630036,
+    "population": 1837132,
+    "symbol_sort_key": 9
   },
   "Comunidad de Madrid": {
     "average_temp": 14.34,
@@ -829,7 +843,9 @@
     "average_srad": 15749.847222222224,
     "average_wind": 2.4398604101604886,
     "average_tmax": 20.293298611111112,
-    "average_tmin": 8.383298611111112
+    "average_tmin": 8.383298611111112,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Galicia": {
     "average_temp": 13.67,
@@ -933,7 +949,9 @@
     "average_srad": 13418.423132183905,
     "average_wind": 3.239117750234302,
     "average_tmax": 18.55450351457486,
-    "average_tmin": 8.778479788358183
+    "average_tmin": 8.778479788358183,
+    "population": 1928704,
+    "symbol_sort_key": 4
   },
   "Extremadura": {
     "average_temp": 16.9,
@@ -1037,7 +1055,9 @@
     "average_srad": 16759.432291666668,
     "average_wind": 2.8872591167688366,
     "average_tmax": 23.14211588541667,
-    "average_tmin": 10.649713541666666
+    "average_tmin": 10.649713541666666,
+    "population": 556970,
+    "symbol_sort_key": 12
   },
   "Comunitat Valenciana": {
     "average_temp": 16.29,
@@ -1141,7 +1161,9 @@
     "average_srad": 16082.960185185184,
     "average_wind": 2.9589206251833176,
     "average_tmax": 22.46342449700391,
-    "average_tmin": 10.114333156192744
+    "average_tmin": 10.114333156192744,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Cataluña/Catalunya": {
     "average_temp": 13.9,
@@ -1245,7 +1267,9 @@
     "average_srad": 15063.55423280423,
     "average_wind": 3.557756701789836,
     "average_tmax": 19.260296175719567,
-    "average_tmin": 8.532347257159374
+    "average_tmin": 8.532347257159374,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Castilla-La Mancha": {
     "average_temp": 14.94,
@@ -1349,7 +1373,9 @@
     "average_srad": 16175.43916666667,
     "average_wind": 2.696957635945744,
     "average_tmax": 21.619215277777773,
-    "average_tmin": 8.270291666666667
+    "average_tmin": 8.270291666666667,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Castilla y León": {
     "average_temp": 12.4,
@@ -1453,7 +1479,9 @@
     "average_srad": 14926.76259157509,
     "average_wind": 3.0157387773523396,
     "average_tmax": 18.258439217032965,
-    "average_tmin": 6.536976304945054
+    "average_tmin": 6.536976304945054,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Cantabria": {
     "average_temp": 12.93,
@@ -1557,7 +1585,9 @@
     "average_srad": 13000.908333333333,
     "average_wind": 3.192101924618085,
     "average_tmax": 17.785245264371238,
-    "average_tmin": 8.0649223502477
+    "average_tmin": 8.0649223502477,
+    "population": 403150,
+    "symbol_sort_key": 15
   },
   "Illes Balears": {
     "average_temp": 17.92,
@@ -1661,7 +1691,9 @@
     "average_srad": 15727.954166666668,
     "average_wind": 3.4103180110454563,
     "average_tmax": 22.90116939385732,
-    "average_tmin": 12.933246204853058
+    "average_tmin": 12.933246204853058,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Principado de Asturias": {
     "average_temp": 12.4,
@@ -1765,7 +1797,9 @@
     "average_srad": 12833.39430894309,
     "average_wind": 3.3890394466679266,
     "average_tmax": 17.15601404391653,
-    "average_tmin": 7.641177949963546
+    "average_tmin": 7.641177949963546,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Aragón": {
     "average_temp": 13.7,
@@ -1869,7 +1903,9 @@
     "average_srad": 15279.25716845878,
     "average_wind": 3.453790544822651,
     "average_tmax": 20.029681899641577,
-    "average_tmin": 7.379978718637993
+    "average_tmin": 7.379978718637993,
+    "population": 1026699,
+    "symbol_sort_key": 10
   },
   "Andalucía": {
     "average_temp": 17.24,
@@ -1973,6 +2009,8 @@
     "average_srad": 17113.49097007224,
     "average_wind": 3.2283945745481915,
     "average_tmax": 23.616002017622517,
-    "average_tmin": 10.860926301991114
+    "average_tmin": 10.860926301991114,
+    "population": 0,
+    "symbol_sort_key": 0
   }
 }

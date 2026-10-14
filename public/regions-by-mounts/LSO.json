@@ -101,7 +101,9 @@
     "average_srad": 18516.433333333338,
     "average_wind": 2.352683318323559,
     "average_tmax": 16.527430555555558,
-    "average_tmin": 2.8633333333333337
+    "average_tmin": 2.8633333333333337,
+    "population": 8809,
+    "symbol_sort_key": 6
   },
   "Maseru District": {
     "average_temp": 13.63,
@@ -205,7 +207,9 @@
     "average_srad": 18985.827380952378,
     "average_wind": 2.449857136323338,
     "average_tmax": 21.375372023809522,
-    "average_tmin": 5.884895833333334
+    "average_tmin": 5.884895833333334,
+    "population": 469654,
+    "symbol_sort_key": 0
   },
   "Butha-Buthe District": {
     "average_temp": 11.04,
@@ -309,7 +313,9 @@
     "average_srad": 18737.800000000003,
     "average_wind": 2.332579163710276,
     "average_tmax": 18.304999999999996,
-    "average_tmin": 3.7737499999999997
+    "average_tmin": 3.7737499999999997,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Mohale's Hoek District": {
     "average_temp": 14.25,
@@ -413,7 +419,9 @@
     "average_srad": 18947.620370370372,
     "average_wind": 2.475071744786369,
     "average_tmax": 22.002199074074074,
-    "average_tmin": 6.491782407407407
+    "average_tmin": 6.491782407407407,
+    "population": 65122,
+    "symbol_sort_key": 4
   },
   "Mafeteng District": {
     "average_temp": 14.52,
@@ -517,7 +525,9 @@
     "average_srad": 19133.552083333332,
     "average_wind": 2.47343227515618,
     "average_tmax": 22.470052083333332,
-    "average_tmin": 6.571484375000001
+    "average_tmin": 6.571484375000001,
+    "population": 67578,
+    "symbol_sort_key": 3
   },
   "Quthing District": {
     "average_temp": 13.24,
@@ -621,7 +631,9 @@
     "average_srad": 18626.852564102566,
     "average_wind": 2.5121810825971456,
     "average_tmax": 20.806650641025644,
-    "average_tmin": 5.669711538461539
+    "average_tmin": 5.669711538461539,
+    "population": 24720,
+    "symbol_sort_key": 7
   },
   "Berea District": {
     "average_temp": 13.96,
@@ -725,7 +737,9 @@
     "average_srad": 18950.785714285714,
     "average_wind": 2.384744058052699,
     "average_tmax": 21.839880952380952,
-    "average_tmin": 6.079910714285714
+    "average_tmin": 6.079910714285714,
+    "population": 143190,
+    "symbol_sort_key": 1
   },
   "Thaba-Tseka District": {
     "average_temp": 11.13,
@@ -829,7 +843,9 @@
     "average_srad": 18607.484375,
     "average_wind": 2.408018230150143,
     "average_tmax": 18.4869140625,
-    "average_tmin": 3.7664713541666663
+    "average_tmin": 3.7664713541666663,
+    "population": 15305,
+    "symbol_sort_key": 5
   },
   "Qacha's Nek District": {
     "average_temp": 12.5,
@@ -933,7 +949,9 @@
     "average_srad": 18411.046296296296,
     "average_wind": 2.4641319436055644,
     "average_tmax": 19.7724537037037,
-    "average_tmin": 5.220601851851851
+    "average_tmin": 5.220601851851851,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Leribe District": {
     "average_temp": 12.12,
@@ -1037,6 +1055,8 @@
     "average_srad": 18814.825,
     "average_wind": 2.3480312426884966,
     "average_tmax": 19.650104166666665,
-    "average_tmin": 4.581041666666667
+    "average_tmin": 4.581041666666667,
+    "population": 116784,
+    "symbol_sort_key": 2
   }
 }

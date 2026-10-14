@@ -101,7 +101,9 @@
     "average_srad": 21032.604166666668,
     "average_wind": 2.0425885493556657,
     "average_tmax": 35.81276041666667,
-    "average_tmin": 22.498958333333334
+    "average_tmin": 22.498958333333334,
+    "population": 3106946,
+    "symbol_sort_key": 0
   },
   "Boucle du Mouhoun": {
     "average_temp": 29.0,
@@ -205,7 +207,9 @@
     "average_srad": 20615.14365079365,
     "average_wind": 2.0791295553010607,
     "average_tmax": 35.53553571428572,
-    "average_tmin": 22.469890873015874
+    "average_tmin": 22.469890873015874,
+    "population": 194629,
+    "symbol_sort_key": 3
   },
   "Cascades": {
     "average_temp": 28.12,
@@ -309,7 +313,9 @@
     "average_srad": 19402.11515151515,
     "average_wind": 1.8611905220783118,
     "average_tmax": 33.448996212121216,
-    "average_tmin": 22.800454545454542
+    "average_tmin": 22.800454545454542,
+    "population": 191505,
+    "symbol_sort_key": 9
   },
   "Centre-Est": {
     "average_temp": 29.24,
@@ -413,7 +419,9 @@
     "average_srad": 20102.128048780487,
     "average_wind": 1.9731097548473173,
     "average_tmax": 35.641793699187,
-    "average_tmin": 22.8453506097561
+    "average_tmin": 22.8453506097561,
+    "population": 349779,
+    "symbol_sort_key": 5
   },
   "Centre-Nord": {
     "average_temp": 29.24,
@@ -517,7 +525,9 @@
     "average_srad": 21293.786885245903,
     "average_wind": 2.2872657075605756,
     "average_tmax": 36.24655054644809,
-    "average_tmin": 22.238370901639342
+    "average_tmin": 22.238370901639342,
+    "population": 290944,
+    "symbol_sort_key": 4
   },
   "Centre-Ouest": {
     "average_temp": 28.69,
@@ -621,7 +631,9 @@
     "average_srad": 20456.534615384615,
     "average_wind": 1.974155755684926,
     "average_tmax": 35.069006410256414,
-    "average_tmin": 22.30604166666667
+    "average_tmin": 22.30604166666667,
+    "population": 366123,
+    "symbol_sort_key": 6
   },
   "Centre-Sud": {
     "average_temp": 28.96,
@@ -725,7 +737,9 @@
     "average_srad": 20270.416666666668,
     "average_wind": 1.9477806599051866,
     "average_tmax": 35.34204282407407,
-    "average_tmin": 22.577690972222218
+    "average_tmin": 22.577690972222218,
+    "population": 166852,
+    "symbol_sort_key": 12
   },
   "Est": {
     "average_temp": 29.23,
@@ -829,7 +843,9 @@
     "average_srad": 20385.70330969267,
     "average_wind": 2.2122055255493094,
     "average_tmax": 35.79806442080378,
-    "average_tmin": 22.66153221040189
+    "average_tmin": 22.66153221040189,
+    "population": 86779,
+    "symbol_sort_key": 2
   },
   "Hauts-Bassins": {
     "average_temp": 28.41,
@@ -933,7 +949,9 @@
     "average_srad": 20047.109999999997,
     "average_wind": 1.8738788737191092,
     "average_tmax": 34.18795833333333,
-    "average_tmin": 22.632666666666665
+    "average_tmin": 22.632666666666665,
+    "population": 1024463,
+    "symbol_sort_key": 1
   },
   "Nord": {
     "average_temp": 29.02,
@@ -1037,7 +1055,9 @@
     "average_srad": 21228.013333333332,
     "average_wind": 2.297244994044304,
     "average_tmax": 36.03847916666667,
-    "average_tmin": 22.0065
+    "average_tmin": 22.0065,
+    "population": 251655,
+    "symbol_sort_key": 7
   },
   "Plateau Central": {
     "average_temp": 29.19,
@@ -1141,7 +1161,9 @@
     "average_srad": 20973.218750000004,
     "average_wind": 2.074795998632908,
     "average_tmax": 35.893229166666664,
-    "average_tmin": 22.478168402777772
+    "average_tmin": 22.478168402777772,
+    "population": 130658,
+    "symbol_sort_key": 11
   },
   "Sahel": {
     "average_temp": 29.65,
@@ -1245,7 +1267,9 @@
     "average_srad": 21375.117601246107,
     "average_wind": 2.467553928262348,
     "average_tmax": 36.94957165109034,
-    "average_tmin": 22.343983644859815
+    "average_tmin": 22.343983644859815,
+    "population": 67571,
+    "symbol_sort_key": 8
   },
   "Sud-Ouest": {
     "average_temp": 28.35,
@@ -1349,6 +1373,8 @@
     "average_srad": 19418.648148148146,
     "average_wind": 1.8627518404413157,
     "average_tmax": 34.15168981481482,
-    "average_tmin": 22.550671296296297
+    "average_tmin": 22.550671296296297,
+    "population": 160080,
+    "symbol_sort_key": 10
   }
 }

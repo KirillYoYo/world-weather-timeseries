@@ -101,7 +101,9 @@
     "average_srad": 16976.929223744293,
     "average_wind": 1.898301932501466,
     "average_tmax": 33.22347317351598,
-    "average_tmin": 21.477611301369866
+    "average_tmin": 21.477611301369866,
+    "population": 1451925,
+    "symbol_sort_key": 1
   },
   "Alibori": {
     "average_temp": 28.67,
@@ -205,7 +207,9 @@
     "average_srad": 18924.087552742618,
     "average_wind": 2.259256329088774,
     "average_tmax": 34.96747099156118,
-    "average_tmin": 22.36831487341772
+    "average_tmin": 22.36831487341772,
+    "population": 2017348,
+    "symbol_sort_key": 3
   },
   "Atakora": {
     "average_temp": 28.27,
@@ -309,7 +313,9 @@
     "average_srad": 18607.978835978833,
     "average_wind": 2.0065056113969715,
     "average_tmax": 34.298082010582014,
-    "average_tmin": 22.23926917989418
+    "average_tmin": 22.23926917989418,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Donga": {
     "average_temp": 27.34,
@@ -413,7 +419,9 @@
     "average_srad": 17331.763020833332,
     "average_wind": 1.8304179571568966,
     "average_tmax": 33.01100260416667,
-    "average_tmin": 21.676529947916666
+    "average_tmin": 21.676529947916666,
+    "population": 592665,
+    "symbol_sort_key": 10
   },
   "Collines": {
     "average_temp": 27.93,
@@ -517,7 +525,9 @@
     "average_srad": 16178.365853658537,
     "average_wind": 1.5177637219913607,
     "average_tmax": 33.18516260162601,
-    "average_tmin": 22.677388211382112
+    "average_tmin": 22.677388211382112,
+    "population": 578519,
+    "symbol_sort_key": 8
   },
   "Plateau": {
     "average_temp": 28.12,
@@ -621,7 +631,9 @@
     "average_srad": 15902.962962962962,
     "average_wind": 1.4633495310942335,
     "average_tmax": 32.77071759259259,
-    "average_tmin": 23.470601851851853
+    "average_tmin": 23.470601851851853,
+    "population": 769422,
+    "symbol_sort_key": 9
   },
   "Zou": {
     "average_temp": 28.16,
@@ -725,7 +737,9 @@
     "average_srad": 16141.050000000003,
     "average_wind": 1.3656916671329073,
     "average_tmax": 32.91784722222223,
-    "average_tmin": 23.408402777777777
+    "average_tmin": 23.408402777777777,
+    "population": 787323,
+    "symbol_sort_key": 4
   },
   "Littoral": {
     "average_temp": null,
@@ -829,7 +843,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 780000,
+    "symbol_sort_key": 6
   },
   "Kouffo": {
     "average_temp": 27.89,
@@ -933,7 +949,9 @@
     "average_srad": 16432.208333333332,
     "average_wind": 1.4079305579264958,
     "average_tmax": 32.40503472222222,
-    "average_tmin": 23.37951388888889
+    "average_tmin": 23.37951388888889,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Oueme": {
     "average_temp": 28.28,
@@ -1037,7 +1055,9 @@
     "average_srad": 16246.694444444445,
     "average_wind": 1.8885921074284449,
     "average_tmax": 32.14861111111111,
-    "average_tmin": 24.407291666666666
+    "average_tmin": 24.407291666666666,
+    "population": 1002006,
+    "symbol_sort_key": 2
   },
   "Atlanique": {
     "average_temp": 28.12,
@@ -1141,7 +1161,9 @@
     "average_srad": 16395.166666666668,
     "average_wind": 1.9246854707598686,
     "average_tmax": 32.07083333333333,
-    "average_tmin": 24.16791666666667
+    "average_tmin": 24.16791666666667,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Mono": {
     "average_temp": 28.04,
@@ -1245,6 +1267,8 @@
     "average_srad": 16642.291666666668,
     "average_wind": 1.8054479186733563,
     "average_tmax": 32.09453125,
-    "average_tmin": 23.986979166666668
+    "average_tmin": 23.986979166666668,
+    "population": 453763,
+    "symbol_sort_key": 11
   }
 }

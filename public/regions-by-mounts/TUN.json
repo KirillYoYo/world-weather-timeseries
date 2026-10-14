@@ -101,7 +101,9 @@
     "average_srad": 17009.666666666668,
     "average_wind": 3.475083291530609,
     "average_tmax": 25.6875,
-    "average_tmin": 14.530208333333334
+    "average_tmin": 14.530208333333334,
+    "population": 1430522,
+    "symbol_sort_key": 1
   },
   "Ben Arous": {
     "average_temp": 20.11,
@@ -205,7 +207,9 @@
     "average_srad": 17133.5,
     "average_wind": 3.5527042547861734,
     "average_tmax": 25.16704864501953,
-    "average_tmin": 15.044722239176432
+    "average_tmin": 15.044722239176432,
+    "population": 364978,
+    "symbol_sort_key": 5
   },
   "El Kef": {
     "average_temp": 18.36,
@@ -309,7 +313,9 @@
     "average_srad": 17372.34722222222,
     "average_wind": 3.215692137126569,
     "average_tmax": 24.352199074074075,
-    "average_tmin": 12.363715277777779
+    "average_tmin": 12.363715277777779,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Sousse": {
     "average_temp": 21.02,
@@ -413,7 +419,9 @@
     "average_srad": 17329.157407407405,
     "average_wind": 3.3358899531541044,
     "average_tmax": 26.22083333333333,
-    "average_tmin": 15.815740740740742
+    "average_tmin": 15.815740740740742,
+    "population": 678451,
+    "symbol_sort_key": 4
   },
   "Sfax": {
     "average_temp": 20.53,
@@ -517,7 +525,9 @@
     "average_srad": 18413.126543209877,
     "average_wind": 3.637369200035378,
     "average_tmax": 26.058188760427782,
-    "average_tmin": 15.011514583046052
+    "average_tmin": 15.011514583046052,
+    "population": 988761,
+    "symbol_sort_key": 0
   },
   "Jendouba": {
     "average_temp": 18.37,
@@ -621,7 +631,9 @@
     "average_srad": 17012.659722222223,
     "average_wind": 3.4186873998906875,
     "average_tmax": 23.94062500397364,
-    "average_tmin": 12.804890041881137
+    "average_tmin": 12.804890041881137,
+    "population": 265303,
+    "symbol_sort_key": 14
   },
   "Kairouan": {
     "average_temp": 20.76,
@@ -725,7 +737,9 @@
     "average_srad": 17710.170289855072,
     "average_wind": 3.049543475759202,
     "average_tmax": 26.70054347826087,
-    "average_tmin": 14.82558876811594
+    "average_tmin": 14.82558876811594,
+    "population": 208067,
+    "symbol_sort_key": 8
   },
   "Kasserine": {
     "average_temp": 18.18,
@@ -829,7 +843,9 @@
     "average_srad": 18000.272988505745,
     "average_wind": 3.4502593436460383,
     "average_tmax": 24.065229885057473,
-    "average_tmin": 12.289188218390805
+    "average_tmin": 12.289188218390805,
+    "population": 280646,
+    "symbol_sort_key": 11
   },
   "Mahdia": {
     "average_temp": 20.74,
@@ -933,7 +949,9 @@
     "average_srad": 17568.21212121212,
     "average_wind": 3.199124128529519,
     "average_tmax": 25.879419182286117,
-    "average_tmin": 15.604640158017476
+    "average_tmin": 15.604640158017476,
+    "population": 234129,
+    "symbol_sort_key": 13
   },
   "Manouba": {
     "average_temp": 19.71,
@@ -1037,7 +1055,9 @@
     "average_srad": 17045.416666666668,
     "average_wind": 3.1310208489497504,
     "average_tmax": 25.55286458333333,
-    "average_tmin": 13.870572916666669
+    "average_tmin": 13.870572916666669,
+    "population": 243450,
+    "symbol_sort_key": 10
   },
   "Sidi Bouzid": {
     "average_temp": 20.69,
@@ -1141,7 +1161,9 @@
     "average_srad": 18192.06730769231,
     "average_wind": 3.2473621819263854,
     "average_tmax": 26.856690705128205,
-    "average_tmin": 14.520993589743588
+    "average_tmin": 14.520993589743588,
+    "population": 87558,
+    "symbol_sort_key": 12
   },
   "Kébili": {
     "average_temp": 23.55,
@@ -1245,7 +1267,9 @@
     "average_srad": 19063.79430379747,
     "average_wind": 3.5955226745786546,
     "average_tmax": 30.639240506329116,
-    "average_tmin": 16.453072257383965
+    "average_tmin": 16.453072257383965,
+    "population": 219155,
+    "symbol_sort_key": 21
   },
   "Béja": {
     "average_temp": 19.16,
@@ -1349,7 +1373,9 @@
     "average_srad": 17108.158333333333,
     "average_wind": 3.1265312512715657,
     "average_tmax": 25.010520833333327,
-    "average_tmin": 13.316354166666665
+    "average_tmin": 13.316354166666665,
+    "population": 183580,
+    "symbol_sort_key": 17
   },
   "Tataouine": {
     "average_temp": 22.83,
@@ -1453,7 +1479,9 @@
     "average_srad": 19295.061274509804,
     "average_wind": 3.860410850714235,
     "average_tmax": 29.68553155637255,
-    "average_tmin": 15.983915441176471
+    "average_tmin": 15.983915441176471,
+    "population": 126200,
+    "symbol_sort_key": 22
   },
   "Gabès": {
     "average_temp": 21.88,
@@ -1557,7 +1585,9 @@
     "average_srad": 18900.978260869568,
     "average_wind": 3.7672716033631475,
     "average_tmax": 27.94212654638981,
-    "average_tmin": 15.818144975192306
+    "average_tmin": 15.818144975192306,
+    "population": 421813,
+    "symbol_sort_key": 15
   },
   "Bizerte": {
     "average_temp": 19.01,
@@ -1661,7 +1691,9 @@
     "average_srad": 16902.916666666668,
     "average_wind": 3.592553069194158,
     "average_tmax": 24.27792613208294,
-    "average_tmin": 13.737215908368428
+    "average_tmin": 13.737215908368428,
+    "population": 430006,
+    "symbol_sort_key": 7
   },
   "Ariana": {
     "average_temp": 20.07,
@@ -1765,7 +1797,9 @@
     "average_srad": 16956.875,
     "average_wind": 3.616833806037903,
     "average_tmax": 25.36994045575459,
-    "average_tmin": 14.763616085052488
+    "average_tmin": 14.763616085052488,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Nabeul": {
     "average_temp": 20.28,
@@ -1869,7 +1903,9 @@
     "average_srad": 17091.825,
     "average_wind": 3.64444746573766,
     "average_tmax": 24.536309439341228,
-    "average_tmin": 16.015272065003714
+    "average_tmin": 16.015272065003714,
+    "population": 612591,
+    "symbol_sort_key": 2
   },
   "Monastir": {
     "average_temp": 20.62,
@@ -1973,7 +2009,9 @@
     "average_srad": 17378.041666666668,
     "average_wind": 3.5965082546075187,
     "average_tmax": 25.07473957935969,
-    "average_tmin": 16.166686713695526
+    "average_tmin": 16.166686713695526,
+    "population": 479569,
+    "symbol_sort_key": 6
   },
   "Siliana": {
     "average_temp": 19.06,
@@ -2077,7 +2115,9 @@
     "average_srad": 17491.534313725493,
     "average_wind": 3.2511874951568296,
     "average_tmax": 24.937009803921566,
-    "average_tmin": 13.187377450980392
+    "average_tmin": 13.187377450980392,
+    "population": 72335,
+    "symbol_sort_key": 19
   },
   "Zaghouan": {
     "average_temp": 19.88,
@@ -2181,7 +2221,9 @@
     "average_srad": 17354.241666666672,
     "average_wind": 3.140660403172175,
     "average_tmax": 25.315520833333327,
-    "average_tmin": 14.444583333333332
+    "average_tmin": 14.444583333333332,
+    "population": 71001,
+    "symbol_sort_key": 20
   },
   "Gafsa": {
     "average_temp": 20.95,
@@ -2285,7 +2327,9 @@
     "average_srad": 18686.54320987654,
     "average_wind": 3.5388217693493687,
     "average_tmax": 27.234413580246912,
-    "average_tmin": 14.673804012345677
+    "average_tmin": 14.673804012345677,
+    "population": 259593,
+    "symbol_sort_key": 16
   },
   "Médenine": {
     "average_temp": 22.0,
@@ -2389,7 +2433,9 @@
     "average_srad": 18804.8359375,
     "average_wind": 3.899031899869442,
     "average_tmax": 27.593369806309543,
-    "average_tmin": 16.3973714068532
+    "average_tmin": 16.3973714068532,
+    "population": 433047,
+    "symbol_sort_key": 9
   },
   "Tozeur": {
     "average_temp": 23.63,
@@ -2493,6 +2539,8 @@
     "average_srad": 18883.704166666666,
     "average_wind": 3.681835423906644,
     "average_tmax": 29.926875,
-    "average_tmin": 17.342031249999998
+    "average_tmin": 17.342031249999998,
+    "population": 66912,
+    "symbol_sort_key": 23
   }
 }

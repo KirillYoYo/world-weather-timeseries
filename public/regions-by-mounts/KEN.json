@@ -101,7 +101,9 @@
     "average_srad": 20180.528368794327,
     "average_wind": 2.227280686616053,
     "average_tmax": 34.31973071808511,
-    "average_tmin": 20.7544492464539
+    "average_tmin": 20.7544492464539,
+    "population": 282970,
+    "symbol_sort_key": 16
   },
   "Marsabit": {
     "average_temp": 27.05,
@@ -205,7 +207,9 @@
     "average_srad": 19650.183042212517,
     "average_wind": 2.335990719399598,
     "average_tmax": 32.72121542940321,
-    "average_tmin": 21.377201601164487
+    "average_tmin": 21.377201601164487,
+    "population": 52127,
+    "symbol_sort_key": 42
   },
   "Mandera": {
     "average_temp": 26.89,
@@ -309,7 +313,9 @@
     "average_srad": 19566.0183982684,
     "average_wind": 2.645991066446552,
     "average_tmax": 32.509632034632034,
-    "average_tmin": 21.26956168831169
+    "average_tmin": 21.26956168831169,
+    "population": 339946,
+    "symbol_sort_key": 1
   },
   "Wajir": {
     "average_temp": 28.13,
@@ -413,7 +419,9 @@
     "average_srad": 18808.288423153692,
     "average_wind": 2.69543587632046,
     "average_tmax": 33.583969560878245,
-    "average_tmin": 22.672280439121753
+    "average_tmin": 22.672280439121753,
+    "population": 264250,
+    "symbol_sort_key": 6
   },
   "West Pokot": {
     "average_temp": 21.29,
@@ -517,7 +525,9 @@
     "average_srad": 19581.638888888887,
     "average_wind": 2.2279461725718446,
     "average_tmax": 27.488020833333326,
-    "average_tmin": 15.09587673611111
+    "average_tmin": 15.09587673611111,
+    "population": 0,
+    "symbol_sort_key": 33
   },
   "Samburu": {
     "average_temp": 22.11,
@@ -621,7 +631,9 @@
     "average_srad": 18966.672131147545,
     "average_wind": 2.4217588717494505,
     "average_tmax": 28.389378415300545,
-    "average_tmin": 15.822609289617489
+    "average_tmin": 15.822609289617489,
+    "population": 51350,
+    "symbol_sort_key": 44
   },
   "Isiolo": {
     "average_temp": 26.53,
@@ -725,7 +737,9 @@
     "average_srad": 18781.49305555556,
     "average_wind": 2.464979167475745,
     "average_tmax": 32.42780671296296,
-    "average_tmin": 20.639453125
+    "average_tmin": 20.639453125,
+    "population": 1736989,
+    "symbol_sort_key": 45
   },
   "Baringo": {
     "average_temp": 21.62,
@@ -829,7 +843,9 @@
     "average_srad": 19237.521505376342,
     "average_wind": 2.416726468711771,
     "average_tmax": 28.44485887096774,
-    "average_tmin": 14.791465053763439
+    "average_tmin": 14.791465053763439,
+    "population": 32192,
+    "symbol_sort_key": 31
   },
   "Elgeyo-Marakwet": {
     "average_temp": 17.99,
@@ -933,7 +949,9 @@
     "average_srad": 18691.725,
     "average_wind": 2.169395823280017,
     "average_tmax": 24.22,
-    "average_tmin": 11.760416666666664
+    "average_tmin": 11.760416666666664,
+    "population": 42312,
+    "symbol_sort_key": 39
   },
   "Trans Nzoia": {
     "average_temp": 18.52,
@@ -1037,7 +1055,9 @@
     "average_srad": 19371.763888888887,
     "average_wind": 2.0746770832273698,
     "average_tmax": 25.022569444444443,
-    "average_tmin": 12.02361111111111
+    "average_tmin": 12.02361111111111,
+    "population": 162169,
+    "symbol_sort_key": 19
   },
   "Bungoma": {
     "average_temp": 18.58,
@@ -1141,7 +1161,9 @@
     "average_srad": 18641.796296296296,
     "average_wind": 2.091287025147014,
     "average_tmax": 24.61770833333333,
-    "average_tmin": 12.545370370370371
+    "average_tmin": 12.545370370370371,
+    "population": 118750,
+    "symbol_sort_key": 5
   },
   "Garissa": {
     "average_temp": 28.2,
@@ -1245,7 +1267,9 @@
     "average_srad": 18893.84987277353,
     "average_wind": 2.678095412694164,
     "average_tmax": 32.963756361323156,
-    "average_tmin": 23.427639949109416
+    "average_tmin": 23.427639949109416,
+    "population": 382272,
+    "symbol_sort_key": 8
   },
   "Uasin Gishu": {
     "average_temp": 17.56,
@@ -1349,7 +1373,9 @@
     "average_srad": 18805.999999999996,
     "average_wind": 2.198731055765441,
     "average_tmax": 23.908901515151513,
-    "average_tmin": 11.216666666666667
+    "average_tmin": 11.216666666666667,
+    "population": 477716,
+    "symbol_sort_key": 12
   },
   "Kakamega": {
     "average_temp": 20.99,
@@ -1453,7 +1479,9 @@
     "average_srad": 19202.01851851852,
     "average_wind": 2.3942824094383806,
     "average_tmax": 27.153125,
-    "average_tmin": 14.825231481481481
+    "average_tmin": 14.825231481481481,
+    "population": 191765,
+    "symbol_sort_key": 3
   },
   "Laikipia": {
     "average_temp": 17.81,
@@ -1557,7 +1585,9 @@
     "average_srad": 17818.282738095237,
     "average_wind": 2.3051636850550064,
     "average_tmax": 25.10569196428571,
-    "average_tmin": 10.520052083333335
+    "average_tmin": 10.520052083333335,
+    "population": 63192,
+    "symbol_sort_key": 38
   },
   "Busia": {
     "average_temp": 22.48,
@@ -1661,7 +1691,9 @@
     "average_srad": 18706.791666666668,
     "average_wind": 2.436437507470449,
     "average_tmax": 28.43645833333333,
-    "average_tmin": 16.514062499999998
+    "average_tmin": 16.514062499999998,
+    "population": 42971,
+    "symbol_sort_key": 27
   },
   "Meru": {
     "average_temp": 20.24,
@@ -1765,7 +1797,9 @@
     "average_srad": 17810.848484848484,
     "average_wind": 2.5409318190632444,
     "average_tmax": 26.226231060606057,
-    "average_tmin": 14.248626893939395
+    "average_tmin": 14.248626893939395,
+    "population": 42677,
+    "symbol_sort_key": 7
   },
   "Nandi": {
     "average_temp": 18.93,
@@ -1869,7 +1903,9 @@
     "average_srad": 18597.84523809524,
     "average_wind": 2.416523807105565,
     "average_tmax": 25.056250000000002,
-    "average_tmin": 12.795833333333334
+    "average_tmin": 12.795833333333334,
+    "population": 91544,
+    "symbol_sort_key": 23
   },
   "Siaya": {
     "average_temp": 22.87,
@@ -1973,7 +2009,9 @@
     "average_srad": 19029.685185185182,
     "average_wind": 2.504097211140173,
     "average_tmax": 28.38495370370371,
-    "average_tmin": 17.354282407407407
+    "average_tmin": 17.354282407407407,
+    "population": 22586,
+    "symbol_sort_key": 25
   },
   "Nakuru": {
     "average_temp": 16.78,
@@ -2077,7 +2115,9 @@
     "average_srad": 17336.162280701756,
     "average_wind": 2.349459423307787,
     "average_tmax": 23.656140350877195,
-    "average_tmin": 9.897368421052631
+    "average_tmin": 9.897368421052631,
+    "population": 741969,
+    "symbol_sort_key": 2
   },
   "Vihiga": {
     "average_temp": 21.21,
@@ -2181,7 +2221,9 @@
     "average_srad": 19177.833333333332,
     "average_wind": 2.512895862261454,
     "average_tmax": 27.182291666666668,
-    "average_tmin": 15.246874999999998
+    "average_tmin": 15.246874999999998,
+    "population": 27127,
+    "symbol_sort_key": 35
   },
   "Nyandarua": {
     "average_temp": 13.76,
@@ -2285,7 +2327,9 @@
     "average_srad": 16427.083333333332,
     "average_wind": 2.182854165633519,
     "average_tmax": 20.226388888888888,
-    "average_tmin": 7.287037037037038
+    "average_tmin": 7.287037037037038,
+    "population": 0,
+    "symbol_sort_key": 34
   },
   "Tharaka": {
     "average_temp": 23.01,
@@ -2389,7 +2433,9 @@
     "average_srad": 17990.9375,
     "average_wind": 2.6408281152447066,
     "average_tmax": 28.52018229166666,
-    "average_tmin": 17.505859375000004
+    "average_tmin": 17.505859375000004,
+    "population": 0,
+    "symbol_sort_key": 40
   },
   "Kericho": {
     "average_temp": 18.31,
@@ -2493,7 +2539,9 @@
     "average_srad": 18316.40625,
     "average_wind": 2.4010885494450727,
     "average_tmax": 24.483984375000002,
-    "average_tmin": 12.144140625
+    "average_tmin": 12.144140625,
+    "population": 30023,
+    "symbol_sort_key": 28
   },
   "Kisumu": {
     "average_temp": 23.02,
@@ -2597,7 +2645,9 @@
     "average_srad": 19659.989583333332,
     "average_wind": 2.425252601504326,
     "average_tmax": 28.980729166666663,
-    "average_tmin": 17.066015625000002
+    "average_tmin": 17.066015625000002,
+    "population": 397957,
+    "symbol_sort_key": 17
   },
   "Nyeri": {
     "average_temp": 15.67,
@@ -2701,7 +2751,9 @@
     "average_srad": 16384.462962962964,
     "average_wind": 2.3835555657192513,
     "average_tmax": 21.668055555555554,
-    "average_tmin": 9.666087962962964
+    "average_tmin": 9.666087962962964,
+    "population": 130485,
+    "symbol_sort_key": 30
   },
   "Tana River": {
     "average_temp": 27.28,
@@ -2805,7 +2857,9 @@
     "average_srad": 18147.329545454548,
     "average_wind": 2.4855737762017682,
     "average_tmax": 31.997335858200532,
-    "average_tmin": 22.57155113711502
+    "average_tmin": 22.57155113711502,
+    "population": 6931,
+    "symbol_sort_key": 43
   },
   "Kitui": {
     "average_temp": 24.68,
@@ -2909,7 +2963,9 @@
     "average_srad": 17826.4063670412,
     "average_wind": 2.6595451717966063,
     "average_tmax": 29.685404962546816,
-    "average_tmin": 19.678230337078652
+    "average_tmin": 19.678230337078652,
+    "population": 45032,
+    "symbol_sort_key": 15
   },
   "Kirinyaga": {
     "average_temp": 19.32,
@@ -3013,7 +3069,9 @@
     "average_srad": 16647.5,
     "average_wind": 2.6294895758231482,
     "average_tmax": 24.966406250000002,
-    "average_tmin": 13.682812499999999
+    "average_tmin": 13.682812499999999,
+    "population": 14056,
+    "symbol_sort_key": 37
   },
   "Embu": {
     "average_temp": 21.02,
@@ -3117,7 +3175,9 @@
     "average_srad": 17299.0,
     "average_wind": 2.763085941473643,
     "average_tmax": 26.503776041666665,
-    "average_tmin": 15.526562499999999
+    "average_tmin": 15.526562499999999,
+    "population": 64979,
+    "symbol_sort_key": 36
   },
   "Homa Bay": {
     "average_temp": 22.47,
@@ -3221,7 +3281,9 @@
     "average_srad": 19017.21153846154,
     "average_wind": 2.4638365300802083,
     "average_tmax": 28.05264423076923,
-    "average_tmin": 16.882852564102567
+    "average_tmin": 16.882852564102567,
+    "population": 32555,
+    "symbol_sort_key": 18
   },
   "Bomet": {
     "average_temp": 17.61,
@@ -3325,7 +3387,9 @@
     "average_srad": 18255.43333333333,
     "average_wind": 2.385618736346563,
     "average_tmax": 23.687812499999996,
-    "average_tmin": 11.526354166666666
+    "average_tmin": 11.526354166666666,
+    "population": 10000,
+    "symbol_sort_key": 13
   },
   "Nyamira": {
     "average_temp": 18.57,
@@ -3429,7 +3493,9 @@
     "average_srad": 18465.458333333332,
     "average_wind": 2.5012395679950714,
     "average_tmax": 24.407812500000002,
-    "average_tmin": 12.728124999999999
+    "average_tmin": 12.728124999999999,
+    "population": 10000,
+    "symbol_sort_key": 32
   },
   "Narok": {
     "average_temp": 18.27,
@@ -3533,7 +3599,9 @@
     "average_srad": 18071.6875,
     "average_wind": 2.525723553620852,
     "average_tmax": 24.378766025641028,
-    "average_tmin": 12.160516826923077
+    "average_tmin": 12.160516826923077,
+    "population": 65430,
+    "symbol_sort_key": 14
   },
   "Kisii": {
     "average_temp": 20.11,
@@ -3637,7 +3705,9 @@
     "average_srad": 18671.583333333332,
     "average_wind": 2.490763866239124,
     "average_tmax": 25.860763888888886,
-    "average_tmin": 14.36423611111111
+    "average_tmin": 14.36423611111111,
+    "population": 112417,
+    "symbol_sort_key": 10
   },
   "Murang'a": {
     "average_temp": 18.05,
@@ -3741,7 +3811,9 @@
     "average_srad": 16564.010416666668,
     "average_wind": 2.6616328159968057,
     "average_tmax": 23.710286458333332,
-    "average_tmin": 12.387369791666666
+    "average_tmin": 12.387369791666666,
+    "population": 5450624,
+    "symbol_sort_key": 22
   },
   "Migori": {
     "average_temp": 21.84,
@@ -3845,7 +3917,9 @@
     "average_srad": 18799.203703703704,
     "average_wind": 2.453863424283487,
     "average_tmax": 27.46331018518519,
-    "average_tmin": 16.208564814814817
+    "average_tmin": 16.208564814814817,
+    "population": 2376,
+    "symbol_sort_key": 21
   },
   "Kiambu": {
     "average_temp": 17.98,
@@ -3949,7 +4023,9 @@
     "average_srad": 16625.761904761905,
     "average_wind": 2.711752993719919,
     "average_tmax": 23.966964285714287,
-    "average_tmin": 11.989136904761907
+    "average_tmin": 11.989136904761907,
+    "population": 4938494,
+    "symbol_sort_key": 4
   },
   "Machakos": {
     "average_temp": 21.28,
@@ -4053,7 +4129,9 @@
     "average_srad": 17342.568627450983,
     "average_wind": 2.9248455751175975,
     "average_tmax": 26.85606617647059,
-    "average_tmin": 15.705575980392156
+    "average_tmin": 15.705575980392156,
+    "population": 147073,
+    "symbol_sort_key": 11
   },
   "Kajiado": {
     "average_temp": 21.93,
@@ -4157,7 +4235,9 @@
     "average_srad": 17675.95238095238,
     "average_wind": 2.9349391504570286,
     "average_tmax": 27.646792328042327,
-    "average_tmin": 16.203935185185184
+    "average_tmin": 16.203935185185184,
+    "population": 459507,
+    "symbol_sort_key": 26
   },
   "Nairobi": {
     "average_temp": 20.27,
@@ -4261,7 +4341,9 @@
     "average_srad": 17257.1875,
     "average_wind": 2.8861562560002008,
     "average_tmax": 26.157812500000002,
-    "average_tmin": 14.38671875
+    "average_tmin": 14.38671875,
+    "population": 4397073,
+    "symbol_sort_key": 0
   },
   "Makueni": {
     "average_temp": 22.44,
@@ -4365,7 +4447,9 @@
     "average_srad": 17423.593749999996,
     "average_wind": 2.8848020773794913,
     "average_tmax": 27.72526041666667,
-    "average_tmin": 17.164236111111112
+    "average_tmin": 17.164236111111112,
+    "population": 5542,
+    "symbol_sort_key": 24
   },
   "Lamu": {
     "average_temp": 27.64,
@@ -4469,7 +4553,9 @@
     "average_srad": 18597.30701754386,
     "average_wind": 3.4632375721345867,
     "average_tmax": 30.968336699301734,
-    "average_tmin": 24.30386724137423
+    "average_tmin": 24.30386724137423,
+    "population": 23762,
+    "symbol_sort_key": 46
   },
   "Kilifi": {
     "average_temp": 25.83,
@@ -4573,7 +4659,9 @@
     "average_srad": 17410.42105263158,
     "average_wind": 2.9442198075223387,
     "average_tmax": 29.67627663026776,
-    "average_tmin": 21.979244993444073
+    "average_tmin": 21.979244993444073,
+    "population": 176899,
+    "symbol_sort_key": 9
   },
   "Taita Taveta": {
     "average_temp": 23.79,
@@ -4677,7 +4765,9 @@
     "average_srad": 16974.469551282054,
     "average_wind": 2.870234370422669,
     "average_tmax": 28.77900641025641,
-    "average_tmin": 18.805829326923078
+    "average_tmin": 18.805829326923078,
+    "population": 107475,
+    "symbol_sort_key": 41
   },
   "Kwale": {
     "average_temp": 25.2,
@@ -4781,7 +4871,9 @@
     "average_srad": 16236.613636363634,
     "average_wind": 2.9399246722459793,
     "average_tmax": 29.39881628787879,
-    "average_tmin": 20.99977903655081
+    "average_tmin": 20.99977903655081,
+    "population": 298157,
+    "symbol_sort_key": 29
   },
   "Mombasa": {
     "average_temp": null,
@@ -4885,6 +4977,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 1388449,
+    "symbol_sort_key": 20
   }
 }

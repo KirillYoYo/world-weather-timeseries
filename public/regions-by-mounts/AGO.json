@@ -101,7 +101,9 @@
     "average_srad": 14042.661375661375,
     "average_wind": 1.7486596148480815,
     "average_tmax": 29.754145411334974,
-    "average_tmin": 21.60417466188865
+    "average_tmin": 21.60417466188865,
+    "population": 357688,
+    "symbol_sort_key": 14
   },
   "Benguela": {
     "average_temp": 21.78,
@@ -205,7 +207,9 @@
     "average_srad": 16380.099576271185,
     "average_wind": 2.371025083260348,
     "average_tmax": 27.025251248192657,
-    "average_tmin": 16.535134080439637
+    "average_tmin": 16.535134080439637,
+    "population": 1339420,
+    "symbol_sort_key": 2
   },
   "Bié": {
     "average_temp": 19.88,
@@ -309,7 +313,9 @@
     "average_srad": 16862.242703533026,
     "average_wind": 2.007841478157703,
     "average_tmax": 26.812490399385563,
-    "average_tmin": 12.9505616359447
+    "average_tmin": 12.9505616359447,
+    "population": 698303,
+    "symbol_sort_key": 8
   },
   "Cabinda": {
     "average_temp": 25.39,
@@ -413,7 +419,9 @@
     "average_srad": 12435.125,
     "average_wind": 1.6322309896349905,
     "average_tmax": 29.071787886619564,
-    "average_tmin": 21.716651900609335
+    "average_tmin": 21.716651900609335,
+    "population": 840220,
+    "symbol_sort_key": 5
   },
   "Cunene": {
     "average_temp": 22.3,
@@ -517,7 +525,9 @@
     "average_srad": 18793.41774891775,
     "average_wind": 2.2096707127655053,
     "average_tmax": 29.98117784992785,
-    "average_tmin": 14.62202380952381
+    "average_tmin": 14.62202380952381,
+    "population": 462111,
+    "symbol_sort_key": 6
   },
   "Huambo": {
     "average_temp": 19.56,
@@ -621,7 +631,9 @@
     "average_srad": 16933.278333333332,
     "average_wind": 2.0373322770992917,
     "average_tmax": 26.029229166666667,
-    "average_tmin": 13.093791666666668
+    "average_tmin": 13.093791666666668,
+    "population": 1675119,
+    "symbol_sort_key": 4
   },
   "Huíla": {
     "average_temp": 20.34,
@@ -725,7 +737,9 @@
     "average_srad": 17707.732067510547,
     "average_wind": 2.1954642127670145,
     "average_tmax": 27.06707542194093,
-    "average_tmin": 13.610139767932488
+    "average_tmin": 13.610139767932488,
+    "population": 2107433,
+    "symbol_sort_key": 1
   },
   "Cuando Cubango": {
     "average_temp": 20.98,
@@ -829,7 +843,9 @@
     "average_srad": 19120.73992825607,
     "average_wind": 2.4147234700505043,
     "average_tmax": 28.88986444536424,
-    "average_tmin": 13.075441501103754
+    "average_tmin": 13.075441501103754,
+    "population": 366179,
+    "symbol_sort_key": 16
   },
   "Cuanza Norte": {
     "average_temp": 23.44,
@@ -933,7 +949,9 @@
     "average_srad": 14974.887499999999,
     "average_wind": 1.630179512500763,
     "average_tmax": 28.587777777777784,
-    "average_tmin": 18.290416666666665
+    "average_tmin": 18.290416666666665,
+    "population": 671698,
+    "symbol_sort_key": 17
   },
   "Cuanza Sul": {
     "average_temp": 21.54,
@@ -1037,7 +1055,9 @@
     "average_srad": 15850.916164658634,
     "average_wind": 2.0006577006305557,
     "average_tmax": 27.34141028319976,
-    "average_tmin": 15.736090791081807
+    "average_tmin": 15.736090791081807,
+    "population": 1339242,
+    "symbol_sort_key": 3
   },
   "Luanda": {
     "average_temp": 25.01,
@@ -1141,7 +1161,9 @@
     "average_srad": 14392.10277777778,
     "average_wind": 1.8679871583978336,
     "average_tmax": 29.04261638111538,
-    "average_tmin": 20.972504135237802
+    "average_tmin": 20.972504135237802,
+    "population": 12440527,
+    "symbol_sort_key": 0
   },
   "Lunda Norte": {
     "average_temp": 22.96,
@@ -1245,7 +1267,9 @@
     "average_srad": 16033.46366782007,
     "average_wind": 1.823837080044455,
     "average_tmax": 29.710485149942333,
-    "average_tmin": 16.215570934256053
+    "average_tmin": 16.215570934256053,
+    "population": 864209,
+    "symbol_sort_key": 11
   },
   "Lunda Sul": {
     "average_temp": 21.83,
@@ -1349,7 +1373,9 @@
     "average_srad": 16336.617283950618,
     "average_wind": 1.9404732407938143,
     "average_tmax": 28.782994684499315,
-    "average_tmin": 14.878905178326471
+    "average_tmin": 14.878905178326471,
+    "population": 443016,
+    "symbol_sort_key": 15
   },
   "Malanje": {
     "average_temp": 22.32,
@@ -1453,7 +1479,9 @@
     "average_srad": 15968.960897435898,
     "average_wind": 1.775698391443644,
     "average_tmax": 29.163778044871794,
-    "average_tmin": 15.480504807692308
+    "average_tmin": 15.480504807692308,
+    "population": 923089,
+    "symbol_sort_key": 9
   },
   "Moxico": {
     "average_temp": 19.86,
@@ -1557,7 +1585,9 @@
     "average_srad": 17021.071931306305,
     "average_wind": 2.245799016475946,
     "average_tmax": 27.01959987331081,
-    "average_tmin": 12.696016328828831
+    "average_tmin": 12.696016328828831,
+    "population": 875005,
+    "symbol_sort_key": 7
   },
   "Namibe": {
     "average_temp": 23.68,
@@ -1661,7 +1691,9 @@
     "average_srad": 17130.38198458574,
     "average_wind": 2.5485758063076553,
     "average_tmax": 28.709095997893055,
-    "average_tmin": 18.641712179716844
+    "average_tmin": 18.641712179716844,
+    "population": 353439,
+    "symbol_sort_key": 13
   },
   "Uíge": {
     "average_temp": 23.55,
@@ -1765,7 +1797,9 @@
     "average_srad": 14523.442342342341,
     "average_wind": 1.61750911345353,
     "average_tmax": 28.74744932432432,
-    "average_tmin": 18.35410472972973
+    "average_tmin": 18.35410472972973,
+    "population": 1316833,
+    "symbol_sort_key": 10
   },
   "Zaire": {
     "average_temp": 25.35,
@@ -1869,6 +1903,8 @@
     "average_srad": 13151.131172839507,
     "average_wind": 1.5739011983444662,
     "average_tmax": 29.742642743793528,
-    "average_tmin": 20.957070471622323
+    "average_tmin": 20.957070471622323,
+    "population": 520639,
+    "symbol_sort_key": 12
   }
 }

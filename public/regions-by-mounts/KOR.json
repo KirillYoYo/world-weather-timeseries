@@ -101,7 +101,9 @@
     "average_srad": 12966.33912037037,
     "average_wind": 2.3294704404694064,
     "average_tmax": 15.866440283810652,
-    "average_tmin": 5.635476878169855
+    "average_tmin": 5.635476878169855,
+    "population": 1126463,
+    "symbol_sort_key": 12
   },
   "Gyeonggi": {
     "average_temp": 12.24,
@@ -205,7 +207,9 @@
     "average_srad": 13433.688596491229,
     "average_wind": 2.1456192635130464,
     "average_tmax": 17.17854686609486,
-    "average_tmin": 7.294170042846286
+    "average_tmin": 7.294170042846286,
+    "population": 12999102,
+    "symbol_sort_key": 0
   },
   "South Chungcheong": {
     "average_temp": 13.16,
@@ -309,7 +313,9 @@
     "average_srad": 14359.605769230768,
     "average_wind": 2.548771312603584,
     "average_tmax": 18.191065705128207,
-    "average_tmin": 8.128445512820514
+    "average_tmin": 8.128445512820514,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Incheon": {
     "average_temp": 13.2,
@@ -413,7 +419,9 @@
     "average_srad": 13661.916666666666,
     "average_wind": 2.948062539100647,
     "average_tmax": 17.729166666666664,
-    "average_tmin": 8.661458333333332
+    "average_tmin": 8.661458333333332,
+    "population": 3049315,
+    "symbol_sort_key": 5
   },
   "North Jeolla": {
     "average_temp": 13.18,
@@ -517,7 +525,9 @@
     "average_srad": 14334.169753086418,
     "average_wind": 2.459703017900019,
     "average_tmax": 18.31161265432099,
-    "average_tmin": 8.047492283950618
+    "average_tmin": 8.047492283950618,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "South Jeolla": {
     "average_temp": 14.33,
@@ -621,7 +631,9 @@
     "average_srad": 14283.724537037038,
     "average_wind": 2.9681109573554108,
     "average_tmax": 18.94140818494338,
-    "average_tmin": 9.722762348661545
+    "average_tmin": 9.722762348661545,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "South Gyeongsang": {
     "average_temp": 13.57,
@@ -725,7 +737,9 @@
     "average_srad": 13770.295454545456,
     "average_wind": 2.4241669948654945,
     "average_tmax": 18.466824086507163,
-    "average_tmin": 8.672235345656071
+    "average_tmin": 8.672235345656071,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Busan": {
     "average_temp": 14.72,
@@ -829,7 +843,9 @@
     "average_srad": 13274.583333333334,
     "average_wind": 2.814645846684774,
     "average_tmax": 19.116666666666667,
-    "average_tmin": 10.317708333333334
+    "average_tmin": 10.317708333333334,
+    "population": 3453198,
+    "symbol_sort_key": 6
   },
   "Ulsan": {
     "average_temp": 14.31,
@@ -933,7 +949,9 @@
     "average_srad": 13203.395833333334,
     "average_wind": 2.7902874648571014,
     "average_tmax": 18.935637030998866,
-    "average_tmin": 9.687399845942855
+    "average_tmin": 9.687399845942855,
+    "population": 1178457,
+    "symbol_sort_key": 13
   },
   "North Gyeongsang": {
     "average_temp": 12.76,
@@ -1037,7 +1055,9 @@
     "average_srad": 13418.228855721396,
     "average_wind": 2.0319368916364455,
     "average_tmax": 18.089680856258713,
-    "average_tmin": 7.432719923103626
+    "average_tmin": 7.432719923103626,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Jeju": {
     "average_temp": 15.46,
@@ -1141,7 +1161,9 @@
     "average_srad": 14183.555555555557,
     "average_wind": 4.302669833103816,
     "average_tmax": 18.830687856674192,
-    "average_tmin": 12.096494614746836
+    "average_tmin": 12.096494614746836,
+    "population": 889245,
+    "symbol_sort_key": 14
   },
   "Seoul": {
     "average_temp": 13.22,
@@ -1245,7 +1267,9 @@
     "average_srad": 13172.291666666666,
     "average_wind": 2.1684479266405106,
     "average_tmax": 17.8453125,
-    "average_tmin": 8.601041666666669
+    "average_tmin": 8.601041666666669,
+    "population": 23016000,
+    "symbol_sort_key": 1
   },
   "Daejeon": {
     "average_temp": 13.23,
@@ -1349,7 +1373,9 @@
     "average_srad": 14292.958333333334,
     "average_wind": 1.8467083374659221,
     "average_tmax": 18.530208333333334,
-    "average_tmin": 7.938541666666668
+    "average_tmin": 7.938541666666668,
+    "population": 1475221,
+    "symbol_sort_key": 11
   },
   "Sejong": {
     "average_temp": 12.48,
@@ -1453,7 +1479,9 @@
     "average_srad": 14198.833333333334,
     "average_wind": 2.2058333257834115,
     "average_tmax": 17.659375,
-    "average_tmin": 7.295833333333332
+    "average_tmin": 7.295833333333332,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "North Chungcheong": {
     "average_temp": 12.19,
@@ -1557,7 +1585,9 @@
     "average_srad": 13729.376543209875,
     "average_wind": 1.8531728357444575,
     "average_tmax": 17.563811728395063,
-    "average_tmin": 6.817939814814815
+    "average_tmin": 6.817939814814815,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Gwangju": {
     "average_temp": 14.43,
@@ -1661,7 +1691,9 @@
     "average_srad": 14371.416666666666,
     "average_wind": 2.2139583230018616,
     "average_tmax": 19.540625,
-    "average_tmin": 9.320833333333335
+    "average_tmin": 9.320833333333335,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Daegu": {
     "average_temp": 14.01,
@@ -1765,6 +1797,8 @@
     "average_srad": 13493.041666666666,
     "average_wind": 1.700135424733162,
     "average_tmax": 19.411979166666665,
-    "average_tmin": 8.616145833333334
+    "average_tmin": 8.616145833333334,
+    "population": 2444412,
+    "symbol_sort_key": 7
   }
 }

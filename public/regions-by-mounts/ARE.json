@@ -101,7 +101,9 @@
     "average_srad": 21165.48404255319,
     "average_wind": 3.2439782060418563,
     "average_tmax": 35.900534162961,
-    "average_tmin": 22.329583091008747
+    "average_tmin": 22.329583091008747,
+    "population": 2366031,
+    "symbol_sort_key": 1
   },
   "Ajman": {
     "average_temp": 28.72,
@@ -205,7 +207,9 @@
     "average_srad": 22232.333333333332,
     "average_wind": 3.5718174378077188,
     "average_tmax": 35.416666666666664,
-    "average_tmin": 22.017708333333335
+    "average_tmin": 22.017708333333335,
+    "population": 490035,
+    "symbol_sort_key": 3
   },
   "Dubai": {
     "average_temp": 28.81,
@@ -309,7 +313,9 @@
     "average_srad": 22142.134615384613,
     "average_wind": 3.314036424343403,
     "average_tmax": 35.43036860686082,
-    "average_tmin": 22.194711536016218
+    "average_tmin": 22.194711536016218,
+    "population": 4945000,
+    "symbol_sort_key": 0
   },
   "Fujairah": {
     "average_temp": 28.12,
@@ -413,7 +419,9 @@
     "average_srad": 21752.383333333328,
     "average_wind": 3.483767028649648,
     "average_tmax": 33.549513899485284,
-    "average_tmin": 22.69906944274902
+    "average_tmin": 22.69906944274902,
+    "population": 148549,
+    "symbol_sort_key": 5
   },
   "Ras al-Khaimah": {
     "average_temp": 28.3,
@@ -517,7 +525,9 @@
     "average_srad": 21746.78125,
     "average_wind": 3.3916802406311035,
     "average_tmax": 34.18910588423411,
-    "average_tmin": 22.411508385340372
+    "average_tmin": 22.411508385340372,
+    "population": 126139,
+    "symbol_sort_key": 4
   },
   "Sharjah": {
     "average_temp": 28.89,
@@ -621,7 +631,9 @@
     "average_srad": 22110.357142857145,
     "average_wind": 3.093062508673895,
     "average_tmax": 35.65625,
-    "average_tmin": 22.13154761904762
+    "average_tmin": 22.13154761904762,
+    "population": 1286900,
+    "symbol_sort_key": 2
   },
   "Umm al-Quwain": {
     "average_temp": 29.03,
@@ -725,6 +737,8 @@
     "average_srad": 21961.208333333332,
     "average_wind": 3.487760692834854,
     "average_tmax": 35.930729166666666,
-    "average_tmin": 22.122395833333332
+    "average_tmin": 22.122395833333332,
+    "population": 44411,
+    "symbol_sort_key": 6
   }
 }

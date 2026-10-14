@@ -101,7 +101,9 @@
     "average_srad": 8927.172619047618,
     "average_wind": 4.575556369054886,
     "average_tmax": 13.056816000484284,
-    "average_tmin": 6.630562430151872
+    "average_tmin": 6.630562430151872,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "England": {
     "average_temp": 10.55,
@@ -205,7 +207,9 @@
     "average_srad": 9658.500948509487,
     "average_wind": 4.58138949955059,
     "average_tmax": 14.171113609033547,
-    "average_tmin": 6.928099683871881
+    "average_tmin": 6.928099683871881,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Scotland": {
     "average_temp": 8.36,
@@ -309,7 +313,9 @@
     "average_srad": 8434.933626465661,
     "average_wind": 5.604600672945505,
     "average_tmax": 11.400668455667832,
-    "average_tmin": 5.326548151653792
+    "average_tmin": 5.326548151653792,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Wales": {
     "average_temp": 10.04,
@@ -413,6 +419,8 @@
     "average_srad": 9825.566498316499,
     "average_wind": 4.6245772842606305,
     "average_tmax": 13.19746679521169,
-    "average_tmin": 6.876091060413656
+    "average_tmin": 6.876091060413656,
+    "population": 0,
+    "symbol_sort_key": 2
   }
 }

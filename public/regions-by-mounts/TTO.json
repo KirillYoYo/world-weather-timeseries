@@ -101,7 +101,9 @@
     "average_srad": 18937.083333333332,
     "average_wind": 4.019179880619049,
     "average_tmax": 29.559722073872887,
-    "average_tmin": 23.151388994852706
+    "average_tmin": 23.151388994852706,
+    "population": 17537,
+    "symbol_sort_key": 9
   },
   "Princes Town": {
     "average_temp": 27.06,
@@ -205,7 +207,9 @@
     "average_srad": 18308.375,
     "average_wind": 3.3379537761211395,
     "average_tmax": 31.001041666666666,
-    "average_tmin": 23.110416666666666
+    "average_tmin": 23.110416666666666,
+    "population": 28335,
+    "symbol_sort_key": 3
   },
   "Rio Claro-Mayaro": {
     "average_temp": 27.01,
@@ -309,7 +313,9 @@
     "average_srad": 18617.208333333332,
     "average_wind": 3.4934575855731964,
     "average_tmax": 30.620381879806516,
-    "average_tmin": 23.390034675598145
+    "average_tmin": 23.390034675598145,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Couva-Tabaquite-Talparo": {
     "average_temp": 26.95,
@@ -413,7 +419,9 @@
     "average_srad": 18503.583333333336,
     "average_wind": 3.3348072965939846,
     "average_tmax": 30.77534722222222,
-    "average_tmin": 23.130208333333332
+    "average_tmin": 23.130208333333332,
+    "population": 91570,
+    "symbol_sort_key": 1
   },
   "San Fernando": {
     "average_temp": null,
@@ -517,7 +525,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 95505,
+    "symbol_sort_key": 10
   },
   "Siparia": {
     "average_temp": 27.11,
@@ -621,7 +631,9 @@
     "average_srad": 18353.916666666668,
     "average_wind": 3.539949893951416,
     "average_tmax": 31.161111068725585,
-    "average_tmin": 23.062499968210854
+    "average_tmin": 23.062499968210854,
+    "population": 23353,
+    "symbol_sort_key": 7
   },
   "Point Fortin": {
     "average_temp": null,
@@ -725,7 +737,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 29579,
+    "symbol_sort_key": 13
   },
   "Penal-Debe": {
     "average_temp": 27.05,
@@ -829,7 +843,9 @@
     "average_srad": 18331.583333333332,
     "average_wind": 3.516961634159088,
     "average_tmax": 31.06666669845581,
-    "average_tmin": 23.031944370269773
+    "average_tmin": 23.031944370269773,
+    "population": 19365,
+    "symbol_sort_key": 6
   },
   "Diego Martin": {
     "average_temp": null,
@@ -933,7 +949,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 35558,
+    "symbol_sort_key": 5
   },
   "Port of Spain": {
     "average_temp": null,
@@ -1037,7 +1055,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 84126,
+    "symbol_sort_key": 12
   },
   "San Juan-Laventille": {
     "average_temp": 26.7,
@@ -1141,7 +1161,9 @@
     "average_srad": 18421.791666666668,
     "average_wind": 3.6258058150609336,
     "average_tmax": 30.479246854782104,
-    "average_tmin": 22.917267704010012
+    "average_tmin": 22.917267704010012,
+    "population": 76292,
+    "symbol_sort_key": 2
   },
   "Tunapuna-Piarco": {
     "average_temp": 25.93,
@@ -1245,7 +1267,9 @@
     "average_srad": 18472.833333333332,
     "average_wind": 3.5793386101722717,
     "average_tmax": 29.533333333333335,
-    "average_tmin": 22.328125
+    "average_tmin": 22.328125,
+    "population": 71221,
+    "symbol_sort_key": 0
   },
   "Sangre Grande": {
     "average_temp": 26.6,
@@ -1349,7 +1373,9 @@
     "average_srad": 18579.875,
     "average_wind": 3.645126054684321,
     "average_tmax": 30.1203125,
-    "average_tmin": 23.071354166666666
+    "average_tmin": 23.071354166666666,
+    "population": 30454,
+    "symbol_sort_key": 8
   },
   "Chaguanas": {
     "average_temp": null,
@@ -1453,6 +1479,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 110065,
+    "symbol_sort_key": 4
   }
 }

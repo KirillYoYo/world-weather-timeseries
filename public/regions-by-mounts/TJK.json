@@ -101,7 +101,9 @@
     "average_srad": 15591.034420289858,
     "average_wind": 2.4733860911666485,
     "average_tmax": 13.62950634057971,
-    "average_tmin": 3.4679121376811586
+    "average_tmin": 3.4679121376811586,
+    "population": 1936158,
+    "symbol_sort_key": 1
   },
   "Gorno-Badakhshan Autonomous Region": {
     "average_temp": -2.08,
@@ -205,7 +207,9 @@
     "average_srad": 14738.386779184248,
     "average_wind": 2.7643720068760564,
     "average_tmax": 4.0160996835443035,
-    "average_tmin": -8.173778129395219
+    "average_tmin": -8.173778129395219,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Districts of Republican Subordination": {
     "average_temp": 5.91,
@@ -309,7 +313,9 @@
     "average_srad": 15136.905660377359,
     "average_wind": 2.4161293172049074,
     "average_tmax": 11.091735455974842,
-    "average_tmin": 0.7269457547169811
+    "average_tmin": 0.7269457547169811,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Khatlon Region": {
     "average_temp": 16.37,
@@ -413,7 +419,9 @@
     "average_srad": 16008.970643939398,
     "average_wind": 1.8626664210901114,
     "average_tmax": 22.74081439393939,
-    "average_tmin": 9.995679450757576
+    "average_tmin": 9.995679450757576,
+    "population": 839086,
+    "symbol_sort_key": 0
   },
   "Dushanbe": {
     "average_temp": 15.6,
@@ -517,6 +525,8 @@
     "average_srad": 15948.333333333334,
     "average_wind": 1.9516353905200958,
     "average_tmax": 21.680729166666666,
-    "average_tmin": 9.515104166666667
+    "average_tmin": 9.515104166666667,
+    "population": 948251,
+    "symbol_sort_key": 3
   }
 }

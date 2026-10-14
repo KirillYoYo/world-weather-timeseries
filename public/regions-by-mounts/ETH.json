@@ -101,7 +101,9 @@
     "average_srad": 19223.458333333332,
     "average_wind": 1.3728333314259846,
     "average_tmax": 23.270833333333332,
-    "average_tmin": 9.7140625
+    "average_tmin": 9.7140625,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Afar": {
     "average_temp": 27.79,
@@ -205,7 +207,9 @@
     "average_srad": 20886.192375886527,
     "average_wind": 2.391336577616403,
     "average_tmax": 33.62569075059101,
-    "average_tmin": 21.95885047281324
+    "average_tmin": 21.95885047281324,
+    "population": 125900,
+    "symbol_sort_key": 6
   },
   "Amhara": {
     "average_temp": 20.3,
@@ -309,7 +313,9 @@
     "average_srad": 19864.708603311734,
     "average_wind": 1.612289592291143,
     "average_tmax": 28.077189074874013,
-    "average_tmin": 12.524293556515476
+    "average_tmin": 12.524293556515476,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Beneshangul Gumu": {
     "average_temp": 24.53,
@@ -413,7 +419,9 @@
     "average_srad": 18942.7641723356,
     "average_wind": 1.85061846974215,
     "average_tmax": 31.174057539682536,
-    "average_tmin": 17.877912414965987
+    "average_tmin": 17.877912414965987,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Dire Dawa": {
     "average_temp": 24.05,
@@ -517,7 +525,9 @@
     "average_srad": 20697.333333333332,
     "average_wind": 2.7745312427481017,
     "average_tmax": 31.177083333333332,
-    "average_tmin": 16.925520833333334
+    "average_tmin": 16.925520833333334,
+    "population": 277000,
+    "symbol_sort_key": 9
   },
   "Gambela": {
     "average_temp": 26.37,
@@ -621,7 +631,9 @@
     "average_srad": 18075.207407407408,
     "average_wind": 1.779743053626131,
     "average_tmax": 32.99922453703704,
-    "average_tmin": 19.74997685185185
+    "average_tmin": 19.74997685185185,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Hareri": {
     "average_temp": 20.98,
@@ -725,7 +737,9 @@
     "average_srad": 20004.541666666668,
     "average_wind": 2.1009374956289926,
     "average_tmax": 27.808854166666666,
-    "average_tmin": 14.153125000000001
+    "average_tmin": 14.153125000000001,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Oromia": {
     "average_temp": 20.65,
@@ -829,7 +843,9 @@
     "average_srad": 19524.926767676767,
     "average_wind": 1.797774267161362,
     "average_tmax": 27.473736285266458,
-    "average_tmin": 13.835858585858587
+    "average_tmin": 13.835858585858587,
+    "population": 2626241,
+    "symbol_sort_key": 0
   },
   "SNNPR": {
     "average_temp": 21.4,
@@ -933,7 +949,9 @@
     "average_srad": 19312.92220464135,
     "average_wind": 1.7245724477062494,
     "average_tmax": 28.292648997890296,
-    "average_tmin": 14.510897943037975
+    "average_tmin": 14.510897943037975,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Somali": {
     "average_temp": 26.56,
@@ -1037,7 +1055,9 @@
     "average_srad": 21234.861080786028,
     "average_wind": 2.794600000179317,
     "average_tmax": 33.11755253820961,
-    "average_tmin": 19.99760735080058
+    "average_tmin": 19.99760735080058,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Tigray": {
     "average_temp": 23.34,
@@ -1141,6 +1161,8 @@
     "average_srad": 22196.71549893843,
     "average_wind": 1.7876155676988532,
     "average_tmax": 30.819008757961786,
-    "average_tmin": 15.865538747346074
+    "average_tmin": 15.865538747346074,
+    "population": 797984,
+    "symbol_sort_key": 4
   }
 }

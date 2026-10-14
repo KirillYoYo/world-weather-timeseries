@@ -101,7 +101,9 @@
     "average_srad": 9873.51923076923,
     "average_wind": 4.467993152447236,
     "average_tmax": 11.327702989467445,
-    "average_tmin": 5.361287399161703
+    "average_tmin": 5.361287399161703,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Pärnu maakond": {
     "average_temp": 7.45,
@@ -205,7 +207,9 @@
     "average_srad": 9612.67,
     "average_wind": 3.597323926289876,
     "average_tmax": 11.037661111712454,
-    "average_tmin": 3.8559234133164098
+    "average_tmin": 3.8559234133164098,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Hiiu maakond": {
     "average_temp": 7.95,
@@ -309,7 +313,9 @@
     "average_srad": 9828.142857142855,
     "average_wind": 4.565852869124639,
     "average_tmax": 10.737589289318947,
-    "average_tmin": 5.159791667511066
+    "average_tmin": 5.159791667511066,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Lääne maakond": {
     "average_temp": 7.77,
@@ -413,7 +419,9 @@
     "average_srad": 9619.388888888889,
     "average_wind": 3.877872488564915,
     "average_tmax": 11.467237105013595,
-    "average_tmin": 4.065500993529955
+    "average_tmin": 4.065500993529955,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Ida-Viru maakond": {
     "average_temp": 6.53,
@@ -517,7 +525,9 @@
     "average_srad": 9403.333333333334,
     "average_wind": 3.359299417127643,
     "average_tmax": 10.47314299601212,
-    "average_tmin": 2.5894511924304977
+    "average_tmin": 2.5894511924304977,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Harju maakond": {
     "average_temp": 7.28,
@@ -621,7 +631,9 @@
     "average_srad": 9471.336805555555,
     "average_wind": 3.841627202100224,
     "average_tmax": 10.905226111432746,
-    "average_tmin": 3.652377345868283
+    "average_tmin": 3.652377345868283,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Lääne-Viru maakond": {
     "average_temp": 6.77,
@@ -725,7 +737,9 @@
     "average_srad": 9367.29347826087,
     "average_wind": 3.3889323913532756,
     "average_tmax": 10.784692029266255,
-    "average_tmin": 2.7588932814805407
+    "average_tmin": 2.7588932814805407,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Tartu maakond": {
     "average_temp": 7.02,
@@ -829,7 +843,9 @@
     "average_srad": 9488.255208333334,
     "average_wind": 2.949509125202894,
     "average_tmax": 11.065039062499999,
-    "average_tmin": 2.9665364583333336
+    "average_tmin": 2.9665364583333336,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Valga maakond": {
     "average_temp": 7.12,
@@ -933,7 +949,9 @@
     "average_srad": 9531.863636363636,
     "average_wind": 3.094867404663202,
     "average_tmax": 11.24375,
-    "average_tmin": 3.004640151515151
+    "average_tmin": 3.004640151515151,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Viljandi maakond": {
     "average_temp": 7.01,
@@ -1037,7 +1055,9 @@
     "average_srad": 9509.537878787878,
     "average_wind": 2.9768267120375778,
     "average_tmax": 11.020312500000001,
-    "average_tmin": 2.999147727272728
+    "average_tmin": 2.999147727272728,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Põlva maakond": {
     "average_temp": 7.16,
@@ -1141,7 +1161,9 @@
     "average_srad": 9541.416666666666,
     "average_wind": 2.97786111081088,
     "average_tmax": 11.189236111111112,
-    "average_tmin": 3.1284722222222214
+    "average_tmin": 3.1284722222222214,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Järva maakond": {
     "average_temp": 7.02,
@@ -1245,7 +1267,9 @@
     "average_srad": 9398.371794871797,
     "average_wind": 2.9891522419758334,
     "average_tmax": 11.21113782051282,
-    "average_tmin": 2.836298076923077
+    "average_tmin": 2.836298076923077,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Rapla maakond": {
     "average_temp": 7.38,
@@ -1349,7 +1373,9 @@
     "average_srad": 9465.111111111111,
     "average_wind": 3.14618170371762,
     "average_tmax": 11.078587962962965,
-    "average_tmin": 3.680729166666667
+    "average_tmin": 3.680729166666667,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Võru maakond": {
     "average_temp": 7.09,
@@ -1453,7 +1479,9 @@
     "average_srad": 9537.255555555555,
     "average_wind": 3.0904486007160608,
     "average_tmax": 11.09798611111111,
-    "average_tmin": 3.0797916666666665
+    "average_tmin": 3.0797916666666665,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Jõgeva maakond": {
     "average_temp": 6.9,
@@ -1557,6 +1585,8 @@
     "average_srad": 9403.923076923074,
     "average_wind": 2.925911860588269,
     "average_tmax": 11.045112179487178,
-    "average_tmin": 2.7551282051282056
+    "average_tmin": 2.7551282051282056,
+    "population": 0,
+    "symbol_sort_key": 10
   }
 }

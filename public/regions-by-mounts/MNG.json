@@ -101,7 +101,9 @@
     "average_srad": 13409.342563291139,
     "average_wind": 1.6970552459736419,
     "average_tmax": 5.430613792194094,
-    "average_tmin": -7.564243802742616
+    "average_tmin": -7.564243802742616,
+    "population": 26319,
+    "symbol_sort_key": 14
   },
   "Khovd": {
     "average_temp": 1.44,
@@ -205,7 +207,9 @@
     "average_srad": 14508.72985901309,
     "average_wind": 2.36904600799864,
     "average_tmax": 7.5133024924471306,
-    "average_tmin": -4.626340634441087
+    "average_tmin": -4.626340634441087,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Zavkhan": {
     "average_temp": -2.49,
@@ -309,7 +313,9 @@
     "average_srad": 13758.72385620915,
     "average_wind": 1.9064728588032789,
     "average_tmax": 4.311300770308123,
-    "average_tmin": -9.287459150326798
+    "average_tmin": -9.287459150326798,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Bulgan": {
     "average_temp": 0.1,
@@ -413,7 +419,9 @@
     "average_srad": 13272.436507936507,
     "average_wind": 2.1927716218289874,
     "average_tmax": 7.052931547619047,
-    "average_tmin": -6.857207341269839
+    "average_tmin": -6.857207341269839,
+    "population": 11198,
+    "symbol_sort_key": 19
   },
   "Dornogovi": {
     "average_temp": 5.25,
@@ -517,7 +525,9 @@
     "average_srad": 15810.660000000002,
     "average_wind": 4.032985133065119,
     "average_tmax": 11.691627314814815,
-    "average_tmin": -1.1893194444444442
+    "average_tmin": -1.1893194444444442,
+    "population": 33702,
+    "symbol_sort_key": 6
   },
   "Ulaanbaatar": {
     "average_temp": -0.22,
@@ -621,7 +631,9 @@
     "average_srad": 13773.4375,
     "average_wind": 2.662023950119813,
     "average_tmax": 6.731510416666667,
-    "average_tmin": -7.167343750000001
+    "average_tmin": -7.167343750000001,
+    "population": 1438694,
+    "symbol_sort_key": 0
   },
   "Govisumber": {
     "average_temp": 1.93,
@@ -725,7 +737,9 @@
     "average_srad": 14585.626811594206,
     "average_wind": 3.3947672092396277,
     "average_tmax": 8.496648550724638,
-    "average_tmin": -4.637228260869565
+    "average_tmin": -4.637228260869565,
+    "population": 0,
+    "symbol_sort_key": 21
   },
   "Sükhbaatar": {
     "average_temp": 2.13,
@@ -829,7 +843,9 @@
     "average_srad": 15031.517543859649,
     "average_wind": 3.9686865144886703,
     "average_tmax": 8.79715826023392,
-    "average_tmin": -4.537332480506822
+    "average_tmin": -4.537332480506822,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Govi-Altai": {
     "average_temp": 3.47,
@@ -933,7 +949,9 @@
     "average_srad": 15363.02000575705,
     "average_wind": 2.8611604032773155,
     "average_tmax": 10.040383923431204,
-    "average_tmin": -3.0949733736327
+    "average_tmin": -3.0949733736327,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Orkhon": {
     "average_temp": -0.01,
@@ -1037,7 +1055,9 @@
     "average_srad": 13188.145833333334,
     "average_wind": 2.167140612999598,
     "average_tmax": 7.0390625,
-    "average_tmin": -7.065625
+    "average_tmin": -7.065625,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Arkhangai": {
     "average_temp": -0.62,
@@ -1141,7 +1161,9 @@
     "average_srad": 13695.537234042553,
     "average_wind": 2.487494585995979,
     "average_tmax": 5.7161702127659595,
-    "average_tmin": -6.963426418439717
+    "average_tmin": -6.963426418439717,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Bayankhongor": {
     "average_temp": 2.42,
@@ -1245,7 +1267,9 @@
     "average_srad": 15279.709190672154,
     "average_wind": 2.9585062996554607,
     "average_tmax": 8.747076474622771,
-    "average_tmin": -3.9169388717421127
+    "average_tmin": -3.9169388717421127,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Dundgovi": {
     "average_temp": 3.69,
@@ -1349,7 +1373,9 @@
     "average_srad": 15080.418311403511,
     "average_wind": 3.746617798415715,
     "average_tmax": 10.010618832236842,
-    "average_tmin": -2.6215905975877196
+    "average_tmin": -2.6215905975877196,
+    "population": 12339,
+    "symbol_sort_key": 20
   },
   "Ömnögovi": {
     "average_temp": 7.09,
@@ -1453,7 +1479,9 @@
     "average_srad": 16313.586396120472,
     "average_wind": 3.877367789006586,
     "average_tmax": 13.363280053598777,
-    "average_tmin": 0.8213836778968867
+    "average_tmin": 0.8213836778968867,
+    "population": 19396,
+    "symbol_sort_key": 8
   },
   "Övörkhangai": {
     "average_temp": 2.94,
@@ -1557,7 +1585,9 @@
     "average_srad": 14763.854716981134,
     "average_wind": 3.186487733942908,
     "average_tmax": 9.22861242138365,
-    "average_tmin": -3.349084119496856
+    "average_tmin": -3.349084119496856,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Töv": {
     "average_temp": 0.41,
@@ -1661,7 +1691,9 @@
     "average_srad": 13929.099894847526,
     "average_wind": 2.761329846474274,
     "average_tmax": 7.243171661409044,
-    "average_tmin": -6.422591351209253
+    "average_tmin": -6.422591351209253,
+    "population": 14660,
+    "symbol_sort_key": 10
   },
   "Dornod": {
     "average_temp": 1.64,
@@ -1765,7 +1797,9 @@
     "average_srad": 14312.526440879383,
     "average_wind": 3.4790447803919196,
     "average_tmax": 8.391297162804515,
-    "average_tmin": -5.102231877599525
+    "average_tmin": -5.102231877599525,
+    "population": 38150,
+    "symbol_sort_key": 13
   },
   "Selenge": {
     "average_temp": 0.09,
@@ -1869,7 +1903,9 @@
     "average_srad": 13089.870370370367,
     "average_wind": 2.0696646770104317,
     "average_tmax": 6.7818507495590845,
-    "average_tmin": -6.607958553791886
+    "average_tmin": -6.607958553791886,
+    "population": 40792,
+    "symbol_sort_key": 5
   },
   "Hovsgel": {
     "average_temp": -3.57,
@@ -1973,7 +2009,9 @@
     "average_srad": 12645.233369486625,
     "average_wind": 1.798518298607285,
     "average_tmax": 3.0533057664497476,
-    "average_tmin": -10.197130332610266
+    "average_tmin": -10.197130332610266,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Bayan-Ölgii": {
     "average_temp": -3.41,
@@ -2077,7 +2115,9 @@
     "average_srad": 13606.867531446538,
     "average_wind": 2.1033372610057675,
     "average_tmax": 2.73092570754717,
-    "average_tmin": -9.543813875786164
+    "average_tmin": -9.543813875786164,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Darkhan-Uul": {
     "average_temp": 0.28,
@@ -2181,7 +2221,9 @@
     "average_srad": 13184.770833333334,
     "average_wind": 2.0508268220971027,
     "average_tmax": 6.947786458333334,
-    "average_tmin": -6.3966796875
+    "average_tmin": -6.3966796875,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Khentii": {
     "average_temp": 0.24,
@@ -2285,6 +2327,8 @@
     "average_srad": 14125.193257359926,
     "average_wind": 2.9136068363871224,
     "average_tmax": 7.485081315289648,
-    "average_tmin": -7.001994301994301
+    "average_tmin": -7.001994301994301,
+    "population": 0,
+    "symbol_sort_key": 15
   }
 }

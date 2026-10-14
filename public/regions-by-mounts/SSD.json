@@ -101,7 +101,9 @@
     "average_srad": 17074.767948717952,
     "average_wind": 1.7378181161024633,
     "average_tmax": 34.206153846153846,
-    "average_tmin": 21.17608173076923
+    "average_tmin": 21.17608173076923,
+    "population": 43750,
+    "symbol_sort_key": 7
   },
   "Central Equatoria": {
     "average_temp": 26.76,
@@ -205,7 +207,9 @@
     "average_srad": 18287.87598425197,
     "average_wind": 1.8498533307098028,
     "average_tmax": 33.301140091863516,
-    "average_tmin": 20.220611876640422
+    "average_tmin": 20.220611876640422,
+    "population": 881088,
+    "symbol_sort_key": 2
   },
   "Eastern Equatoria": {
     "average_temp": 26.89,
@@ -309,7 +313,9 @@
     "average_srad": 18768.47194719472,
     "average_wind": 1.95543562510226,
     "average_tmax": 33.6639077970297,
-    "average_tmin": 20.12570647689769
+    "average_tmin": 20.12570647689769,
+    "population": 395138,
+    "symbol_sort_key": 0
   },
   "Upper Nile": {
     "average_temp": 28.58,
@@ -413,7 +419,9 @@
     "average_srad": 18509.59784226191,
     "average_wind": 2.0476567928368845,
     "average_tmax": 35.26306268601191,
-    "average_tmin": 21.90138113839286
+    "average_tmin": 21.90138113839286,
+    "population": 266669,
+    "symbol_sort_key": 3
   },
   "Western Bahr el Ghazal": {
     "average_temp": 26.17,
@@ -517,7 +525,9 @@
     "average_srad": 16903.32536764706,
     "average_wind": 1.8093005462969636,
     "average_tmax": 32.791157322303924,
-    "average_tmin": 19.5437806372549
+    "average_tmin": 19.5437806372549,
+    "population": 336752,
+    "symbol_sort_key": 9
   },
   "Unity": {
     "average_temp": 27.97,
@@ -621,7 +631,9 @@
     "average_srad": 17123.89339339339,
     "average_wind": 1.9725756287216785,
     "average_tmax": 34.538363363363366,
-    "average_tmin": 21.411270645645644
+    "average_tmin": 21.411270645645644,
+    "population": 25608,
+    "symbol_sort_key": 5
   },
   "Northern Bahr el Ghazal": {
     "average_temp": 27.15,
@@ -725,7 +737,9 @@
     "average_srad": 17100.877659574468,
     "average_wind": 1.9467889988887392,
     "average_tmax": 33.74195478723404,
-    "average_tmin": 20.549468085106383
+    "average_tmin": 20.549468085106383,
+    "population": 40054,
+    "symbol_sort_key": 8
   },
   "Jonglei": {
     "average_temp": 28.01,
@@ -829,7 +843,9 @@
     "average_srad": 17643.836565096954,
     "average_wind": 1.8229499044565831,
     "average_tmax": 34.48454235918745,
-    "average_tmin": 21.54009983841182
+    "average_tmin": 21.54009983841182,
+    "population": 315351,
+    "symbol_sort_key": 1
   },
   "Western Equatoria": {
     "average_temp": 25.85,
@@ -933,7 +949,9 @@
     "average_srad": 17681.014008620692,
     "average_wind": 1.6254337316957015,
     "average_tmax": 32.159891343390804,
-    "average_tmin": 19.532381465517243
+    "average_tmin": 19.532381465517243,
+    "population": 204822,
+    "symbol_sort_key": 6
   },
   "Warrap": {
     "average_temp": 27.75,
@@ -1037,6 +1055,8 @@
     "average_srad": 16758.069314641743,
     "average_wind": 1.8532182627192169,
     "average_tmax": 34.30021417445482,
-    "average_tmin": 21.20906347352025
+    "average_tmin": 21.20906347352025,
+    "population": 140051,
+    "symbol_sort_key": 4
   }
 }

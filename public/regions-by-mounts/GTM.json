@@ -101,7 +101,9 @@
     "average_srad": 19112.97474747475,
     "average_wind": 1.7466672944902173,
     "average_tmax": 29.617866161616163,
-    "average_tmin": 19.78074494949495
+    "average_tmin": 19.78074494949495,
+    "population": 640811,
+    "symbol_sort_key": 1
   },
   "Suchitepéquez": {
     "average_temp": 27.63,
@@ -205,7 +207,9 @@
     "average_srad": 19354.055555555555,
     "average_wind": 1.963484439584944,
     "average_tmax": 33.659374968210855,
-    "average_tmin": 21.608796310424804
+    "average_tmin": 21.608796310424804,
+    "population": 509237,
+    "symbol_sort_key": 9
   },
   "El Progreso": {
     "average_temp": 23.28,
@@ -309,7 +313,9 @@
     "average_srad": 19624.180555555555,
     "average_wind": 1.9863020794259179,
     "average_tmax": 28.072569444444444,
-    "average_tmin": 18.484548611111112
+    "average_tmin": 18.484548611111112,
+    "population": 184754,
+    "symbol_sort_key": 21
   },
   "Zacapa": {
     "average_temp": 24.53,
@@ -413,7 +419,9 @@
     "average_srad": 19356.533333333333,
     "average_wind": 1.8160312553246813,
     "average_tmax": 29.5215625,
-    "average_tmin": 19.545
+    "average_tmin": 19.545,
+    "population": 183905,
+    "symbol_sort_key": 20
   },
   "Petén": {
     "average_temp": 26.52,
@@ -517,7 +525,9 @@
     "average_srad": 18685.797514619884,
     "average_wind": 1.8029415127303865,
     "average_tmax": 32.22865497076024,
-    "average_tmin": 20.816529605263156
+    "average_tmin": 20.816529605263156,
+    "population": 614783,
+    "symbol_sort_key": 6
   },
   "Quiché": {
     "average_temp": 19.57,
@@ -621,7 +631,9 @@
     "average_srad": 19093.404166666667,
     "average_wind": 2.236377076804638,
     "average_tmax": 25.663802083333334,
-    "average_tmin": 13.466875000000002
+    "average_tmin": 13.466875000000002,
+    "population": 286423,
+    "symbol_sort_key": 3
   },
   "Chiquimula": {
     "average_temp": 23.37,
@@ -725,7 +737,9 @@
     "average_srad": 19666.583333333332,
     "average_wind": 2.010107629828983,
     "average_tmax": 28.547395833333336,
-    "average_tmin": 18.202256944444443
+    "average_tmin": 18.202256944444443,
+    "population": 358701,
+    "symbol_sort_key": 14
   },
   "Sacatepéquez": {
     "average_temp": 17.84,
@@ -829,7 +843,9 @@
     "average_srad": 19535.416666666668,
     "average_wind": 2.3592708110809326,
     "average_tmax": 23.556249999999995,
-    "average_tmin": 12.125
+    "average_tmin": 12.125,
+    "population": 394550,
+    "symbol_sort_key": 17
   },
   "Guatemala": {
     "average_temp": 20.33,
@@ -933,7 +949,9 @@
     "average_srad": 19743.566666666662,
     "average_wind": 2.161020829280218,
     "average_tmax": 25.582916666666666,
-    "average_tmin": 15.078541666666666
+    "average_tmin": 15.078541666666666,
+    "population": 3178283,
+    "symbol_sort_key": 0
   },
   "Izabal": {
     "average_temp": 26.16,
@@ -1037,7 +1055,9 @@
     "average_srad": 18888.605263157897,
     "average_wind": 1.712287351227643,
     "average_tmax": 30.917105263157897,
-    "average_tmin": 21.399616228070176
+    "average_tmin": 21.399616228070176,
+    "population": 372663,
+    "symbol_sort_key": 13
   },
   "Jalapa": {
     "average_temp": 20.15,
@@ -1141,7 +1161,9 @@
     "average_srad": 19659.816666666666,
     "average_wind": 2.3080708305041,
     "average_tmax": 25.239583333333332,
-    "average_tmin": 15.058958333333331
+    "average_tmin": 15.058958333333331,
+    "population": 287678,
+    "symbol_sort_key": 16
   },
   "San Marcos": {
     "average_temp": 20.16,
@@ -1245,7 +1267,9 @@
     "average_srad": 18738.5,
     "average_wind": 2.353263255321618,
     "average_tmax": 26.66429924242424,
-    "average_tmin": 13.663541666666667
+    "average_tmin": 13.663541666666667,
+    "population": 625057,
+    "symbol_sort_key": 4
   },
   "Huehuetenango": {
     "average_temp": 18.92,
@@ -1349,7 +1373,9 @@
     "average_srad": 18683.682539682544,
     "average_wind": 2.33163689952048,
     "average_tmax": 25.4671130952381,
-    "average_tmin": 12.363095238095239
+    "average_tmin": 12.363095238095239,
+    "population": 659605,
+    "symbol_sort_key": 2
   },
   "Totonicapán": {
     "average_temp": 14.45,
@@ -1453,7 +1479,9 @@
     "average_srad": 19060.083333333336,
     "average_wind": 2.697277767790688,
     "average_tmax": 21.224652777777777,
-    "average_tmin": 7.682291666666667
+    "average_tmin": 7.682291666666667,
+    "population": 476382,
+    "symbol_sort_key": 10
   },
   "Quetzaltenango": {
     "average_temp": 19.01,
@@ -1557,7 +1585,9 @@
     "average_srad": 18898.833333333332,
     "average_wind": 2.3699666619300848,
     "average_tmax": 25.417708333333334,
-    "average_tmin": 12.606875
+    "average_tmin": 12.606875,
+    "population": 746849,
+    "symbol_sort_key": 5
   },
   "Retalhuleu": {
     "average_temp": 28.09,
@@ -1661,7 +1691,9 @@
     "average_srad": 18919.133333333335,
     "average_wind": 2.1626803636550904,
     "average_tmax": 34.2325,
-    "average_tmin": 21.937708333333333
+    "average_tmin": 21.937708333333333,
+    "population": 308255,
+    "symbol_sort_key": 19
   },
   "Baja Verapaz": {
     "average_temp": 20.76,
@@ -1765,7 +1797,9 @@
     "average_srad": 19381.158333333333,
     "average_wind": 2.172506253918012,
     "average_tmax": 25.784166666666664,
-    "average_tmin": 15.726979166666666
+    "average_tmin": 15.726979166666666,
+    "population": 226291,
+    "symbol_sort_key": 18
   },
   "Sololá": {
     "average_temp": 16.92,
@@ -1869,7 +1903,9 @@
     "average_srad": 19388.166666666668,
     "average_wind": 2.3759062389532724,
     "average_tmax": 22.955729166666668,
-    "average_tmin": 10.892187499999999
+    "average_tmin": 10.892187499999999,
+    "population": 287480,
+    "symbol_sort_key": 11
   },
   "Escuintla": {
     "average_temp": 27.01,
@@ -1973,7 +2009,9 @@
     "average_srad": 19638.68888888889,
     "average_wind": 2.0490277939372596,
     "average_tmax": 32.8706481467353,
-    "average_tmin": 21.139714510175917
+    "average_tmin": 21.139714510175917,
+    "population": 782458,
+    "symbol_sort_key": 7
   },
   "Chimaltenango": {
     "average_temp": 19.45,
@@ -2077,7 +2115,9 @@
     "average_srad": 19591.440476190477,
     "average_wind": 2.1717529779388793,
     "average_tmax": 25.11547619047619,
-    "average_tmin": 13.787648809523809
+    "average_tmin": 13.787648809523809,
+    "population": 718144,
+    "symbol_sort_key": 8
   },
   "Jutiapa": {
     "average_temp": 24.37,
@@ -2181,7 +2221,9 @@
     "average_srad": 20212.875,
     "average_wind": 1.9210354129473368,
     "average_tmax": 29.91479166666667,
-    "average_tmin": 18.826875
+    "average_tmin": 18.826875,
+    "population": 482419,
+    "symbol_sort_key": 12
   },
   "Santa Rosa": {
     "average_temp": 24.79,
@@ -2285,6 +2327,8 @@
     "average_srad": 20027.395833333336,
     "average_wind": 2.123112388783031,
     "average_tmax": 29.98472223281861,
-    "average_tmin": 19.595584487915037
+    "average_tmin": 19.595584487915037,
+    "population": 373405,
+    "symbol_sort_key": 15
   }
 }

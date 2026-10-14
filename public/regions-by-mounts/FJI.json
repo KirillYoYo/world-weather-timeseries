@@ -101,7 +101,9 @@
     "average_srad": 16338.343137254902,
     "average_wind": 3.3937817963899346,
     "average_tmax": 28.1324731528759,
-    "average_tmin": 23.94008598725001
+    "average_tmin": 23.94008598725001,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Eastern": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Central": {
     "average_temp": 24.56,
@@ -309,7 +313,9 @@
     "average_srad": 16131.511904761906,
     "average_wind": 2.8830086276644753,
     "average_tmax": 27.33541396004813,
-    "average_tmin": 21.789068596703668
+    "average_tmin": 21.789068596703668,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Western": {
     "average_temp": 24.7,
@@ -413,6 +419,8 @@
     "average_srad": 16564.385416666668,
     "average_wind": 3.297624923288822,
     "average_tmax": 27.93158419529597,
-    "average_tmin": 21.46618798772494
+    "average_tmin": 21.46618798772494,
+    "population": 0,
+    "symbol_sort_key": 1
   }
 }

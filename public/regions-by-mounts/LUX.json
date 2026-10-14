@@ -101,7 +101,9 @@
     "average_srad": 10709.25,
     "average_wind": 3.393166661262512,
     "average_tmax": 15.384375,
-    "average_tmin": 6.717708333333334
+    "average_tmin": 6.717708333333334,
+    "population": 5869,
+    "symbol_sort_key": 8
   },
   "Canton Grevenmacher": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 5092,
+    "symbol_sort_key": 5
   },
   "Canton Remich": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 4101,
+    "symbol_sort_key": 6
   },
   "Canton Mersch": {
     "average_temp": 10.8,
@@ -413,7 +419,9 @@
     "average_srad": 10732.666666666666,
     "average_wind": 3.4294791519641876,
     "average_tmax": 15.017187499999999,
-    "average_tmin": 6.5890625
+    "average_tmin": 6.5890625,
+    "population": 10519,
+    "symbol_sort_key": 4
   },
   "Canton Capellen": {
     "average_temp": 10.83,
@@ -517,7 +525,9 @@
     "average_srad": 10885.666666666666,
     "average_wind": 3.3437291979789734,
     "average_tmax": 15.119791666666666,
-    "average_tmin": 6.542708333333333
+    "average_tmin": 6.542708333333333,
+    "population": 34182,
+    "symbol_sort_key": 2
   },
   "Canton Luxembourg": {
     "average_temp": 11.06,
@@ -621,7 +631,9 @@
     "average_srad": 10886.583333333334,
     "average_wind": 3.3551666736602783,
     "average_tmax": 15.41822916666667,
-    "average_tmin": 6.7046874999999995
+    "average_tmin": 6.7046874999999995,
+    "population": 146588,
+    "symbol_sort_key": 0
   },
   "Canton Redange": {
     "average_temp": 10.66,
@@ -725,7 +737,9 @@
     "average_srad": 10700.666666666666,
     "average_wind": 3.399708310763041,
     "average_tmax": 14.812499999999998,
-    "average_tmin": 6.501041666666667
+    "average_tmin": 6.501041666666667,
+    "population": 3077,
+    "symbol_sort_key": 7
   },
   "Canton Diekirch": {
     "average_temp": 10.48,
@@ -829,7 +843,9 @@
     "average_srad": 10556.0,
     "average_wind": 3.572374999523163,
     "average_tmax": 14.515624999999998,
-    "average_tmin": 6.451041666666668
+    "average_tmin": 6.451041666666668,
+    "population": 17260,
+    "symbol_sort_key": 3
   },
   "Canton Esch-sur-Alzette": {
     "average_temp": null,
@@ -933,7 +949,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 87897,
+    "symbol_sort_key": 1
   },
   "Canton Clervaux": {
     "average_temp": 9.93,
@@ -1037,7 +1055,9 @@
     "average_srad": 10399.333333333334,
     "average_wind": 3.810343752304713,
     "average_tmax": 13.929166666666667,
-    "average_tmin": 5.932291666666667
+    "average_tmin": 5.932291666666667,
+    "population": 1468,
+    "symbol_sort_key": 9
   },
   "Canton Wiltz": {
     "average_temp": 10.15,
@@ -1141,7 +1161,9 @@
     "average_srad": 10530.666666666666,
     "average_wind": 3.666166663169861,
     "average_tmax": 14.053125,
-    "average_tmin": 6.253125
+    "average_tmin": 6.253125,
+    "population": 5723,
+    "symbol_sort_key": 10
   },
   "Canton Vianden": {
     "average_temp": null,
@@ -1245,6 +1267,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2203,
+    "symbol_sort_key": 11
   }
 }

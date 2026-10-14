@@ -101,7 +101,9 @@
     "average_srad": 15243.74031007752,
     "average_wind": 4.746571889219358,
     "average_tmax": 19.35932724900948,
-    "average_tmin": 11.8522102346716
+    "average_tmin": 11.8522102346716,
+    "population": 68550,
+    "symbol_sort_key": 8
   },
   "Auckland Region": {
     "average_temp": 15.53,
@@ -205,7 +207,9 @@
     "average_srad": 15057.46875,
     "average_wind": 4.962986898918946,
     "average_tmax": 19.47031546380785,
-    "average_tmin": 11.591144840982226
+    "average_tmin": 11.591144840982226,
+    "population": 1689401,
+    "symbol_sort_key": 0
   },
   "Waikato Region": {
     "average_temp": 13.44,
@@ -309,7 +313,9 @@
     "average_srad": 14684.713768115942,
     "average_wind": 4.057255248228709,
     "average_tmax": 18.354861961585886,
-    "average_tmin": 8.521869045236835
+    "average_tmin": 8.521869045236835,
+    "population": 261130,
+    "symbol_sort_key": 3
   },
   "Bay of Plenty Region": {
     "average_temp": 13.02,
@@ -413,7 +419,9 @@
     "average_srad": 14577.322916666666,
     "average_wind": 4.527054332196713,
     "average_tmax": 17.73496610754066,
-    "average_tmin": 8.297154393129878
+    "average_tmin": 8.297154393129878,
+    "population": 236210,
+    "symbol_sort_key": 4
   },
   "Gisborne Region": {
     "average_temp": 13.24,
@@ -517,7 +525,9 @@
     "average_srad": 14508.630555555554,
     "average_wind": 4.585414015584521,
     "average_tmax": 17.78449140124851,
-    "average_tmin": 8.686836309432984
+    "average_tmin": 8.686836309432984,
+    "population": 37000,
+    "symbol_sort_key": 14
   },
   "Hawke's Bay Region": {
     "average_temp": 12.47,
@@ -621,7 +631,9 @@
     "average_srad": 14384.06862745098,
     "average_wind": 4.501644181659798,
     "average_tmax": 17.341077489167258,
-    "average_tmin": 7.602849826314091
+    "average_tmin": 7.602849826314091,
+    "population": 81200,
+    "symbol_sort_key": 7
   },
   "Taranaki Region": {
     "average_temp": 13.22,
@@ -725,7 +737,9 @@
     "average_srad": 14460.807692307693,
     "average_wind": 4.712178218823213,
     "average_tmax": 17.618671601857898,
-    "average_tmin": 8.83079973398111
+    "average_tmin": 8.83079973398111,
+    "population": 69918,
+    "symbol_sort_key": 9
   },
   "Manawatu-Wanganui Region": {
     "average_temp": 12.19,
@@ -829,7 +843,9 @@
     "average_srad": 14212.473895582329,
     "average_wind": 4.20238881202108,
     "average_tmax": 16.96716610150165,
-    "average_tmin": 7.409722543816012
+    "average_tmin": 7.409722543816012,
+    "population": 143518,
+    "symbol_sort_key": 5
   },
   "Wellington Region": {
     "average_temp": 12.64,
@@ -933,7 +949,9 @@
     "average_srad": 13968.075520833334,
     "average_wind": 5.147679251929124,
     "average_tmax": 16.787789559861025,
-    "average_tmin": 8.489869790275892
+    "average_tmin": 8.489869790275892,
+    "population": 478355,
+    "symbol_sort_key": 2
   },
   "West Coast Region": {
     "average_temp": 9.4,
@@ -1037,7 +1055,9 @@
     "average_srad": 13778.451465201468,
     "average_wind": 5.373551635078459,
     "average_tmax": 13.886049284758391,
-    "average_tmin": 4.906923268194553
+    "average_tmin": 4.906923268194553,
+    "population": 15750,
+    "symbol_sort_key": 15
   },
   "Canterbury Region": {
     "average_temp": 9.54,
@@ -1141,7 +1161,9 @@
     "average_srad": 13872.39606227106,
     "average_wind": 4.436987895559478,
     "average_tmax": 14.952850014597013,
-    "average_tmin": 4.133973088064685
+    "average_tmin": 4.133973088064685,
+    "population": 427253,
+    "symbol_sort_key": 1
   },
   "Otago Region": {
     "average_temp": 8.75,
@@ -1245,7 +1267,9 @@
     "average_srad": 13251.511067708334,
     "average_wind": 4.415375610968719,
     "average_tmax": 14.14321787295242,
-    "average_tmin": 3.3486253152290977
+    "average_tmin": 3.3486253152290977,
+    "population": 146300,
+    "symbol_sort_key": 6
   },
   "Southland Region": {
     "average_temp": 9.09,
@@ -1349,7 +1373,9 @@
     "average_srad": 12518.882951653946,
     "average_wind": 5.4934898100736484,
     "average_tmax": 13.292590203040687,
-    "average_tmin": 4.885617826229486
+    "average_tmin": 4.885617826229486,
+    "population": 63268,
+    "symbol_sort_key": 10
   },
   "Tasman Region": {
     "average_temp": 10.04,
@@ -1453,7 +1479,9 @@
     "average_srad": 14067.943693693693,
     "average_wind": 4.519441852161477,
     "average_tmax": 14.825608535715054,
-    "average_tmin": 5.258640851308634
+    "average_tmin": 5.258640851308634,
+    "population": 17250,
+    "symbol_sort_key": 12
   },
   "Nelson Region": {
     "average_temp": 12.22,
@@ -1557,7 +1585,9 @@
     "average_srad": 14249.833333333334,
     "average_wind": 5.413767099380493,
     "average_tmax": 17.051909669240313,
-    "average_tmin": 7.387847210963567
+    "average_tmin": 7.387847210963567,
+    "population": 51100,
+    "symbol_sort_key": 11
   },
   "Marlborough Region": {
     "average_temp": 10.34,
@@ -1661,7 +1691,9 @@
     "average_srad": 13985.321138211382,
     "average_wind": 4.945257858532231,
     "average_tmax": 15.470005940615648,
-    "average_tmin": 5.219984627060774
+    "average_tmin": 5.219984627060774,
+    "population": 28200,
+    "symbol_sort_key": 13
   },
   "Chatham Islands Territory": {
     "average_temp": 11.81,
@@ -1765,6 +1797,8 @@
     "average_srad": 13291.0,
     "average_wind": 6.953576517105102,
     "average_tmax": 15.043831177552542,
-    "average_tmin": 8.569967514276504
+    "average_tmin": 8.569967514276504,
+    "population": 200,
+    "symbol_sort_key": 16
   }
 }

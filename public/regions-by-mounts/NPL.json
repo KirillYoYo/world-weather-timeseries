@@ -101,7 +101,9 @@
     "average_srad": 17128.082364341084,
     "average_wind": 1.7816993670408117,
     "average_tmax": 20.9374636627907,
-    "average_tmin": 11.223001453488372
+    "average_tmin": 11.223001453488372,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Province 2": {
     "average_temp": 24.2,
@@ -205,7 +207,9 @@
     "average_srad": 18514.185483870966,
     "average_wind": 1.2548736561370153,
     "average_tmax": 29.754065860215054,
-    "average_tmin": 18.648756720430107
+    "average_tmin": 18.648756720430107,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Bagmati": {
     "average_temp": 16.92,
@@ -309,7 +313,9 @@
     "average_srad": 17208.31317204301,
     "average_wind": 1.5537946891560352,
     "average_tmax": 22.20241935483871,
-    "average_tmin": 11.642993951612903
+    "average_tmin": 11.642993951612903,
+    "population": 1179791,
+    "symbol_sort_key": 0
   },
   "Gandaki": {
     "average_temp": 10.58,
@@ -413,7 +419,9 @@
     "average_srad": 17001.195601851854,
     "average_wind": 2.1916999359511666,
     "average_tmax": 16.06109664351852,
-    "average_tmin": 5.103877314814814
+    "average_tmin": 5.103877314814814,
+    "population": 494061,
+    "symbol_sort_key": 5
   },
   "Lumbini": {
     "average_temp": 20.57,
@@ -517,7 +525,9 @@
     "average_srad": 18064.688461538462,
     "average_wind": 1.4019852554186798,
     "average_tmax": 26.090544871794872,
-    "average_tmin": 15.051858974358977
+    "average_tmin": 15.051858974358977,
+    "population": 639709,
+    "symbol_sort_key": 3
   },
   "Karnali": {
     "average_temp": 7.96,
@@ -621,7 +631,9 @@
     "average_srad": 17087.600490196073,
     "average_wind": 2.3798506902713403,
     "average_tmax": 13.120945669934642,
-    "average_tmin": 2.7950878267973853
+    "average_tmin": 2.7950878267973853,
+    "population": 236803,
+    "symbol_sort_key": 6
   },
   "Sudurpaschim": {
     "average_temp": 15.83,
@@ -725,6 +737,8 @@
     "average_srad": 17317.24516908213,
     "average_wind": 1.689418171554948,
     "average_tmax": 20.723445048309177,
-    "average_tmin": 10.945289855072462
+    "average_tmin": 10.945289855072462,
+    "population": 0,
+    "symbol_sort_key": 4
   }
 }

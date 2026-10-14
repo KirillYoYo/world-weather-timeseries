@@ -101,7 +101,9 @@
     "average_srad": 17451.74829931973,
     "average_wind": 2.092923351899296,
     "average_tmax": 22.53220359030224,
-    "average_tmin": 10.521446792933405
+    "average_tmin": 10.521446792933405,
+    "population": 1413979,
+    "symbol_sort_key": 9
   },
   "Adıyaman": {
     "average_temp": 16.43,
@@ -205,7 +207,9 @@
     "average_srad": 17644.24691358025,
     "average_wind": 2.1692885793285606,
     "average_tmax": 22.479166666666668,
-    "average_tmin": 10.38599537037037
+    "average_tmin": 10.38599537037037,
+    "population": 161596,
+    "symbol_sort_key": 34
   },
   "Afyonkarahisar": {
     "average_temp": 12.19,
@@ -309,7 +313,9 @@
     "average_srad": 16607.34833333333,
     "average_wind": 2.2730537430445357,
     "average_tmax": 18.436125,
-    "average_tmin": 5.9451875
+    "average_tmin": 5.9451875,
+    "population": 115315,
+    "symbol_sort_key": 27
   },
   "Ağrı": {
     "average_temp": 7.07,
@@ -413,7 +419,9 @@
     "average_srad": 16583.56884057971,
     "average_wind": 2.005183866274529,
     "average_tmax": 13.156634963768118,
-    "average_tmin": 0.9803668478260873
+    "average_tmin": 0.9803668478260873,
+    "population": 70546,
+    "symbol_sort_key": 37
   },
   "Amasya": {
     "average_temp": 12.02,
@@ -517,7 +525,9 @@
     "average_srad": 15407.742424242426,
     "average_wind": 2.021679918422844,
     "average_tmax": 17.871164772727273,
-    "average_tmin": 6.170075757575758
+    "average_tmin": 6.170075757575758,
+    "population": 114750,
+    "symbol_sort_key": 50
   },
   "Antalya": {
     "average_temp": 14.96,
@@ -621,7 +631,9 @@
     "average_srad": 17615.70888888889,
     "average_wind": 2.400277264912923,
     "average_tmax": 20.51901674249437,
-    "average_tmin": 9.396467828114828
+    "average_tmin": 9.396467828114828,
+    "population": 477988,
+    "symbol_sort_key": 6
   },
   "Artvin": {
     "average_temp": 8.75,
@@ -725,7 +737,9 @@
     "average_srad": 15039.737654320988,
     "average_wind": 2.0818998372113264,
     "average_tmax": 14.269444444444446,
-    "average_tmin": 3.225694444444444
+    "average_tmin": 3.225694444444444,
+    "population": 21352,
+    "symbol_sort_key": 50
   },
   "Aydın": {
     "average_temp": 17.74,
@@ -829,7 +843,9 @@
     "average_srad": 17718.98511904762,
     "average_wind": 2.670202438675222,
     "average_tmax": 23.709545066243134,
-    "average_tmin": 11.77313988208771
+    "average_tmin": 11.77313988208771,
+    "population": 719197,
+    "symbol_sort_key": 20
   },
   "Balıkesir": {
     "average_temp": 14.93,
@@ -933,7 +949,9 @@
     "average_srad": 16609.552631578947,
     "average_wind": 2.734954980033183,
     "average_tmax": 20.640947749879622,
-    "average_tmin": 9.214515511421434
+    "average_tmin": 9.214515511421434,
+    "population": 232343,
+    "symbol_sort_key": 17
   },
   "Ankara": {
     "average_temp": 12.52,
@@ -1037,7 +1055,9 @@
     "average_srad": 16582.197278911564,
     "average_wind": 2.212481072159852,
     "average_tmax": 18.639423894557822,
-    "average_tmin": 6.406962159863944
+    "average_tmin": 6.406962159863944,
+    "population": 2483902,
+    "symbol_sort_key": 1
   },
   "Aksaray": {
     "average_temp": 12.39,
@@ -1141,7 +1161,9 @@
     "average_srad": 17487.380555555555,
     "average_wind": 2.297494443919923,
     "average_tmax": 19.147604166666667,
-    "average_tmin": 5.623923611111111
+    "average_tmin": 5.623923611111111,
+    "population": 92409,
+    "symbol_sort_key": 45
   },
   "Ardahan": {
     "average_temp": 4.64,
@@ -1245,7 +1267,9 @@
     "average_srad": 15332.035714285712,
     "average_wind": 2.1627152637829856,
     "average_tmax": 10.912549603174604,
-    "average_tmin": -1.635863095238096
+    "average_tmin": -1.635863095238096,
+    "population": 19468,
+    "symbol_sort_key": 50
   },
   "Bartın": {
     "average_temp": 13.19,
@@ -1349,7 +1373,9 @@
     "average_srad": 14686.833333333334,
     "average_wind": 2.48837777475516,
     "average_tmax": 17.994921875,
-    "average_tmin": 8.387109375
+    "average_tmin": 8.387109375,
+    "population": 38372,
+    "symbol_sort_key": 50
   },
   "Batman": {
     "average_temp": 16.67,
@@ -1453,7 +1479,9 @@
     "average_srad": 17345.439814814814,
     "average_wind": 1.9572453719598275,
     "average_tmax": 23.167476851851855,
-    "average_tmin": 10.163078703703704
+    "average_tmin": 10.163078703703704,
+    "population": 963684,
+    "symbol_sort_key": 30
   },
   "Bayburt": {
     "average_temp": 7.67,
@@ -1557,7 +1585,9 @@
     "average_srad": 16064.75,
     "average_wind": 2.0689002899896534,
     "average_tmax": 14.275223214285715,
-    "average_tmin": 1.055952380952381
+    "average_tmin": 1.055952380952381,
+    "population": 23690,
+    "symbol_sort_key": 50
   },
   "Bilecik": {
     "average_temp": 12.99,
@@ -1661,7 +1691,9 @@
     "average_srad": 15844.843137254902,
     "average_wind": 2.049279401699702,
     "average_tmax": 18.900367647058818,
-    "average_tmin": 7.088664215686276
+    "average_tmin": 7.088664215686276,
+    "population": 29543,
+    "symbol_sort_key": 50
   },
   "Bingöl": {
     "average_temp": 10.48,
@@ -1765,7 +1797,9 @@
     "average_srad": 17058.33080808081,
     "average_wind": 1.9325871148494758,
     "average_tmax": 16.929261363636368,
-    "average_tmin": 4.031818181818182
+    "average_tmin": 4.031818181818182,
+    "population": 18159,
+    "symbol_sort_key": 50
   },
   "Bitlis": {
     "average_temp": 10.43,
@@ -1869,7 +1903,9 @@
     "average_srad": 17279.61559139785,
     "average_wind": 1.8848958156442126,
     "average_tmax": 15.589213709677422,
-    "average_tmin": 5.267708333333332
+    "average_tmin": 5.267708333333332,
+    "population": 69552,
+    "symbol_sort_key": 50
   },
   "Bolu": {
     "average_temp": 10.47,
@@ -1973,7 +2009,9 @@
     "average_srad": 15493.025252525256,
     "average_wind": 2.3846565638527726,
     "average_tmax": 15.84804292929293,
-    "average_tmin": 5.097474747474747
+    "average_tmin": 5.097474747474747,
+    "population": 28377,
+    "symbol_sort_key": 50
   },
   "Burdur": {
     "average_temp": 13.38,
@@ -2077,7 +2115,9 @@
     "average_srad": 17207.63888888889,
     "average_wind": 2.113846441477905,
     "average_tmax": 19.626118827160493,
-    "average_tmin": 7.136612654320987
+    "average_tmin": 7.136612654320987,
+    "population": 38145,
+    "symbol_sort_key": 50
   },
   "Bursa": {
     "average_temp": 13.9,
@@ -2181,7 +2221,9 @@
     "average_srad": 15982.792792792794,
     "average_wind": 2.4221086657799047,
     "average_tmax": 19.753800675675677,
-    "average_tmin": 8.040653153153153
+    "average_tmin": 8.040653153153153,
+    "population": 1373666,
+    "symbol_sort_key": 3
   },
   "Çanakkale": {
     "average_temp": 15.8,
@@ -2285,7 +2327,9 @@
     "average_srad": 16365.111904761905,
     "average_wind": 3.182497445174626,
     "average_tmax": 20.556268162046162,
-    "average_tmin": 11.036047609987712
+    "average_tmin": 11.036047609987712,
+    "population": 175566,
+    "symbol_sort_key": 42
   },
   "Çankırı": {
     "average_temp": 11.01,
@@ -2389,7 +2433,9 @@
     "average_srad": 15811.794642857143,
     "average_wind": 2.1624241020707853,
     "average_tmax": 17.37470238095238,
-    "average_tmin": 4.648883928571428
+    "average_tmin": 4.648883928571428,
+    "population": 14187,
+    "symbol_sort_key": 50
   },
   "Çorum": {
     "average_temp": 11.83,
@@ -2493,7 +2539,9 @@
     "average_srad": 15852.753623188402,
     "average_wind": 2.0502490839664484,
     "average_tmax": 18.163451086956517,
-    "average_tmin": 5.492413949275363
+    "average_tmin": 5.492413949275363,
+    "population": 451107,
+    "symbol_sort_key": 40
   },
   "Denizli": {
     "average_temp": 14.25,
@@ -2597,7 +2645,9 @@
     "average_srad": 17207.751851851852,
     "average_wind": 2.2147587928507058,
     "average_tmax": 20.607847222222222,
-    "average_tmin": 7.89287037037037
+    "average_tmin": 7.89287037037037,
+    "population": 916868,
+    "symbol_sort_key": 19
   },
   "Diyarbakır": {
     "average_temp": 16.33,
@@ -2701,7 +2751,9 @@
     "average_srad": 17421.04885057471,
     "average_wind": 1.989628946472859,
     "average_tmax": 23.45529813218391,
-    "average_tmin": 9.213757183908047
+    "average_tmin": 9.213757183908047,
+    "population": 1238794,
+    "symbol_sort_key": 11
   },
   "Düzce": {
     "average_temp": 12.77,
@@ -2805,7 +2857,9 @@
     "average_srad": 15269.203703703706,
     "average_wind": 2.3093841671943665,
     "average_tmax": 17.656249992935745,
-    "average_tmin": 7.880466527409023
+    "average_tmin": 7.880466527409023,
+    "population": 111666,
+    "symbol_sort_key": 47
   },
   "Edirne": {
     "average_temp": 15.5,
@@ -2909,7 +2963,9 @@
     "average_srad": 15137.760869565218,
     "average_wind": 2.2624746211197064,
     "average_tmax": 20.80991847826087,
-    "average_tmin": 10.193523550724636
+    "average_tmin": 10.193523550724636,
+    "population": 139634,
+    "symbol_sort_key": 44
   },
   "Elazığ": {
     "average_temp": 14.49,
@@ -3013,7 +3069,9 @@
     "average_srad": 17227.02450980392,
     "average_wind": 1.9415557556876948,
     "average_tmax": 20.67401960784314,
-    "average_tmin": 8.303308823529411
+    "average_tmin": 8.303308823529411,
+    "population": 477183,
+    "symbol_sort_key": 36
   },
   "Erzincan": {
     "average_temp": 9.89,
@@ -3117,7 +3175,9 @@
     "average_srad": 16463.892045454544,
     "average_wind": 2.0562409957249956,
     "average_tmax": 15.843300189393942,
-    "average_tmin": 3.9333806818181833
+    "average_tmin": 3.9333806818181833,
+    "population": 16179,
+    "symbol_sort_key": 50
   },
   "Erzurum": {
     "average_temp": 6.46,
@@ -3221,7 +3281,9 @@
     "average_srad": 16305.872807017542,
     "average_wind": 2.0987513077886484,
     "average_tmax": 12.917412280701756,
-    "average_tmin": 0.005603070175438892
+    "average_tmin": 0.005603070175438892,
+    "population": 240082,
+    "symbol_sort_key": 29
   },
   "Eskişehir": {
     "average_temp": 12.58,
@@ -3325,7 +3387,9 @@
     "average_srad": 16383.983333333335,
     "average_wind": 2.1913177981521144,
     "average_tmax": 18.51278409090909,
-    "average_tmin": 6.641893939393939
+    "average_tmin": 6.641893939393939,
+    "population": 208204,
+    "symbol_sort_key": 24
   },
   "Gaziantep": {
     "average_temp": 17.64,
@@ -3429,7 +3493,9 @@
     "average_srad": 17871.47333333333,
     "average_wind": 2.2045249978701276,
     "average_tmax": 24.476291666666665,
-    "average_tmin": 10.805208333333333
+    "average_tmin": 10.805208333333333,
+    "population": 218499,
+    "symbol_sort_key": 4
   },
   "Giresun": {
     "average_temp": 10.78,
@@ -3533,7 +3599,9 @@
     "average_srad": 15074.966049382718,
     "average_wind": 2.1356156527260204,
     "average_tmax": 15.761586530708973,
-    "average_tmin": 5.792969098576793
+    "average_tmin": 5.792969098576793,
+    "population": 74640,
+    "symbol_sort_key": 50
   },
   "Gümüşhane": {
     "average_temp": 8.68,
@@ -3637,7 +3705,9 @@
     "average_srad": 15724.102564102564,
     "average_wind": 2.1199839646235494,
     "average_tmax": 14.759615384615387,
-    "average_tmin": 2.606770833333334
+    "average_tmin": 2.606770833333334,
+    "population": 14512,
+    "symbol_sort_key": 50
   },
   "Hakkâri": {
     "average_temp": 10.32,
@@ -3741,7 +3811,9 @@
     "average_srad": 17334.050595238095,
     "average_wind": 2.003758921864487,
     "average_tmax": 15.871912202380953,
-    "average_tmin": 4.768898809523809
+    "average_tmin": 4.768898809523809,
+    "population": 179175,
+    "symbol_sort_key": 50
   },
   "Hatay": {
     "average_temp": 18.79,
@@ -3845,7 +3917,9 @@
     "average_srad": 17447.24603174603,
     "average_wind": 2.5711632683163597,
     "average_tmax": 23.609975328899566,
-    "average_tmin": 13.965399875338115
+    "average_tmin": 13.965399875338115,
+    "population": 898974,
+    "symbol_sort_key": 8
   },
   "Iğdır": {
     "average_temp": 9.9,
@@ -3949,7 +4023,9 @@
     "average_srad": 16194.185897435897,
     "average_wind": 1.8872355620066326,
     "average_tmax": 15.646714743589746,
-    "average_tmin": 4.158653846153846
+    "average_tmin": 4.158653846153846,
+    "population": 54940,
+    "symbol_sort_key": 50
   },
   "Isparta": {
     "average_temp": 12.15,
@@ -4053,7 +4129,9 @@
     "average_srad": 16901.016129032258,
     "average_wind": 2.1570718951763643,
     "average_tmax": 18.23165322580645,
-    "average_tmin": 6.075940860215053
+    "average_tmin": 6.075940860215053,
+    "population": 45815,
+    "symbol_sort_key": 43
   },
   "İstanbul": {
     "average_temp": 15.62,
@@ -4157,7 +4235,9 @@
     "average_srad": 15211.376984126982,
     "average_wind": 2.8227508720897494,
     "average_tmax": 19.921631659401786,
-    "average_tmin": 11.323204507808837
+    "average_tmin": 11.323204507808837,
+    "population": 23162254,
+    "symbol_sort_key": 0
   },
   "İzmir": {
     "average_temp": 17.43,
@@ -4261,7 +4341,9 @@
     "average_srad": 17336.296511627905,
     "average_wind": 3.2532315877980964,
     "average_tmax": 22.951595150407893,
-    "average_tmin": 11.90152579028477
+    "average_tmin": 11.90152579028477,
+    "population": 1741513,
+    "symbol_sort_key": 2
   },
   "Kahramanmaraş": {
     "average_temp": 12.54,
@@ -4365,7 +4447,9 @@
     "average_srad": 17538.81289308176,
     "average_wind": 2.175220516117864,
     "average_tmax": 19.09911556603774,
-    "average_tmin": 5.98555424528302
+    "average_tmin": 5.98555424528302,
+    "population": 172494,
+    "symbol_sort_key": 18
   },
   "Karabük": {
     "average_temp": 11.59,
@@ -4469,7 +4553,9 @@
     "average_srad": 15131.30392156863,
     "average_wind": 2.162595590540007,
     "average_tmax": 16.977389705882356,
-    "average_tmin": 6.195281862745097
+    "average_tmin": 6.195281862745097,
+    "population": 141614,
+    "symbol_sort_key": 50
   },
   "Karaman": {
     "average_temp": 11.7,
@@ -4573,7 +4659,9 @@
     "average_srad": 17578.28333333333,
     "average_wind": 2.282781238357226,
     "average_tmax": 18.05774305555555,
-    "average_tmin": 5.3488541666666665
+    "average_tmin": 5.3488541666666665,
+    "population": 87134,
+    "symbol_sort_key": 50
   },
   "Kars": {
     "average_temp": 6.32,
@@ -4677,7 +4765,9 @@
     "average_srad": 15926.979729729728,
     "average_wind": 2.044943691105456,
     "average_tmax": 12.944960585585584,
-    "average_tmin": -0.30030968468468405
+    "average_tmin": -0.30030968468468405,
+    "population": 66350,
+    "symbol_sort_key": 50
   },
   "Kastamonu": {
     "average_temp": 10.21,
@@ -4781,7 +4871,9 @@
     "average_srad": 14854.501633986927,
     "average_wind": 2.4672881265481315,
     "average_tmax": 15.553370097727553,
-    "average_tmin": 4.862200435131691
+    "average_tmin": 4.862200435131691,
+    "population": 54561,
+    "symbol_sort_key": 50
   },
   "Kayseri": {
     "average_temp": 9.63,
@@ -4885,7 +4977,9 @@
     "average_srad": 17080.43359375,
     "average_wind": 2.3083977818799517,
     "average_tmax": 16.47600911458333,
-    "average_tmin": 2.7911295572916672
+    "average_tmin": 2.7911295572916672,
+    "population": 739642,
+    "symbol_sort_key": 12
   },
   "Kilis": {
     "average_temp": 18.05,
@@ -4989,7 +5083,9 @@
     "average_srad": 17937.104166666668,
     "average_wind": 2.20807292064031,
     "average_tmax": 24.916666666666668,
-    "average_tmin": 11.175520833333332
+    "average_tmin": 11.175520833333332,
+    "population": 14150,
+    "symbol_sort_key": 50
   },
   "Kırıkkale": {
     "average_temp": 13.25,
@@ -5093,7 +5189,9 @@
     "average_srad": 16686.096491228072,
     "average_wind": 2.0739857402809885,
     "average_tmax": 19.489418859649124,
-    "average_tmin": 7.016392543859649
+    "average_tmin": 7.016392543859649,
+    "population": 17089,
+    "symbol_sort_key": 50
   },
   "Kırklareli": {
     "average_temp": 14.77,
@@ -5197,7 +5295,9 @@
     "average_srad": 15064.382716049384,
     "average_wind": 2.5282776859807377,
     "average_tmax": 20.103158439235923,
-    "average_tmin": 9.427003603180252
+    "average_tmin": 9.427003603180252,
+    "population": 70316,
+    "symbol_sort_key": 50
   },
   "Kırşehir": {
     "average_temp": 12.39,
@@ -5301,7 +5401,9 @@
     "average_srad": 16987.843333333338,
     "average_wind": 2.2297666565577186,
     "average_tmax": 18.553083333333333,
-    "average_tmin": 6.225124999999999
+    "average_tmin": 6.225124999999999,
+    "population": 28834,
+    "symbol_sort_key": 50
   },
   "Kocaeli": {
     "average_temp": 15.02,
@@ -5405,7 +5507,9 @@
     "average_srad": 14985.65,
     "average_wind": 2.3758280426263814,
     "average_tmax": 19.706979166666667,
-    "average_tmin": 10.336145833333335
+    "average_tmin": 10.336145833333335,
+    "population": 1865608,
+    "symbol_sort_key": 14
   },
   "Konya": {
     "average_temp": 12.19,
@@ -5509,7 +5613,9 @@
     "average_srad": 17301.82488738739,
     "average_wind": 2.2693081243081132,
     "average_tmax": 18.7793285472973,
-    "average_tmin": 5.59498170045045
+    "average_tmin": 5.59498170045045,
+    "population": 707183,
+    "symbol_sort_key": 5
   },
   "Kütahya": {
     "average_temp": 12.13,
@@ -5613,7 +5719,9 @@
     "average_srad": 16324.634469696968,
     "average_wind": 2.340730111030015,
     "average_tmax": 18.55603693181818,
-    "average_tmin": 5.710203598484849
+    "average_tmin": 5.710203598484849,
+    "population": 306467,
+    "symbol_sort_key": 32
   },
   "Malatya": {
     "average_temp": 12.52,
@@ -5717,7 +5825,9 @@
     "average_srad": 17232.11296296296,
     "average_wind": 2.1511847189179174,
     "average_tmax": 18.697222222222226,
-    "average_tmin": 6.347939814814814
+    "average_tmin": 6.347939814814814,
+    "population": 221271,
+    "symbol_sort_key": 26
   },
   "Manisa": {
     "average_temp": 16.21,
@@ -5821,7 +5931,9 @@
     "average_srad": 17361.107638888887,
     "average_wind": 2.5078111926300655,
     "average_tmax": 22.571723090277775,
-    "average_tmin": 9.843663194444446
+    "average_tmin": 9.843663194444446,
+    "population": 678643,
+    "symbol_sort_key": 13
   },
   "Mardin": {
     "average_temp": 18.24,
@@ -5925,7 +6037,9 @@
     "average_srad": 17547.877976190477,
     "average_wind": 2.149764135479927,
     "average_tmax": 25.386867559523807,
-    "average_tmin": 11.099925595238096
+    "average_tmin": 11.099925595238096,
+    "population": 321792,
+    "symbol_sort_key": 25
   },
   "Mersin": {
     "average_temp": 14.34,
@@ -6029,7 +6143,9 @@
     "average_srad": 17726.524999999998,
     "average_wind": 2.4239683740668827,
     "average_tmax": 19.83299582295948,
-    "average_tmin": 8.85425930539767
+    "average_tmin": 8.85425930539767,
+    "population": 640809,
+    "symbol_sort_key": 10
   },
   "Muğla": {
     "average_temp": 17.13,
@@ -6133,7 +6249,9 @@
     "average_srad": 17724.02951388889,
     "average_wind": 2.9276450967623124,
     "average_tmax": 22.58045996394422,
-    "average_tmin": 11.673851382318473
+    "average_tmin": 11.673851382318473,
+    "population": 659866,
+    "symbol_sort_key": 23
   },
   "Muş": {
     "average_temp": 9.47,
@@ -6237,7 +6355,9 @@
     "average_srad": 17103.81818181818,
     "average_wind": 1.8478169025796836,
     "average_tmax": 15.733459595959596,
-    "average_tmin": 3.2012626262626256
+    "average_tmin": 3.2012626262626256,
+    "population": 44741,
+    "symbol_sort_key": 46
   },
   "Nevşehir": {
     "average_temp": 12.03,
@@ -6341,7 +6461,9 @@
     "average_srad": 17154.8125,
     "average_wind": 2.250843747456869,
     "average_tmax": 18.496822916666662,
-    "average_tmin": 5.556979166666667
+    "average_tmin": 5.556979166666667,
+    "population": 35952,
+    "symbol_sort_key": 50
   },
   "Niğde": {
     "average_temp": 10.2,
@@ -6445,7 +6567,9 @@
     "average_srad": 17310.451923076922,
     "average_wind": 2.3357275594503455,
     "average_tmax": 16.889623397435898,
-    "average_tmin": 3.510296474358975
+    "average_tmin": 3.510296474358975,
+    "population": 46884,
+    "symbol_sort_key": 50
   },
   "Ordu": {
     "average_temp": 11.64,
@@ -6549,7 +6673,9 @@
     "average_srad": 14863.152173913042,
     "average_wind": 2.113735034845877,
     "average_tmax": 16.375303584596384,
-    "average_tmin": 6.903990718776332
+    "average_tmin": 6.903990718776332,
+    "population": 312417,
+    "symbol_sort_key": 35
   },
   "Osmaniye": {
     "average_temp": 18.86,
@@ -6653,7 +6779,9 @@
     "average_srad": 17405.991666666665,
     "average_wind": 1.9810124864180885,
     "average_tmax": 24.39645833333334,
-    "average_tmin": 13.319791666666667
+    "average_tmin": 13.319791666666667,
+    "population": 299021,
+    "symbol_sort_key": 39
   },
   "Rize": {
     "average_temp": 9.64,
@@ -6757,7 +6885,9 @@
     "average_srad": 14459.630952380949,
     "average_wind": 2.4535119696742016,
     "average_tmax": 14.776699862026033,
-    "average_tmin": 4.511504120486123
+    "average_tmin": 4.511504120486123,
+    "population": 51079,
+    "symbol_sort_key": 50
   },
   "Sakarya": {
     "average_temp": 14.35,
@@ -6861,7 +6991,9 @@
     "average_srad": 15326.541666666666,
     "average_wind": 2.098215960794025,
     "average_tmax": 19.177025466053575,
-    "average_tmin": 9.514594907120422
+    "average_tmin": 9.514594907120422,
+    "population": 385574,
+    "symbol_sort_key": 22
   },
   "Samsun": {
     "average_temp": 12.91,
@@ -6965,7 +7097,9 @@
     "average_srad": 14644.877192982456,
     "average_wind": 2.30729621753358,
     "average_tmax": 17.358818401579274,
-    "average_tmin": 8.466374268343573
+    "average_tmin": 8.466374268343573,
+    "population": 453246,
+    "symbol_sort_key": 15
   },
   "Siirt": {
     "average_temp": 15.41,
@@ -7069,7 +7203,9 @@
     "average_srad": 17400.68859649123,
     "average_wind": 1.9095405632989448,
     "average_tmax": 21.039912280701756,
-    "average_tmin": 9.776315789473683
+    "average_tmin": 9.776315789473683,
+    "population": 35316,
+    "symbol_sort_key": 49
   },
   "Sinop": {
     "average_temp": 12.1,
@@ -7173,7 +7309,9 @@
     "average_srad": 14551.863333333335,
     "average_wind": 2.6073123776912692,
     "average_tmax": 16.68009767023722,
-    "average_tmin": 7.5104308557808395
+    "average_tmin": 7.5104308557808395,
+    "population": 47236,
+    "symbol_sort_key": 50
   },
   "Sivas": {
     "average_temp": 9.53,
@@ -7277,7 +7415,9 @@
     "average_srad": 16548.798165137614,
     "average_wind": 2.134291090093986,
     "average_tmax": 16.038426987767586,
-    "average_tmin": 3.0173260703363916
+    "average_tmin": 3.0173260703363916,
+    "population": 158927,
+    "symbol_sort_key": 31
   },
   "Tekirdağ": {
     "average_temp": 15.39,
@@ -7381,7 +7521,9 @@
     "average_srad": 15678.148550724638,
     "average_wind": 2.705235533092333,
     "average_tmax": 20.35288516956827,
-    "average_tmin": 10.418147430579731
+    "average_tmin": 10.418147430579731,
+    "population": 425639,
+    "symbol_sort_key": 21
   },
   "Tokat": {
     "average_temp": 11.46,
@@ -7485,7 +7627,9 @@
     "average_srad": 15715.907894736845,
     "average_wind": 1.9649599709531718,
     "average_tmax": 17.401123903508772,
-    "average_tmin": 5.511239035087719
+    "average_tmin": 5.511239035087719,
+    "population": 232437,
+    "symbol_sort_key": 41
   },
   "Trabzon": {
     "average_temp": 11.08,
@@ -7589,7 +7733,9 @@
     "average_srad": 14409.521929824563,
     "average_wind": 2.2716319017242967,
     "average_tmax": 16.089672950276157,
-    "average_tmin": 6.069475970456476
+    "average_tmin": 6.069475970456476,
+    "population": 186001,
+    "symbol_sort_key": 38
   },
   "Tunceli": {
     "average_temp": 11.67,
@@ -7693,7 +7839,9 @@
     "average_srad": 16833.432098765432,
     "average_wind": 2.011566354904646,
     "average_tmax": 17.557098765432098,
-    "average_tmin": 5.779359567901234
+    "average_tmin": 5.779359567901234,
+    "population": 17466,
+    "symbol_sort_key": 50
   },
   "Uşak": {
     "average_temp": 14.15,
@@ -7797,7 +7945,9 @@
     "average_srad": 16911.763157894737,
     "average_wind": 2.255539463277449,
     "average_tmax": 20.588377192982456,
-    "average_tmin": 7.702960526315791
+    "average_tmin": 7.702960526315791,
+    "population": 44047,
+    "symbol_sort_key": 48
   },
   "Van": {
     "average_temp": 8.26,
@@ -7901,7 +8051,9 @@
     "average_srad": 17135.49,
     "average_wind": 1.9772547104623588,
     "average_tmax": 13.856305555555556,
-    "average_tmin": 2.6611388888888876
+    "average_tmin": 2.6611388888888876,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Yalova": {
     "average_temp": 14.79,
@@ -8005,7 +8157,9 @@
     "average_srad": 15537.8125,
     "average_wind": 2.8021093904972076,
     "average_tmax": 19.612500027815504,
-    "average_tmin": 9.975086805721125
+    "average_tmin": 9.975086805721125,
+    "population": 48694,
+    "symbol_sort_key": 50
   },
   "Yozgat": {
     "average_temp": 11.47,
@@ -8109,7 +8263,9 @@
     "average_srad": 16621.918333333335,
     "average_wind": 2.1826224901278812,
     "average_tmax": 18.075958333333332,
-    "average_tmin": 4.862145833333333
+    "average_tmin": 4.862145833333333,
+    "population": 51067,
+    "symbol_sort_key": 50
   },
   "Zonguldak": {
     "average_temp": 14.02,
@@ -8213,7 +8369,9 @@
     "average_srad": 14931.767857142857,
     "average_wind": 2.3678710467758637,
     "average_tmax": 18.558537564391184,
-    "average_tmin": 9.481752366040434
+    "average_tmin": 9.481752366040434,
+    "population": 364737,
+    "symbol_sort_key": 28
   },
   "Şırnak": {
     "average_temp": 15.77,
@@ -8317,7 +8475,9 @@
     "average_srad": 17528.78273809524,
     "average_wind": 2.00254240773973,
     "average_tmax": 21.37027529761905,
-    "average_tmin": 10.162834821428573
+    "average_tmin": 10.162834821428573,
+    "population": 133359,
+    "symbol_sort_key": 33
   },
   "Şanlıurfa": {
     "average_temp": 19.06,
@@ -8421,6 +8581,8 @@
     "average_srad": 17865.488584474886,
     "average_wind": 2.2231626710663104,
     "average_tmax": 26.08771404109589,
-    "average_tmin": 12.02584189497717
+    "average_tmin": 12.02584189497717,
+    "population": 560453,
+    "symbol_sort_key": 7
   }
 }

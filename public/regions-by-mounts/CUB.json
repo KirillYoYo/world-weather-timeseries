@@ -101,7 +101,9 @@
     "average_srad": 18435.013888888887,
     "average_wind": 3.156566550334295,
     "average_tmax": 30.922569428549878,
-    "average_tmin": 22.213888952467173
+    "average_tmin": 22.213888952467173,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Havana": {
     "average_temp": 26.24,
@@ -205,7 +207,9 @@
     "average_srad": 18111.708333333332,
     "average_wind": 2.929641971985499,
     "average_tmax": 30.253750006357823,
-    "average_tmin": 22.23048617045085
+    "average_tmin": 22.23048617045085,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Matanzas": {
     "average_temp": 26.33,
@@ -309,7 +313,9 @@
     "average_srad": 19184.54375,
     "average_wind": 2.6493921011686328,
     "average_tmax": 30.679520793755845,
-    "average_tmin": 21.980300800005597
+    "average_tmin": 21.980300800005597,
+    "population": 688889,
+    "symbol_sort_key": 6
   },
   "Pinar del Rio": {
     "average_temp": 25.81,
@@ -413,7 +419,9 @@
     "average_srad": 18691.268518518522,
     "average_wind": 2.464125180685962,
     "average_tmax": 30.763327972977255,
-    "average_tmin": 20.846699317885037
+    "average_tmin": 20.846699317885037,
+    "population": 599259,
+    "symbol_sort_key": 7
   },
   "Camagüey": {
     "average_temp": 26.54,
@@ -517,7 +525,9 @@
     "average_srad": 20281.88888888889,
     "average_wind": 2.88934982733594,
     "average_tmax": 31.50724371340539,
-    "average_tmin": 21.571773511171344
+    "average_tmin": 21.571773511171344,
+    "population": 912594,
+    "symbol_sort_key": 4
   },
   "Ciego de Avila": {
     "average_temp": 26.52,
@@ -621,7 +631,9 @@
     "average_srad": 20082.374999999996,
     "average_wind": 2.418376844940764,
     "average_tmax": 31.19349561872936,
-    "average_tmin": 21.85334123883929
+    "average_tmin": 21.85334123883929,
+    "population": 395376,
+    "symbol_sort_key": 12
   },
   "Cienfuegos": {
     "average_temp": 25.68,
@@ -725,7 +737,9 @@
     "average_srad": 19725.648809523806,
     "average_wind": 2.5502782804625377,
     "average_tmax": 30.62945721035912,
-    "average_tmin": 20.721807681946526
+    "average_tmin": 20.721807681946526,
+    "population": 382576,
+    "symbol_sort_key": 14
   },
   "Granma": {
     "average_temp": 26.07,
@@ -829,7 +843,9 @@
     "average_srad": 20451.06172839506,
     "average_wind": 3.457966179759415,
     "average_tmax": 30.850048494927677,
-    "average_tmin": 21.296682847576378
+    "average_tmin": 21.296682847576378,
+    "population": 779571,
+    "symbol_sort_key": 3
   },
   "Guantánamo": {
     "average_temp": 25.25,
@@ -933,7 +949,9 @@
     "average_srad": 19565.87121212121,
     "average_wind": 3.3893184616710195,
     "average_tmax": 29.23858794588031,
-    "average_tmin": 21.26053415789749
+    "average_tmin": 21.26053415789749,
+    "population": 369140,
+    "symbol_sort_key": 9
   },
   "Holguín": {
     "average_temp": 26.42,
@@ -1037,7 +1055,9 @@
     "average_srad": 20040.741071428576,
     "average_wind": 3.832923168937365,
     "average_tmax": 30.653823102088197,
-    "average_tmin": 22.184658736274354
+    "average_tmin": 22.184658736274354,
+    "population": 921511,
+    "symbol_sort_key": 2
   },
   "Las Tunas": {
     "average_temp": 26.84,
@@ -1141,7 +1161,9 @@
     "average_srad": 20273.47463768116,
     "average_wind": 3.5419597962628235,
     "average_tmax": 31.70664681144383,
-    "average_tmin": 21.975829465838444
+    "average_tmin": 21.975829465838444,
+    "population": 536624,
+    "symbol_sort_key": 8
   },
   "Santiago de Cuba": {
     "average_temp": 25.23,
@@ -1245,7 +1267,9 @@
     "average_srad": 20182.499999999996,
     "average_wind": 3.451641642053922,
     "average_tmax": 29.54450126647949,
-    "average_tmin": 20.917192226250965
+    "average_tmin": 20.917192226250965,
+    "population": 834949,
+    "symbol_sort_key": 1
   },
   "Sancti Spiritus": {
     "average_temp": 26.33,
@@ -1349,7 +1373,9 @@
     "average_srad": 20042.216666666664,
     "average_wind": 2.3751552646358807,
     "average_tmax": 30.986893714268998,
-    "average_tmin": 21.6728147761027
+    "average_tmin": 21.6728147761027,
+    "population": 439010,
+    "symbol_sort_key": 11
   },
   "Villa Clara": {
     "average_temp": 25.97,
@@ -1453,7 +1479,9 @@
     "average_srad": 19579.739999999998,
     "average_wind": 2.3818956029415133,
     "average_tmax": 30.83126202901205,
-    "average_tmin": 21.111570475260418
+    "average_tmin": 21.111570475260418,
+    "population": 712992,
+    "symbol_sort_key": 5
   },
   "Artemisa": {
     "average_temp": 25.71,
@@ -1557,7 +1585,9 @@
     "average_srad": 18368.486111111113,
     "average_wind": 2.659369416534901,
     "average_tmax": 30.280393499798247,
-    "average_tmin": 21.138101840019228
+    "average_tmin": 21.138101840019228,
+    "population": 287739,
+    "symbol_sort_key": 10
   },
   "Mayabeque": {
     "average_temp": 26.01,
@@ -1661,6 +1691,8 @@
     "average_srad": 18501.76923076923,
     "average_wind": 2.7427436472513738,
     "average_tmax": 30.096073717948723,
-    "average_tmin": 21.931250000000002
+    "average_tmin": 21.931250000000002,
+    "population": 398242,
+    "symbol_sort_key": 13
   }
 }

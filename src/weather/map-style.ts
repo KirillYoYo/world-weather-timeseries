@@ -319,6 +319,11 @@ export function provinceLabelLayer(filter: WeatherFilter) {
             'text-anchor': 'center' as const,
             'text-allow-overlap': false,
             'text-ignore-placement': false,
+            'symbol-sort-key': [
+                'coalesce',
+                ['get', 'symbol_sort_key'],
+                50,
+            ] as ExpressionSpecification,
         },
         paint: {
             ...labelPaint,

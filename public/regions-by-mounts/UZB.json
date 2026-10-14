@@ -101,7 +101,9 @@
     "average_srad": 15928.821428571428,
     "average_wind": 1.7315922514313742,
     "average_tmax": 21.59107142857143,
-    "average_tmin": 8.624776785714287
+    "average_tmin": 8.624776785714287,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Namangan Region": {
     "average_temp": 12.82,
@@ -205,7 +207,9 @@
     "average_srad": 15777.824074074071,
     "average_wind": 1.926768504543069,
     "average_tmax": 19.216126543209878,
-    "average_tmin": 6.414583333333333
+    "average_tmin": 6.414583333333333,
+    "population": 901141,
+    "symbol_sort_key": 5
   },
   "Fergana Region": {
     "average_temp": 15.66,
@@ -309,7 +313,9 @@
     "average_srad": 15986.255747126437,
     "average_wind": 1.924164502785124,
     "average_tmax": 21.920581896551724,
-    "average_tmin": 9.394540229885058
+    "average_tmin": 9.394540229885058,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Republic of Karakalpakstan": {
     "average_temp": 12.81,
@@ -413,7 +419,9 @@
     "average_srad": 15711.174719375305,
     "average_wind": 3.6247994975673685,
     "average_tmax": 18.578858589555878,
-    "average_tmin": 7.0458074060517335
+    "average_tmin": 7.0458074060517335,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Xorazm Region": {
     "average_temp": 15.0,
@@ -517,7 +525,9 @@
     "average_srad": 16548.646551724138,
     "average_wind": 3.37431895253302,
     "average_tmax": 21.204992816091956,
-    "average_tmin": 8.786422413793103
+    "average_tmin": 8.786422413793103,
+    "population": 430851,
+    "symbol_sort_key": 8
   },
   "Navoiy Region": {
     "average_temp": 15.2,
@@ -621,7 +631,9 @@
     "average_srad": 16470.11472868217,
     "average_wind": 3.3509908893773726,
     "average_tmax": 21.33453972868217,
-    "average_tmin": 9.073367248062015
+    "average_tmin": 9.073367248062015,
+    "population": 359846,
+    "symbol_sort_key": 12
   },
   "Surxondaryo Region": {
     "average_temp": 15.04,
@@ -725,7 +737,9 @@
     "average_srad": 16178.138513513513,
     "average_wind": 2.3882311296624104,
     "average_tmax": 21.08745777027027,
-    "average_tmin": 8.998986486486485
+    "average_tmin": 8.998986486486485,
+    "population": 478400,
+    "symbol_sort_key": 6
   },
   "Samarqand Region": {
     "average_temp": 15.48,
@@ -829,7 +843,9 @@
     "average_srad": 16338.342896174863,
     "average_wind": 2.729650958965385,
     "average_tmax": 21.95409836065574,
-    "average_tmin": 9.015898224043715
+    "average_tmin": 9.015898224043715,
+    "population": 905433,
+    "symbol_sort_key": 0
   },
   "Tashkent Region": {
     "average_temp": 11.35,
@@ -933,7 +949,9 @@
     "average_srad": 15785.641242937854,
     "average_wind": 2.2098852281516557,
     "average_tmax": 17.474329096045196,
-    "average_tmin": 5.231408898305086
+    "average_tmin": 5.231408898305086,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Sirdaryo Region": {
     "average_temp": 16.32,
@@ -1037,7 +1055,9 @@
     "average_srad": 16337.046296296294,
     "average_wind": 2.4312303093848406,
     "average_tmax": 22.46487268518519,
-    "average_tmin": 10.177546296296297
+    "average_tmin": 10.177546296296297,
+    "population": 176414,
+    "symbol_sort_key": 13
   },
   "Jizzakh Region": {
     "average_temp": 14.96,
@@ -1141,7 +1161,9 @@
     "average_srad": 16202.755020080322,
     "average_wind": 2.443232421774462,
     "average_tmax": 21.04889558232932,
-    "average_tmin": 8.87640562248996
+    "average_tmin": 8.87640562248996,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Bukhara Region": {
     "average_temp": 16.67,
@@ -1245,7 +1267,9 @@
     "average_srad": 16768.895695364237,
     "average_wind": 3.3083802435308627,
     "average_tmax": 23.28596164459162,
-    "average_tmin": 10.061099613686535
+    "average_tmin": 10.061099613686535,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Qashqadaryo Region": {
     "average_temp": 15.5,
@@ -1349,7 +1373,9 @@
     "average_srad": 16410.553738317758,
     "average_wind": 2.770736950765889,
     "average_tmax": 21.75581191588785,
-    "average_tmin": 9.252453271028036
+    "average_tmin": 9.252453271028036,
+    "population": 569674,
+    "symbol_sort_key": 3
   },
   "Tashkent": {
     "average_temp": 16.29,
@@ -1453,6 +1479,8 @@
     "average_srad": 16321.083333333334,
     "average_wind": 2.304770827293396,
     "average_tmax": 22.486458333333335,
-    "average_tmin": 10.101041666666669
+    "average_tmin": 10.101041666666669,
+    "population": 0,
+    "symbol_sort_key": 10
   }
 }

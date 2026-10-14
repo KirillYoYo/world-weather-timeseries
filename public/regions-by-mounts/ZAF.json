@@ -101,7 +101,9 @@
     "average_srad": 18240.54563835933,
     "average_wind": 3.032147638719252,
     "average_tmax": 24.199234482596058,
-    "average_tmin": 9.512761476809823
+    "average_tmin": 9.512761476809823,
+    "population": 2735270,
+    "symbol_sort_key": 3
   },
   "Free State": {
     "average_temp": 16.59,
@@ -205,7 +207,9 @@
     "average_srad": 19885.912188473518,
     "average_wind": 2.5871988834343225,
     "average_tmax": 25.34145735981308,
-    "average_tmin": 7.8415011682242985
+    "average_tmin": 7.8415011682242985,
+    "population": 1461788,
+    "symbol_sort_key": 7
   },
   "Gauteng": {
     "average_temp": 17.56,
@@ -309,7 +313,9 @@
     "average_srad": 20011.90395480226,
     "average_wind": 2.4712528170502117,
     "average_tmax": 25.520003531073446,
-    "average_tmin": 9.59828742937853
+    "average_tmin": 9.59828742937853,
+    "population": 10845312,
+    "symbol_sort_key": 0
   },
   "KwaZulu-Natal": {
     "average_temp": 18.79,
@@ -413,7 +419,9 @@
     "average_srad": 17626.223214285714,
     "average_wind": 2.369282602263994,
     "average_tmax": 25.418522608331788,
-    "average_tmin": 12.163437520219134
+    "average_tmin": 12.163437520219134,
+    "population": 3073791,
+    "symbol_sort_key": 1
   },
   "Limpopo": {
     "average_temp": 21.0,
@@ -517,7 +525,9 @@
     "average_srad": 19571.95408163265,
     "average_wind": 2.1427802302348775,
     "average_tmax": 28.327410182823133,
-    "average_tmin": 13.682049851190477
+    "average_tmin": 13.682049851190477,
+    "population": 1003047,
+    "symbol_sort_key": 4
   },
   "Mpumalanga": {
     "average_temp": 18.14,
@@ -621,7 +631,9 @@
     "average_srad": 18889.429411764704,
     "average_wind": 2.1829756474962423,
     "average_tmax": 25.387892156862744,
-    "average_tmin": 10.895404411764707
+    "average_tmin": 10.895404411764707,
+    "population": 854456,
+    "symbol_sort_key": 5
   },
   "North West": {
     "average_temp": 19.39,
@@ -725,7 +737,9 @@
     "average_srad": 20833.174329501915,
     "average_wind": 2.6288905613038733,
     "average_tmax": 28.01029992816092,
-    "average_tmin": 10.761230842911877
+    "average_tmin": 10.761230842911877,
+    "population": 1463355,
+    "symbol_sort_key": 6
   },
   "Nothern Cape": {
     "average_temp": 18.76,
@@ -829,7 +843,9 @@
     "average_srad": 21025.503143392187,
     "average_wind": 2.9819650014592347,
     "average_tmax": 27.48110334387178,
-    "average_tmin": 10.040051563631858
+    "average_tmin": 10.040051563631858,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Western Cape": {
     "average_temp": 17.37,
@@ -933,6 +949,8 @@
     "average_srad": 19106.110988200588,
     "average_wind": 3.2931582642867494,
     "average_tmax": 24.352472331812248,
-    "average_tmin": 10.394357572931105
+    "average_tmin": 10.394357572931105,
+    "population": 2558589,
+    "symbol_sort_key": 2
   }
 }

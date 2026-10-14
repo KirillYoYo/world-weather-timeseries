@@ -101,7 +101,9 @@
     "average_srad": 16349.965517241379,
     "average_wind": 1.1859267251244907,
     "average_tmax": 31.29353448275862,
-    "average_tmin": 23.153951149425286
+    "average_tmin": 23.153951149425286,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Ahafo Region": {
     "average_temp": 26.87,
@@ -205,7 +207,9 @@
     "average_srad": 16127.678571428572,
     "average_wind": 1.2763169549760365,
     "average_tmax": 31.065550595238093,
-    "average_tmin": 22.667931547619048
+    "average_tmin": 22.667931547619048,
+    "population": 66299,
+    "symbol_sort_key": 15
   },
   "Bono East Region": {
     "average_temp": 28.06,
@@ -309,7 +313,9 @@
     "average_srad": 16561.386363636364,
     "average_wind": 1.4601420409450627,
     "average_tmax": 33.0695707070707,
-    "average_tmin": 23.050015782828282
+    "average_tmin": 23.050015782828282,
+    "population": 222225,
+    "symbol_sort_key": 9
   },
   "Savannah Region": {
     "average_temp": 28.63,
@@ -413,7 +419,9 @@
     "average_srad": 17629.45910493827,
     "average_wind": 1.6547183503891214,
     "average_tmax": 34.07654320987654,
-    "average_tmin": 23.1752025462963
+    "average_tmin": 23.1752025462963,
+    "population": 50469,
+    "symbol_sort_key": 13
   },
   "North East Region": {
     "average_temp": 29.04,
@@ -517,7 +525,9 @@
     "average_srad": 18869.56,
     "average_wind": 1.818225813706716,
     "average_tmax": 35.06704166666666,
-    "average_tmin": 23.015666666666664
+    "average_tmin": 23.015666666666664,
+    "population": 10698,
+    "symbol_sort_key": 14
   },
   "Oti Region": {
     "average_temp": 28.23,
@@ -621,7 +631,9 @@
     "average_srad": 16877.255208333332,
     "average_wind": 1.5406015571206808,
     "average_tmax": 33.02919921875,
-    "average_tmin": 23.43232421875
+    "average_tmin": 23.43232421875,
+    "population": 119474,
+    "symbol_sort_key": 12
   },
   "Western Region": {
     "average_temp": 27.11,
@@ -725,7 +737,9 @@
     "average_srad": 16082.80871212121,
     "average_wind": 1.5080453786208776,
     "average_tmax": 30.746105389884026,
-    "average_tmin": 23.47230263912316
+    "average_tmin": 23.47230263912316,
+    "population": 259597,
+    "symbol_sort_key": 4
   },
   "Eastern Region": {
     "average_temp": 27.06,
@@ -829,7 +843,9 @@
     "average_srad": 15945.992559523815,
     "average_wind": 1.3873102688895804,
     "average_tmax": 31.295331101190474,
-    "average_tmin": 22.830989583333334
+    "average_tmin": 22.830989583333334,
+    "population": 653936,
+    "symbol_sort_key": 2
   },
   "Northern Region": {
     "average_temp": 28.87,
@@ -933,7 +949,9 @@
     "average_srad": 18012.953196347033,
     "average_wind": 1.7081866275229955,
     "average_tmax": 34.61287100456621,
-    "average_tmin": 23.117308789954336
+    "average_tmin": 23.117308789954336,
+    "population": 1281539,
+    "symbol_sort_key": 5
   },
   "Central Region": {
     "average_temp": 27.17,
@@ -1037,7 +1055,9 @@
     "average_srad": 15636.666666666666,
     "average_wind": 1.5950822826652298,
     "average_tmax": 30.99142254080091,
-    "average_tmin": 23.357244541531514
+    "average_tmin": 23.357244541531514,
+    "population": 453871,
+    "symbol_sort_key": 3
   },
   "Ashanti Region": {
     "average_temp": 26.74,
@@ -1141,7 +1161,9 @@
     "average_srad": 15812.55707762557,
     "average_wind": 1.298314784079382,
     "average_tmax": 31.096461187214615,
-    "average_tmin": 22.375442351598178
+    "average_tmin": 22.375442351598178,
+    "population": 9605334,
+    "symbol_sort_key": 0
   },
   "Bono Region": {
     "average_temp": 27.33,
@@ -1245,7 +1267,9 @@
     "average_srad": 16476.183823529413,
     "average_wind": 1.392376220693775,
     "average_tmax": 31.986427696078426,
-    "average_tmin": 22.6687806372549
+    "average_tmin": 22.6687806372549,
+    "population": 300490,
+    "symbol_sort_key": 8
   },
   "Volta Region": {
     "average_temp": 27.9,
@@ -1349,7 +1373,9 @@
     "average_srad": 16581.37931034483,
     "average_wind": 1.6218034296200192,
     "average_tmax": 31.98945899722219,
-    "average_tmin": 23.814633069093194
+    "average_tmin": 23.814633069093194,
+    "population": 458407,
+    "symbol_sort_key": 6
   },
   "Upper West Region": {
     "average_temp": 28.57,
@@ -1453,7 +1479,9 @@
     "average_srad": 19200.16388888889,
     "average_wind": 1.8519544937544399,
     "average_tmax": 34.45512152777778,
-    "average_tmin": 22.689531249999998
+    "average_tmin": 22.689531249999998,
+    "population": 175016,
+    "symbol_sort_key": 10
   },
   "Upper East Region": {
     "average_temp": 29.23,
@@ -1557,7 +1585,9 @@
     "average_srad": 19307.132716049382,
     "average_wind": 1.8247715871275207,
     "average_tmax": 35.38429783950618,
-    "average_tmin": 23.067013888888884
+    "average_tmin": 23.067013888888884,
+    "population": 177712,
+    "symbol_sort_key": 7
   },
   "Greater Accra Region": {
     "average_temp": 28.13,
@@ -1661,6 +1691,8 @@
     "average_srad": 16066.083333333336,
     "average_wind": 2.3431552867094676,
     "average_tmax": 32.22898608207702,
-    "average_tmin": 24.025777762730915
+    "average_tmin": 24.025777762730915,
+    "population": 2404846,
+    "symbol_sort_key": 1
   }
 }

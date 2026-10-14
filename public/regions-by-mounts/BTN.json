@@ -101,7 +101,9 @@
     "average_srad": 16352.77380952381,
     "average_wind": 1.7119494009585605,
     "average_tmax": 15.889434523809522,
-    "average_tmin": 7.0897321428571445
+    "average_tmin": 7.0897321428571445,
+    "population": 3037,
+    "symbol_sort_key": 4
   },
   "Trashiyangtse": {
     "average_temp": 10.32,
@@ -205,7 +207,9 @@
     "average_srad": 16400.729166666668,
     "average_wind": 1.7914687544107437,
     "average_tmax": 15.193229166666667,
-    "average_tmin": 5.444531250000001
+    "average_tmin": 5.444531250000001,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Mongar": {
     "average_temp": 17.08,
@@ -309,7 +313,9 @@
     "average_srad": 16569.930555555555,
     "average_wind": 1.3204444472988446,
     "average_tmax": 21.22760416666667,
-    "average_tmin": 12.938541666666666
+    "average_tmin": 12.938541666666666,
+    "population": 3502,
+    "symbol_sort_key": 10
   },
   "Lhuntse": {
     "average_temp": 9.02,
@@ -413,7 +419,9 @@
     "average_srad": 16345.275,
     "average_wind": 1.923989587028821,
     "average_tmax": 13.931562499999998,
-    "average_tmin": 4.108854166666666
+    "average_tmin": 4.108854166666666,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Bumthang": {
     "average_temp": 4.87,
@@ -517,7 +525,9 @@
     "average_srad": 16503.979166666668,
     "average_wind": 2.4133437362809977,
     "average_tmax": 10.014583333333333,
-    "average_tmin": -0.27356770833333366
+    "average_tmin": -0.27356770833333366,
+    "population": 6243,
+    "symbol_sort_key": 9
   },
   "Sarpang": {
     "average_temp": 21.78,
@@ -621,7 +631,9 @@
     "average_srad": 16710.07142857143,
     "average_wind": 1.2118958362511225,
     "average_tmax": 25.832440476190474,
-    "average_tmin": 17.73482142857143
+    "average_tmin": 17.73482142857143,
+    "population": 9858,
+    "symbol_sort_key": 2
   },
   "Trongsa": {
     "average_temp": 10.04,
@@ -725,7 +737,9 @@
     "average_srad": 16397.333333333332,
     "average_wind": 1.84348511553946,
     "average_tmax": 14.681547619047622,
-    "average_tmin": 5.406547619047619
+    "average_tmin": 5.406547619047619,
+    "population": 2695,
+    "symbol_sort_key": 13
   },
   "Tsirang": {
     "average_temp": 18.45,
@@ -829,7 +843,9 @@
     "average_srad": 16618.138888888887,
     "average_wind": 1.333604163593716,
     "average_tmax": 22.34444444444445,
-    "average_tmin": 14.550347222222221
+    "average_tmin": 14.550347222222221,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Dagana": {
     "average_temp": 13.28,
@@ -933,7 +949,9 @@
     "average_srad": 16327.166666666666,
     "average_wind": 1.6075885345538456,
     "average_tmax": 17.398177083333334,
-    "average_tmin": 9.153125000000001
+    "average_tmin": 9.153125000000001,
+    "population": 1146,
+    "symbol_sort_key": 16
   },
   "Wangdue Phodrang": {
     "average_temp": 7.85,
@@ -1037,7 +1055,9 @@
     "average_srad": 16498.07051282051,
     "average_wind": 2.146600950222749,
     "average_tmax": 12.788221153846154,
-    "average_tmin": 2.910176282051282
+    "average_tmin": 2.910176282051282,
+    "population": 6714,
+    "symbol_sort_key": 7
   },
   "Punakha": {
     "average_temp": 12.71,
@@ -1141,7 +1161,9 @@
     "average_srad": 16498.666666666668,
     "average_wind": 1.6431875030199687,
     "average_tmax": 18.184375,
-    "average_tmin": 7.2328125000000005
+    "average_tmin": 7.2328125000000005,
+    "population": 6262,
+    "symbol_sort_key": 8
   },
   "Thimpu": {
     "average_temp": 8.13,
@@ -1245,7 +1267,9 @@
     "average_srad": 16444.69444444444,
     "average_wind": 2.032420126928223,
     "average_tmax": 13.129687499999998,
-    "average_tmin": 3.1274305555555557
+    "average_tmin": 3.1274305555555557,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Gasa": {
     "average_temp": 0.89,
@@ -1349,7 +1373,9 @@
     "average_srad": 16595.266666666666,
     "average_wind": 2.8956729143857953,
     "average_tmax": 6.348645833333333,
-    "average_tmin": -4.562395833333333
+    "average_tmin": -4.562395833333333,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Chukha": {
     "average_temp": 15.27,
@@ -1453,7 +1479,9 @@
     "average_srad": 16369.966666666667,
     "average_wind": 1.4779166638851164,
     "average_tmax": 19.175416666666663,
-    "average_tmin": 11.361666666666666
+    "average_tmin": 11.361666666666666,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Samtse": {
     "average_temp": 17.63,
@@ -1557,7 +1585,9 @@
     "average_srad": 16432.683333333334,
     "average_wind": 1.4218124936024348,
     "average_tmax": 21.504583333333333,
-    "average_tmin": 13.76291666666667
+    "average_tmin": 13.76291666666667,
+    "population": 4981,
+    "symbol_sort_key": 5
   },
   "Haa": {
     "average_temp": 9.18,
@@ -1661,7 +1691,9 @@
     "average_srad": 16361.6,
     "average_wind": 1.9769916733105974,
     "average_tmax": 13.860833333333334,
-    "average_tmin": 4.500208333333334
+    "average_tmin": 4.500208333333334,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Paro": {
     "average_temp": 4.27,
@@ -1765,7 +1797,9 @@
     "average_srad": 16622.305555555555,
     "average_wind": 2.5680833078093,
     "average_tmax": 9.589409722222221,
-    "average_tmin": -1.0508680555555554
+    "average_tmin": -1.0508680555555554,
+    "population": 2362,
+    "symbol_sort_key": 3
   },
   "Pemagatshel": {
     "average_temp": 19.92,
@@ -1869,7 +1903,9 @@
     "average_srad": 16772.94444444444,
     "average_wind": 1.2076250049802992,
     "average_tmax": 24.059375,
-    "average_tmin": 15.779513888888888
+    "average_tmin": 15.779513888888888,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "Samdrup Jongkhar": {
     "average_temp": 20.02,
@@ -1973,7 +2009,9 @@
     "average_srad": 16596.05,
     "average_wind": 1.1517166644334793,
     "average_tmax": 24.171458333333334,
-    "average_tmin": 15.875833333333334
+    "average_tmin": 15.875833333333334,
+    "population": 9325,
+    "symbol_sort_key": 6
   },
   "Zhemgang": {
     "average_temp": 17.99,
@@ -2077,6 +2115,8 @@
     "average_srad": 16584.5,
     "average_wind": 1.3133515622466803,
     "average_tmax": 21.897135416666668,
-    "average_tmin": 14.077343749999999
+    "average_tmin": 14.077343749999999,
+    "population": 2332,
+    "symbol_sort_key": 12
   }
 }

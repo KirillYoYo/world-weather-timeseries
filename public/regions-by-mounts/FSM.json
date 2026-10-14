@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 3126,
+    "symbol_sort_key": 2
   },
   "Chuuk": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 13900,
+    "symbol_sort_key": 1
   },
   "Pohnpei": {
     "average_temp": 27.28,
@@ -309,7 +313,9 @@
     "average_srad": 18757.666666666668,
     "average_wind": 3.414929290612539,
     "average_tmax": 30.011458333333334,
-    "average_tmin": 24.547916666666666
+    "average_tmin": 24.547916666666666,
+    "population": 12301,
+    "symbol_sort_key": 0
   },
   "Kosrae": {
     "average_temp": null,
@@ -413,6 +419,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2591,
+    "symbol_sort_key": 3
   }
 }

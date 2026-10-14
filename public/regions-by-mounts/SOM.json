@@ -101,7 +101,9 @@
     "average_srad": 21125.924166666668,
     "average_wind": 3.008687715530396,
     "average_tmax": 34.512270833333325,
-    "average_tmin": 22.153583333333334
+    "average_tmin": 22.153583333333334,
+    "population": 546745,
+    "symbol_sort_key": 10
   },
   "Sanaag": {
     "average_temp": 23.7,
@@ -205,7 +207,9 @@
     "average_srad": 22948.352604166666,
     "average_wind": 4.513128907978534,
     "average_tmax": 29.734342572887737,
-    "average_tmin": 17.660898239612578
+    "average_tmin": 17.660898239612578,
+    "population": 134800,
+    "symbol_sort_key": 14
   },
   "Banadir": {
     "average_temp": 27.38,
@@ -309,7 +313,9 @@
     "average_srad": 20995.583333333332,
     "average_wind": 4.397582987944285,
     "average_tmax": 32.759722232818596,
-    "average_tmin": 21.993055534362796
+    "average_tmin": 21.993055534362796,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Togdheer": {
     "average_temp": 24.09,
@@ -413,7 +419,9 @@
     "average_srad": 22432.390264026402,
     "average_wind": 3.4645406344149374,
     "average_tmax": 30.599278052805275,
-    "average_tmin": 17.5832095709571
+    "average_tmin": 17.5832095709571,
+    "population": 439286,
+    "symbol_sort_key": 5
   },
   "Bakool": {
     "average_temp": 27.59,
@@ -517,7 +525,9 @@
     "average_srad": 21465.028138528138,
     "average_wind": 2.6892315937585125,
     "average_tmax": 34.18970508658009,
-    "average_tmin": 20.990516774891773
+    "average_tmin": 20.990516774891773,
+    "population": 180105,
+    "symbol_sort_key": 12
   },
   "Gedo": {
     "average_temp": 28.86,
@@ -621,7 +631,9 @@
     "average_srad": 20338.761278195492,
     "average_wind": 2.7141246847192146,
     "average_tmax": 34.910518483709275,
-    "average_tmin": 22.815405701754386
+    "average_tmin": 22.815405701754386,
+    "population": 1244378,
+    "symbol_sort_key": 11
   },
   "Middle Shebelle": {
     "average_temp": 27.66,
@@ -725,7 +737,9 @@
     "average_srad": 20778.607843137255,
     "average_wind": 3.820933934520273,
     "average_tmax": 33.41556644626692,
-    "average_tmin": 21.91012935576096
+    "average_tmin": 21.91012935576096,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Woqooyi Galbeed": {
     "average_temp": 25.09,
@@ -829,7 +843,9 @@
     "average_srad": 22342.522151898735,
     "average_wind": 3.986126045637494,
     "average_tmax": 31.541659258991356,
-    "average_tmin": 18.645857194506167
+    "average_tmin": 18.645857194506167,
+    "population": 1705620,
+    "symbol_sort_key": 2
   },
   "Sool": {
     "average_temp": 25.27,
@@ -933,7 +949,9 @@
     "average_srad": 22584.182870370376,
     "average_wind": 3.6003622690468657,
     "average_tmax": 31.147569444444446,
-    "average_tmin": 19.38761574074074
+    "average_tmin": 19.38761574074074,
+    "population": 95000,
+    "symbol_sort_key": 16
   },
   "Nugaal": {
     "average_temp": 25.51,
@@ -1037,7 +1055,9 @@
     "average_srad": 22531.38194444445,
     "average_wind": 4.041331576686058,
     "average_tmax": 30.424339451487104,
-    "average_tmin": 20.601097056600786
+    "average_tmin": 20.601097056600786,
+    "population": 371700,
+    "symbol_sort_key": 17
   },
   "Mudug": {
     "average_temp": 26.96,
@@ -1141,7 +1161,9 @@
     "average_srad": 21957.231428571427,
     "average_wind": 3.6013397404125755,
     "average_tmax": 32.09719244039626,
-    "average_tmin": 21.820250451587494
+    "average_tmin": 21.820250451587494,
+    "population": 876977,
+    "symbol_sort_key": 8
   },
   "Middle Juba": {
     "average_temp": 27.93,
@@ -1245,7 +1267,9 @@
     "average_srad": 20285.711309523813,
     "average_wind": 3.004908216496309,
     "average_tmax": 33.396291208834874,
-    "average_tmin": 22.471690420309702
+    "average_tmin": 22.471690420309702,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Lower Shebelle": {
     "average_temp": 27.35,
@@ -1349,7 +1373,9 @@
     "average_srad": 20728.64502164502,
     "average_wind": 3.472559138422921,
     "average_tmax": 32.069450172820645,
-    "average_tmin": 22.627954445050396
+    "average_tmin": 22.627954445050396,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Lower Juba": {
     "average_temp": 28.32,
@@ -1453,7 +1479,9 @@
     "average_srad": 19771.530732860523,
     "average_wind": 3.1681885272616754,
     "average_tmax": 33.306082825175984,
-    "average_tmin": 23.329441316978873
+    "average_tmin": 23.329441316978873,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Galgaduud": {
     "average_temp": 27.91,
@@ -1557,7 +1585,9 @@
     "average_srad": 21467.330536912752,
     "average_wind": 3.310640557633684,
     "average_tmax": 33.99309015210043,
-    "average_tmin": 21.819354473344433
+    "average_tmin": 21.819354473344433,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Bay": {
     "average_temp": 27.63,
@@ -1661,7 +1691,9 @@
     "average_srad": 20778.190944881888,
     "average_wind": 2.8468008545909345,
     "average_tmax": 33.26836450131234,
-    "average_tmin": 21.997678805774274
+    "average_tmin": 21.997678805774274,
+    "population": 1657109,
+    "symbol_sort_key": 3
   },
   "Bari": {
     "average_temp": 25.62,
@@ -1765,7 +1797,9 @@
     "average_srad": 22749.18668300654,
     "average_wind": 4.904574863758742,
     "average_tmax": 30.481479859040448,
-    "average_tmin": 20.764459342582555
+    "average_tmin": 20.764459342582555,
+    "population": 1755443,
+    "symbol_sort_key": 6
   },
   "Awdal": {
     "average_temp": 27.78,
@@ -1869,6 +1903,8 @@
     "average_srad": 21471.932624113477,
     "average_wind": 3.318723795261789,
     "average_tmax": 33.192102538440245,
-    "average_tmin": 22.36684397027847
+    "average_tmin": 22.36684397027847,
+    "population": 18600,
+    "symbol_sort_key": 13
   }
 }

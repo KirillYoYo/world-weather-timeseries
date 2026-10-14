@@ -101,7 +101,9 @@
     "average_srad": 14591.535087719298,
     "average_wind": 2.2427796026070914,
     "average_tmax": 17.06315789473684,
-    "average_tmin": 6.094407894736842
+    "average_tmin": 6.094407894736842,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Southwest": {
     "average_temp": 10.53,
@@ -205,7 +207,9 @@
     "average_srad": 14521.654761904763,
     "average_wind": 2.1987916649807073,
     "average_tmax": 15.520238095238094,
-    "average_tmin": 5.531919642857143
+    "average_tmin": 5.531919642857143,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Vardar": {
     "average_temp": 13.48,
@@ -309,7 +313,9 @@
     "average_srad": 14319.544444444446,
     "average_wind": 2.0388555500242442,
     "average_tmax": 19.23333333333333,
-    "average_tmin": 7.727291666666667
+    "average_tmin": 7.727291666666667,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Polog": {
     "average_temp": 9.11,
@@ -413,7 +419,9 @@
     "average_srad": 14175.361111111111,
     "average_wind": 2.4624884249987424,
     "average_tmax": 14.119907407407409,
-    "average_tmin": 4.1067129629629635
+    "average_tmin": 4.1067129629629635,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Southeast": {
     "average_temp": 13.92,
@@ -517,7 +525,9 @@
     "average_srad": 14154.358333333335,
     "average_wind": 1.9446437458197272,
     "average_tmax": 19.473020833333333,
-    "average_tmin": 8.358333333333333
+    "average_tmin": 8.358333333333333,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "East": {
     "average_temp": 11.78,
@@ -621,7 +631,9 @@
     "average_srad": 13827.809523809525,
     "average_wind": 2.3483988011167165,
     "average_tmax": 17.59129464285714,
-    "average_tmin": 5.97671130952381
+    "average_tmin": 5.97671130952381,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Skopje": {
     "average_temp": 11.92,
@@ -725,7 +737,9 @@
     "average_srad": 14215.416666666666,
     "average_wind": 2.295014879533223,
     "average_tmax": 17.351041666666667,
-    "average_tmin": 6.491071428571431
+    "average_tmin": 6.491071428571431,
+    "population": 450909,
+    "symbol_sort_key": 0
   },
   "Northeast": {
     "average_temp": 11.6,
@@ -829,6 +843,8 @@
     "average_srad": 13898.174242424242,
     "average_wind": 2.5065473453565077,
     "average_tmax": 17.280587121212122,
-    "average_tmin": 5.918276515151516
+    "average_tmin": 5.918276515151516,
+    "population": 0,
+    "symbol_sort_key": 6
   }
 }

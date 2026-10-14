@@ -101,7 +101,9 @@
     "average_srad": 16164.713850837137,
     "average_wind": 1.1988049905382396,
     "average_tmax": 31.30415556823947,
-    "average_tmin": 22.507060185185182
+    "average_tmin": 22.507060185185182,
+    "population": 450766,
+    "symbol_sort_key": 26
   },
   "Amapa": {
     "average_temp": 26.68,
@@ -205,7 +207,9 @@
     "average_srad": 16951.048922056387,
     "average_wind": 1.6495878495535445,
     "average_tmax": 31.18490723424883,
-    "average_tmin": 22.169058008652623
+    "average_tmin": 22.169058008652623,
+    "population": 671844,
+    "symbol_sort_key": 24
   },
   "Amazonas": {
     "average_temp": 26.83,
@@ -309,7 +313,9 @@
     "average_srad": 14129.872643903145,
     "average_wind": 0.9958827123920934,
     "average_tmax": 31.286482573945193,
-    "average_tmin": 22.371633953168047
+    "average_tmin": 22.371633953168047,
+    "population": 4177047,
+    "symbol_sort_key": 12
   },
   "Para": {
     "average_temp": 26.64,
@@ -413,7 +419,9 @@
     "average_srad": 15359.966410614523,
     "average_wind": 1.397285531315557,
     "average_tmax": 31.70476926210429,
-    "average_tmin": 21.57642050744879
+    "average_tmin": 21.57642050744879,
+    "population": 6739163,
+    "symbol_sort_key": 7
   },
   "Maranhao": {
     "average_temp": 26.91,
@@ -517,7 +525,9 @@
     "average_srad": 16565.6802507837,
     "average_wind": 0.9962543175428928,
     "average_tmax": 32.297503255062175,
-    "average_tmin": 21.530013428578098
+    "average_tmin": 21.530013428578098,
+    "population": 5369764,
+    "symbol_sort_key": 11
   },
   "Ceara": {
     "average_temp": 26.32,
@@ -621,7 +631,9 @@
     "average_srad": 17787.829885057476,
     "average_wind": 1.8196179005492235,
     "average_tmax": 31.56875894005728,
-    "average_tmin": 21.07764463585455
+    "average_tmin": 21.07764463585455,
+    "population": 10368466,
+    "symbol_sort_key": 9
   },
   "Rio Granda do Norte": {
     "average_temp": 26.41,
@@ -725,7 +737,9 @@
     "average_srad": 18463.302013422817,
     "average_wind": 2.116425977857321,
     "average_tmax": 31.406685897434585,
-    "average_tmin": 21.417669499160457
+    "average_tmin": 21.417669499160457,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Paraiba": {
     "average_temp": 24.57,
@@ -829,7 +843,9 @@
     "average_srad": 18374.864837398374,
     "average_wind": 2.040460842775136,
     "average_tmax": 29.568692484662577,
-    "average_tmin": 19.575671012269936
+    "average_tmin": 19.575671012269936,
+    "population": 3328243,
+    "symbol_sort_key": 13
   },
   "Piaui": {
     "average_temp": 26.66,
@@ -933,7 +949,9 @@
     "average_srad": 17694.11081202333,
     "average_wind": 1.065746084557568,
     "average_tmax": 32.921129149842976,
-    "average_tmin": 20.389844100493494
+    "average_tmin": 20.389844100493494,
+    "population": 4347500,
+    "symbol_sort_key": 18
   },
   "Pernambuco": {
     "average_temp": 23.9,
@@ -1037,7 +1055,9 @@
     "average_srad": 17933.80439814815,
     "average_wind": 1.9442212635099336,
     "average_tmax": 29.16732294415986,
-    "average_tmin": 18.62667073154891
+    "average_tmin": 18.62667073154891,
+    "population": 9148558,
+    "symbol_sort_key": 6
   },
   "Alagoas": {
     "average_temp": 24.44,
@@ -1141,7 +1161,9 @@
     "average_srad": 18482.726027397257,
     "average_wind": 1.9839248093840196,
     "average_tmax": 28.859790204104765,
-    "average_tmin": 20.021133354918597
+    "average_tmin": 20.021133354918597,
+    "population": 3067926,
+    "symbol_sort_key": 19
   },
   "Acre": {
     "average_temp": 25.48,
@@ -1245,7 +1267,9 @@
     "average_srad": 13906.5080472103,
     "average_wind": 0.8990837794879135,
     "average_tmax": 30.73678469241774,
-    "average_tmin": 20.231873658798282
+    "average_tmin": 20.231873658798282,
+    "population": 727334,
+    "symbol_sort_key": 25
   },
   "Rondonia": {
     "average_temp": 25.72,
@@ -1349,7 +1373,9 @@
     "average_srad": 14138.32459207459,
     "average_wind": 1.4424673644534913,
     "average_tmax": 31.665227272727268,
-    "average_tmin": 19.78197406759907
+    "average_tmin": 19.78197406759907,
+    "population": 1466237,
+    "symbol_sort_key": 22
   },
   "Sergipe": {
     "average_temp": 24.8,
@@ -1453,7 +1479,9 @@
     "average_srad": 18114.378676470587,
     "average_wind": 1.9444153454958224,
     "average_tmax": 29.32625400552563,
-    "average_tmin": 20.270810000101722
+    "average_tmin": 20.270810000101722,
+    "population": 2116940,
+    "symbol_sort_key": 21
   },
   "Tocantins": {
     "average_temp": 26.62,
@@ -1557,7 +1585,9 @@
     "average_srad": 16233.685196435805,
     "average_wind": 1.3693637367550686,
     "average_tmax": 32.83782654921021,
-    "average_tmin": 20.39423982381531
+    "average_tmin": 20.39423982381531,
+    "population": 1161085,
+    "symbol_sort_key": 23
   },
   "Bahia": {
     "average_temp": 24.11,
@@ -1661,7 +1691,9 @@
     "average_srad": 17140.638872344654,
     "average_wind": 1.6798182579557264,
     "average_tmax": 30.176308344242145,
-    "average_tmin": 18.0452494530586
+    "average_tmin": 18.0452494530586,
+    "population": 13801262,
+    "symbol_sort_key": 3
   },
   "Mato Grosso": {
     "average_temp": 25.75,
@@ -1765,7 +1797,9 @@
     "average_srad": 15062.955743533164,
     "average_wind": 1.4367554437643584,
     "average_tmax": 32.45761462547505,
-    "average_tmin": 19.033113430182663
+    "average_tmin": 19.033113430182663,
+    "population": 2745056,
+    "symbol_sort_key": 15
   },
   "Goias": {
     "average_temp": 24.51,
@@ -1869,7 +1903,9 @@
     "average_srad": 16232.822755167961,
     "average_wind": 1.706091606118343,
     "average_tmax": 30.684069161821707,
-    "average_tmin": 18.335856750645995
+    "average_tmin": 18.335856750645995,
+    "population": 5232056,
+    "symbol_sort_key": 8
   },
   "Distrito Federal": {
     "average_temp": 22.11,
@@ -1973,7 +2009,9 @@
     "average_srad": 16480.286458333332,
     "average_wind": 1.758654948323965,
     "average_tmax": 27.985091145833334,
-    "average_tmin": 16.232942708333333
+    "average_tmin": 16.232942708333333,
+    "population": 3555273,
+    "symbol_sort_key": 17
   },
   "Minas Gerais": {
     "average_temp": 22.41,
@@ -2077,7 +2115,9 @@
     "average_srad": 15712.17312981298,
     "average_wind": 1.4685402544598507,
     "average_tmax": 28.70530803080308,
-    "average_tmin": 16.122907499083244
+    "average_tmin": 16.122907499083244,
+    "population": 22403262,
+    "symbol_sort_key": 1
   },
   "Espirito Santo": {
     "average_temp": 23.18,
@@ -2181,7 +2221,9 @@
     "average_srad": 15242.636054421768,
     "average_wind": 1.629423982905152,
     "average_tmax": 28.431009038724863,
-    "average_tmin": 17.931938281124584
+    "average_tmin": 17.931938281124584,
+    "population": 3852617,
+    "symbol_sort_key": 14
   },
   "Mato Grosso do Sul": {
     "average_temp": 24.71,
@@ -2285,7 +2327,9 @@
     "average_srad": 15781.873420577615,
     "average_wind": 2.525818663805042,
     "average_tmax": 30.89069268953069,
-    "average_tmin": 18.523569118531892
+    "average_tmin": 18.523569118531892,
+    "population": 2344926,
+    "symbol_sort_key": 20
   },
   "Rio de Jeneiro": {
     "average_temp": 22.39,
@@ -2389,7 +2433,9 @@
     "average_srad": 14714.327250608272,
     "average_wind": 2.117223576110065,
     "average_tmax": 27.716626193517612,
-    "average_tmin": 17.056684472323045
+    "average_tmin": 17.056684472323045,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Sao Paulo": {
     "average_temp": 22.07,
@@ -2493,7 +2539,9 @@
     "average_srad": 14953.358492569001,
     "average_wind": 2.149106931395339,
     "average_tmax": 27.9865693093966,
-    "average_tmin": 16.158431388648452
+    "average_tmin": 16.158431388648452,
+    "population": 56120006,
+    "symbol_sort_key": 0
   },
   "Parana": {
     "average_temp": 19.83,
@@ -2597,7 +2645,9 @@
     "average_srad": 14955.76338582677,
     "average_wind": 2.1706747420034382,
     "average_tmax": 26.06464707562304,
-    "average_tmin": 13.58778530804191
+    "average_tmin": 13.58778530804191,
+    "population": 9800612,
+    "symbol_sort_key": 4
   },
   "Santa Catarina": {
     "average_temp": 17.95,
@@ -2701,7 +2751,9 @@
     "average_srad": 14050.124188311689,
     "average_wind": 2.3147237201854263,
     "average_tmax": 23.42704987608509,
-    "average_tmin": 12.469370594530396
+    "average_tmin": 12.469370594530396,
+    "population": 6560980,
+    "symbol_sort_key": 10
   },
   "Rio Grande do Sul": {
     "average_temp": 19.47,
@@ -2805,6 +2857,8 @@
     "average_srad": 15188.01875699888,
     "average_wind": 2.7069301299748028,
     "average_tmax": 24.70959673306977,
-    "average_tmin": 14.235329061437335
+    "average_tmin": 14.235329061437335,
+    "population": 9365202,
+    "symbol_sort_key": 5
   }
 }

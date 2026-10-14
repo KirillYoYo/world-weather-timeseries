@@ -101,7 +101,9 @@
     "average_srad": 19913.09946236559,
     "average_wind": 3.0387054495914008,
     "average_tmax": 26.99557422480703,
-    "average_tmin": 14.700299431431679
+    "average_tmin": 14.700299431431679,
+    "population": 0,
+    "symbol_sort_key": 24
   },
   "South Sinai Governorate": {
     "average_temp": 21.18,
@@ -205,7 +207,9 @@
     "average_srad": 20224.3823024055,
     "average_wind": 3.32348528043511,
     "average_tmax": 27.10322607276366,
-    "average_tmin": 15.262594482251458
+    "average_tmin": 15.262594482251458,
+    "population": 0,
+    "symbol_sort_key": 26
   },
   "Aswan Governorate": {
     "average_temp": 27.08,
@@ -309,7 +313,9 @@
     "average_srad": 22048.88187285223,
     "average_wind": 3.22553038627831,
     "average_tmax": 35.546305841924394,
-    "average_tmin": 18.61316580756014
+    "average_tmin": 18.61316580756014,
+    "population": 1352595,
+    "symbol_sort_key": 18
   },
   "Red Sea Governorate": {
     "average_temp": 25.2,
@@ -413,7 +419,9 @@
     "average_srad": 21359.865784008307,
     "average_wind": 3.1825679666899442,
     "average_tmax": 32.413267963326234,
-    "average_tmin": 17.987210019454285
+    "average_tmin": 17.987210019454285,
+    "population": 0,
+    "symbol_sort_key": 25
   },
   "Matrouh Governorate": {
     "average_temp": 21.69,
@@ -517,7 +525,9 @@
     "average_srad": 20521.302480916027,
     "average_wind": 3.239457451110427,
     "average_tmax": 28.029967555623628,
-    "average_tmin": 15.348299135081945
+    "average_tmin": 15.348299135081945,
+    "population": 0,
+    "symbol_sort_key": 23
   },
   "New Valley Governorate": {
     "average_temp": 23.92,
@@ -621,7 +631,9 @@
     "average_srad": 22008.958333333332,
     "average_wind": 3.252803216463288,
     "average_tmax": 32.331813365568294,
-    "average_tmin": 15.515863777459407
+    "average_tmin": 15.515863777459407,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "Alexandria Governorate": {
     "average_temp": 22.35,
@@ -725,7 +737,9 @@
     "average_srad": 19819.185185185182,
     "average_wind": 3.208048809457708,
     "average_tmax": 27.63900338278877,
-    "average_tmin": 17.056849052287912
+    "average_tmin": 17.056849052287912,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Ismailia Governorate": {
     "average_temp": 22.68,
@@ -829,7 +843,9 @@
     "average_srad": 19963.791666666668,
     "average_wind": 2.867975264787674,
     "average_tmax": 28.759700520833338,
-    "average_tmin": 16.603515624999996
+    "average_tmin": 16.603515624999996,
+    "population": 0,
+    "symbol_sort_key": 20
   },
   "Suez Governorate": {
     "average_temp": 21.7,
@@ -933,7 +949,9 @@
     "average_srad": 20380.42929292929,
     "average_wind": 3.2341274312048243,
     "average_tmax": 28.236760809927276,
-    "average_tmin": 15.156676309758966
+    "average_tmin": 15.156676309758966,
+    "population": 0,
+    "symbol_sort_key": 22
   },
   "Gharbiyya Governorate": {
     "average_temp": 21.49,
@@ -1037,7 +1055,9 @@
     "average_srad": 19840.607142857145,
     "average_wind": 2.4955773722557795,
     "average_tmax": 27.633482142857147,
-    "average_tmin": 15.354613095238095
+    "average_tmin": 15.354613095238095,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Faiyum Governorate": {
     "average_temp": 22.81,
@@ -1141,7 +1161,9 @@
     "average_srad": 20810.658333333333,
     "average_wind": 2.949790623784066,
     "average_tmax": 30.055260416666666,
-    "average_tmin": 15.569531250000002
+    "average_tmin": 15.569531250000002,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Beni Suef Governorate": {
     "average_temp": 22.41,
@@ -1245,7 +1267,9 @@
     "average_srad": 21012.71505376344,
     "average_wind": 2.8386908570925393,
     "average_tmax": 29.86034946236559,
-    "average_tmin": 14.957896505376342
+    "average_tmin": 14.957896505376342,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Minya Governate": {
     "average_temp": 22.54,
@@ -1349,7 +1373,9 @@
     "average_srad": 21314.576121794875,
     "average_wind": 2.9090783141362357,
     "average_tmax": 29.995202323717947,
-    "average_tmin": 15.093149038461538
+    "average_tmin": 15.093149038461538,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Asyut Governorate": {
     "average_temp": 22.61,
@@ -1453,7 +1479,9 @@
     "average_srad": 21378.83522727273,
     "average_wind": 2.908046878648527,
     "average_tmax": 29.80482954545455,
-    "average_tmin": 15.424550189393939
+    "average_tmin": 15.424550189393939,
+    "population": 2407639,
+    "symbol_sort_key": 10
   },
   "Sohag Governorate": {
     "average_temp": 23.65,
@@ -1557,7 +1585,9 @@
     "average_srad": 21582.0,
     "average_wind": 2.9499829622230145,
     "average_tmax": 31.006691919191923,
-    "average_tmin": 16.298169191919193
+    "average_tmin": 16.298169191919193,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Qena Governorate": {
     "average_temp": 25.21,
@@ -1661,7 +1691,9 @@
     "average_srad": 21606.762820512824,
     "average_wind": 2.8893691291156998,
     "average_tmax": 32.907532051282054,
-    "average_tmin": 17.51255341880342
+    "average_tmin": 17.51255341880342,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Luxor Governate": {
     "average_temp": 25.83,
@@ -1765,7 +1797,9 @@
     "average_srad": 21763.428571428572,
     "average_wind": 2.872374994414193,
     "average_tmax": 34.19806547619048,
-    "average_tmin": 17.46160714285714
+    "average_tmin": 17.46160714285714,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Giza Governorate": {
     "average_temp": 22.22,
@@ -1869,7 +1903,9 @@
     "average_srad": 21031.3462962963,
     "average_wind": 2.9557530894691557,
     "average_tmax": 29.533726851851853,
-    "average_tmin": 14.899691358024695
+    "average_tmin": 14.899691358024695,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Monufia Governorate": {
     "average_temp": 22.06,
@@ -1973,7 +2009,9 @@
     "average_srad": 19986.697916666668,
     "average_wind": 2.7594557429353395,
     "average_tmax": 28.743489583333332,
-    "average_tmin": 15.380078125000002
+    "average_tmin": 15.380078125000002,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Beheira Governorate": {
     "average_temp": 22.51,
@@ -2077,7 +2115,9 @@
     "average_srad": 19925.532407407405,
     "average_wind": 2.8114467839951867,
     "average_tmax": 28.605998399522566,
-    "average_tmin": 16.420014604374213
+    "average_tmin": 16.420014604374213,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Cairo Governorate": {
     "average_temp": 22.12,
@@ -2181,7 +2221,9 @@
     "average_srad": 20151.520833333332,
     "average_wind": 2.7898802186052003,
     "average_tmax": 29.040234375,
-    "average_tmin": 15.206249999999999
+    "average_tmin": 15.206249999999999,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Qalyubia Governorate": {
     "average_temp": 22.4,
@@ -2285,7 +2327,9 @@
     "average_srad": 19957.5,
     "average_wind": 2.7520139084921937,
     "average_tmax": 28.978125000000002,
-    "average_tmin": 15.81736111111111
+    "average_tmin": 15.81736111111111,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Dakahlia Governorate": {
     "average_temp": 21.9,
@@ -2389,7 +2433,9 @@
     "average_srad": 19743.8782051282,
     "average_wind": 2.7447515756655965,
     "average_tmax": 27.2197916715573,
-    "average_tmin": 16.571233965189027
+    "average_tmin": 16.571233965189027,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Damietta Governorate": {
     "average_temp": 21.79,
@@ -2493,7 +2539,9 @@
     "average_srad": 19627.145833333332,
     "average_wind": 2.972435841957728,
     "average_tmax": 26.445312500000004,
-    "average_tmin": 17.128125
+    "average_tmin": 17.128125,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Kafr el-Sheikh Governorate": {
     "average_temp": 21.79,
@@ -2597,7 +2645,9 @@
     "average_srad": 19646.0,
     "average_wind": 2.85769287439493,
     "average_tmax": 26.778360056265807,
-    "average_tmin": 16.798985066780677
+    "average_tmin": 16.798985066780677,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Port Said Governorate": {
     "average_temp": 22.87,
@@ -2701,7 +2751,9 @@
     "average_srad": 19797.708333333332,
     "average_wind": 3.227846523125967,
     "average_tmax": 27.663368092642887,
-    "average_tmin": 18.078231830067104
+    "average_tmin": 18.078231830067104,
+    "population": 0,
+    "symbol_sort_key": 21
   },
   "Al Sharqia Governorate": {
     "average_temp": 22.06,
@@ -2805,6 +2857,8 @@
     "average_srad": 19879.068627450983,
     "average_wind": 2.6053431349642135,
     "average_tmax": 28.128737745098036,
-    "average_tmin": 15.991727941176471
+    "average_tmin": 15.991727941176471,
+    "population": 0,
+    "symbol_sort_key": 3
   }
 }

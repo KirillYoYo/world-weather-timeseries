@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 4227569,
+    "symbol_sort_key": 3
   },
   "Gao": {
     "average_temp": 30.16,
@@ -205,7 +207,9 @@
     "average_srad": 21717.98364485981,
     "average_wind": 2.953993302583695,
     "average_tmax": 37.52875973520249,
-    "average_tmin": 22.7985007788162
+    "average_tmin": 22.7985007788162,
+    "population": 231438,
+    "symbol_sort_key": 7
   },
   "Kayes": {
     "average_temp": 29.1,
@@ -309,7 +313,9 @@
     "average_srad": 20389.780136986305,
     "average_wind": 2.3031232830051955,
     "average_tmax": 35.97984874429224,
-    "average_tmin": 22.226660958904105
+    "average_tmin": 22.226660958904105,
+    "population": 2819478,
+    "symbol_sort_key": 4
   },
   "Kidal": {
     "average_temp": 28.77,
@@ -413,7 +419,9 @@
     "average_srad": 21873.502183406115,
     "average_wind": 3.480894601891656,
     "average_tmax": 36.219994086608445,
-    "average_tmin": 21.324388191411934
+    "average_tmin": 21.324388191411934,
+    "population": 26778,
+    "symbol_sort_key": 8
   },
   "Koulikouro": {
     "average_temp": 28.53,
@@ -517,7 +525,9 @@
     "average_srad": 20452.94344163658,
     "average_wind": 2.3262677416474378,
     "average_tmax": 36.279858604091466,
-    "average_tmin": 20.787052496991574
+    "average_tmin": 20.787052496991574,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Mopti": {
     "average_temp": 29.04,
@@ -621,7 +631,9 @@
     "average_srad": 20972.392708333333,
     "average_wind": 2.5043480794048976,
     "average_tmax": 36.46398871527778,
-    "average_tmin": 21.61109809027778
+    "average_tmin": 21.61109809027778,
+    "population": 1056996,
+    "symbol_sort_key": 5
   },
   "Segou": {
     "average_temp": 28.75,
@@ -725,7 +737,9 @@
     "average_srad": 20733.48492907801,
     "average_wind": 2.3003979373908208,
     "average_tmax": 36.56669991134752,
-    "average_tmin": 20.94109596631206
+    "average_tmin": 20.94109596631206,
+    "population": 1524886,
+    "symbol_sort_key": 2
   },
   "Sikasso": {
     "average_temp": 28.1,
@@ -829,7 +843,9 @@
     "average_srad": 19770.861242138366,
     "average_wind": 1.891162725411496,
     "average_tmax": 34.64657036163522,
-    "average_tmin": 21.547823309748427
+    "average_tmin": 21.547823309748427,
+    "population": 1992749,
+    "symbol_sort_key": 1
   },
   "Tombouctou": {
     "average_temp": 29.17,
@@ -933,6 +949,8 @@
     "average_srad": 21737.241281557555,
     "average_wind": 3.458533224440508,
     "average_tmax": 36.655752567394096,
-    "average_tmin": 21.678865131578945
+    "average_tmin": 21.678865131578945,
+    "population": 334213,
+    "symbol_sort_key": 6
   }
 }

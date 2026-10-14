@@ -101,7 +101,9 @@
     "average_srad": 20003.333333333332,
     "average_wind": 1.912374993165334,
     "average_tmax": 30.172916666666666,
-    "average_tmin": 18.847916666666663
+    "average_tmin": 18.847916666666663,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Departamento de Usulután": {
     "average_temp": 26.12,
@@ -205,7 +207,9 @@
     "average_srad": 19817.260416666668,
     "average_wind": 2.382685698568821,
     "average_tmax": 31.201770853996276,
-    "average_tmin": 21.0452517191569
+    "average_tmin": 21.0452517191569,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "La Libertad": {
     "average_temp": 24.78,
@@ -309,7 +313,9 @@
     "average_srad": 19940.033333333333,
     "average_wind": 2.1815333306789397,
     "average_tmax": 30.440416666666664,
-    "average_tmin": 19.124166666666664
+    "average_tmin": 19.124166666666664,
+    "population": 693932,
+    "symbol_sort_key": 1
   },
   "Departamento de Ahuachapán": {
     "average_temp": 25.29,
@@ -413,7 +419,9 @@
     "average_srad": 20075.708333333332,
     "average_wind": 2.2812255769968033,
     "average_tmax": 30.58020833333333,
-    "average_tmin": 19.99198712507884
+    "average_tmin": 19.99198712507884,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Departamento de Sonsonate": {
     "average_temp": 25.81,
@@ -517,7 +525,9 @@
     "average_srad": 19988.5625,
     "average_wind": 2.330122284591198,
     "average_tmax": 31.27552083333333,
-    "average_tmin": 20.344010416666666
+    "average_tmin": 20.344010416666666,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "San Vicente": {
     "average_temp": 25.83,
@@ -621,7 +631,9 @@
     "average_srad": 19473.61111111111,
     "average_wind": 2.03334026866489,
     "average_tmax": 31.28611111111111,
-    "average_tmin": 20.376388888888886
+    "average_tmin": 20.376388888888886,
+    "population": 118777,
+    "symbol_sort_key": 12
   },
   "Departamento de San Miguel": {
     "average_temp": 25.87,
@@ -725,7 +737,9 @@
     "average_srad": 20342.19444444445,
     "average_wind": 2.0945416241884227,
     "average_tmax": 31.392361111111114,
-    "average_tmin": 20.344965277777778
+    "average_tmin": 20.344965277777778,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Departamento de La Unión": {
     "average_temp": 27.07,
@@ -829,7 +843,9 @@
     "average_srad": 20776.983333333334,
     "average_wind": 2.3312740763028463,
     "average_tmax": 32.67383330663045,
-    "average_tmin": 21.463722235361733
+    "average_tmin": 21.463722235361733,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Departamento de Morazán": {
     "average_temp": 24.79,
@@ -933,7 +949,9 @@
     "average_srad": 20578.979166666668,
     "average_wind": 1.9469479123751323,
     "average_tmax": 30.65520833333333,
-    "average_tmin": 18.920572916666668
+    "average_tmin": 18.920572916666668,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Departamento de La Paz": {
     "average_temp": 25.94,
@@ -1037,7 +1055,9 @@
     "average_srad": 19312.1875,
     "average_wind": 2.328940716882547,
     "average_tmax": 30.96781996885935,
-    "average_tmin": 20.90740328629812
+    "average_tmin": 20.90740328629812,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Departamento de Santa Ana": {
     "average_temp": 23.48,
@@ -1141,7 +1161,9 @@
     "average_srad": 20213.0625,
     "average_wind": 1.9849843606352806,
     "average_tmax": 28.983333333333334,
-    "average_tmin": 17.984114583333334
+    "average_tmin": 17.984114583333334,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Departamento de Chalatenango": {
     "average_temp": 24.71,
@@ -1245,7 +1267,9 @@
     "average_srad": 20078.70238095238,
     "average_wind": 1.7953958326861972,
     "average_tmax": 30.473363095238096,
-    "average_tmin": 18.95029761904762
+    "average_tmin": 18.95029761904762,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Departamento de San Salvador": {
     "average_temp": 23.98,
@@ -1349,7 +1373,9 @@
     "average_srad": 19962.833333333332,
     "average_wind": 2.154635414481163,
     "average_tmax": 29.55416666666667,
-    "average_tmin": 18.41302083333333
+    "average_tmin": 18.41302083333333,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Departamento de Cabañas": {
     "average_temp": 25.45,
@@ -1453,6 +1479,8 @@
     "average_srad": 20005.375,
     "average_wind": 1.7270625134309132,
     "average_tmax": 31.240624999999998,
-    "average_tmin": 19.651302083333334
+    "average_tmin": 19.651302083333334,
+    "population": 0,
+    "symbol_sort_key": 13
   }
 }

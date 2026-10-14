@@ -101,7 +101,9 @@
     "average_srad": 19301.635057471263,
     "average_wind": 2.1957454736205353,
     "average_tmax": 28.872334776253535,
-    "average_tmin": 21.87473755321284
+    "average_tmin": 21.87473755321284,
+    "population": 58496,
+    "symbol_sort_key": 15
   },
   "Central Province": {
     "average_temp": 23.3,
@@ -205,7 +207,9 @@
     "average_srad": 18506.833333333332,
     "average_wind": 2.845837826078588,
     "average_tmax": 27.77894154425823,
-    "average_tmin": 18.82211227380868
+    "average_tmin": 18.82211227380868,
+    "population": 230,
+    "symbol_sort_key": 13
   },
   "Chimbu (Simbu) Province": {
     "average_temp": 18.61,
@@ -309,7 +313,9 @@
     "average_srad": 15402.037037037042,
     "average_wind": 2.5149398109427206,
     "average_tmax": 24.147222222222222,
-    "average_tmin": 13.063715277777776
+    "average_tmin": 13.063715277777776,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "East New Britain Province": {
     "average_temp": 23.68,
@@ -413,7 +419,9 @@
     "average_srad": 18588.06111111111,
     "average_wind": 2.542750663889779,
     "average_tmax": 27.43466661947745,
-    "average_tmin": 19.934754519992406
+    "average_tmin": 19.934754519992406,
+    "population": 27286,
+    "symbol_sort_key": 12
   },
   "East Sepik Province": {
     "average_temp": 25.66,
@@ -517,7 +525,9 @@
     "average_srad": 16000.888242894056,
     "average_wind": 1.4216673326045657,
     "average_tmax": 30.528183925983512,
-    "average_tmin": 20.79997523403907
+    "average_tmin": 20.79997523403907,
+    "population": 25143,
+    "symbol_sort_key": 8
   },
   "Eastern Highlands Province": {
     "average_temp": 18.16,
@@ -621,7 +631,9 @@
     "average_srad": 15383.526960784313,
     "average_wind": 2.536102935379627,
     "average_tmax": 23.591482843137253,
-    "average_tmin": 12.730575980392159
+    "average_tmin": 12.730575980392159,
+    "population": 21507,
+    "symbol_sort_key": 2
   },
   "Enga Province": {
     "average_temp": 15.37,
@@ -725,7 +737,9 @@
     "average_srad": 15141.041666666666,
     "average_wind": 3.2670937357470393,
     "average_tmax": 20.774967447916666,
-    "average_tmin": 9.970703124999998
+    "average_tmin": 9.970703124999998,
+    "population": 4072,
+    "symbol_sort_key": 3
   },
   "Gulf Province": {
     "average_temp": 24.89,
@@ -829,7 +843,9 @@
     "average_srad": 16941.243265993267,
     "average_wind": 1.9532703070427833,
     "average_tmax": 29.77918921448165,
-    "average_tmin": 19.992813693152534
+    "average_tmin": 19.992813693152534,
+    "population": 6551,
+    "symbol_sort_key": 20
   },
   "Hela Province": {
     "average_temp": 17.68,
@@ -933,7 +949,9 @@
     "average_srad": 15618.802777777777,
     "average_wind": 2.6598979115486148,
     "average_tmax": 22.818298611111107,
-    "average_tmin": 12.531944444444441
+    "average_tmin": 12.531944444444441,
+    "population": 15413,
+    "symbol_sort_key": 4
   },
   "Jiwaka Province": {
     "average_temp": 18.17,
@@ -1037,7 +1055,9 @@
     "average_srad": 15245.791666666666,
     "average_wind": 2.6346354080098013,
     "average_tmax": 23.59315476190476,
-    "average_tmin": 12.745089285714286
+    "average_tmin": 12.745089285714286,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Madang Province": {
     "average_temp": 23.36,
@@ -1141,7 +1161,9 @@
     "average_srad": 15758.163793103447,
     "average_wind": 2.1687936890170945,
     "average_tmax": 27.94968049169957,
-    "average_tmin": 18.76395208387996
+    "average_tmin": 18.76395208387996,
+    "population": 29339,
+    "symbol_sort_key": 6
   },
   "Manus Province": {
     "average_temp": 26.47,
@@ -1245,7 +1267,9 @@
     "average_srad": 15367.625,
     "average_wind": 2.3005526065826416,
     "average_tmax": 29.688802043596905,
-    "average_tmin": 23.242931485176086
+    "average_tmin": 23.242931485176086,
+    "population": 6313,
+    "symbol_sort_key": 21
   },
   "Milne Bay Province": {
     "average_temp": 24.68,
@@ -1349,7 +1373,9 @@
     "average_srad": 20283.605691056913,
     "average_wind": 2.9754623513880785,
     "average_tmax": 28.34841032598773,
-    "average_tmin": 21.005935477395344
+    "average_tmin": 21.005935477395344,
+    "population": 412158,
+    "symbol_sort_key": 11
   },
   "Morobe Province": {
     "average_temp": 20.78,
@@ -1453,7 +1479,9 @@
     "average_srad": 16570.60243055555,
     "average_wind": 2.739067291996131,
     "average_tmax": 25.660527022512337,
-    "average_tmin": 15.908356200101084
+    "average_tmin": 15.908356200101084,
+    "population": 202442,
+    "symbol_sort_key": 0
   },
   "National Capital District": {
     "average_temp": 27.15,
@@ -1557,7 +1585,9 @@
     "average_srad": 18193.25,
     "average_wind": 2.7956419785817466,
     "average_tmax": 31.469791666666666,
-    "average_tmin": 22.83125
+    "average_tmin": 22.83125,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "New Ireland Province": {
     "average_temp": 24.6,
@@ -1661,7 +1691,9 @@
     "average_srad": 18268.866666666665,
     "average_wind": 2.6002952807479436,
     "average_tmax": 27.755458201680867,
-    "average_tmin": 21.43521273249672
+    "average_tmin": 21.43521273249672,
+    "population": 19849,
+    "symbol_sort_key": 19
   },
   "Northern (Oro) Province": {
     "average_temp": 23.5,
@@ -1765,7 +1797,9 @@
     "average_srad": 19080.927696078434,
     "average_wind": 2.681737118345849,
     "average_tmax": 27.993681513094433,
-    "average_tmin": 19.006586387578178
+    "average_tmin": 19.006586387578178,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Southern Highlands Province": {
     "average_temp": 20.03,
@@ -1869,7 +1903,9 @@
     "average_srad": 15933.23263888889,
     "average_wind": 2.151577689995368,
     "average_tmax": 25.565624999999997,
-    "average_tmin": 14.488736979166667
+    "average_tmin": 14.488736979166667,
+    "population": 56055,
+    "symbol_sort_key": 1
   },
   "West New Britain Province": {
     "average_temp": 25.13,
@@ -1973,7 +2009,9 @@
     "average_srad": 19112.277322404374,
     "average_wind": 2.294839596976348,
     "average_tmax": 28.797919346335153,
-    "average_tmin": 21.463387072412043
+    "average_tmin": 21.463387072412043,
+    "population": 28062,
+    "symbol_sort_key": 14
   },
   "West Sepik (Sandaun) Province": {
     "average_temp": 24.23,
@@ -2077,7 +2115,9 @@
     "average_srad": 16096.26294498382,
     "average_wind": 1.7000793137114414,
     "average_tmax": 28.38108633158662,
-    "average_tmin": 20.07434579022108
+    "average_tmin": 20.07434579022108,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Western Highlands Province": {
     "average_temp": 17.73,
@@ -2181,7 +2221,9 @@
     "average_srad": 15313.051282051283,
     "average_wind": 2.800064097612332,
     "average_tmax": 23.23798076923077,
-    "average_tmin": 12.213942307692307
+    "average_tmin": 12.213942307692307,
+    "population": 29765,
+    "symbol_sort_key": 9
   },
   "Western Province": {
     "average_temp": 26.21,
@@ -2285,6 +2327,8 @@
     "average_srad": 17568.93414918415,
     "average_wind": 1.4989225969135342,
     "average_tmax": 30.29245702281143,
-    "average_tmin": 22.12544279976603
+    "average_tmin": 22.12544279976603,
+    "population": 23149,
+    "symbol_sort_key": 17
   }
 }

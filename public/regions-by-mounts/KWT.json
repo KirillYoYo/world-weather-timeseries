@@ -101,7 +101,9 @@
     "average_srad": 19578.773809523813,
     "average_wind": 3.7593884652569174,
     "average_tmax": 35.239999995912825,
-    "average_tmin": 20.061304564703082
+    "average_tmin": 20.061304564703082,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Al Asimah": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2989000,
+    "symbol_sort_key": 1
   },
   "Farwaniya": {
     "average_temp": 27.9,
@@ -309,7 +313,9 @@
     "average_srad": 19456.916666666668,
     "average_wind": 4.012585461139679,
     "average_tmax": 35.5125,
-    "average_tmin": 20.295833333333334
+    "average_tmin": 20.295833333333334,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Hawalli": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Jahra": {
     "average_temp": 27.2,
@@ -517,7 +525,9 @@
     "average_srad": 19424.499999999996,
     "average_wind": 3.7581072400013604,
     "average_tmax": 34.95394078890482,
-    "average_tmin": 19.44447091275995
+    "average_tmin": 19.44447091275995,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Mubarak Al-Kabeer": {
     "average_temp": 27.92,
@@ -621,6 +631,8 @@
     "average_srad": 19533.75,
     "average_wind": 4.1735192735989886,
     "average_tmax": 35.22222235997518,
-    "average_tmin": 20.613888915379842
+    "average_tmin": 20.613888915379842,
+    "population": 0,
+    "symbol_sort_key": 5
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 19720.25,
     "average_wind": 2.408020834128062,
     "average_tmax": 33.92333367665608,
-    "average_tmin": 21.96333335240682
+    "average_tmin": 21.96333335240682,
+    "population": 492004,
+    "symbol_sort_key": 0
   },
   "Bafatá": {
     "average_temp": 27.53,
@@ -205,7 +207,9 @@
     "average_srad": 19421.053921568626,
     "average_wind": 1.791251226967456,
     "average_tmax": 33.83560049019607,
-    "average_tmin": 21.22879901960784
+    "average_tmin": 21.22879901960784,
+    "population": 161792,
+    "symbol_sort_key": 3
   },
   "Biombo": {
     "average_temp": 27.69,
@@ -309,7 +313,9 @@
     "average_srad": 19798.666666666668,
     "average_wind": 2.3614057103792825,
     "average_tmax": 33.32395833333333,
-    "average_tmin": 22.054166666666664
+    "average_tmin": 22.054166666666664,
+    "population": 42659,
+    "symbol_sort_key": 5
   },
   "Bolama": {
     "average_temp": 27.46,
@@ -413,7 +419,9 @@
     "average_srad": 19676.972222222223,
     "average_wind": 2.361711362997691,
     "average_tmax": 32.715277735392256,
-    "average_tmin": 22.205972268846306
+    "average_tmin": 22.205972268846306,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Cacheu": {
     "average_temp": 27.42,
@@ -517,7 +525,9 @@
     "average_srad": 19758.244444444445,
     "average_wind": 2.2630552225642737,
     "average_tmax": 33.337916666666665,
-    "average_tmin": 21.505972222222223
+    "average_tmin": 21.505972222222223,
+    "population": 18370,
+    "symbol_sort_key": 4
   },
   "Gabu": {
     "average_temp": 27.8,
@@ -621,7 +631,9 @@
     "average_srad": 19630.48214285714,
     "average_wind": 1.5492276827849094,
     "average_tmax": 34.06279761904762,
-    "average_tmin": 21.531956845238096
+    "average_tmin": 21.531956845238096,
+    "population": 55556,
+    "symbol_sort_key": 1
   },
   "Oio": {
     "average_temp": 27.53,
@@ -725,7 +737,9 @@
     "average_srad": 19661.035714285714,
     "average_wind": 1.9305520760161536,
     "average_tmax": 33.79605654761905,
-    "average_tmin": 21.25766369047619
+    "average_tmin": 21.25766369047619,
+    "population": 70196,
+    "symbol_sort_key": 2
   },
   "Quinara": {
     "average_temp": 28.0,
@@ -829,7 +843,9 @@
     "average_srad": 19502.074074074073,
     "average_wind": 2.349880824486415,
     "average_tmax": 34.078125,
-    "average_tmin": 21.91388888888889
+    "average_tmin": 21.91388888888889,
+    "population": 24071,
+    "symbol_sort_key": 7
   },
   "Tombali": {
     "average_temp": 28.41,
@@ -933,6 +949,8 @@
     "average_srad": 19395.96875,
     "average_wind": 2.1692646058897176,
     "average_tmax": 34.418619791666664,
-    "average_tmin": 22.408854166666668
+    "average_tmin": 22.408854166666668,
+    "population": 29374,
+    "symbol_sort_key": 6
   }
 }

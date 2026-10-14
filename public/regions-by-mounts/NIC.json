@@ -101,7 +101,9 @@
     "average_srad": 19694.836206896554,
     "average_wind": 2.4228874054448357,
     "average_tmax": 30.126896550189496,
-    "average_tmin": 22.861484671187128
+    "average_tmin": 22.861484671187128,
+    "population": 46103,
+    "symbol_sort_key": 15
   },
   "Boaco": {
     "average_temp": 25.48,
@@ -205,7 +207,9 @@
     "average_srad": 20182.262820512824,
     "average_wind": 2.3332836475127783,
     "average_tmax": 29.5536858974359,
-    "average_tmin": 21.40440705128205
+    "average_tmin": 21.40440705128205,
+    "population": 52719,
+    "symbol_sort_key": 14
   },
   "Chontales": {
     "average_temp": 26.3,
@@ -309,7 +313,9 @@
     "average_srad": 20226.24074074074,
     "average_wind": 2.3515540044984697,
     "average_tmax": 29.88070987654321,
-    "average_tmin": 22.717669753086422
+    "average_tmin": 22.717669753086422,
+    "population": 92798,
+    "symbol_sort_key": 16
   },
   "Managua": {
     "average_temp": 27.07,
@@ -413,7 +419,9 @@
     "average_srad": 20791.492424242424,
     "average_wind": 2.4495789318373706,
     "average_tmax": 31.45098340294578,
-    "average_tmin": 22.691994456088906
+    "average_tmin": 22.691994456088906,
+    "population": 1486640,
+    "symbol_sort_key": 0
   },
   "Leon": {
     "average_temp": 27.49,
@@ -517,7 +525,9 @@
     "average_srad": 20944.210784313727,
     "average_wind": 2.443428535087436,
     "average_tmax": 32.26966912138696,
-    "average_tmin": 22.708190349504054
+    "average_tmin": 22.708190349504054,
+    "population": 268264,
+    "symbol_sort_key": 7
   },
   "Chinandega": {
     "average_temp": 27.9,
@@ -621,7 +631,9 @@
     "average_srad": 21057.01785714286,
     "average_wind": 2.4448137418145226,
     "average_tmax": 32.83307578904288,
-    "average_tmin": 22.971737625485375
+    "average_tmin": 22.971737625485375,
+    "population": 278727,
+    "symbol_sort_key": 5
   },
   "Madriz": {
     "average_temp": 23.25,
@@ -725,7 +737,9 @@
     "average_srad": 20100.683333333338,
     "average_wind": 2.1479791661103564,
     "average_tmax": 28.678124999999998,
-    "average_tmin": 17.826249999999998
+    "average_tmin": 17.826249999999998,
+    "population": 49220,
+    "symbol_sort_key": 12
   },
   "Estelí": {
     "average_temp": 22.52,
@@ -829,7 +843,9 @@
     "average_srad": 20343.40476190476,
     "average_wind": 2.263255952369599,
     "average_tmax": 27.634523809523802,
-    "average_tmin": 17.40654761904762
+    "average_tmin": 17.40654761904762,
+    "population": 160616,
+    "symbol_sort_key": 9
   },
   "Nueva Segovia": {
     "average_temp": 23.44,
@@ -933,7 +949,9 @@
     "average_srad": 19880.462121212124,
     "average_wind": 2.2367708231463577,
     "average_tmax": 28.74195075757576,
-    "average_tmin": 18.133617424242424
+    "average_tmin": 18.133617424242424,
+    "population": 117919,
+    "symbol_sort_key": 8
   },
   "Matagalpa (Departemento)": {
     "average_temp": 24.45,
@@ -1037,7 +1055,9 @@
     "average_srad": 20178.340909090908,
     "average_wind": 2.3186875039880928,
     "average_tmax": 28.996448863636363,
-    "average_tmin": 19.907954545454547
+    "average_tmin": 19.907954545454547,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "North Carribean Coast Autonomous Region": {
     "average_temp": 25.91,
@@ -1141,7 +1161,9 @@
     "average_srad": 19490.529761904763,
     "average_wind": 2.726229770958018,
     "average_tmax": 29.5093560005791,
-    "average_tmin": 22.306239813054137
+    "average_tmin": 22.306239813054137,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "South Atlantic Autonomous Region": {
     "average_temp": 25.92,
@@ -1245,7 +1267,9 @@
     "average_srad": 19568.681434599155,
     "average_wind": 2.6336054832120483,
     "average_tmax": 29.405049134105568,
-    "average_tmin": 22.44414288243161
+    "average_tmin": 22.44414288243161,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Jinotega (Departamento)": {
     "average_temp": 24.11,
@@ -1349,7 +1373,9 @@
     "average_srad": 19770.083333333336,
     "average_wind": 2.3655138783984713,
     "average_tmax": 28.77743055555555,
-    "average_tmin": 19.442465277777774
+    "average_tmin": 19.442465277777774,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Carazo": {
     "average_temp": 26.38,
@@ -1453,7 +1479,9 @@
     "average_srad": 20842.0,
     "average_wind": 3.185908225675424,
     "average_tmax": 30.36813785235087,
-    "average_tmin": 22.39825488726298
+    "average_tmin": 22.39825488726298,
+    "population": 123441,
+    "symbol_sort_key": 10
   },
   "Granada": {
     "average_temp": 27.2,
@@ -1557,7 +1585,9 @@
     "average_srad": 20965.486111111113,
     "average_wind": 2.482440965043174,
     "average_tmax": 30.715798611111108,
-    "average_tmin": 23.69045138888889
+    "average_tmin": 23.69045138888889,
+    "population": 144616,
+    "symbol_sort_key": 11
   },
   "Masaya": {
     "average_temp": 26.65,
@@ -1661,7 +1691,9 @@
     "average_srad": 20479.958333333332,
     "average_wind": 2.4508020877838135,
     "average_tmax": 30.909374999999997,
-    "average_tmin": 22.38072916666667
+    "average_tmin": 22.38072916666667,
+    "population": 230067,
+    "symbol_sort_key": 6
   },
   "Rivas": {
     "average_temp": 27.1,
@@ -1765,6 +1797,8 @@
     "average_srad": 20639.291666666664,
     "average_wind": 2.824761812176023,
     "average_tmax": 30.38541666666666,
-    "average_tmin": 23.820014880952385
+    "average_tmin": 23.820014880952385,
+    "population": 71826,
+    "symbol_sort_key": 13
   }
 }

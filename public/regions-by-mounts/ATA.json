@@ -101,6 +101,8 @@
     "average_srad": 12729.407070459756,
     "average_wind": 5.483858385070586,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 0
   }
 }

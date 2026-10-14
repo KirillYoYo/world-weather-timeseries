@@ -101,7 +101,9 @@
     "average_srad": 16268.095781211676,
     "average_wind": 3.531353127921303,
     "average_tmax": 23.070077467128467,
-    "average_tmin": 9.695263989872249
+    "average_tmin": 9.695263989872249,
+    "population": 11650319,
+    "symbol_sort_key": 0
   },
   "Catamarca": {
     "average_temp": 11.96,
@@ -205,7 +207,9 @@
     "average_srad": 19324.853616813296,
     "average_wind": 4.19083583687058,
     "average_tmax": 19.56523399315738,
-    "average_tmin": 4.363798264907136
+    "average_tmin": 4.363798264907136,
+    "population": 313925,
+    "symbol_sort_key": 17
   },
   "Chaco": {
     "average_temp": 22.37,
@@ -309,7 +313,9 @@
     "average_srad": 17145.764106583072,
     "average_wind": 2.8334062763391494,
     "average_tmax": 29.016346656217348,
-    "average_tmin": 15.722077455590387
+    "average_tmin": 15.722077455590387,
+    "population": 951951,
+    "symbol_sort_key": 6
   },
   "Chubut": {
     "average_temp": 10.72,
@@ -413,7 +419,9 @@
     "average_srad": 13629.721595184348,
     "average_wind": 5.929894918759484,
     "average_tmax": 17.046948763066617,
-    "average_tmin": 4.400641859213466
+    "average_tmin": 4.400641859213466,
+    "population": 516716,
+    "symbol_sort_key": 14
   },
   "Ciudad Autónoma de Buenos Aires": {
     "average_temp": 17.9,
@@ -517,7 +525,9 @@
     "average_srad": 16071.333333333334,
     "average_wind": 3.7083229422569275,
     "average_tmax": 23.58541666666667,
-    "average_tmin": 12.214062499999999
+    "average_tmin": 12.214062499999999,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Córdoba": {
     "average_temp": 17.59,
@@ -621,7 +631,9 @@
     "average_srad": 16890.541666666668,
     "average_wind": 3.7279752988556947,
     "average_tmax": 24.861215400471142,
-    "average_tmin": 10.317853724970554
+    "average_tmin": 10.317853724970554,
+    "population": 3173780,
+    "symbol_sort_key": 2
   },
   "Corrientes": {
     "average_temp": 21.27,
@@ -725,7 +737,9 @@
     "average_srad": 16600.818234610917,
     "average_wind": 3.1018937234263806,
     "average_tmax": 27.22089866434379,
-    "average_tmin": 15.311570847851335
+    "average_tmin": 15.311570847851335,
+    "population": 987317,
+    "symbol_sort_key": 11
   },
   "Formosa": {
     "average_temp": 23.55,
@@ -829,7 +843,9 @@
     "average_srad": 17175.33827683616,
     "average_wind": 2.8243192913336945,
     "average_tmax": 30.178222104519776,
-    "average_tmin": 16.925710628531075
+    "average_tmin": 16.925710628531075,
+    "population": 372666,
+    "symbol_sort_key": 16
   },
   "Jujuy": {
     "average_temp": 11.89,
@@ -933,7 +949,9 @@
     "average_srad": 18794.579819277107,
     "average_wind": 3.339686870694639,
     "average_tmax": 19.71023468875502,
-    "average_tmin": 4.075878514056225
+    "average_tmin": 4.075878514056225,
+    "population": 570919,
+    "symbol_sort_key": 13
   },
   "La Pampa": {
     "average_temp": 16.02,
@@ -1037,7 +1055,9 @@
     "average_srad": 16513.841085271317,
     "average_wind": 2.9019236882874204,
     "average_tmax": 24.234088339793285,
-    "average_tmin": 7.799204618863048
+    "average_tmin": 7.799204618863048,
+    "population": 235075,
+    "symbol_sort_key": 21
   },
   "La Roja": {
     "average_temp": 16.2,
@@ -1141,7 +1161,9 @@
     "average_srad": 18457.52543290043,
     "average_wind": 3.694647860410925,
     "average_tmax": 23.574621212121215,
-    "average_tmin": 8.822507440476192
+    "average_tmin": 8.822507440476192,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Mendoza": {
     "average_temp": 12.56,
@@ -1245,7 +1267,9 @@
     "average_srad": 17101.986703772418,
     "average_wind": 3.104249068595188,
     "average_tmax": 20.367803030303033,
-    "average_tmin": 4.744870902906618
+    "average_tmin": 4.744870902906618,
+    "population": 1178174,
+    "symbol_sort_key": 4
   },
   "Misiones": {
     "average_temp": 20.77,
@@ -1349,7 +1373,9 @@
     "average_srad": 15767.190860215052,
     "average_wind": 2.4798967331968327,
     "average_tmax": 27.000291218637994,
-    "average_tmin": 14.531160394265234
+    "average_tmin": 14.531160394265234,
+    "population": 1347901,
+    "symbol_sort_key": 8
   },
   "Neuquén": {
     "average_temp": 10.82,
@@ -1453,7 +1479,9 @@
     "average_srad": 15617.543079096045,
     "average_wind": 3.6678452797640966,
     "average_tmax": 18.219117820150657,
-    "average_tmin": 3.4235728578154423
+    "average_tmin": 3.4235728578154423,
+    "population": 588287,
+    "symbol_sort_key": 19
   },
   "Río Negro": {
     "average_temp": 12.81,
@@ -1557,7 +1585,9 @@
     "average_srad": 15550.877198627197,
     "average_wind": 4.807120233863682,
     "average_tmax": 20.244572326422045,
-    "average_tmin": 5.380332688587397
+    "average_tmin": 5.380332688587397,
+    "population": 574519,
+    "symbol_sort_key": 9
   },
   "Salta": {
     "average_temp": 18.02,
@@ -1661,7 +1691,9 @@
     "average_srad": 17635.409736308316,
     "average_wind": 2.8840408575865286,
     "average_tmax": 25.15991801893171,
-    "average_tmin": 10.877102349560515
+    "average_tmin": 10.877102349560515,
+    "population": 1284935,
+    "symbol_sort_key": 7
   },
   "San Juan": {
     "average_temp": 10.67,
@@ -1765,7 +1797,9 @@
     "average_srad": 19065.774282560702,
     "average_wind": 4.159540835792655,
     "average_tmax": 17.661027179911702,
-    "average_tmin": 3.6763141556291394
+    "average_tmin": 3.6763141556291394,
+    "population": 482112,
+    "symbol_sort_key": 12
   },
   "San Luis": {
     "average_temp": 17.61,
@@ -1869,7 +1903,9 @@
     "average_srad": 17085.141237745098,
     "average_wind": 3.2004280734953348,
     "average_tmax": 25.563989736519613,
-    "average_tmin": 9.664889705882354
+    "average_tmin": 9.664889705882354,
+    "population": 351318,
+    "symbol_sort_key": 15
   },
   "Santa Cruz": {
     "average_temp": 8.63,
@@ -1973,7 +2009,9 @@
     "average_srad": 11297.983317520557,
     "average_wind": 6.982932598605178,
     "average_tmax": 14.17508781347972,
-    "average_tmin": 3.0755167520952624
+    "average_tmin": 3.0755167520952624,
+    "population": 321843,
+    "symbol_sort_key": 20
   },
   "Santa Fe": {
     "average_temp": 19.43,
@@ -2077,7 +2115,9 @@
     "average_srad": 17025.298642533933,
     "average_wind": 3.3112444801657808,
     "average_tmax": 26.13487697963801,
-    "average_tmin": 12.718497831825038
+    "average_tmin": 12.718497831825038,
+    "population": 3148406,
+    "symbol_sort_key": 3
   },
   "Santiago del Estero": {
     "average_temp": 21.48,
@@ -2181,7 +2221,9 @@
     "average_srad": 16947.442482915714,
     "average_wind": 2.8170785850073776,
     "average_tmax": 28.81673073272589,
-    "average_tmin": 14.146775341685649
+    "average_tmin": 14.146775341685649,
+    "population": 584443,
+    "symbol_sort_key": 10
   },
   "Tierra del Fuego": {
     "average_temp": 5.76,
@@ -2285,7 +2327,9 @@
     "average_srad": 9374.049731182795,
     "average_wind": 5.635209617114836,
     "average_tmax": 9.014191178801239,
-    "average_tmin": 2.4992193336488424
+    "average_tmin": 2.4992193336488424,
+    "population": 0,
+    "symbol_sort_key": 22
   },
   "Tucumán": {
     "average_temp": 19.57,
@@ -2389,6 +2433,8 @@
     "average_srad": 16612.021396396394,
     "average_wind": 2.4594014576963477,
     "average_tmax": 26.54812781531531,
-    "average_tmin": 12.600647522522522
+    "average_tmin": 12.600647522522522,
+    "population": 1109233,
+    "symbol_sort_key": 5
   }
 }

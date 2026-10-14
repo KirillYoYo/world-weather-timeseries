@@ -101,7 +101,9 @@
     "average_srad": 17852.74074074074,
     "average_wind": 2.872618048279374,
     "average_tmax": 21.732175925925926,
-    "average_tmin": 8.354861111111111
+    "average_tmin": 8.354861111111111,
+    "population": 210302,
+    "symbol_sort_key": 5
   },
   "Beyrouth": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2421354,
+    "symbol_sort_key": 3
   },
   "Liban-Nord": {
     "average_temp": 15.63,
@@ -309,7 +313,9 @@
     "average_srad": 17418.013888888887,
     "average_wind": 3.1129853857888112,
     "average_tmax": 21.205416687329613,
-    "average_tmin": 10.063969910144806
+    "average_tmin": 10.063969910144806,
+    "population": 526470,
+    "symbol_sort_key": 2
   },
   "Mont-Liban": {
     "average_temp": 18.63,
@@ -413,7 +419,9 @@
     "average_srad": 17585.966666666667,
     "average_wind": 3.32821223338445,
     "average_tmax": 23.7732936223348,
-    "average_tmin": 13.485307529767354
+    "average_tmin": 13.485307529767354,
+    "population": 633009,
+    "symbol_sort_key": 0
   },
   "Liban-Sud": {
     "average_temp": 18.82,
@@ -517,7 +525,9 @@
     "average_srad": 17791.166666666668,
     "average_wind": 3.3249365290006008,
     "average_tmax": 23.902430523766416,
-    "average_tmin": 13.741369038157996
+    "average_tmin": 13.741369038157996,
+    "population": 442688,
+    "symbol_sort_key": 1
   },
   "Nabatîyé": {
     "average_temp": 18.46,
@@ -621,7 +631,9 @@
     "average_srad": 17852.645833333332,
     "average_wind": 3.2369478990634284,
     "average_tmax": 23.626562499999995,
-    "average_tmin": 13.298697916666667
+    "average_tmin": 13.298697916666667,
+    "population": 150580,
+    "symbol_sort_key": 4
   },
   "Béqaa": {
     "average_temp": 15.99,
@@ -725,7 +737,9 @@
     "average_srad": 17859.875,
     "average_wind": 3.1643541703621545,
     "average_tmax": 22.373958333333334,
-    "average_tmin": 9.599479166666667
+    "average_tmin": 9.599479166666667,
+    "population": 227728,
+    "symbol_sort_key": 6
   },
   "Aakkâr": {
     "average_temp": 19.94,
@@ -829,7 +843,9 @@
     "average_srad": 17034.125,
     "average_wind": 2.6984375019868216,
     "average_tmax": 25.320833333333336,
-    "average_tmin": 14.563541666666667
+    "average_tmin": 14.563541666666667,
+    "population": 19730,
+    "symbol_sort_key": 8
   },
   "Keserwan-Jbeil": {
     "average_temp": 14.74,
@@ -933,6 +949,8 @@
     "average_srad": 17389.458333333332,
     "average_wind": 3.2097395956516266,
     "average_tmax": 20.400000000000002,
-    "average_tmin": 9.082812500000001
+    "average_tmin": 9.082812500000001,
+    "population": 0,
+    "symbol_sort_key": 7
   }
 }

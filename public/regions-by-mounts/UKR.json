@@ -101,7 +101,9 @@
     "average_srad": 12345.165048543691,
     "average_wind": 3.521578426307073,
     "average_tmax": 17.040902041617333,
-    "average_tmin": 6.858222087754786
+    "average_tmin": 6.858222087754786,
+    "population": 0,
+    "symbol_sort_key": 21
   },
   "Volyn Oblast": {
     "average_temp": 9.47,
@@ -205,7 +207,9 @@
     "average_srad": 11020.508680555557,
     "average_wind": 3.010345257818699,
     "average_tmax": 14.1669921875,
-    "average_tmin": 4.773958333333334
+    "average_tmin": 4.773958333333334,
+    "population": 0,
+    "symbol_sort_key": 22
   },
   "Rivne Oblast": {
     "average_temp": 9.3,
@@ -309,7 +313,9 @@
     "average_srad": 11108.91145833333,
     "average_wind": 3.0221592827389636,
     "average_tmax": 13.823936631944443,
-    "average_tmin": 4.779774305555555
+    "average_tmin": 4.779774305555555,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Zhytomyr Oblast": {
     "average_temp": 8.76,
@@ -413,7 +419,9 @@
     "average_srad": 11208.176767676769,
     "average_wind": 2.8650318822174365,
     "average_tmax": 13.208435921717173,
-    "average_tmin": 4.302264835858586
+    "average_tmin": 4.302264835858586,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Kyiv Oblast": {
     "average_temp": 9.59,
@@ -517,7 +525,9 @@
     "average_srad": 11166.69642857143,
     "average_wind": 2.646964282585831,
     "average_tmax": 13.973966600529101,
-    "average_tmin": 5.201033399470901
+    "average_tmin": 5.201033399470901,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Chernihiv Oblast": {
     "average_temp": 8.68,
@@ -621,7 +631,9 @@
     "average_srad": 10791.041118421053,
     "average_wind": 2.7001953084479298,
     "average_tmax": 13.058004385964914,
-    "average_tmin": 4.304331140350878
+    "average_tmin": 4.304331140350878,
+    "population": 0,
+    "symbol_sort_key": 23
   },
   "Sumy Oblast": {
     "average_temp": 8.49,
@@ -725,7 +737,9 @@
     "average_srad": 10843.17901234568,
     "average_wind": 3.02834934124976,
     "average_tmax": 12.892891589506172,
-    "average_tmin": 4.094868827160494
+    "average_tmin": 4.094868827160494,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "Kharkiv Oblast": {
     "average_temp": 9.24,
@@ -829,7 +843,9 @@
     "average_srad": 11232.841726618704,
     "average_wind": 3.379826133056796,
     "average_tmax": 13.858895383693044,
-    "average_tmin": 4.623636091127099
+    "average_tmin": 4.623636091127099,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Luhansk Oblast": {
     "average_temp": 9.52,
@@ -933,7 +949,9 @@
     "average_srad": 11406.470338983048,
     "average_wind": 3.1469487918298795,
     "average_tmax": 14.459939971751412,
-    "average_tmin": 4.588117937853107
+    "average_tmin": 4.588117937853107,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Donetsk Oblast": {
     "average_temp": 10.31,
@@ -1037,7 +1055,9 @@
     "average_srad": 11662.09283625731,
     "average_wind": 3.3141739593263257,
     "average_tmax": 15.021271226489752,
-    "average_tmin": 5.600374634687011
+    "average_tmin": 5.600374634687011,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Zaporizhia Oblast": {
     "average_temp": 11.2,
@@ -1141,7 +1161,9 @@
     "average_srad": 11986.18606321839,
     "average_wind": 3.3739331758570397,
     "average_tmax": 16.040393218757774,
-    "average_tmin": 6.363743054208441
+    "average_tmin": 6.363743054208441,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Lviv Oblast": {
     "average_temp": 9.01,
@@ -1245,7 +1267,9 @@
     "average_srad": 11328.578993055557,
     "average_wind": 2.664562718735801,
     "average_tmax": 13.705013020833334,
-    "average_tmin": 4.310503472222222
+    "average_tmin": 4.310503472222222,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Ivano-Frankivsk Oblast": {
     "average_temp": 8.33,
@@ -1349,7 +1373,9 @@
     "average_srad": 11787.25,
     "average_wind": 2.2601265702584774,
     "average_tmax": 13.209564393939393,
-    "average_tmin": 3.4484848484848487
+    "average_tmin": 3.4484848484848487,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Zakarpattia Oblast": {
     "average_temp": 9.04,
@@ -1453,7 +1479,9 @@
     "average_srad": 11730.11515151515,
     "average_wind": 2.072896208185138,
     "average_tmax": 13.84054924242424,
-    "average_tmin": 4.235492424242424
+    "average_tmin": 4.235492424242424,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Ternopil Oblast": {
     "average_temp": 9.21,
@@ -1557,7 +1585,9 @@
     "average_srad": 11681.909356725146,
     "average_wind": 2.8648435633782054,
     "average_tmax": 13.762225877192982,
-    "average_tmin": 4.654312865497076
+    "average_tmin": 4.654312865497076,
+    "population": 0,
+    "symbol_sort_key": 20
   },
   "Chernivtsi Oblast": {
     "average_temp": 9.5,
@@ -1661,7 +1691,9 @@
     "average_srad": 12238.502525252525,
     "average_wind": 2.543805548940042,
     "average_tmax": 14.404892676767675,
-    "average_tmin": 4.590404040404041
+    "average_tmin": 4.590404040404041,
+    "population": 0,
+    "symbol_sort_key": 25
   },
   "Odessa Oblast": {
     "average_temp": 11.63,
@@ -1765,7 +1797,9 @@
     "average_srad": 12854.108513189449,
     "average_wind": 3.218070412711274,
     "average_tmax": 16.382168841733638,
-    "average_tmin": 6.878060404086214
+    "average_tmin": 6.878060404086214,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Mykolaiv Oblast": {
     "average_temp": 11.44,
@@ -1869,7 +1903,9 @@
     "average_srad": 12259.42467948718,
     "average_wind": 3.1832265979968586,
     "average_tmax": 16.604487179487183,
-    "average_tmin": 6.279907852564103
+    "average_tmin": 6.279907852564103,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Autonomous Republic of Crimea": {
     "average_temp": 13.2,
@@ -1973,7 +2009,9 @@
     "average_srad": 12704.934343434341,
     "average_wind": 3.590238759212623,
     "average_tmax": 17.77915798237027,
-    "average_tmin": 8.611392878922901
+    "average_tmin": 8.611392878922901,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Vinnytsia Oblast": {
     "average_temp": 9.47,
@@ -2077,7 +2115,9 @@
     "average_srad": 11961.0197740113,
     "average_wind": 2.8949440274871674,
     "average_tmax": 14.179457980225989,
-    "average_tmin": 4.752939618644069
+    "average_tmin": 4.752939618644069,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Khmelnytskyi Oblast": {
     "average_temp": 9.31,
@@ -2181,7 +2221,9 @@
     "average_srad": 11706.517857142855,
     "average_wind": 3.108181322918457,
     "average_tmax": 13.791262755102041,
-    "average_tmin": 4.829559948979592
+    "average_tmin": 4.829559948979592,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Cherkasy Oblast": {
     "average_temp": 9.6,
@@ -2285,7 +2327,9 @@
     "average_srad": 11525.537137681158,
     "average_wind": 2.7863265375296273,
     "average_tmax": 13.956238677536227,
-    "average_tmin": 5.248629981884058
+    "average_tmin": 5.248629981884058,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Poltava Oblast": {
     "average_temp": 9.66,
@@ -2389,7 +2433,9 @@
     "average_srad": 11265.134765625,
     "average_wind": 3.0351222303385534,
     "average_tmax": 14.102376302083336,
-    "average_tmin": 5.208463541666666
+    "average_tmin": 5.208463541666666,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Dnipropetrovsk Oblast": {
     "average_temp": 10.51,
@@ -2493,7 +2539,9 @@
     "average_srad": 11695.240610328636,
     "average_wind": 3.3919951609322716,
     "average_tmax": 15.273870305164317,
-    "average_tmin": 5.73898914319249
+    "average_tmin": 5.73898914319249,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Kirovohrad Oblast": {
     "average_temp": 10.18,
@@ -2597,7 +2645,9 @@
     "average_srad": 11791.831775700935,
     "average_wind": 3.0252741400697896,
     "average_tmax": 14.898763629283492,
-    "average_tmin": 5.454896806853582
+    "average_tmin": 5.454896806853582,
+    "population": 0,
+    "symbol_sort_key": 24
   },
   "Kyiv": {
     "average_temp": 9.9,
@@ -2701,7 +2751,9 @@
     "average_srad": 11041.347222222224,
     "average_wind": 2.649704857005014,
     "average_tmax": 13.97517361111111,
-    "average_tmin": 5.828472222222223
+    "average_tmin": 5.828472222222223,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Sevastopol": {
     "average_temp": 12.94,
@@ -2805,6 +2857,8 @@
     "average_srad": 13146.708333333334,
     "average_wind": 3.9412895490725837,
     "average_tmax": 17.273814489444096,
-    "average_tmin": 8.612693028555563
+    "average_tmin": 8.612693028555563,
+    "population": 0,
+    "symbol_sort_key": 26
   }
 }

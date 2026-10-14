@@ -101,7 +101,9 @@
     "average_srad": 16814.51785714286,
     "average_wind": 2.329357240881238,
     "average_tmax": 28.113707390285672,
-    "average_tmin": 20.550992913473223
+    "average_tmin": 20.550992913473223,
+    "population": 1940254,
+    "symbol_sort_key": 15
   },
   "West Nusa Tenggara": {
     "average_temp": 25.34,
@@ -205,7 +207,9 @@
     "average_srad": 17189.171296296296,
     "average_wind": 2.514326479331947,
     "average_tmax": 29.533002852793754,
-    "average_tmin": 21.154695936718827
+    "average_tmin": 21.154695936718827,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Banten": {
     "average_temp": 25.32,
@@ -309,7 +313,9 @@
     "average_srad": 17289.364942528733,
     "average_wind": 1.8711704051700133,
     "average_tmax": 28.447849230930725,
-    "average_tmin": 22.185522212105237
+    "average_tmin": 22.185522212105237,
+    "population": 6844260,
+    "symbol_sort_key": 4
   },
   "Central Java": {
     "average_temp": 25.73,
@@ -413,7 +419,9 @@
     "average_srad": 17985.870550161813,
     "average_wind": 1.785228065688247,
     "average_tmax": 29.75615057065649,
-    "average_tmin": 21.702318841816922
+    "average_tmin": 21.702318841816922,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "West Java": {
     "average_temp": 24.05,
@@ -517,7 +525,9 @@
     "average_srad": 17398.304315476187,
     "average_wind": 1.6984713109476226,
     "average_tmax": 27.481451456319718,
-    "average_tmin": 20.625542449667343
+    "average_tmin": 20.625542449667343,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Central Kalimantan": {
     "average_temp": 27.18,
@@ -621,7 +631,9 @@
     "average_srad": 16541.113175675677,
     "average_wind": 1.0303746622514438,
     "average_tmax": 31.87082316467354,
-    "average_tmin": 22.485566621284942
+    "average_tmin": 22.485566621284942,
+    "population": 0,
+    "symbol_sort_key": 23
   },
   "South Kalimantan": {
     "average_temp": 27.29,
@@ -725,7 +737,9 @@
     "average_srad": 16981.691740412978,
     "average_wind": 1.2299646634971146,
     "average_tmax": 31.491343304963237,
-    "average_tmin": 23.08575498670955
+    "average_tmin": 23.08575498670955,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "West Kalimantan": {
     "average_temp": 26.91,
@@ -829,7 +843,9 @@
     "average_srad": 16123.093896713615,
     "average_wind": 1.10695289850748,
     "average_tmax": 31.703519065092795,
-    "average_tmin": 22.109118569438262
+    "average_tmin": 22.109118569438262,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Central Sulawesi": {
     "average_temp": 24.16,
@@ -933,7 +949,9 @@
     "average_srad": 17430.61842105263,
     "average_wind": 1.7040538484880565,
     "average_tmax": 28.43353817373573,
-    "average_tmin": 19.886572638442058
+    "average_tmin": 19.886572638442058,
+    "population": 0,
+    "symbol_sort_key": 21
   },
   "Gorontalo": {
     "average_temp": 25.53,
@@ -1037,7 +1055,9 @@
     "average_srad": 17642.797979797982,
     "average_wind": 1.5995506743590033,
     "average_tmax": 29.80254839791192,
-    "average_tmin": 21.26048190184314
+    "average_tmin": 21.26048190184314,
+    "population": 191897,
+    "symbol_sort_key": 31
   },
   "North Sulawesi": {
     "average_temp": 24.78,
@@ -1141,7 +1161,9 @@
     "average_srad": 17686.813492063495,
     "average_wind": 1.7725052471671787,
     "average_tmax": 28.852499895890556,
-    "average_tmin": 20.710431079069775
+    "average_tmin": 20.710431079069775,
+    "population": 0,
+    "symbol_sort_key": 24
   },
   "South Sulawesi": {
     "average_temp": 23.98,
@@ -1245,7 +1267,9 @@
     "average_srad": 17732.718829516536,
     "average_wind": 1.6024807656311806,
     "average_tmax": 28.137266347123163,
-    "average_tmin": 19.83224111586127
+    "average_tmin": 19.83224111586127,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Southeast Sulawesi": {
     "average_temp": 25.52,
@@ -1349,7 +1373,9 @@
     "average_srad": 18170.10521885522,
     "average_wind": 1.6613704126190256,
     "average_tmax": 29.565244272894052,
-    "average_tmin": 21.4741788683888
+    "average_tmin": 21.4741788683888,
+    "population": 0,
+    "symbol_sort_key": 22
   },
   "West Sulawesi": {
     "average_temp": 23.86,
@@ -1453,7 +1479,9 @@
     "average_srad": 17596.9037037037,
     "average_wind": 1.587805571821001,
     "average_tmax": 28.007953928488273,
-    "average_tmin": 19.70582166389183
+    "average_tmin": 19.70582166389183,
+    "population": 0,
+    "symbol_sort_key": 27
   },
   "Aceh": {
     "average_temp": 24.27,
@@ -1557,7 +1585,9 @@
     "average_srad": 16169.457584830341,
     "average_wind": 1.7761655815406714,
     "average_tmax": 28.75686726531829,
-    "average_tmin": 19.78338475916759
+    "average_tmin": 19.78338475916759,
+    "population": 1081237,
+    "symbol_sort_key": 16
   },
   "Bengkulu": {
     "average_temp": 24.23,
@@ -1661,7 +1691,9 @@
     "average_srad": 16631.636243386245,
     "average_wind": 1.7160785998459211,
     "average_tmax": 28.056120510706823,
-    "average_tmin": 20.408190870537332
+    "average_tmin": 20.408190870537332,
+    "population": 387588,
+    "symbol_sort_key": 26
   },
   "Jambi": {
     "average_temp": 25.99,
@@ -1765,7 +1797,9 @@
     "average_srad": 16383.035211267605,
     "average_wind": 1.3116968362963815,
     "average_tmax": 30.009398387855203,
-    "average_tmin": 21.976713578354026
+    "average_tmin": 21.976713578354026,
+    "population": 843269,
+    "symbol_sort_key": 19
   },
   "Lampung": {
     "average_temp": 25.95,
@@ -1869,7 +1903,9 @@
     "average_srad": 16893.98109965636,
     "average_wind": 1.6278283674897196,
     "average_tmax": 29.659647047560654,
-    "average_tmin": 22.24305726015281
+    "average_tmin": 22.24305726015281,
+    "population": 1468048,
+    "symbol_sort_key": 7
   },
   "Riau": {
     "average_temp": 27.25,
@@ -1973,7 +2009,9 @@
     "average_srad": 16244.830090791178,
     "average_wind": 1.3887844897043227,
     "average_tmax": 31.600647794827818,
-    "average_tmin": 22.89665547584494
+    "average_tmin": 22.89665547584494,
+    "population": 1864328,
+    "symbol_sort_key": 9
   },
   "West Sumatra": {
     "average_temp": 24.53,
@@ -2077,7 +2115,9 @@
     "average_srad": 16184.487903225805,
     "average_wind": 1.5164901636220438,
     "average_tmax": 28.68396859886826,
-    "average_tmin": 20.38602566975419
+    "average_tmin": 20.38602566975419,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "South Sumatra": {
     "average_temp": 26.66,
@@ -2181,7 +2221,9 @@
     "average_srad": 16879.288124156545,
     "average_wind": 1.4112050159458531,
     "average_tmax": 30.502162180448835,
-    "average_tmin": 22.822771795043746
+    "average_tmin": 22.822771795043746,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "North Sumatra": {
     "average_temp": 25.06,
@@ -2285,7 +2327,9 @@
     "average_srad": 16004.5,
     "average_wind": 1.4353721313425716,
     "average_tmax": 29.748084701659185,
-    "average_tmin": 20.364173526309784
+    "average_tmin": 20.364173526309784,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "East Nusa Tenggara": {
     "average_temp": 25.33,
@@ -2389,7 +2433,9 @@
     "average_srad": 19440.790697674416,
     "average_wind": 2.4298781170401464,
     "average_tmax": 29.28075159304518,
-    "average_tmin": 21.372621249166873
+    "average_tmin": 21.372621249166873,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Maluku": {
     "average_temp": 25.74,
@@ -2493,7 +2539,9 @@
     "average_srad": 17671.347333333335,
     "average_wind": 2.196177714745204,
     "average_tmax": 29.430183459652795,
-    "average_tmin": 22.049575980239442
+    "average_tmin": 22.049575980239442,
+    "population": 653156,
+    "symbol_sort_key": 29
   },
   "North Maluku": {
     "average_temp": 25.84,
@@ -2597,7 +2645,9 @@
     "average_srad": 17282.686379928313,
     "average_wind": 1.9267869219985059,
     "average_tmax": 29.607510744661525,
-    "average_tmin": 22.081924001030302
+    "average_tmin": 22.081924001030302,
+    "population": 0,
+    "symbol_sort_key": 32
   },
   "East Java": {
     "average_temp": 25.43,
@@ -2701,7 +2751,9 @@
     "average_srad": 17898.180357142854,
     "average_wind": 2.001776831171343,
     "average_tmax": 29.592129800660263,
-    "average_tmin": 21.264374440965195
+    "average_tmin": 21.264374440965195,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Bangka-Belitung Islands": {
     "average_temp": 27.16,
@@ -2805,7 +2857,9 @@
     "average_srad": 17108.276041666664,
     "average_wind": 1.8542341608554123,
     "average_tmax": 30.794983994442486,
-    "average_tmin": 23.530713078595593
+    "average_tmin": 23.530713078595593,
+    "population": 0,
+    "symbol_sort_key": 28
   },
   "Riau Islands": {
     "average_temp": 27.65,
@@ -2909,7 +2963,9 @@
     "average_srad": 16240.745098039215,
     "average_wind": 2.0121997255905004,
     "average_tmax": 31.37174415588379,
-    "average_tmin": 23.92754967013995
+    "average_tmin": 23.92754967013995,
+    "population": 0,
+    "symbol_sort_key": 25
   },
   "Papua": {
     "average_temp": 24.67,
@@ -3013,7 +3069,9 @@
     "average_srad": 17252.969920029078,
     "average_wind": 1.8223546990878967,
     "average_tmax": 28.6868052927029,
-    "average_tmin": 20.654602313691687
+    "average_tmin": 20.654602313691687,
+    "population": 960371,
+    "symbol_sort_key": 10
   },
   "West Papua": {
     "average_temp": 25.33,
@@ -3117,7 +3175,9 @@
     "average_srad": 17091.44537037037,
     "average_wind": 2.0269297756346654,
     "average_tmax": 28.770604024580962,
-    "average_tmin": 21.879428824907468
+    "average_tmin": 21.879428824907468,
+    "population": 0,
+    "symbol_sort_key": 30
   },
   "East Kalimantan": {
     "average_temp": 26.95,
@@ -3221,7 +3281,9 @@
     "average_srad": 16624.535714285714,
     "average_wind": 1.1343469753633826,
     "average_tmax": 31.535225408782,
-    "average_tmin": 22.35562184188994
+    "average_tmin": 22.35562184188994,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "North Kalimantan": {
     "average_temp": 24.85,
@@ -3325,7 +3387,9 @@
     "average_srad": 16479.1736453202,
     "average_wind": 1.2208437926223126,
     "average_tmax": 29.56290046319194,
-    "average_tmin": 20.135373129163472
+    "average_tmin": 20.135373129163472,
+    "population": 0,
+    "symbol_sort_key": 33
   },
   "Special Region of Yogyakarta": {
     "average_temp": 25.91,
@@ -3429,7 +3493,9 @@
     "average_srad": 17989.083333333332,
     "average_wind": 1.9651695282170267,
     "average_tmax": 29.83839011914802,
-    "average_tmin": 21.97314392147642
+    "average_tmin": 21.97314392147642,
+    "population": 521993,
+    "symbol_sort_key": 20
   },
   "Jakarta Special Capital Region": {
     "average_temp": 27.54,
@@ -3533,6 +3599,8 @@
     "average_srad": 17191.25,
     "average_wind": 1.9504999816417694,
     "average_tmax": 31.27916666666667,
-    "average_tmin": 23.798958333333335
+    "average_tmin": 23.798958333333335,
+    "population": 33864643,
+    "symbol_sort_key": 5
   }
 }

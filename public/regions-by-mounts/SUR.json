@@ -101,7 +101,9 @@
     "average_srad": 18593.579710144928,
     "average_wind": 1.6400153904721355,
     "average_tmax": 31.414085144927537,
-    "average_tmin": 22.59945652173913
+    "average_tmin": 22.59945652173913,
+    "population": 9275,
+    "symbol_sort_key": 9
   },
   "Commewijne": {
     "average_temp": 27.27,
@@ -205,7 +207,9 @@
     "average_srad": 18854.708333333332,
     "average_wind": 2.1968930910031,
     "average_tmax": 31.138411458333326,
-    "average_tmin": 23.402994791666668
+    "average_tmin": 23.402994791666668,
+    "population": 5650,
+    "symbol_sort_key": 4
   },
   "Coronie": {
     "average_temp": 27.61,
@@ -309,7 +313,9 @@
     "average_srad": 18700.90277777778,
     "average_wind": 2.258126060995791,
     "average_tmax": 31.589372513029314,
-    "average_tmin": 23.625558031929867
+    "average_tmin": 23.625558031929867,
+    "population": 2150,
+    "symbol_sort_key": 8
   },
   "Marowijne": {
     "average_temp": 27.02,
@@ -413,7 +419,9 @@
     "average_srad": 18823.884615384617,
     "average_wind": 2.0841546715834203,
     "average_tmax": 31.048056108523635,
-    "average_tmin": 22.986495793171418
+    "average_tmin": 22.986495793171418,
+    "population": 16081,
+    "symbol_sort_key": 7
   },
   "Nickerie": {
     "average_temp": 27.64,
@@ -517,7 +525,9 @@
     "average_srad": 18597.005952380954,
     "average_wind": 2.098516198141234,
     "average_tmax": 31.654017857142858,
-    "average_tmin": 23.619196428571428
+    "average_tmin": 23.619196428571428,
+    "population": 12818,
+    "symbol_sort_key": 6
   },
   "Para": {
     "average_temp": 27.24,
@@ -621,7 +631,9 @@
     "average_srad": 18766.760416666668,
     "average_wind": 1.7329960869004328,
     "average_tmax": 31.496809895833326,
-    "average_tmin": 22.9919921875
+    "average_tmin": 22.9919921875,
+    "population": 2000,
+    "symbol_sort_key": 3
   },
   "Paramaribo": {
     "average_temp": null,
@@ -725,7 +737,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 236162,
+    "symbol_sort_key": 0
   },
   "Saramacca": {
     "average_temp": 27.43,
@@ -829,7 +843,9 @@
     "average_srad": 18829.083333333336,
     "average_wind": 2.266635207666291,
     "average_tmax": 31.327840908368426,
-    "average_tmin": 23.52223011917538
+    "average_tmin": 23.52223011917538,
+    "population": 2818,
+    "symbol_sort_key": 5
   },
   "Sipaliwini": {
     "average_temp": 26.66,
@@ -933,7 +949,9 @@
     "average_srad": 17881.840723751277,
     "average_wind": 1.6214996107553,
     "average_tmax": 31.172543960244653,
-    "average_tmin": 22.157199286442406
+    "average_tmin": 22.157199286442406,
+    "population": 29210,
+    "symbol_sort_key": 2
   },
   "Wanica": {
     "average_temp": 27.47,
@@ -1037,6 +1055,8 @@
     "average_srad": 18399.916666666668,
     "average_wind": 2.296958327293396,
     "average_tmax": 31.416666666666668,
-    "average_tmin": 23.515625
+    "average_tmin": 23.515625,
+    "population": 47704,
+    "symbol_sort_key": 1
   }
 }

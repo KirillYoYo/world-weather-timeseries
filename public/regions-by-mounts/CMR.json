@@ -101,7 +101,9 @@
     "average_srad": 14615.326142131978,
     "average_wind": 1.3171128367157354,
     "average_tmax": 29.13726734348562,
-    "average_tmin": 20.08599830795262
+    "average_tmin": 20.08599830795262,
+    "population": 2947667,
+    "symbol_sort_key": 0
   },
   "Far North": {
     "average_temp": 27.69,
@@ -205,7 +207,9 @@
     "average_srad": 20067.437074829933,
     "average_wind": 2.31358587792536,
     "average_tmax": 34.43197278911564,
-    "average_tmin": 20.947374574829933
+    "average_tmin": 20.947374574829933,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "North": {
     "average_temp": 26.51,
@@ -309,7 +313,9 @@
     "average_srad": 18467.76700680272,
     "average_wind": 1.8970342165454717,
     "average_tmax": 32.56792091836734,
-    "average_tmin": 20.446811224489796
+    "average_tmin": 20.446811224489796,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "North-West": {
     "average_temp": 23.37,
@@ -413,7 +419,9 @@
     "average_srad": 15279.433673469388,
     "average_wind": 1.6437784828701796,
     "average_tmax": 28.507440476190478,
-    "average_tmin": 18.242431972789117
+    "average_tmin": 18.242431972789117,
+    "population": 1100202,
+    "symbol_sort_key": 4
   },
   "Adamaoua": {
     "average_temp": 23.43,
@@ -517,7 +525,9 @@
     "average_srad": 16667.4089673913,
     "average_wind": 1.6086711904061015,
     "average_tmax": 29.239470108695652,
-    "average_tmin": 17.626171875
+    "average_tmin": 17.626171875,
+    "population": 346184,
+    "symbol_sort_key": 7
   },
   "East": {
     "average_temp": 24.52,
@@ -621,7 +631,9 @@
     "average_srad": 15531.01629863302,
     "average_wind": 1.1989928440403363,
     "average_tmax": 29.72351472134595,
-    "average_tmin": 19.32006440588854
+    "average_tmin": 19.32006440588854,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "South": {
     "average_temp": 24.7,
@@ -725,7 +737,9 @@
     "average_srad": 13627.948905109492,
     "average_wind": 1.1615933366573061,
     "average_tmax": 28.915380504125512,
-    "average_tmin": 20.482015672623387
+    "average_tmin": 20.482015672623387,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "South-West": {
     "average_temp": 25.67,
@@ -829,7 +843,9 @@
     "average_srad": 14481.276666666667,
     "average_wind": 1.5960686182975767,
     "average_tmax": 29.635042461819122,
-    "average_tmin": 21.69778730392456
+    "average_tmin": 21.69778730392456,
+    "population": 508150,
+    "symbol_sort_key": 6
   },
   "West": {
     "average_temp": 23.72,
@@ -933,7 +949,9 @@
     "average_srad": 14919.140873015873,
     "average_wind": 1.5788258843951757,
     "average_tmax": 28.576066468253966,
-    "average_tmin": 18.866889880952378
+    "average_tmin": 18.866889880952378,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Littoral": {
     "average_temp": 26.16,
@@ -1037,6 +1055,8 @@
     "average_srad": 14212.290983606557,
     "average_wind": 1.3828711394892361,
     "average_tmax": 29.926297814207643,
-    "average_tmin": 22.392981557377052
+    "average_tmin": 22.392981557377052,
+    "population": 4384080,
+    "symbol_sort_key": 2
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Southern Governorate": {
     "average_temp": 28.23,
@@ -205,7 +207,9 @@
     "average_srad": 19468.916666666668,
     "average_wind": 4.3079169392585746,
     "average_tmax": 33.37893516752455,
-    "average_tmin": 23.079305585225423
+    "average_tmin": 23.079305585225423,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Capital Governorate": {
     "average_temp": 28.26,
@@ -309,7 +313,9 @@
     "average_srad": 19444.916666666668,
     "average_wind": 4.262592534224193,
     "average_tmax": 33.21000006993612,
-    "average_tmin": 23.316666650772092
+    "average_tmin": 23.316666650772092,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Muharraq Governorate": {
     "average_temp": null,
@@ -413,6 +419,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 3
   }
 }

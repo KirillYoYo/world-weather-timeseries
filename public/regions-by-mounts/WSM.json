@@ -101,7 +101,9 @@
     "average_srad": 16096.916666666666,
     "average_wind": 3.3178030252456665,
     "average_tmax": 28.437777709960937,
-    "average_tmin": 22.901111125946045
+    "average_tmin": 22.901111125946045,
+    "population": 1184,
+    "symbol_sort_key": 1
   },
   "Aiga-i-le-Tai": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Atua": {
     "average_temp": 25.82,
@@ -309,7 +313,9 @@
     "average_srad": 15749.75,
     "average_wind": 3.4811638991038003,
     "average_tmax": 28.443589719136558,
-    "average_tmin": 23.20512851079305
+    "average_tmin": 23.20512851079305,
+    "population": 949,
+    "symbol_sort_key": 2
   },
   "Fa'asaleleage": {
     "average_temp": 26.19,
@@ -413,7 +419,9 @@
     "average_srad": 16183.0,
     "average_wind": 3.1526063283284507,
     "average_tmax": 28.9671243985494,
-    "average_tmin": 23.406547530492148
+    "average_tmin": 23.406547530492148,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Gaga'emauga": {
     "average_temp": null,
@@ -517,7 +525,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 600,
+    "symbol_sort_key": 3
   },
   "Gaga'ifomauga": {
     "average_temp": 22.88,
@@ -621,7 +631,9 @@
     "average_srad": 16160.166666666666,
     "average_wind": 3.823057144880295,
     "average_tmax": 25.570312500000004,
-    "average_tmin": 20.194270833333334
+    "average_tmin": 20.194270833333334,
+    "population": 2403,
+    "symbol_sort_key": 6
   },
   "Palauli": {
     "average_temp": 25.38,
@@ -725,7 +737,9 @@
     "average_srad": 16118.25,
     "average_wind": 3.290643254915873,
     "average_tmax": 28.158974424997965,
-    "average_tmin": 22.602564144134522
+    "average_tmin": 22.602564144134522,
+    "population": 784,
+    "symbol_sort_key": 5
   },
   "Satupa'itea": {
     "average_temp": null,
@@ -829,7 +843,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Tuamasaga": {
     "average_temp": 24.99,
@@ -933,7 +949,9 @@
     "average_srad": 15926.75,
     "average_wind": 3.5540336767832437,
     "average_tmax": 27.708333333333332,
-    "average_tmin": 22.272916666666664
+    "average_tmin": 22.272916666666664,
+    "population": 37972,
+    "symbol_sort_key": 0
   },
   "Va'a-o-Fonoti": {
     "average_temp": null,
@@ -1037,7 +1055,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 45,
+    "symbol_sort_key": 8
   },
   "Vaisigano": {
     "average_temp": null,
@@ -1141,6 +1161,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 4
   }
 }

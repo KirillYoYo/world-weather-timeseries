@@ -101,7 +101,9 @@
     "average_srad": 18214.526315789473,
     "average_wind": 2.1162765583796808,
     "average_tmax": 30.729034619582325,
-    "average_tmin": 22.952870275820903
+    "average_tmin": 22.952870275820903,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Pomeroon-Supenaam": {
     "average_temp": 27.18,
@@ -205,7 +207,9 @@
     "average_srad": 18307.254901960787,
     "average_wind": 2.3268242875734964,
     "average_tmax": 30.644397763644946,
-    "average_tmin": 23.722706575954664
+    "average_tmin": 23.722706575954664,
+    "population": 12448,
+    "symbol_sort_key": 4
   },
   "Essequibo Islands-West Demerara": {
     "average_temp": 27.1,
@@ -309,7 +313,9 @@
     "average_srad": 18141.740740740737,
     "average_wind": 2.47251127715464,
     "average_tmax": 30.693973763783774,
-    "average_tmin": 23.506867285127992
+    "average_tmin": 23.506867285127992,
+    "population": 469,
+    "symbol_sort_key": 2
   },
   "Demerara-Mahaica": {
     "average_temp": 27.27,
@@ -413,7 +419,9 @@
     "average_srad": 18198.624999999996,
     "average_wind": 2.310397770669725,
     "average_tmax": 30.93940972222222,
-    "average_tmin": 23.607812499999998
+    "average_tmin": 23.607812499999998,
+    "population": 235017,
+    "symbol_sort_key": 0
   },
   "Cuyuni-Mazaruni": {
     "average_temp": 25.61,
@@ -517,7 +525,9 @@
     "average_srad": 17539.648214285713,
     "average_wind": 1.7796416507590382,
     "average_tmax": 29.85525297619048,
-    "average_tmin": 21.365386904761905
+    "average_tmin": 21.365386904761905,
+    "population": 8532,
+    "symbol_sort_key": 8
   },
   "Potaro-Siparuni": {
     "average_temp": 25.86,
@@ -621,7 +631,9 @@
     "average_srad": 17120.94262295082,
     "average_wind": 1.4631789543263898,
     "average_tmax": 30.063080601092896,
-    "average_tmin": 21.65090505464481
+    "average_tmin": 21.65090505464481,
+    "population": 2563,
+    "symbol_sort_key": 9
   },
   "Upper Takutu-Upper Essequibo": {
     "average_temp": 27.15,
@@ -725,7 +737,9 @@
     "average_srad": 16564.812111801242,
     "average_wind": 1.2721578683048549,
     "average_tmax": 31.33511904761905,
-    "average_tmin": 22.970613354037265
+    "average_tmin": 22.970613354037265,
+    "population": 3000,
+    "symbol_sort_key": 7
   },
   "Mahaica-Berbice": {
     "average_temp": 27.47,
@@ -829,7 +843,9 @@
     "average_srad": 18242.242424242424,
     "average_wind": 2.116607966748151,
     "average_tmax": 31.422348484848488,
-    "average_tmin": 23.52329545454545
+    "average_tmin": 23.52329545454545,
+    "population": 118,
+    "symbol_sort_key": 3
   },
   "East Berbice-Corentyne": {
     "average_temp": 26.95,
@@ -933,7 +949,9 @@
     "average_srad": 17354.96893939394,
     "average_wind": 1.519031416466742,
     "average_tmax": 31.286951389312744,
-    "average_tmin": 22.60497032859109
+    "average_tmin": 22.60497032859109,
+    "population": 26762,
+    "symbol_sort_key": 1
   },
   "Upper Demerara-Berbice": {
     "average_temp": 27.17,
@@ -1037,6 +1055,8 @@
     "average_srad": 17830.631205673762,
     "average_wind": 1.6235359101853473,
     "average_tmax": 31.424534574468087,
-    "average_tmin": 22.916622340425533
+    "average_tmin": 22.916622340425533,
+    "population": 29350,
+    "symbol_sort_key": 5
   }
 }

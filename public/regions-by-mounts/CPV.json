@@ -101,7 +101,9 @@
     "average_srad": 19795.208333333332,
     "average_wind": 5.702919065952301,
     "average_tmax": 27.789182647069296,
-    "average_tmin": 20.885256465276083
+    "average_tmin": 20.885256465276083,
+    "population": 6357,
+    "symbol_sort_key": 8
   },
   "Brava": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 1049,
+    "symbol_sort_key": 20
   },
   "Maio": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 3056,
+    "symbol_sort_key": 18
   },
   "Sal": {
     "average_temp": 24.05,
@@ -413,7 +419,9 @@
     "average_srad": 19729.083333333332,
     "average_wind": 6.076080322265625,
     "average_tmax": 27.381944433848062,
-    "average_tmin": 20.723610973358156
+    "average_tmin": 20.723610973358156,
+    "population": 31952,
+    "symbol_sort_key": 7
   },
   "São Vicente": {
     "average_temp": 24.13,
@@ -517,7 +525,9 @@
     "average_srad": 20038.166666666668,
     "average_wind": 5.659973740577698,
     "average_tmax": 26.994443957010905,
-    "average_tmin": 21.262962849934894
+    "average_tmin": 21.262962849934894,
+    "population": 140936,
+    "symbol_sort_key": 1
   },
   "Ribeira Brava": {
     "average_temp": 23.07,
@@ -621,7 +631,9 @@
     "average_srad": 20004.333333333332,
     "average_wind": 5.724193731943767,
     "average_tmax": 25.856723467508953,
-    "average_tmin": 20.29081439971924
+    "average_tmin": 20.29081439971924,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Tarrafal de São Nicolau": {
     "average_temp": null,
@@ -725,7 +737,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 5237,
+    "symbol_sort_key": 21
   },
   "Porto Novo": {
     "average_temp": 20.97,
@@ -829,7 +843,9 @@
     "average_srad": 20421.125,
     "average_wind": 5.321670154730479,
     "average_tmax": 24.162723191579186,
-    "average_tmin": 17.7732887506485
+    "average_tmin": 17.7732887506485,
+    "population": 18028,
+    "symbol_sort_key": 19
   },
   "Ribeira Grande": {
     "average_temp": null,
@@ -933,7 +949,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 8872,
+    "symbol_sort_key": 6
   },
   "Paul": {
     "average_temp": null,
@@ -1037,7 +1055,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Mosteiros": {
     "average_temp": null,
@@ -1141,7 +1161,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Santa Catarina do Fogo": {
     "average_temp": null,
@@ -1245,7 +1267,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "São Filipe": {
     "average_temp": 19.56,
@@ -1349,7 +1373,9 @@
     "average_srad": 20539.166666666668,
     "average_wind": 4.838016549746196,
     "average_tmax": 23.546875000000004,
-    "average_tmin": 15.581250000000002
+    "average_tmin": 15.581250000000002,
+    "population": 23597,
+    "symbol_sort_key": 14
   },
   "São Miguel": {
     "average_temp": null,
@@ -1453,7 +1479,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 4123,
+    "symbol_sort_key": 17
   },
   "Tarrafal": {
     "average_temp": null,
@@ -1557,7 +1585,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 30000,
+    "symbol_sort_key": 2
   },
   "Santa Catarina": {
     "average_temp": 23.55,
@@ -1661,7 +1691,9 @@
     "average_srad": 20472.75,
     "average_wind": 5.088030258814494,
     "average_tmax": 26.76666663487752,
-    "average_tmin": 20.33181823094686
+    "average_tmin": 20.33181823094686,
+    "population": 13169,
+    "symbol_sort_key": 3
   },
   "Santa Cruz": {
     "average_temp": null,
@@ -1765,7 +1797,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 9530,
+    "symbol_sort_key": 12
   },
   "São Salvador do Mundo": {
     "average_temp": null,
@@ -1869,7 +1903,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 1699,
+    "symbol_sort_key": 4
   },
   "São Lourenço dos Órgãos": {
     "average_temp": 23.5,
@@ -1973,7 +2009,9 @@
     "average_srad": 20003.416666666668,
     "average_wind": 5.017777840296428,
     "average_tmax": 26.752083333333335,
-    "average_tmin": 20.255208333333332
+    "average_tmin": 20.255208333333332,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "São Domingos": {
     "average_temp": null,
@@ -2077,7 +2115,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 2818,
+    "symbol_sort_key": 11
   },
   "Praia": {
     "average_temp": null,
@@ -2181,7 +2221,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 159050,
+    "symbol_sort_key": 10
   },
   "Ribeira Grande de Santiago": {
     "average_temp": 24.98,
@@ -2285,6 +2327,8 @@
     "average_srad": 20240.583333333332,
     "average_wind": 5.1219194531440735,
     "average_tmax": 28.575757662455242,
-    "average_tmin": 21.389393997192386
+    "average_tmin": 21.389393997192386,
+    "population": 2148,
+    "symbol_sort_key": 13
   }
 }

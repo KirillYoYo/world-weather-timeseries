@@ -101,7 +101,9 @@
     "average_srad": 18509.541666666668,
     "average_wind": 3.057959496974945,
     "average_tmax": 26.968452358245845,
-    "average_tmin": 20.39925600687663
+    "average_tmin": 20.39925600687663,
+    "population": 15345,
+    "symbol_sort_key": 7
   },
   "Flacq": {
     "average_temp": 24.19,
@@ -205,7 +207,9 @@
     "average_srad": 18389.833333333332,
     "average_wind": 2.894252876440684,
     "average_tmax": 27.46309521993001,
-    "average_tmin": 20.908333237965902
+    "average_tmin": 20.908333237965902,
+    "population": 45306,
+    "symbol_sort_key": 2
   },
   "Grand Port": {
     "average_temp": 22.93,
@@ -309,7 +313,9 @@
     "average_srad": 18074.333333333332,
     "average_wind": 2.7096446752548218,
     "average_tmax": 26.051041666666663,
-    "average_tmin": 19.8125
+    "average_tmin": 19.8125,
+    "population": 38995,
+    "symbol_sort_key": 5
   },
   "Moka": {
     "average_temp": 22.57,
@@ -413,7 +419,9 @@
     "average_srad": 18168.833333333332,
     "average_wind": 2.5004583398501077,
     "average_tmax": 25.784374999999997,
-    "average_tmin": 19.352083333333336
+    "average_tmin": 19.352083333333336,
+    "population": 31590,
+    "symbol_sort_key": 6
   },
   "Pamplemousses": {
     "average_temp": 24.53,
@@ -517,7 +525,9 @@
     "average_srad": 18737.833333333332,
     "average_wind": 3.13079297542572,
     "average_tmax": 27.954444154103598,
-    "average_tmin": 21.1133331934611
+    "average_tmin": 21.1133331934611,
+    "population": 53107,
+    "symbol_sort_key": 1
   },
   "Plaines Wilhems": {
     "average_temp": null,
@@ -621,7 +631,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 527997,
+    "symbol_sort_key": 0
   },
   "Port Louis": {
     "average_temp": null,
@@ -725,7 +737,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 300000,
+    "symbol_sort_key": 4
   },
   "Rivière du Rempart": {
     "average_temp": null,
@@ -829,7 +843,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 32622,
+    "symbol_sort_key": 3
   },
   "Savanne": {
     "average_temp": null,
@@ -933,7 +949,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 10507,
+    "symbol_sort_key": 8
   },
   "Rodrigues": {
     "average_temp": null,
@@ -1037,7 +1055,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "St. Brandon": {
     "average_temp": null,
@@ -1141,7 +1161,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Agaléga": {
     "average_temp": null,
@@ -1245,6 +1267,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 10
   }
 }

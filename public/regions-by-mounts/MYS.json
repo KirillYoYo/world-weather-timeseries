@@ -101,7 +101,9 @@
     "average_srad": 16024.14,
     "average_wind": 1.5545320729414625,
     "average_tmax": 31.85600962193807,
-    "average_tmin": 22.45307371902466
+    "average_tmin": 22.45307371902466,
+    "population": 2203158,
+    "symbol_sort_key": 0
   },
   "Johor": {
     "average_temp": 27.32,
@@ -205,7 +207,9 @@
     "average_srad": 16078.912037037036,
     "average_wind": 1.5515796636909613,
     "average_tmax": 31.403736269326856,
-    "average_tmin": 23.23621219882259
+    "average_tmin": 23.23621219882259,
+    "population": 2915683,
+    "symbol_sort_key": 2
   },
   "Kuala Lumpur": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 8430775,
+    "symbol_sort_key": 6
   },
   "Malacca": {
     "average_temp": 27.66,
@@ -413,7 +419,9 @@
     "average_srad": 16132.400000000001,
     "average_wind": 1.6775808195273079,
     "average_tmax": 31.97504166285196,
-    "average_tmin": 23.347472229003902
+    "average_tmin": 23.347472229003902,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Negeri Sembilan": {
     "average_temp": 27.09,
@@ -517,7 +525,9 @@
     "average_srad": 15999.192982456143,
     "average_wind": 1.3122828968784266,
     "average_tmax": 31.561403508771928,
-    "average_tmin": 22.625383771929823
+    "average_tmin": 22.625383771929823,
+    "population": 587102,
+    "symbol_sort_key": 10
   },
   "Sabah": {
     "average_temp": 25.86,
@@ -621,7 +631,9 @@
     "average_srad": 17420.94212962963,
     "average_wind": 1.506702646015235,
     "average_tmax": 30.288593691167694,
-    "average_tmin": 21.42650743777017
+    "average_tmin": 21.42650743777017,
+    "population": 1587657,
+    "symbol_sort_key": 1
   },
   "Sarawak": {
     "average_temp": 25.94,
@@ -725,7 +737,9 @@
     "average_srad": 15969.039814814816,
     "average_wind": 1.2016907816407858,
     "average_tmax": 30.805602557856165,
-    "average_tmin": 21.07805153431445
+    "average_tmin": 21.07805153431445,
+    "population": 1491730,
+    "symbol_sort_key": 3
   },
   "Kelantan": {
     "average_temp": 25.94,
@@ -829,7 +843,9 @@
     "average_srad": 16914.97868217054,
     "average_wind": 1.3806336519792097,
     "average_tmax": 30.250939925881323,
-    "average_tmin": 21.62560077711593
+    "average_tmin": 21.62560077711593,
+    "population": 734474,
+    "symbol_sort_key": 9
   },
   "Putrajaya": {
     "average_temp": null,
@@ -933,7 +949,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 109202,
+    "symbol_sort_key": 14
   },
   "Terengganu": {
     "average_temp": 26.36,
@@ -1037,7 +1055,9 @@
     "average_srad": 16651.437499999996,
     "average_wind": 1.68897768445313,
     "average_tmax": 30.327587100664783,
-    "average_tmin": 22.389498411814373
+    "average_tmin": 22.389498411814373,
+    "population": 337534,
+    "symbol_sort_key": 11
   },
   "Pahang": {
     "average_temp": 26.41,
@@ -1141,7 +1161,9 @@
     "average_srad": 16017.959119496858,
     "average_wind": 1.344720285924726,
     "average_tmax": 30.846178285730712,
-    "average_tmin": 21.97837017377218
+    "average_tmin": 21.97837017377218,
+    "population": 862048,
+    "symbol_sort_key": 8
   },
   "Kedah": {
     "average_temp": 27.41,
@@ -1245,7 +1267,9 @@
     "average_srad": 17350.602777777778,
     "average_wind": 1.599056605166859,
     "average_tmax": 31.818300895690914,
-    "average_tmin": 23.01074405246311
+    "average_tmin": 23.01074405246311,
+    "population": 791851,
+    "symbol_sort_key": 5
   },
   "Perlis": {
     "average_temp": 28.06,
@@ -1349,7 +1373,9 @@
     "average_srad": 17379.166666666668,
     "average_wind": 1.690864582856496,
     "average_tmax": 32.498958333333334,
-    "average_tmin": 23.617708333333336
+    "average_tmin": 23.617708333333336,
+    "population": 58898,
+    "symbol_sort_key": 13
   },
   "Perak": {
     "average_temp": 26.35,
@@ -1453,7 +1479,9 @@
     "average_srad": 16534.790960451977,
     "average_wind": 1.5283889342836066,
     "average_tmax": 30.902889154186354,
-    "average_tmin": 21.793718157515016
+    "average_tmin": 21.793718157515016,
+    "population": 2543856,
+    "symbol_sort_key": 4
   },
   "Penang": {
     "average_temp": 27.98,
@@ -1557,7 +1585,9 @@
     "average_srad": 17009.041666666668,
     "average_wind": 1.9590689937273662,
     "average_tmax": 32.371875111262,
-    "average_tmin": 23.596205409367883
+    "average_tmin": 23.596205409367883,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Labuan": {
     "average_temp": null,
@@ -1661,6 +1691,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 95100,
+    "symbol_sort_key": 15
   }
 }

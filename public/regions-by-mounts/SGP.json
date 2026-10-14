@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "EAST REGION": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "NORTH-EAST REGION": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "NORTH REGION": {
     "average_temp": 27.6,
@@ -413,7 +419,9 @@
     "average_srad": 16028.833333333334,
     "average_wind": 2.0065852204958596,
     "average_tmax": 31.392708333333328,
-    "average_tmin": 23.803124999999998
+    "average_tmin": 23.803124999999998,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "WEST REGION": {
     "average_temp": null,
@@ -517,6 +525,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 0
   }
 }

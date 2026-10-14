@@ -101,7 +101,9 @@
     "average_srad": 19775.940789473683,
     "average_wind": 1.7093338861800078,
     "average_tmax": 31.23097587719298,
-    "average_tmin": 23.416748903508775
+    "average_tmin": 23.416748903508775,
+    "population": 29665,
+    "symbol_sort_key": 21
   },
   "Preah Vihear": {
     "average_temp": 27.59,
@@ -205,7 +207,9 @@
     "average_srad": 19965.651709401707,
     "average_wind": 1.6052163492920053,
     "average_tmax": 32.132825854700855,
-    "average_tmin": 23.037553418803416
+    "average_tmin": 23.037553418803416,
+    "population": 73985,
+    "symbol_sort_key": 18
   },
   "Kampong Thom": {
     "average_temp": 27.89,
@@ -309,7 +313,9 @@
     "average_srad": 19640.1625,
     "average_wind": 1.5899468754728636,
     "average_tmax": 31.984765624999994,
-    "average_tmin": 23.80091145833333
+    "average_tmin": 23.80091145833333,
+    "population": 51822,
+    "symbol_sort_key": 12
   },
   "Phnom Penh": {
     "average_temp": 28.75,
@@ -413,7 +419,9 @@
     "average_srad": 18767.541666666668,
     "average_wind": 1.608281244834264,
     "average_tmax": 32.48385416666667,
-    "average_tmin": 25.009375000000002
+    "average_tmin": 25.009375000000002,
+    "population": 2148413,
+    "symbol_sort_key": 0
   },
   "Koh Kong": {
     "average_temp": 26.56,
@@ -517,7 +525,9 @@
     "average_srad": 18129.86274509804,
     "average_wind": 1.903131664675825,
     "average_tmax": 30.43608183860779,
-    "average_tmin": 22.682839190726185
+    "average_tmin": 22.682839190726185,
+    "population": 33591,
+    "symbol_sort_key": 23
   },
   "Kep": {
     "average_temp": null,
@@ -621,7 +631,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 35990,
+    "symbol_sort_key": 24
   },
   "Kampot": {
     "average_temp": 27.51,
@@ -725,7 +737,9 @@
     "average_srad": 17812.30128205128,
     "average_wind": 2.034519831339518,
     "average_tmax": 31.116391942439932,
-    "average_tmin": 23.90438798268636
+    "average_tmin": 23.90438798268636,
+    "population": 122247,
+    "symbol_sort_key": 11
   },
   "Takeo": {
     "average_temp": 28.32,
@@ -829,7 +843,9 @@
     "average_srad": 17984.851190476187,
     "average_wind": 1.6436949393578943,
     "average_tmax": 31.877306547619042,
-    "average_tmin": 24.756249999999998
+    "average_tmin": 24.756249999999998,
+    "population": 52000,
+    "symbol_sort_key": 8
   },
   "Kandal": {
     "average_temp": 28.41,
@@ -933,7 +949,9 @@
     "average_srad": 18885.666666666664,
     "average_wind": 1.5043937474489215,
     "average_tmax": 31.881770833333338,
-    "average_tmin": 24.944270833333334
+    "average_tmin": 24.944270833333334,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Pursat": {
     "average_temp": 26.94,
@@ -1037,7 +1055,9 @@
     "average_srad": 18790.063725490196,
     "average_wind": 1.5217990194465598,
     "average_tmax": 30.96795343137255,
-    "average_tmin": 22.91810661764706
+    "average_tmin": 22.91810661764706,
+    "population": 58255,
+    "symbol_sort_key": 16
   },
   "Ratanakiri Province": {
     "average_temp": 26.62,
@@ -1141,7 +1161,9 @@
     "average_srad": 19306.90931372549,
     "average_wind": 1.7596268338315626,
     "average_tmax": 30.18786764705882,
-    "average_tmin": 23.051072303921572
+    "average_tmin": 23.051072303921572,
+    "population": 36205,
+    "symbol_sort_key": 20
   },
   "Kampong Chhnang": {
     "average_temp": 28.15,
@@ -1245,7 +1267,9 @@
     "average_srad": 19196.9,
     "average_wind": 1.5214041670163472,
     "average_tmax": 32.11041666666667,
-    "average_tmin": 24.190763888888885
+    "average_tmin": 24.190763888888885,
+    "population": 41700,
+    "symbol_sort_key": 13
   },
   "Pailin": {
     "average_temp": 26.77,
@@ -1349,7 +1373,9 @@
     "average_srad": 18481.5625,
     "average_wind": 1.4184895878036816,
     "average_tmax": 31.13463541666667,
-    "average_tmin": 22.4109375
+    "average_tmin": 22.4109375,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Bantey Meanchey": {
     "average_temp": 28.35,
@@ -1453,7 +1479,9 @@
     "average_srad": 19442.654166666664,
     "average_wind": 1.3957604145010312,
     "average_tmax": 33.11390625,
-    "average_tmin": 23.58130208333333
+    "average_tmin": 23.58130208333333,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Siem Reap": {
     "average_temp": 27.86,
@@ -1557,7 +1585,9 @@
     "average_srad": 19881.354166666668,
     "average_wind": 1.4718831040792992,
     "average_tmax": 32.28330439814815,
-    "average_tmin": 23.44314236111111
+    "average_tmin": 23.44314236111111,
+    "population": 147866,
+    "symbol_sort_key": 3
   },
   "Oddar Meanchey": {
     "average_temp": 27.78,
@@ -1661,7 +1691,9 @@
     "average_srad": 19968.814814814818,
     "average_wind": 1.496748843126827,
     "average_tmax": 32.596296296296295,
-    "average_tmin": 22.96047453703704
+    "average_tmin": 22.96047453703704,
+    "population": 70944,
+    "symbol_sort_key": 4
   },
   "Kampong Cham": {
     "average_temp": 28.17,
@@ -1765,7 +1797,9 @@
     "average_srad": 19242.57738095238,
     "average_wind": 1.6156071431580044,
     "average_tmax": 32.130208333333336,
-    "average_tmin": 24.209300595238094
+    "average_tmin": 24.209300595238094,
+    "population": 118242,
+    "symbol_sort_key": 9
   },
   "Mondulkiri": {
     "average_temp": 26.05,
@@ -1869,7 +1903,9 @@
     "average_srad": 18922.325,
     "average_wind": 1.8014921801785626,
     "average_tmax": 29.72463541666667,
-    "average_tmin": 22.37109375
+    "average_tmin": 22.37109375,
+    "population": 0,
+    "symbol_sort_key": 22
   },
   "Kratie": {
     "average_temp": 27.33,
@@ -1973,7 +2009,9 @@
     "average_srad": 19124.678240740745,
     "average_wind": 1.6778113403254082,
     "average_tmax": 31.168489583333336,
-    "average_tmin": 23.493952546296295
+    "average_tmin": 23.493952546296295,
+    "population": 60000,
+    "symbol_sort_key": 15
   },
   "Prey Veng": {
     "average_temp": 28.44,
@@ -2077,7 +2115,9 @@
     "average_srad": 18510.762820512817,
     "average_wind": 1.6390592960210946,
     "average_tmax": 32.180128205128206,
-    "average_tmin": 24.705288461538462
+    "average_tmin": 24.705288461538462,
+    "population": 33079,
+    "symbol_sort_key": 7
   },
   "Kampong Speu": {
     "average_temp": 27.8,
@@ -2181,7 +2221,9 @@
     "average_srad": 18467.575757575756,
     "average_wind": 1.5872698823610945,
     "average_tmax": 31.71202651515152,
-    "average_tmin": 23.88295454545455
+    "average_tmin": 23.88295454545455,
+    "population": 83590,
+    "symbol_sort_key": 10
   },
   "Svay Rieng": {
     "average_temp": 28.31,
@@ -2285,7 +2327,9 @@
     "average_srad": 18193.208333333332,
     "average_wind": 1.6465416649977367,
     "average_tmax": 32.07044270833333,
-    "average_tmin": 24.543359374999998
+    "average_tmin": 24.543359374999998,
+    "population": 41424,
+    "symbol_sort_key": 14
   },
   "Preah Sihanouk": {
     "average_temp": 27.35,
@@ -2389,7 +2433,9 @@
     "average_srad": 17927.375,
     "average_wind": 2.2565096393227577,
     "average_tmax": 31.031266903877256,
-    "average_tmin": 23.677939017613724
+    "average_tmin": 23.677939017613724,
+    "population": 71082,
+    "symbol_sort_key": 19
   },
   "Tbong Khmum": {
     "average_temp": 27.74,
@@ -2493,7 +2539,9 @@
     "average_srad": 18812.041666666668,
     "average_wind": 1.6650572909663122,
     "average_tmax": 31.657161458333334,
-    "average_tmin": 23.82180989583333
+    "average_tmin": 23.82180989583333,
+    "population": 35054,
+    "symbol_sort_key": 5
   },
   "Battambang": {
     "average_temp": 28.03,
@@ -2597,6 +2645,8 @@
     "average_srad": 18982.23039215686,
     "average_wind": 1.3636176447365795,
     "average_tmax": 32.42205882352941,
-    "average_tmin": 23.64715073529412
+    "average_tmin": 23.64715073529412,
+    "population": 130000,
+    "symbol_sort_key": 1
   }
 }

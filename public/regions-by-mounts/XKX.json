@@ -101,7 +101,9 @@
     "average_srad": 13786.314814814816,
     "average_wind": 2.4678935077455306,
     "average_tmax": 16.289236111111112,
-    "average_tmin": 5.885185185185186
+    "average_tmin": 5.885185185185186,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "District of Mitrovica": {
     "average_temp": 10.54,
@@ -205,7 +207,9 @@
     "average_srad": 13714.476190476189,
     "average_wind": 2.453955356563841,
     "average_tmax": 15.710565476190474,
-    "average_tmin": 5.364583333333333
+    "average_tmin": 5.364583333333333,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "District of Peja": {
     "average_temp": 10.62,
@@ -309,7 +313,9 @@
     "average_srad": 13809.736111111111,
     "average_wind": 2.1246180600590177,
     "average_tmax": 15.784548611111111,
-    "average_tmin": 5.460416666666667
+    "average_tmin": 5.460416666666667,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "District of Gjilan": {
     "average_temp": 11.42,
@@ -413,7 +419,9 @@
     "average_srad": 13886.625,
     "average_wind": 2.4535885428388915,
     "average_tmax": 16.647395833333334,
-    "average_tmin": 6.192708333333333
+    "average_tmin": 6.192708333333333,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "District of Gjakova": {
     "average_temp": 12.12,
@@ -517,7 +525,9 @@
     "average_srad": 14018.229166666666,
     "average_wind": 1.6041979069511096,
     "average_tmax": 17.232291666666665,
-    "average_tmin": 7.008333333333334
+    "average_tmin": 7.008333333333334,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "District of Prizren": {
     "average_temp": 10.02,
@@ -621,7 +631,9 @@
     "average_srad": 14060.425000000001,
     "average_wind": 2.283083328604698,
     "average_tmax": 15.006666666666668,
-    "average_tmin": 5.037083333333334
+    "average_tmin": 5.037083333333334,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "District of Ferizaj": {
     "average_temp": 11.02,
@@ -725,6 +737,8 @@
     "average_srad": 14005.104166666666,
     "average_wind": 2.334682285785675,
     "average_tmax": 16.04140625,
-    "average_tmin": 5.996614583333334
+    "average_tmin": 5.996614583333334,
+    "population": 0,
+    "symbol_sort_key": 1
   }
 }

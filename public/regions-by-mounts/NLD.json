@@ -101,7 +101,9 @@
     "average_srad": 9559.604166666666,
     "average_wind": 4.975285940700107,
     "average_tmax": 14.64049482014444,
-    "average_tmin": 7.080475737061351
+    "average_tmin": 7.080475737061351,
+    "population": 738534,
+    "symbol_sort_key": 8
   },
   "Drenthe": {
     "average_temp": 10.87,
@@ -205,7 +207,9 @@
     "average_srad": 9570.346153846152,
     "average_wind": 3.8613301255764108,
     "average_tmax": 15.131971153846157,
-    "average_tmin": 6.61610576923077
+    "average_tmin": 6.61610576923077,
+    "population": 481718,
+    "symbol_sort_key": 9
   },
   "Utrecht": {
     "average_temp": 11.32,
@@ -309,7 +313,9 @@
     "average_srad": 9781.583333333332,
     "average_wind": 4.042985127085731,
     "average_tmax": 15.449553571428572,
-    "average_tmin": 7.19419642857143
+    "average_tmin": 7.19419642857143,
+    "population": 1346877,
+    "symbol_sort_key": 4
   },
   "Flevoland": {
     "average_temp": 11.39,
@@ -413,7 +419,9 @@
     "average_srad": 9733.0,
     "average_wind": 4.192007794976234,
     "average_tmax": 15.386067708333334,
-    "average_tmin": 7.402994791666667
+    "average_tmin": 7.402994791666667,
+    "population": 409920,
+    "symbol_sort_key": 10
   },
   "Overijssel": {
     "average_temp": 11.23,
@@ -517,7 +525,9 @@
     "average_srad": 9636.666666666666,
     "average_wind": 3.6706705714265504,
     "average_tmax": 15.475781249999999,
-    "average_tmin": 6.993294270833332
+    "average_tmin": 6.993294270833332,
+    "population": 1209689,
+    "symbol_sort_key": 5
   },
   "Noord-Holland": {
     "average_temp": 11.32,
@@ -621,7 +631,9 @@
     "average_srad": 9815.214285714284,
     "average_wind": 5.31604155188515,
     "average_tmax": 14.761161857181127,
-    "average_tmin": 7.888248557680183
+    "average_tmin": 7.888248557680183,
+    "population": 3419102,
+    "symbol_sort_key": 1
   },
   "Gelderland": {
     "average_temp": 11.37,
@@ -725,7 +737,9 @@
     "average_srad": 9714.62,
     "average_wind": 3.8945150113105775,
     "average_tmax": 15.635083333333332,
-    "average_tmin": 7.113208333333333
+    "average_tmin": 7.113208333333333,
+    "population": 1878177,
+    "symbol_sort_key": 3
   },
   "Zuid-Holland": {
     "average_temp": 11.51,
@@ -829,7 +843,9 @@
     "average_srad": 9911.006410256412,
     "average_wind": 4.698433622335776,
     "average_tmax": 15.18199785794967,
-    "average_tmin": 7.834214745270902
+    "average_tmin": 7.834214745270902,
+    "population": 4040075,
+    "symbol_sort_key": 0
   },
   "Fryslân": {
     "average_temp": 10.95,
@@ -933,7 +949,9 @@
     "average_srad": 9678.557291666666,
     "average_wind": 5.103789785255988,
     "average_tmax": 14.623479494518705,
-    "average_tmin": 7.267620368599892
+    "average_tmin": 7.267620368599892,
+    "population": 405292,
+    "symbol_sort_key": 7
   },
   "Noord-Brabant": {
     "average_temp": 11.61,
@@ -1037,7 +1055,9 @@
     "average_srad": 9855.358695652174,
     "average_wind": 3.863128625828287,
     "average_tmax": 15.88709239130435,
-    "average_tmin": 7.339402173913045
+    "average_tmin": 7.339402173913045,
+    "population": 2610719,
+    "symbol_sort_key": 2
   },
   "Limburg": {
     "average_temp": 11.72,
@@ -1141,7 +1161,9 @@
     "average_srad": 9900.007575757576,
     "average_wind": 3.692736725012462,
     "average_tmax": 15.974715909090909,
-    "average_tmin": 7.4601325757575765
+    "average_tmin": 7.4601325757575765,
+    "population": 1166661,
+    "symbol_sort_key": 6
   },
   "Zeeland": {
     "average_temp": 12.01,
@@ -1245,6 +1267,8 @@
     "average_srad": 10088.107142857143,
     "average_wind": 5.2073671732630045,
     "average_tmax": 15.250335496947878,
-    "average_tmin": 8.769963923522404
+    "average_tmin": 8.769963923522404,
+    "population": 310508,
+    "symbol_sort_key": 11
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 18505.677083333332,
     "average_wind": 2.529364279781779,
     "average_tmax": 26.03901783823967,
-    "average_tmin": 17.440308801333114
+    "average_tmin": 17.440308801333114,
+    "population": 51320,
+    "symbol_sort_key": 6
   },
   "Colón Province": {
     "average_temp": 26.54,
@@ -205,7 +207,9 @@
     "average_srad": 19110.493589743586,
     "average_wind": 1.7940241121328795,
     "average_tmax": 29.769980155097105,
-    "average_tmin": 23.318030736181473
+    "average_tmin": 23.318030736181473,
+    "population": 311668,
+    "symbol_sort_key": 3
   },
   "Provincia de Darién": {
     "average_temp": 26.0,
@@ -309,7 +313,9 @@
     "average_srad": 18653.68376068376,
     "average_wind": 1.5398733533091014,
     "average_tmax": 29.77879401801998,
-    "average_tmin": 22.225563535934842
+    "average_tmin": 22.225563535934842,
+    "population": 6591,
+    "symbol_sort_key": 10
   },
   "Comarca Emberá-Wounaan": {
     "average_temp": 25.75,
@@ -413,7 +419,9 @@
     "average_srad": 18605.895833333332,
     "average_wind": 1.5345850682093038,
     "average_tmax": 29.516059027777775,
-    "average_tmin": 21.98828125
+    "average_tmin": 21.98828125,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Comarca Guna Yala": {
     "average_temp": 26.34,
@@ -517,7 +525,9 @@
     "average_srad": 18805.0,
     "average_wind": 2.1043254435062404,
     "average_tmax": 29.57612210114797,
-    "average_tmin": 23.10315801699956
+    "average_tmin": 23.10315801699956,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Provincia de Herrera": {
     "average_temp": 26.61,
@@ -621,7 +631,9 @@
     "average_srad": 19088.625,
     "average_wind": 1.422577368716399,
     "average_tmax": 31.301302083333336,
-    "average_tmin": 21.922395833333336
+    "average_tmin": 21.922395833333336,
+    "population": 9022,
+    "symbol_sort_key": 7
   },
   "Provincia de Los Santos": {
     "average_temp": 26.59,
@@ -725,7 +737,9 @@
     "average_srad": 18725.108333333334,
     "average_wind": 1.4832773273189863,
     "average_tmax": 31.065833333333334,
-    "average_tmin": 22.1191388575236
+    "average_tmin": 22.1191388575236,
+    "population": 9255,
+    "symbol_sort_key": 8
   },
   "Comarca Ngäbe-Buglé": {
     "average_temp": 23.47,
@@ -829,7 +843,9 @@
     "average_srad": 18458.394736842107,
     "average_wind": 2.0713849820588766,
     "average_tmax": 27.554980283034478,
-    "average_tmin": 19.392028765092817
+    "average_tmin": 19.392028765092817,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Provincia de Panamá Oeste": {
     "average_temp": 26.64,
@@ -933,7 +949,9 @@
     "average_srad": 19184.216666666664,
     "average_wind": 1.598398299018542,
     "average_tmax": 30.149493652979533,
-    "average_tmin": 23.13343747456868
+    "average_tmin": 23.13343747456868,
+    "population": 172789,
+    "symbol_sort_key": 1
   },
   "Provincia de Panamá": {
     "average_temp": 26.3,
@@ -1037,7 +1055,9 @@
     "average_srad": 19083.607638888887,
     "average_wind": 1.7040845037748416,
     "average_tmax": 29.61998106060606,
-    "average_tmin": 22.98574810606061
+    "average_tmin": 22.98574810606061,
+    "population": 2758980,
+    "symbol_sort_key": 0
   },
   "Provincia de Veraguas": {
     "average_temp": 25.79,
@@ -1141,7 +1161,9 @@
     "average_srad": 18945.924242424244,
     "average_wind": 1.6700073518235274,
     "average_tmax": 30.20583123366038,
-    "average_tmin": 21.376337973276772
+    "average_tmin": 21.376337973276772,
+    "population": 45955,
+    "symbol_sort_key": 5
   },
   "Provincia de Chiriquí": {
     "average_temp": 24.88,
@@ -1245,7 +1267,9 @@
     "average_srad": 18850.5,
     "average_wind": 2.214052271748346,
     "average_tmax": 29.331675954849,
-    "average_tmin": 20.422830984327526
+    "average_tmin": 20.422830984327526,
+    "population": 131213,
+    "symbol_sort_key": 2
   },
   "Provincia de Coclé": {
     "average_temp": 26.53,
@@ -1349,6 +1373,8 @@
     "average_srad": 19140.865384615387,
     "average_wind": 1.450826637637921,
     "average_tmax": 30.525887555342454,
-    "average_tmin": 22.524229526519775
+    "average_tmin": 22.524229526519775,
+    "population": 70753,
+    "symbol_sort_key": 4
   }
 }

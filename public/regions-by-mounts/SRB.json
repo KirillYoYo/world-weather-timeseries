@@ -101,7 +101,9 @@
     "average_srad": 13121.383333333333,
     "average_wind": 2.3449110991424984,
     "average_tmax": 18.811736111111113,
-    "average_tmin": 7.874722222222222
+    "average_tmin": 7.874722222222222,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "South Banat District": {
     "average_temp": 13.41,
@@ -205,7 +207,9 @@
     "average_srad": 13158.416666666666,
     "average_wind": 2.590617655539045,
     "average_tmax": 18.829595588235296,
-    "average_tmin": 7.987622549019608
+    "average_tmin": 7.987622549019608,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "North Banat District": {
     "average_temp": 13.03,
@@ -309,7 +313,9 @@
     "average_srad": 12962.0,
     "average_wind": 2.7284125089645386,
     "average_tmax": 18.465833333333332,
-    "average_tmin": 7.5981250000000005
+    "average_tmin": 7.5981250000000005,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "North Backa District": {
     "average_temp": 12.92,
@@ -413,7 +419,9 @@
     "average_srad": 12889.761904761903,
     "average_wind": 2.7170982105391364,
     "average_tmax": 18.367708333333333,
-    "average_tmin": 7.466815476190477
+    "average_tmin": 7.466815476190477,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Central Banat District": {
     "average_temp": 13.39,
@@ -517,7 +525,9 @@
     "average_srad": 13080.595238095239,
     "average_wind": 2.6476384018148695,
     "average_tmax": 18.78206845238095,
-    "average_tmin": 7.9992559523809526
+    "average_tmin": 7.9992559523809526,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "West Backa District": {
     "average_temp": 13.07,
@@ -621,7 +631,9 @@
     "average_srad": 12874.750000000002,
     "average_wind": 2.5437045386343287,
     "average_tmax": 18.681439393939392,
-    "average_tmin": 7.455965909090909
+    "average_tmin": 7.455965909090909,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "South Backa District": {
     "average_temp": 13.2,
@@ -725,7 +737,9 @@
     "average_srad": 13037.100877192983,
     "average_wind": 2.5229386028490564,
     "average_tmax": 18.63914473684211,
-    "average_tmin": 7.759375000000001
+    "average_tmin": 7.759375000000001,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Belgrade": {
     "average_temp": 13.4,
@@ -829,7 +843,9 @@
     "average_srad": 13211.345238095239,
     "average_wind": 2.5008690484932488,
     "average_tmax": 18.709672619047616,
-    "average_tmin": 8.08497023809524
+    "average_tmin": 8.08497023809524,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Bor District": {
     "average_temp": 11.71,
@@ -933,7 +949,9 @@
     "average_srad": 13156.82738095238,
     "average_wind": 2.3922306490795955,
     "average_tmax": 16.99174107142857,
-    "average_tmin": 6.4226190476190474
+    "average_tmin": 6.4226190476190474,
+    "population": 0,
+    "symbol_sort_key": 21
   },
   "Macva District": {
     "average_temp": 12.92,
@@ -1037,7 +1055,9 @@
     "average_srad": 13123.48484848485,
     "average_wind": 2.092636353138721,
     "average_tmax": 18.432670454545452,
-    "average_tmin": 7.402840909090909
+    "average_tmin": 7.402840909090909,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Pcinja District": {
     "average_temp": 9.8,
@@ -1141,7 +1161,9 @@
     "average_srad": 13495.744047619046,
     "average_wind": 3.073049088319143,
     "average_tmax": 15.10230654761905,
-    "average_tmin": 4.493824404761905
+    "average_tmin": 4.493824404761905,
+    "population": 0,
+    "symbol_sort_key": 20
   },
   "Kolubara District": {
     "average_temp": 12.49,
@@ -1245,7 +1267,9 @@
     "average_srad": 13172.450000000003,
     "average_wind": 2.269741639494896,
     "average_tmax": 17.898958333333333,
-    "average_tmin": 7.086666666666665
+    "average_tmin": 7.086666666666665,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Podunavlje District": {
     "average_temp": 13.22,
@@ -1349,7 +1373,9 @@
     "average_srad": 13195.550000000001,
     "average_wind": 2.5573083321253454,
     "average_tmax": 18.741041666666664,
-    "average_tmin": 7.698541666666667
+    "average_tmin": 7.698541666666667,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Branicevo District": {
     "average_temp": 12.26,
@@ -1453,7 +1479,9 @@
     "average_srad": 13129.544444444444,
     "average_wind": 2.619883339934879,
     "average_tmax": 17.425972222222224,
-    "average_tmin": 7.099722222222222
+    "average_tmin": 7.099722222222222,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Sumadija District": {
     "average_temp": 12.51,
@@ -1557,7 +1585,9 @@
     "average_srad": 13178.277777777776,
     "average_wind": 2.560122688611348,
     "average_tmax": 17.94212962962963,
-    "average_tmin": 7.069097222222223
+    "average_tmin": 7.069097222222223,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Pomoravlje District": {
     "average_temp": 11.88,
@@ -1661,7 +1691,9 @@
     "average_srad": 13196.045454545456,
     "average_wind": 2.66845455494794,
     "average_tmax": 17.418181818181818,
-    "average_tmin": 6.349905303030304
+    "average_tmin": 6.349905303030304,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Moravica District": {
     "average_temp": 10.68,
@@ -1765,7 +1797,9 @@
     "average_srad": 13228.39880952381,
     "average_wind": 2.62419941169875,
     "average_tmax": 15.821130952380953,
-    "average_tmin": 5.542261904761904
+    "average_tmin": 5.542261904761904,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Zajecar District": {
     "average_temp": 11.0,
@@ -1869,7 +1903,9 @@
     "average_srad": 13154.479166666666,
     "average_wind": 2.743800778562824,
     "average_tmax": 16.411523437499998,
-    "average_tmin": 5.591666666666668
+    "average_tmin": 5.591666666666668,
+    "population": 0,
+    "symbol_sort_key": 22
   },
   "Zlatibor District": {
     "average_temp": 9.72,
@@ -1973,7 +2009,9 @@
     "average_srad": 13301.590000000002,
     "average_wind": 2.4781349917252853,
     "average_tmax": 14.73325,
-    "average_tmin": 4.708208333333332
+    "average_tmin": 4.708208333333332,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Raska District": {
     "average_temp": 10.27,
@@ -2077,7 +2115,9 @@
     "average_srad": 13396.317708333334,
     "average_wind": 2.658631505444646,
     "average_tmax": 15.432421875000001,
-    "average_tmin": 5.116731770833334
+    "average_tmin": 5.116731770833334,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Pirot District": {
     "average_temp": 10.01,
@@ -2181,7 +2221,9 @@
     "average_srad": 13074.70833333333,
     "average_wind": 3.004654510153664,
     "average_tmax": 15.659114583333333,
-    "average_tmin": 4.360763888888889
+    "average_tmin": 4.360763888888889,
+    "population": 0,
+    "symbol_sort_key": 24
   },
   "Jablanica District": {
     "average_temp": 11.79,
@@ -2285,7 +2327,9 @@
     "average_srad": 13521.34090909091,
     "average_wind": 2.5680397658637073,
     "average_tmax": 17.15189393939394,
-    "average_tmin": 6.425378787878787
+    "average_tmin": 6.425378787878787,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Toplica District": {
     "average_temp": 11.84,
@@ -2389,7 +2433,9 @@
     "average_srad": 13516.03125,
     "average_wind": 2.5608828042944274,
     "average_tmax": 17.386067708333332,
-    "average_tmin": 6.285026041666666
+    "average_tmin": 6.285026041666666,
+    "population": 0,
+    "symbol_sort_key": 23
   },
   "Nisava District": {
     "average_temp": 11.96,
@@ -2493,7 +2539,9 @@
     "average_srad": 13352.616666666669,
     "average_wind": 2.596085423231125,
     "average_tmax": 17.513958333333335,
-    "average_tmin": 6.413854166666668
+    "average_tmin": 6.413854166666668,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Rasina District": {
     "average_temp": 11.43,
@@ -2597,6 +2645,8 @@
     "average_srad": 13342.741666666669,
     "average_wind": 2.656841669480006,
     "average_tmax": 16.862916666666667,
-    "average_tmin": 6.002187500000001
+    "average_tmin": 6.002187500000001,
+    "population": 0,
+    "symbol_sort_key": 9
   }
 }

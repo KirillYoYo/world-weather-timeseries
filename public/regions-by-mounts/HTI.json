@@ -101,7 +101,9 @@
     "average_srad": 18184.988888888885,
     "average_wind": 1.8333007964822983,
     "average_tmax": 30.297758032480875,
-    "average_tmin": 19.00306555747986
+    "average_tmin": 19.00306555747986,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Département de la Grande-Anse": {
     "average_temp": 24.23,
@@ -205,7 +207,9 @@
     "average_srad": 18844.89285714286,
     "average_wind": 2.0093527393681665,
     "average_tmax": 29.182653063819526,
-    "average_tmin": 19.277730719248456
+    "average_tmin": 19.277730719248456,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Département des Nippes": {
     "average_temp": 25.83,
@@ -309,7 +313,9 @@
     "average_srad": 18594.416666666668,
     "average_wind": 1.8396082893013954,
     "average_tmax": 31.02455357710521,
-    "average_tmin": 20.633519355456034
+    "average_tmin": 20.633519355456034,
+    "population": 336710,
+    "symbol_sort_key": 8
   },
   "Département du Sud-Est": {
     "average_temp": 23.88,
@@ -413,7 +419,9 @@
     "average_srad": 18257.305555555555,
     "average_wind": 2.0902271767457328,
     "average_tmax": 29.457908965923167,
-    "average_tmin": 18.30560185114543
+    "average_tmin": 18.30560185114543,
+    "population": 626965,
+    "symbol_sort_key": 6
   },
   "Nord-Ouest Department": {
     "average_temp": 25.88,
@@ -517,7 +525,9 @@
     "average_srad": 18126.464285714286,
     "average_wind": 2.1986779896985915,
     "average_tmax": 31.43229623067947,
-    "average_tmin": 20.323245811462407
+    "average_tmin": 20.323245811462407,
+    "population": 476167,
+    "symbol_sort_key": 4
   },
   "Département du Nord": {
     "average_temp": 25.04,
@@ -621,7 +631,9 @@
     "average_srad": 17682.347222222223,
     "average_wind": 1.7969172679715684,
     "average_tmax": 30.37623841497633,
-    "average_tmin": 19.70148151185777
+    "average_tmin": 19.70148151185777,
+    "population": 889720,
+    "symbol_sort_key": 2
   },
   "Nord-Est Department": {
     "average_temp": 25.85,
@@ -725,7 +737,9 @@
     "average_srad": 17590.716666666667,
     "average_wind": 1.8103535811106362,
     "average_tmax": 31.495208333333334,
-    "average_tmin": 20.21333333333333
+    "average_tmin": 20.21333333333333,
+    "population": 308521,
+    "symbol_sort_key": 9
   },
   "Centre Department": {
     "average_temp": 24.82,
@@ -829,7 +843,9 @@
     "average_srad": 17962.848484848484,
     "average_wind": 1.496170444922014,
     "average_tmax": 30.799242424242422,
-    "average_tmin": 18.83910984848485
+    "average_tmin": 18.83910984848485,
+    "population": 710036,
+    "symbol_sort_key": 3
   },
   "Artibonite Department": {
     "average_temp": 25.33,
@@ -933,7 +949,9 @@
     "average_srad": 17799.86764705882,
     "average_wind": 1.6191674126129527,
     "average_tmax": 31.02215043610217,
-    "average_tmin": 19.63211254793055
+    "average_tmin": 19.63211254793055,
+    "population": 1682175,
+    "symbol_sort_key": 1
   },
   "Sud Department": {
     "average_temp": 25.83,
@@ -1037,6 +1055,8 @@
     "average_srad": 18636.120370370372,
     "average_wind": 1.9182803917814184,
     "average_tmax": 31.00605571888111,
-    "average_tmin": 20.64876050595884
+    "average_tmin": 20.64876050595884,
+    "population": 776888,
+    "symbol_sort_key": 5
   }
 }

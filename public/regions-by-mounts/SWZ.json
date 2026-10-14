@@ -101,7 +101,9 @@
     "average_srad": 18369.878205128203,
     "average_wind": 1.8902435936988928,
     "average_tmax": 27.284535256410255,
-    "average_tmin": 14.206089743589745
+    "average_tmin": 14.206089743589745,
+    "population": 225093,
+    "symbol_sort_key": 0
   },
   "Lubombo": {
     "average_temp": 22.58,
@@ -205,7 +207,9 @@
     "average_srad": 17472.741228070176,
     "average_wind": 1.7780405685567018,
     "average_tmax": 29.097313596491233,
-    "average_tmin": 16.05657894736842
+    "average_tmin": 16.05657894736842,
+    "population": 6381,
+    "symbol_sort_key": 2
   },
   "Shiselweni": {
     "average_temp": 20.8,
@@ -309,7 +313,9 @@
     "average_srad": 18128.895833333332,
     "average_wind": 1.8218802006708252,
     "average_tmax": 27.252951388888885,
-    "average_tmin": 14.33871527777778
+    "average_tmin": 14.33871527777778,
+    "population": 15511,
+    "symbol_sort_key": 3
   },
   "Hhohho": {
     "average_temp": 20.27,
@@ -413,6 +419,8 @@
     "average_srad": 18184.378205128203,
     "average_wind": 1.9160945446063309,
     "average_tmax": 26.793750000000003,
-    "average_tmin": 13.736378205128204
+    "average_tmin": 13.736378205128204,
+    "population": 80786,
+    "symbol_sort_key": 1
   }
 }

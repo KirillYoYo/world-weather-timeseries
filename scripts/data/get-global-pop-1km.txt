@@ -1,0 +1,1 @@
+wget -c "https://data.worldpop.org/GIS/Population/Global_2021_2022_1km_UNadj/constrained/2021/0_Mosaicked/global_ppp_2021_1km_UNadj_constrained.tif" -O global_pop_1km.tif

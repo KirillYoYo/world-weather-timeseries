@@ -101,7 +101,9 @@
     "average_srad": 16070.38888888889,
     "average_wind": 5.255436976750692,
     "average_tmax": 19.350115786658392,
-    "average_tmin": 15.071412028206721
+    "average_tmin": 15.071412028206721,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "RegiÃ£o AutÃ³noma dos AÃ§ores": {
     "average_temp": 17.66,
@@ -205,7 +207,9 @@
     "average_srad": 14255.449999999999,
     "average_wind": 4.780107760429382,
     "average_tmax": 20.288973753540603,
-    "average_tmin": 15.021846720024392
+    "average_tmin": 15.021846720024392,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "AVEIRO": {
     "average_temp": 15.89,
@@ -309,7 +313,9 @@
     "average_srad": 15202.768518518518,
     "average_wind": 2.6394060496930725,
     "average_tmax": 20.867845129083705,
-    "average_tmin": 10.910311448132548
+    "average_tmin": 10.910311448132548,
+    "population": 502921,
+    "symbol_sort_key": 4
   },
   "BEJA": {
     "average_temp": 17.92,
@@ -413,7 +419,9 @@
     "average_srad": 17231.46929824561,
     "average_wind": 3.143898403435422,
     "average_tmax": 23.908154235806382,
-    "average_tmin": 11.928623903425114
+    "average_tmin": 11.928623903425114,
+    "population": 110666,
+    "symbol_sort_key": 17
   },
   "BRAGA": {
     "average_temp": 14.7,
@@ -517,7 +525,9 @@
     "average_srad": 14440.576923076922,
     "average_wind": 2.303758944456394,
     "average_tmax": 19.582900637846727,
-    "average_tmin": 9.82561965905703
+    "average_tmin": 9.82561965905703,
+    "population": 1270530,
+    "symbol_sort_key": 3
   },
   "BRAGANÃA": {
     "average_temp": 14.01,
@@ -621,7 +631,9 @@
     "average_srad": 15135.6875,
     "average_wind": 2.6210967213625,
     "average_tmax": 19.475818452380953,
-    "average_tmin": 8.547693452380953
+    "average_tmin": 8.547693452380953,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "CASTELO BRANCO": {
     "average_temp": 16.48,
@@ -725,7 +737,9 @@
     "average_srad": 16431.892361111113,
     "average_wind": 2.8590312550465264,
     "average_tmax": 21.955381944444444,
-    "average_tmin": 10.995833333333332
+    "average_tmin": 10.995833333333332,
+    "population": 162715,
+    "symbol_sort_key": 13
   },
   "COIMBRA": {
     "average_temp": 16.31,
@@ -829,7 +843,9 @@
     "average_srad": 15716.966666666667,
     "average_wind": 2.621013837390476,
     "average_tmax": 21.66916666666667,
-    "average_tmin": 10.948333333333332
+    "average_tmin": 10.948333333333332,
+    "population": 423128,
+    "symbol_sort_key": 8
   },
   "ÃVORA": {
     "average_temp": 17.51,
@@ -933,7 +949,9 @@
     "average_srad": 16919.583333333332,
     "average_wind": 3.2022693511985594,
     "average_tmax": 23.6711681547619,
-    "average_tmin": 11.346912202380954
+    "average_tmin": 11.346912202380954,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "FARO": {
     "average_temp": 18.04,
@@ -1037,7 +1055,9 @@
     "average_srad": 17505.583333333332,
     "average_wind": 3.555617681905335,
     "average_tmax": 23.196054169710944,
-    "average_tmin": 12.879488156823548
+    "average_tmin": 12.879488156823548,
+    "population": 466277,
+    "symbol_sort_key": 5
   },
   "GUARDA": {
     "average_temp": 14.27,
@@ -1141,7 +1161,9 @@
     "average_srad": 15799.714285714288,
     "average_wind": 2.942297622324929,
     "average_tmax": 19.322916666666668,
-    "average_tmin": 9.214037698412698
+    "average_tmin": 9.214037698412698,
+    "population": 140861,
+    "symbol_sort_key": 16
   },
   "LEIRIA": {
     "average_temp": 16.67,
@@ -1245,7 +1267,9 @@
     "average_srad": 15873.159090909094,
     "average_wind": 3.169428762161371,
     "average_tmax": 21.399108376647487,
-    "average_tmin": 11.934015891046235
+    "average_tmin": 11.934015891046235,
+    "population": 459444,
+    "symbol_sort_key": 6
   },
   "LISBOA": {
     "average_temp": 17.38,
@@ -1349,7 +1373,9 @@
     "average_srad": 16156.08333333333,
     "average_wind": 3.742416941457325,
     "average_tmax": 21.52405998441908,
-    "average_tmin": 13.22893443637424
+    "average_tmin": 13.22893443637424,
+    "population": 2775529,
+    "symbol_sort_key": 0
   },
   "PORTALEGRE": {
     "average_temp": 17.43,
@@ -1453,7 +1479,9 @@
     "average_srad": 16784.968750000004,
     "average_wind": 3.0829713576369815,
     "average_tmax": 23.309809027777778,
-    "average_tmin": 11.540668402777776
+    "average_tmin": 11.540668402777776,
+    "population": 54594,
+    "symbol_sort_key": 19
   },
   "PORTO": {
     "average_temp": 15.35,
@@ -1557,7 +1585,9 @@
     "average_srad": 14760.63888888889,
     "average_wind": 2.35047835332376,
     "average_tmax": 20.266782402109218,
-    "average_tmin": 10.428665125811541
+    "average_tmin": 10.428665125811541,
+    "population": 3518161,
+    "symbol_sort_key": 1
   },
   "SANTARÃM": {
     "average_temp": 17.55,
@@ -1661,7 +1691,9 @@
     "average_srad": 16336.549382716052,
     "average_wind": 2.84432433637572,
     "average_tmax": 22.849421296296295,
-    "average_tmin": 12.25883487654321
+    "average_tmin": 12.25883487654321,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "SETÃBAL": {
     "average_temp": 17.9,
@@ -1765,7 +1797,9 @@
     "average_srad": 16848.362745098035,
     "average_wind": 3.4602856741232024,
     "average_tmax": 23.247291654698984,
-    "average_tmin": 12.553382356961569
+    "average_tmin": 12.553382356961569,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "VIANA DO CASTELO": {
     "average_temp": 14.45,
@@ -1869,7 +1903,9 @@
     "average_srad": 14137.904761904761,
     "average_wind": 2.6310264893940514,
     "average_tmax": 19.16264880952381,
-    "average_tmin": 9.744791666666668
+    "average_tmin": 9.744791666666668,
+    "population": 227256,
+    "symbol_sort_key": 11
   },
   "VILA REAL": {
     "average_temp": 13.64,
@@ -1973,7 +2009,9 @@
     "average_srad": 14778.894444444444,
     "average_wind": 2.615630556477441,
     "average_tmax": 18.544027777777778,
-    "average_tmin": 8.730555555555556
+    "average_tmin": 8.730555555555556,
+    "population": 145890,
+    "symbol_sort_key": 14
   },
   "VISEU": {
     "average_temp": 14.68,
@@ -2077,6 +2115,8 @@
     "average_srad": 15404.195833333333,
     "average_wind": 2.5518041710058843,
     "average_tmax": 19.748333333333335,
-    "average_tmin": 9.614270833333334
+    "average_tmin": 9.614270833333334,
+    "population": 326760,
+    "symbol_sort_key": 9
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 21342.261904761905,
     "average_wind": 3.4809315460068837,
     "average_tmax": 32.894345238095234,
-    "average_tmin": 23.661458333333332
+    "average_tmin": 23.661458333333332,
+    "population": 71230,
+    "symbol_sort_key": 1
   },
   "Arta": {
     "average_temp": 28.79,
@@ -205,7 +207,9 @@
     "average_srad": 21359.555555555555,
     "average_wind": 4.052935169802772,
     "average_tmax": 33.26284722222222,
-    "average_tmin": 24.311458333333334
+    "average_tmin": 24.311458333333334,
+    "population": 11221,
+    "symbol_sort_key": 4
   },
   "Dikhil": {
     "average_temp": 29.22,
@@ -309,7 +313,9 @@
     "average_srad": 21224.629166666666,
     "average_wind": 3.068810418744883,
     "average_tmax": 34.298802083333335,
-    "average_tmin": 24.141458333333336
+    "average_tmin": 24.141458333333336,
+    "population": 35000,
+    "symbol_sort_key": 2
   },
   "Tadjourah": {
     "average_temp": 27.84,
@@ -413,7 +419,9 @@
     "average_srad": 21239.32894736842,
     "average_wind": 3.468712449596639,
     "average_tmax": 32.67458278254459,
-    "average_tmin": 23.000840923242404
+    "average_tmin": 23.000840923242404,
+    "population": 14820,
+    "symbol_sort_key": 0
   },
   "Obock": {
     "average_temp": 29.23,
@@ -517,7 +525,9 @@
     "average_srad": 21183.57051282051,
     "average_wind": 3.726357889481079,
     "average_tmax": 33.924236101981926,
-    "average_tmin": 24.53622862987029
+    "average_tmin": 24.53622862987029,
+    "population": 21200,
+    "symbol_sort_key": 5
   },
   "Djibouti": {
     "average_temp": null,
@@ -621,6 +631,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 603900,
+    "symbol_sort_key": 3
   }
 }

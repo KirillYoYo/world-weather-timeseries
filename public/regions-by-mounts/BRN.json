@@ -101,7 +101,9 @@
     "average_srad": 17270.629629629628,
     "average_wind": 1.53737031199314,
     "average_tmax": 31.84437781439887,
-    "average_tmin": 23.04507576624552
+    "average_tmin": 23.04507576624552,
+    "population": 25341,
+    "symbol_sort_key": 1
   },
   "Tutong": {
     "average_temp": 27.47,
@@ -205,7 +207,9 @@
     "average_srad": 17573.8125,
     "average_wind": 1.6460832841694355,
     "average_tmax": 31.92873264153799,
-    "average_tmin": 23.020225683848064
+    "average_tmin": 23.020225683848064,
+    "population": 9883,
+    "symbol_sort_key": 2
   },
   "Brunei-Muara": {
     "average_temp": 27.82,
@@ -309,7 +313,9 @@
     "average_srad": 17691.666666666668,
     "average_wind": 2.0205405255158744,
     "average_tmax": 32.29375,
-    "average_tmin": 23.349999999999998
+    "average_tmin": 23.349999999999998,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Temburong": {
     "average_temp": 26.5,
@@ -413,6 +419,8 @@
     "average_srad": 17676.854166666668,
     "average_wind": 1.5763183534145355,
     "average_tmax": 30.9796875,
-    "average_tmin": 22.017187500000002
+    "average_tmin": 22.017187500000002,
+    "population": 626,
+    "symbol_sort_key": 3
   }
 }

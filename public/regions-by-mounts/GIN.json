@@ -101,7 +101,9 @@
     "average_srad": 19307.505102040817,
     "average_wind": 1.8902768950377193,
     "average_tmax": 34.521979400089805,
-    "average_tmin": 22.691147000773423
+    "average_tmin": 22.691147000773423,
+    "population": 512772,
+    "symbol_sort_key": 4
   },
   "Conakry": {
     "average_temp": 28.76,
@@ -205,7 +207,9 @@
     "average_srad": 18315.833333333332,
     "average_wind": 2.757056405146917,
     "average_tmax": 33.703571478525795,
-    "average_tmin": 23.822023852666216
+    "average_tmin": 23.822023852666216,
+    "population": 1667864,
+    "symbol_sort_key": 2
   },
   "Faranah": {
     "average_temp": 26.14,
@@ -309,7 +313,9 @@
     "average_srad": 18452.97936507936,
     "average_wind": 1.9621341173610993,
     "average_tmax": 33.770783730158726,
-    "average_tmin": 18.50081349206349
+    "average_tmin": 18.50081349206349,
+    "population": 300572,
+    "symbol_sort_key": 5
   },
   "Kankan": {
     "average_temp": 26.78,
@@ -413,7 +419,9 @@
     "average_srad": 18466.73435054773,
     "average_wind": 1.9227086184356879,
     "average_tmax": 34.71846146322378,
-    "average_tmin": 18.8406396713615
+    "average_tmin": 18.8406396713615,
+    "population": 801065,
+    "symbol_sort_key": 0
   },
   "Kindia": {
     "average_temp": 28.05,
@@ -517,7 +525,9 @@
     "average_srad": 18454.048245614034,
     "average_wind": 1.9751385506569294,
     "average_tmax": 33.692290752394165,
-    "average_tmin": 22.398077485854163
+    "average_tmin": 22.398077485854163,
+    "population": 263042,
+    "symbol_sort_key": 1
   },
   "Labe": {
     "average_temp": 26.15,
@@ -621,7 +631,9 @@
     "average_srad": 19608.230952380953,
     "average_wind": 1.9524994024208617,
     "average_tmax": 32.209196428571424,
-    "average_tmin": 20.08372023809524
+    "average_tmin": 20.08372023809524,
+    "population": 166646,
+    "symbol_sort_key": 6
   },
   "Mamou": {
     "average_temp": 25.47,
@@ -725,7 +737,9 @@
     "average_srad": 18671.62575757576,
     "average_wind": 1.9123746147661496,
     "average_tmax": 31.882215909090906,
-    "average_tmin": 19.060037878787885
+    "average_tmin": 19.060037878787885,
+    "population": 416963,
+    "symbol_sort_key": 7
   },
   "Nzerekore": {
     "average_temp": 25.19,
@@ -829,6 +843,8 @@
     "average_srad": 16907.630401234568,
     "average_wind": 1.7527600263739809,
     "average_tmax": 32.87604166666667,
-    "average_tmin": 17.50357831790123
+    "average_tmin": 17.50357831790123,
+    "population": 624022,
+    "symbol_sort_key": 3
   }
 }

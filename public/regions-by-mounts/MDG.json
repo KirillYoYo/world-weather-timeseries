@@ -101,7 +101,9 @@
     "average_srad": 20941.40303030303,
     "average_wind": 2.952760139739875,
     "average_tmax": 30.023602273536454,
-    "average_tmin": 19.890059921958226
+    "average_tmin": 19.890059921958226,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Sava": {
     "average_temp": 23.97,
@@ -205,7 +207,9 @@
     "average_srad": 19559.91666666667,
     "average_wind": 2.715615788681639,
     "average_tmax": 28.402506474212363,
-    "average_tmin": 19.541008875105117
+    "average_tmin": 19.541008875105117,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Analanjirofo": {
     "average_temp": 22.58,
@@ -309,7 +313,9 @@
     "average_srad": 18169.117857142857,
     "average_wind": 2.673490386349814,
     "average_tmax": 27.290042457580565,
-    "average_tmin": 17.863525524593534
+    "average_tmin": 17.863525524593534,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Amoron'i Mania": {
     "average_temp": 19.82,
@@ -413,7 +419,9 @@
     "average_srad": 18887.863333333335,
     "average_wind": 2.2423045776287713,
     "average_tmax": 25.898625,
-    "average_tmin": 13.732
+    "average_tmin": 13.732,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Ihorombe": {
     "average_temp": 22.04,
@@ -517,7 +525,9 @@
     "average_srad": 19200.26219512195,
     "average_wind": 2.304614069379442,
     "average_tmax": 28.276295731707318,
-    "average_tmin": 15.810810467479676
+    "average_tmin": 15.810810467479676,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "Melaky": {
     "average_temp": 26.28,
@@ -621,7 +631,9 @@
     "average_srad": 21287.96133333333,
     "average_wind": 2.0905502116680146,
     "average_tmax": 32.295988571166994,
-    "average_tmin": 20.255524900563557
+    "average_tmin": 20.255524900563557,
+    "population": 0,
+    "symbol_sort_key": 20
   },
   "Menabe": {
     "average_temp": 25.91,
@@ -725,7 +737,9 @@
     "average_srad": 20742.88257575758,
     "average_wind": 2.2443202675291984,
     "average_tmax": 32.42109109725788,
-    "average_tmin": 19.407716137609437
+    "average_tmin": 19.407716137609437,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Vakinankaratra": {
     "average_temp": 18.59,
@@ -829,7 +843,9 @@
     "average_srad": 18717.537581699347,
     "average_wind": 2.2022589842478433,
     "average_tmax": 24.877328431372547,
-    "average_tmin": 12.30888480392157
+    "average_tmin": 12.30888480392157,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Atsinanana": {
     "average_temp": 22.6,
@@ -933,7 +949,9 @@
     "average_srad": 17504.867857142857,
     "average_wind": 2.2713272882359368,
     "average_tmax": 27.34909322784061,
-    "average_tmin": 17.860687424795966
+    "average_tmin": 17.860687424795966,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Alaotra-Mangoro": {
     "average_temp": 20.85,
@@ -1037,7 +1055,9 @@
     "average_srad": 17796.24503968254,
     "average_wind": 1.9518888832794297,
     "average_tmax": 26.69859871031746,
-    "average_tmin": 15.006051587301585
+    "average_tmin": 15.006051587301585,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Sofia": {
     "average_temp": 24.39,
@@ -1141,7 +1161,9 @@
     "average_srad": 20359.878540305013,
     "average_wind": 2.262256377338065,
     "average_tmax": 30.35087085798675,
-    "average_tmin": 18.42130785653274
+    "average_tmin": 18.42130785653274,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Anosy": {
     "average_temp": 22.95,
@@ -1245,7 +1267,9 @@
     "average_srad": 19142.94649122807,
     "average_wind": 2.823646047868227,
     "average_tmax": 29.70444729855186,
-    "average_tmin": 16.200615894752637
+    "average_tmin": 16.200615894752637,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Boeny": {
     "average_temp": 27.23,
@@ -1349,7 +1373,9 @@
     "average_srad": 21214.934065934067,
     "average_wind": 2.200463162673699,
     "average_tmax": 33.40177020782079,
-    "average_tmin": 21.052572679344987
+    "average_tmin": 21.052572679344987,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Betsiboka": {
     "average_temp": 24.89,
@@ -1453,7 +1479,9 @@
     "average_srad": 19993.207854406133,
     "average_wind": 1.9032270073662314,
     "average_tmax": 31.354717432950185,
-    "average_tmin": 18.432519157088123
+    "average_tmin": 18.432519157088123,
+    "population": 0,
+    "symbol_sort_key": 21
   },
   "Analamanga": {
     "average_temp": 20.03,
@@ -1557,7 +1585,9 @@
     "average_srad": 18315.647798742135,
     "average_wind": 2.05971422229173,
     "average_tmax": 26.051061320754716,
-    "average_tmin": 14.015094339622644
+    "average_tmin": 14.015094339622644,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Bongolava": {
     "average_temp": 22.84,
@@ -1661,7 +1691,9 @@
     "average_srad": 19965.439814814818,
     "average_wind": 2.070843368584727,
     "average_tmax": 29.38258101851852,
-    "average_tmin": 16.289197530864197
+    "average_tmin": 16.289197530864197,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Itasy": {
     "average_temp": 19.95,
@@ -1765,7 +1797,9 @@
     "average_srad": 18929.06818181818,
     "average_wind": 2.220823854659543,
     "average_tmax": 26.15970643939394,
-    "average_tmin": 13.734895833333333
+    "average_tmin": 13.734895833333333,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Atsimo-Andrefana": {
     "average_temp": 24.91,
@@ -1869,7 +1903,9 @@
     "average_srad": 20245.427033492826,
     "average_wind": 2.7748614435560963,
     "average_tmax": 32.16536682408772,
-    "average_tmin": 17.661299481764555
+    "average_tmin": 17.661299481764555,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Androy": {
     "average_temp": 24.4,
@@ -1973,7 +2009,9 @@
     "average_srad": 19322.431451612898,
     "average_wind": 3.1748540995902914,
     "average_tmax": 31.27014381911165,
-    "average_tmin": 17.528109593288875
+    "average_tmin": 17.528109593288875,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Atsimo-Atsinanana": {
     "average_temp": 22.45,
@@ -2077,7 +2115,9 @@
     "average_srad": 18000.83192090396,
     "average_wind": 2.2424297352968634,
     "average_tmax": 27.57285204580275,
-    "average_tmin": 17.329416557893914
+    "average_tmin": 17.329416557893914,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Matsiatra Ambony": {
     "average_temp": 20.83,
@@ -2181,7 +2221,9 @@
     "average_srad": 19007.542307692307,
     "average_wind": 2.3195647346667756,
     "average_tmax": 26.72961538461539,
-    "average_tmin": 14.937419871794868
+    "average_tmin": 14.937419871794868,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Vatovavy-Fitovinany": {
     "average_temp": 22.59,
@@ -2285,6 +2327,8 @@
     "average_srad": 17769.413978494624,
     "average_wind": 2.0650422307111884,
     "average_tmax": 27.091857123631303,
-    "average_tmin": 18.090459476491457
+    "average_tmin": 18.090459476491457,
+    "population": 0,
+    "symbol_sort_key": 2
   }
 }

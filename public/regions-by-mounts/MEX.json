@@ -101,7 +101,9 @@
     "average_srad": 18393.754629629628,
     "average_wind": 2.5456041710244284,
     "average_tmax": 26.793807870370372,
-    "average_tmin": 9.483680555555557
+    "average_tmin": 9.483680555555557,
+    "population": 1287119,
+    "symbol_sort_key": 26
   },
   "Baja California": {
     "average_temp": 19.41,
@@ -205,7 +207,9 @@
     "average_srad": 19093.451079622133,
     "average_wind": 2.628140757159505,
     "average_tmax": 26.69434164744801,
-    "average_tmin": 12.118044898577546
+    "average_tmin": 12.118044898577546,
+    "population": 4781900,
+    "symbol_sort_key": 12
   },
   "Baja California Sur": {
     "average_temp": 22.65,
@@ -309,7 +313,9 @@
     "average_srad": 18932.842514124295,
     "average_wind": 2.6306189464057903,
     "average_tmax": 30.186146457316514,
-    "average_tmin": 15.10714494899168
+    "average_tmin": 15.10714494899168,
+    "population": 945939,
+    "symbol_sort_key": 29
   },
   "Campeche": {
     "average_temp": 27.07,
@@ -413,7 +419,9 @@
     "average_srad": 18146.68578431373,
     "average_wind": 2.560109000170932,
     "average_tmax": 33.78827224619248,
-    "average_tmin": 20.34898615163915
+    "average_tmin": 20.34898615163915,
+    "population": 834685,
+    "symbol_sort_key": 30
   },
   "Chiapas": {
     "average_temp": 24.52,
@@ -517,7 +525,9 @@
     "average_srad": 17929.367931547622,
     "average_wind": 2.277777560143953,
     "average_tmax": 30.513157341877616,
-    "average_tmin": 18.522300205202328
+    "average_tmin": 18.522300205202328,
+    "population": 2670656,
+    "symbol_sort_key": 7
   },
   "Chihuahua": {
     "average_temp": 18.3,
@@ -621,7 +631,9 @@
     "average_srad": 18463.75505050505,
     "average_wind": 2.9133105268261654,
     "average_tmax": 27.16701262626263,
-    "average_tmin": 9.426935606060606
+    "average_tmin": 9.426935606060606,
+    "population": 3067144,
+    "symbol_sort_key": 13
   },
   "Coahuila de Zaragoza": {
     "average_temp": 21.36,
@@ -725,7 +737,9 @@
     "average_srad": 17065.161311914326,
     "average_wind": 3.0845622905047545,
     "average_tmax": 29.659324799196785,
-    "average_tmin": 13.052758952476575
+    "average_tmin": 13.052758952476575,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Colima": {
     "average_temp": 25.87,
@@ -829,7 +843,9 @@
     "average_srad": 18133.52314814815,
     "average_wind": 1.9101573813844608,
     "average_tmax": 32.91462467511494,
-    "average_tmin": 18.816360791524257
+    "average_tmin": 18.816360791524257,
+    "population": 670102,
+    "symbol_sort_key": 31
   },
   "Distrito Federal": {
     "average_temp": 15.87,
@@ -933,7 +949,9 @@
     "average_srad": 17986.541666666668,
     "average_wind": 2.5248229081432023,
     "average_tmax": 23.438802083333332,
-    "average_tmin": 8.304947916666668
+    "average_tmin": 8.304947916666668,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Durango": {
     "average_temp": 18.23,
@@ -1037,7 +1055,9 @@
     "average_srad": 17536.79082914573,
     "average_wind": 2.593166611502119,
     "average_tmax": 27.381655674204353,
-    "average_tmin": 9.086793341708542
+    "average_tmin": 9.086793341708542,
+    "population": 1460353,
+    "symbol_sort_key": 23
   },
   "Guanajuato": {
     "average_temp": 19.09,
@@ -1141,7 +1161,9 @@
     "average_srad": 18582.8515625,
     "average_wind": 2.3001831544356213,
     "average_tmax": 27.400173611111114,
-    "average_tmin": 10.782986111111112
+    "average_tmin": 10.782986111111112,
+    "population": 4938609,
+    "symbol_sort_key": 5
   },
   "Guerrero": {
     "average_temp": 25.52,
@@ -1245,7 +1267,9 @@
     "average_srad": 18132.228632478633,
     "average_wind": 1.835534085931941,
     "average_tmax": 32.15213778960399,
-    "average_tmin": 18.889411471114197
+    "average_tmin": 18.889411471114197,
+    "population": 2018698,
+    "symbol_sort_key": 10
   },
   "Hidalgo": {
     "average_temp": 18.99,
@@ -1349,7 +1373,9 @@
     "average_srad": 18481.07948717949,
     "average_wind": 2.0159852545994976,
     "average_tmax": 26.45594551282051,
-    "average_tmin": 11.527580128205125
+    "average_tmin": 11.527580128205125,
+    "population": 2215214,
+    "symbol_sort_key": 14
   },
   "Jalisco": {
     "average_temp": 21.3,
@@ -1453,7 +1479,9 @@
     "average_srad": 18383.056241426613,
     "average_wind": 1.8177061414522397,
     "average_tmax": 29.50525761592535,
-    "average_tmin": 13.089412732968114
+    "average_tmin": 13.089412732968114,
+    "population": 9732752,
+    "symbol_sort_key": 2
   },
   "Mexico": {
     "average_temp": 16.81,
@@ -1557,7 +1585,9 @@
     "average_srad": 18227.50124378109,
     "average_wind": 2.36036038028067,
     "average_tmax": 24.66969838308458,
-    "average_tmin": 8.942459577114427
+    "average_tmin": 8.942459577114427,
+    "population": 17166673,
+    "symbol_sort_key": 0
   },
   "Michoacan de Ocampo": {
     "average_temp": 22.36,
@@ -1661,7 +1691,9 @@
     "average_srad": 18224.42714025501,
     "average_wind": 1.8530648029078554,
     "average_tmax": 29.911172327969243,
-    "average_tmin": 14.81025266247803
+    "average_tmin": 14.81025266247803,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Morelos": {
     "average_temp": 23.42,
@@ -1765,7 +1797,9 @@
     "average_srad": 18090.119791666668,
     "average_wind": 1.687091131384174,
     "average_tmax": 31.49309895833333,
-    "average_tmin": 15.341666666666669
+    "average_tmin": 15.341666666666669,
+    "population": 1363047,
+    "symbol_sort_key": 22
   },
   "Nayarit": {
     "average_temp": 24.42,
@@ -1869,7 +1903,9 @@
     "average_srad": 18297.465116279072,
     "average_wind": 1.6738826486953469,
     "average_tmax": 32.18522661268249,
-    "average_tmin": 16.646649341065753
+    "average_tmin": 16.646649341065753,
+    "population": 664543,
+    "symbol_sort_key": 27
   },
   "Nuevo Leon": {
     "average_temp": 22.14,
@@ -1973,7 +2009,9 @@
     "average_srad": 16810.605072463764,
     "average_wind": 3.248033411452928,
     "average_tmax": 29.91348128019324,
-    "average_tmin": 14.364890297906605
+    "average_tmin": 14.364890297906605,
+    "population": 8985014,
+    "symbol_sort_key": 1
   },
   "Oaxaca": {
     "average_temp": 23.26,
@@ -2077,7 +2115,9 @@
     "average_srad": 17131.767497034398,
     "average_wind": 2.545965330845379,
     "average_tmax": 29.396583778974144,
-    "average_tmin": 17.12081169985933
+    "average_tmin": 17.12081169985933,
+    "population": 2282912,
+    "symbol_sort_key": 9
   },
   "Puebla": {
     "average_temp": 19.49,
@@ -2181,7 +2221,9 @@
     "average_srad": 17385.022653721684,
     "average_wind": 1.8975226427744893,
     "average_tmax": 27.059557038834953,
-    "average_tmin": 11.92748786407767
+    "average_tmin": 11.92748786407767,
+    "population": 4105821,
+    "symbol_sort_key": 6
   },
   "Queretaro de Arteaga": {
     "average_temp": 19.72,
@@ -2285,7 +2327,9 @@
     "average_srad": 18684.0625,
     "average_wind": 2.1755127222449695,
     "average_tmax": 27.373553240740737,
-    "average_tmin": 12.071788194444444
+    "average_tmin": 12.071788194444444,
+    "population": 0,
+    "symbol_sort_key": 20
   },
   "Quintana Roo": {
     "average_temp": 26.7,
@@ -2389,7 +2433,9 @@
     "average_srad": 18114.116180048662,
     "average_wind": 2.4392691398914135,
     "average_tmax": 32.722811796137314,
-    "average_tmin": 20.676414241233882
+    "average_tmin": 20.676414241233882,
+    "population": 1605036,
+    "symbol_sort_key": 25
   },
   "San Luis Potosi": {
     "average_temp": 20.77,
@@ -2493,7 +2539,9 @@
     "average_srad": 17967.261904761905,
     "average_wind": 2.4285038591902937,
     "average_tmax": 28.826697530864198,
-    "average_tmin": 12.716264329805997
+    "average_tmin": 12.716264329805997,
+    "population": 3863027,
+    "symbol_sort_key": 18
   },
   "Sinaloa": {
     "average_temp": 25.36,
@@ -2597,7 +2645,9 @@
     "average_srad": 18011.550644567218,
     "average_wind": 2.1465725566142173,
     "average_tmax": 33.21289612593474,
-    "average_tmin": 17.50362427005061
+    "average_tmin": 17.50362427005061,
+    "population": 2299331,
+    "symbol_sort_key": 17
   },
   "Sonora": {
     "average_temp": 22.55,
@@ -2701,7 +2751,9 @@
     "average_srad": 18847.837327823687,
     "average_wind": 2.472408015997285,
     "average_tmax": 31.284195297913772,
-    "average_tmin": 13.819014832980047
+    "average_tmin": 13.819014832980047,
+    "population": 2872426,
+    "symbol_sort_key": 16
   },
   "Tabasco": {
     "average_temp": 27.55,
@@ -2805,7 +2857,9 @@
     "average_srad": 17536.891666666666,
     "average_wind": 2.8142512626945972,
     "average_tmax": 33.00700627605121,
-    "average_tmin": 22.100090469121934
+    "average_tmin": 22.100090469121934,
+    "population": 1312026,
+    "symbol_sort_key": 19
   },
   "Tamaulipas": {
     "average_temp": 24.4,
@@ -2909,7 +2963,9 @@
     "average_srad": 17368.679282868525,
     "average_wind": 2.6511157976282864,
     "average_tmax": 31.053003541280233,
-    "average_tmin": 17.749602977086507
+    "average_tmin": 17.749602977086507,
+    "population": 2898632,
+    "symbol_sort_key": 11
   },
   "Tlaxcala": {
     "average_temp": 14.79,
@@ -3013,7 +3069,9 @@
     "average_srad": 17798.71794871795,
     "average_wind": 2.2859374873149085,
     "average_tmax": 23.21754807692308,
-    "average_tmin": 6.368108974358974
+    "average_tmin": 6.368108974358974,
+    "population": 378893,
+    "symbol_sort_key": 28
   },
   "Veracruz de Ignacio de la Llave": {
     "average_temp": 24.98,
@@ -3117,7 +3175,9 @@
     "average_srad": 16706.769585253456,
     "average_wind": 2.375715774370961,
     "average_tmax": 30.370629671915083,
-    "average_tmin": 19.591885786954272
+    "average_tmin": 19.591885786954272,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Yucatan": {
     "average_temp": 26.8,
@@ -3221,7 +3281,9 @@
     "average_srad": 17947.481404958675,
     "average_wind": 2.6276036230821584,
     "average_tmax": 33.81094736934693,
-    "average_tmin": 19.794322723199514
+    "average_tmin": 19.794322723199514,
+    "population": 1831368,
+    "symbol_sort_key": 21
   },
   "Zacatecas": {
     "average_temp": 18.13,
@@ -3325,6 +3387,8 @@
     "average_srad": 17786.812500000004,
     "average_wind": 2.9922285744099213,
     "average_tmax": 27.203452620967738,
-    "average_tmin": 9.058362735215054
+    "average_tmin": 9.058362735215054,
+    "population": 984836,
+    "symbol_sort_key": 24
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 20490.0,
     "average_wind": 2.6322812537352243,
     "average_tmax": 27.34635416666666,
-    "average_tmin": 12.877604166666666
+    "average_tmin": 12.877604166666666,
+    "population": 665940,
+    "symbol_sort_key": 9
   },
   "Harare": {
     "average_temp": 19.27,
@@ -205,7 +207,9 @@
     "average_srad": 19957.958333333332,
     "average_wind": 2.222718730568886,
     "average_tmax": 25.7,
-    "average_tmin": 12.840625000000003
+    "average_tmin": 12.840625000000003,
+    "population": 1930069,
+    "symbol_sort_key": 0
   },
   "Manicaland": {
     "average_temp": 19.91,
@@ -309,7 +313,9 @@
     "average_srad": 19184.89525993884,
     "average_wind": 1.9987551476977286,
     "average_tmax": 26.255217889908256,
-    "average_tmin": 13.573642966360856
+    "average_tmin": 13.573642966360856,
+    "population": 317314,
+    "symbol_sort_key": 1
   },
   "Mashonaland Central": {
     "average_temp": 21.16,
@@ -413,7 +419,9 @@
     "average_srad": 19476.87003968254,
     "average_wind": 2.1428090190840146,
     "average_tmax": 27.971986607142856,
-    "average_tmin": 14.352492559523812
+    "average_tmin": 14.352492559523812,
+    "population": 350031,
+    "symbol_sort_key": 6
   },
   "Mashonaland East": {
     "average_temp": 19.97,
@@ -517,7 +525,9 @@
     "average_srad": 19708.817656765674,
     "average_wind": 2.106524331144767,
     "average_tmax": 26.524474009900995,
-    "average_tmin": 13.423401402640264
+    "average_tmin": 13.423401402640264,
+    "population": 113586,
+    "symbol_sort_key": 5
   },
   "Mashonaland West": {
     "average_temp": 21.84,
@@ -621,7 +631,9 @@
     "average_srad": 19963.596224677716,
     "average_wind": 2.323499528084012,
     "average_tmax": 28.517472375690605,
-    "average_tmin": 15.168600368324126
+    "average_tmin": 15.168600368324126,
+    "population": 2211369,
+    "symbol_sort_key": 3
   },
   "Masvingo": {
     "average_temp": 22.19,
@@ -725,7 +737,9 @@
     "average_srad": 19333.565613026814,
     "average_wind": 1.9799898152036228,
     "average_tmax": 29.147491618773945,
-    "average_tmin": 15.238200431034484
+    "average_tmin": 15.238200431034484,
+    "population": 129391,
+    "symbol_sort_key": 4
   },
   "Matabeleland North": {
     "average_temp": 22.09,
@@ -829,7 +843,9 @@
     "average_srad": 20450.26317663818,
     "average_wind": 2.5565555524027928,
     "average_tmax": 29.680506588319087,
-    "average_tmin": 14.50178062678063
+    "average_tmin": 14.50178062678063,
+    "population": 300583,
+    "symbol_sort_key": 7
   },
   "Matabeleland South": {
     "average_temp": 21.42,
@@ -933,7 +949,9 @@
     "average_srad": 20057.222709551657,
     "average_wind": 2.3012227030873995,
     "average_tmax": 28.677180799220267,
-    "average_tmin": 14.159009502923974
+    "average_tmin": 14.159009502923974,
+    "population": 85676,
+    "symbol_sort_key": 8
   },
   "Midlands": {
     "average_temp": 21.16,
@@ -1037,6 +1055,8 @@
     "average_srad": 20312.724780701756,
     "average_wind": 2.35181468391889,
     "average_tmax": 28.205941611842103,
-    "average_tmin": 14.121148574561404
+    "average_tmin": 14.121148574561404,
+    "population": 318773,
+    "symbol_sort_key": 2
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 17828.658333333336,
     "average_wind": 1.639093738794327,
     "average_tmax": 31.299270833333335,
-    "average_tmin": 24.777604166666666
+    "average_tmin": 24.777604166666666,
+    "population": 881717,
+    "symbol_sort_key": 6
   },
   "Bà Rịa–Vũng Tàu": {
     "average_temp": 27.39,
@@ -205,7 +207,9 @@
     "average_srad": 17716.63333333333,
     "average_wind": 2.571163499355316,
     "average_tmax": 30.747159055074054,
-    "average_tmin": 24.024962056477865
+    "average_tmin": 24.024962056477865,
+    "population": 1343340,
+    "symbol_sort_key": 34
   },
   "Bắc Giang": {
     "average_temp": 23.38,
@@ -309,7 +313,9 @@
     "average_srad": 14903.591666666669,
     "average_wind": 1.7568624913692474,
     "average_tmax": 26.598958333333332,
-    "average_tmin": 20.166875
+    "average_tmin": 20.166875,
+    "population": 933578,
+    "symbol_sort_key": 32
   },
   "Bắc Kạn": {
     "average_temp": 21.93,
@@ -413,7 +419,9 @@
     "average_srad": 14463.755208333334,
     "average_wind": 1.607535154869159,
     "average_tmax": 25.468489583333334,
-    "average_tmin": 18.39296875
+    "average_tmin": 18.39296875,
+    "population": 45036,
+    "symbol_sort_key": 50
   },
   "Bạc Liêu": {
     "average_temp": 28.04,
@@ -517,7 +525,9 @@
     "average_srad": 17396.0,
     "average_wind": 2.045667987316847,
     "average_tmax": 31.18033356666565,
-    "average_tmin": 24.900657240549723
+    "average_tmin": 24.900657240549723,
+    "population": 340658,
+    "symbol_sort_key": 43
   },
   "Bắc Ninh": {
     "average_temp": 24.24,
@@ -621,7 +631,9 @@
     "average_srad": 14650.611111111111,
     "average_wind": 1.4673680530654059,
     "average_tmax": 27.2625,
-    "average_tmin": 21.21388888888889
+    "average_tmin": 21.21388888888889,
+    "population": 722874,
+    "symbol_sort_key": 30
   },
   "Bến Tre": {
     "average_temp": 28.14,
@@ -725,7 +737,9 @@
     "average_srad": 17673.023809523806,
     "average_wind": 2.1611759123348055,
     "average_tmax": 31.14696428662255,
-    "average_tmin": 25.136636906578428
+    "average_tmin": 25.136636906578428,
+    "population": 213403,
+    "symbol_sort_key": 33
   },
   "Bình Định": {
     "average_temp": 25.75,
@@ -829,7 +843,9 @@
     "average_srad": 18573.760416666668,
     "average_wind": 2.310246410469214,
     "average_tmax": 28.824333910147345,
-    "average_tmin": 22.671193901697794
+    "average_tmin": 22.671193901697794,
+    "population": 327785,
+    "symbol_sort_key": 19
   },
   "Bình Dương": {
     "average_temp": 27.36,
@@ -933,7 +949,9 @@
     "average_srad": 18043.175925925927,
     "average_wind": 1.7834976734938446,
     "average_tmax": 30.786458333333332,
-    "average_tmin": 23.926388888888894
+    "average_tmin": 23.926388888888894,
+    "population": 2092117,
+    "symbol_sort_key": 2
   },
   "Bình Phước": {
     "average_temp": 26.35,
@@ -1037,7 +1055,9 @@
     "average_srad": 18408.10087719298,
     "average_wind": 1.68754714204554,
     "average_tmax": 29.979714912280702,
-    "average_tmin": 22.72450657894737
+    "average_tmin": 22.72450657894737,
+    "population": 296160,
+    "symbol_sort_key": 28
   },
   "Bình Thuận": {
     "average_temp": 26.25,
@@ -1141,7 +1161,9 @@
     "average_srad": 18051.943333333333,
     "average_wind": 2.353294444481532,
     "average_tmax": 29.748596504211424,
-    "average_tmin": 22.74506984202067
+    "average_tmin": 22.74506984202067,
+    "population": 208273,
+    "symbol_sort_key": 26
   },
   "Cà Mau": {
     "average_temp": 27.77,
@@ -1245,7 +1267,9 @@
     "average_srad": 17419.96794871795,
     "average_wind": 2.141465508785003,
     "average_tmax": 30.720288464961907,
-    "average_tmin": 24.817099358485294
+    "average_tmin": 24.817099358485294,
+    "population": 192341,
+    "symbol_sort_key": 23
   },
   "Cần Thơ": {
     "average_temp": 28.27,
@@ -1349,7 +1373,9 @@
     "average_srad": 17618.383333333335,
     "average_wind": 1.6164333363374075,
     "average_tmax": 31.560416666666665,
-    "average_tmin": 24.982083333333335
+    "average_tmin": 24.982083333333335,
+    "population": 395575,
+    "symbol_sort_key": 10
   },
   "Cao Bằng": {
     "average_temp": 21.43,
@@ -1453,7 +1479,9 @@
     "average_srad": 14426.050724637678,
     "average_wind": 1.7127001717470696,
     "average_tmax": 25.026675724637684,
-    "average_tmin": 17.83813405797101
+    "average_tmin": 17.83813405797101,
+    "population": 61955,
+    "symbol_sort_key": 50
   },
   "Côn Đảo": {
     "average_temp": null,
@@ -1557,7 +1585,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Đà Nẵng": {
     "average_temp": 24.87,
@@ -1661,7 +1691,9 @@
     "average_srad": 18141.458333333332,
     "average_wind": 2.507051815589269,
     "average_tmax": 28.044791666666672,
-    "average_tmin": 21.699479166666666
+    "average_tmin": 21.699479166666666,
+    "population": 0,
+    "symbol_sort_key": 41
   },
   "Đắk Lắk": {
     "average_temp": 24.38,
@@ -1765,7 +1797,9 @@
     "average_srad": 18467.973684210523,
     "average_wind": 1.9090416601352527,
     "average_tmax": 28.072286184210526,
-    "average_tmin": 20.681578947368422
+    "average_tmin": 20.681578947368422,
+    "population": 152029,
+    "symbol_sort_key": 7
   },
   "Đắk Nông": {
     "average_temp": 23.49,
@@ -1869,7 +1903,9 @@
     "average_srad": 18408.409090909092,
     "average_wind": 1.8803427932840406,
     "average_tmax": 27.433049242424246,
-    "average_tmin": 19.5407196969697
+    "average_tmin": 19.5407196969697,
+    "population": 61413,
+    "symbol_sort_key": 50
   },
   "Điện Biên": {
     "average_temp": 21.56,
@@ -1973,7 +2009,9 @@
     "average_srad": 15422.574074074075,
     "average_wind": 1.5819737572728851,
     "average_tmax": 26.009645061728396,
-    "average_tmin": 17.109104938271606
+    "average_tmin": 17.109104938271606,
+    "population": 121760,
+    "symbol_sort_key": 50
   },
   "Đồng Nai": {
     "average_temp": 26.69,
@@ -2077,7 +2115,9 @@
     "average_srad": 18048.397058823528,
     "average_wind": 1.9683385713427677,
     "average_tmax": 30.09270833333333,
-    "average_tmin": 23.277879901960787
+    "average_tmin": 23.277879901960787,
+    "population": 1800761,
+    "symbol_sort_key": 4
   },
   "Đồng Tháp": {
     "average_temp": 28.25,
@@ -2181,7 +2221,9 @@
     "average_srad": 17928.739583333332,
     "average_wind": 1.5014843655129273,
     "average_tmax": 31.603515625,
-    "average_tmin": 24.888802083333335
+    "average_tmin": 24.888802083333335,
+    "population": 466049,
+    "symbol_sort_key": 15
   },
   "Gia Lai": {
     "average_temp": 24.54,
@@ -2285,7 +2327,9 @@
     "average_srad": 18614.527210884353,
     "average_wind": 1.881025930651191,
     "average_tmax": 28.062414965986402,
-    "average_tmin": 21.025659013605445
+    "average_tmin": 21.025659013605445,
+    "population": 303110,
+    "symbol_sort_key": 11
   },
   "Hà Giang": {
     "average_temp": 21.13,
@@ -2389,7 +2433,9 @@
     "average_srad": 14338.193333333336,
     "average_wind": 1.659519995053609,
     "average_tmax": 24.813958333333332,
-    "average_tmin": 17.442083333333333
+    "average_tmin": 17.442083333333333,
+    "population": 119754,
+    "symbol_sort_key": 49
   },
   "Hà Nam": {
     "average_temp": 24.46,
@@ -2493,7 +2539,9 @@
     "average_srad": 14946.416666666664,
     "average_wind": 1.5536250074704485,
     "average_tmax": 27.302083333333332,
-    "average_tmin": 21.61180555555556
+    "average_tmin": 21.61180555555556,
+    "population": 136654,
+    "symbol_sort_key": 39
   },
   "Hà Nội\t": {
     "average_temp": 24.43,
@@ -2597,7 +2645,9 @@
     "average_srad": 14527.379629629628,
     "average_wind": 1.388907409376568,
     "average_tmax": 27.47337962962963,
-    "average_tmin": 21.38321759259259
+    "average_tmin": 21.38321759259259,
+    "population": 4429396,
+    "symbol_sort_key": 1
   },
   "Hà Tĩnh": {
     "average_temp": 24.69,
@@ -2701,7 +2751,9 @@
     "average_srad": 16754.151041666668,
     "average_wind": 2.02000669327875,
     "average_tmax": 27.92805989980698,
-    "average_tmin": 21.45680804948012
+    "average_tmin": 21.45680804948012,
+    "population": 538750,
+    "symbol_sort_key": 37
   },
   "Hải Dương": {
     "average_temp": 24.08,
@@ -2805,7 +2857,9 @@
     "average_srad": 14921.166666666666,
     "average_wind": 1.9236101096584683,
     "average_tmax": 27.02857142857143,
-    "average_tmin": 21.13511904761905
+    "average_tmin": 21.13511904761905,
+    "population": 419296,
+    "symbol_sort_key": 8
   },
   "Hải Phòng": {
     "average_temp": 24.34,
@@ -2909,7 +2963,9 @@
     "average_srad": 15180.083333333334,
     "average_wind": 2.5104730791515775,
     "average_tmax": 27.057800918155248,
-    "average_tmin": 21.623773214552134
+    "average_tmin": 21.623773214552134,
+    "population": 951770,
+    "symbol_sort_key": 12
   },
   "Hậu Giang": {
     "average_temp": 28.25,
@@ -3013,7 +3069,9 @@
     "average_srad": 17523.533333333336,
     "average_wind": 1.6196958223978681,
     "average_tmax": 31.625000000000004,
-    "average_tmin": 24.878125
+    "average_tmin": 24.878125,
+    "population": 1195713,
+    "symbol_sort_key": 50
   },
   "Ho Chi Minh": {
     "average_temp": 27.89,
@@ -3117,7 +3175,9 @@
     "average_srad": 17713.733333333334,
     "average_wind": 2.358031874895096,
     "average_tmax": 31.254027779897058,
-    "average_tmin": 24.53527778625488
+    "average_tmin": 24.53527778625488,
+    "population": 17326109,
+    "symbol_sort_key": 0
   },
   "Hòa Bình": {
     "average_temp": 23.24,
@@ -3221,7 +3281,9 @@
     "average_srad": 14832.906862745098,
     "average_wind": 1.5210759791673398,
     "average_tmax": 26.363235294117644,
-    "average_tmin": 20.112377450980393
+    "average_tmin": 20.112377450980393,
+    "population": 180582,
+    "symbol_sort_key": 35
   },
   "Hưng Yên": {
     "average_temp": 24.34,
@@ -3325,7 +3387,9 @@
     "average_srad": 14779.416666666666,
     "average_wind": 1.5666874978277419,
     "average_tmax": 27.228472222222223,
-    "average_tmin": 21.460069444444443
+    "average_tmin": 21.460069444444443,
+    "population": 53638,
+    "symbol_sort_key": 38
   },
   "Khánh Hòa": {
     "average_temp": 24.66,
@@ -3429,7 +3493,9 @@
     "average_srad": 18375.76923076923,
     "average_wind": 2.3963879140523763,
     "average_tmax": 27.977430544144067,
-    "average_tmin": 21.33334938440567
+    "average_tmin": 21.33334938440567,
+    "population": 733990,
+    "symbol_sort_key": 29
   },
   "Kiên Giang": {
     "average_temp": 27.89,
@@ -3533,7 +3599,9 @@
     "average_srad": 17505.645833333332,
     "average_wind": 2.1417283533761897,
     "average_tmax": 31.077027535438532,
-    "average_tmin": 24.698172116279604
+    "average_tmin": 24.698172116279604,
+    "population": 829407,
+    "symbol_sort_key": 18
   },
   "Kon Tum": {
     "average_temp": 22.73,
@@ -3637,7 +3705,9 @@
     "average_srad": 18653.1171875,
     "average_wind": 1.9112525964155793,
     "average_tmax": 26.22320963541667,
-    "average_tmin": 19.231835937499998
+    "average_tmin": 19.231835937499998,
+    "population": 205,
+    "symbol_sort_key": 50
   },
   "Lai Châu": {
     "average_temp": 20.38,
@@ -3741,7 +3811,9 @@
     "average_srad": 15129.930952380955,
     "average_wind": 1.659074994212105,
     "average_tmax": 24.498452380952376,
-    "average_tmin": 16.25252976190476
+    "average_tmin": 16.25252976190476,
+    "population": 56857,
+    "symbol_sort_key": 50
   },
   "Lâm Đồng": {
     "average_temp": 21.28,
@@ -3845,7 +3917,9 @@
     "average_srad": 18125.428160919542,
     "average_wind": 1.9946142198710604,
     "average_tmax": 25.4628591954023,
-    "average_tmin": 17.091415229885055
+    "average_tmin": 17.091415229885055,
+    "population": 402275,
+    "symbol_sort_key": 20
   },
   "Lạng Sơn": {
     "average_temp": 22.39,
@@ -3949,7 +4023,9 @@
     "average_srad": 14820.77160493827,
     "average_wind": 1.6755547770011574,
     "average_tmax": 25.821257716049388,
-    "average_tmin": 18.963695987654322
+    "average_tmin": 18.963695987654322,
+    "population": 111171,
+    "symbol_sort_key": 50
   },
   "Lào Cai": {
     "average_temp": 20.5,
@@ -4053,7 +4129,9 @@
     "average_srad": 14588.113636363634,
     "average_wind": 1.6464033993807707,
     "average_tmax": 24.213068181818183,
-    "average_tmin": 16.779876893939395
+    "average_tmin": 16.779876893939395,
+    "population": 140083,
+    "symbol_sort_key": 50
   },
   "Long An": {
     "average_temp": 28.1,
@@ -4157,7 +4235,9 @@
     "average_srad": 17914.866666666665,
     "average_wind": 1.705247210794025,
     "average_tmax": 31.53756944444444,
-    "average_tmin": 24.659444444444446
+    "average_tmin": 24.659444444444446,
+    "population": 234050,
+    "symbol_sort_key": 14
   },
   "Nam Định": {
     "average_temp": 24.53,
@@ -4261,7 +4341,9 @@
     "average_srad": 15221.125000000002,
     "average_wind": 2.1421912891997232,
     "average_tmax": 27.338215446472166,
-    "average_tmin": 21.722239396307202
+    "average_tmin": 21.722239396307202,
+    "population": 364181,
+    "symbol_sort_key": 9
   },
   "Nghệ An": {
     "average_temp": 23.3,
@@ -4365,7 +4447,9 @@
     "average_srad": 15946.235576923078,
     "average_wind": 1.6979015278510559,
     "average_tmax": 26.79578066728054,
-    "average_tmin": 19.811915711561838
+    "average_tmin": 19.811915711561838,
+    "population": 656144,
+    "symbol_sort_key": 5
   },
   "Ninh Bình": {
     "average_temp": 24.42,
@@ -4469,7 +4553,9 @@
     "average_srad": 15248.25,
     "average_wind": 1.9942551975448926,
     "average_tmax": 27.313541666666666,
-    "average_tmin": 21.53515625
+    "average_tmin": 21.53515625,
+    "population": 4516439,
+    "symbol_sort_key": 45
   },
   "Ninh Thuận": {
     "average_temp": 24.34,
@@ -4573,7 +4659,9 @@
     "average_srad": 18241.608333333334,
     "average_wind": 2.299956941604614,
     "average_tmax": 27.8803125,
-    "average_tmin": 20.807708333333334
+    "average_tmin": 20.807708333333334,
+    "population": 215333,
+    "symbol_sort_key": 50
   },
   "Phú Thọ": {
     "average_temp": 23.84,
@@ -4677,7 +4765,9 @@
     "average_srad": 14583.356060606058,
     "average_wind": 1.4400852313547423,
     "average_tmax": 27.082007575757572,
-    "average_tmin": 20.590530303030302
+    "average_tmin": 20.590530303030302,
+    "population": 380695,
+    "symbol_sort_key": 13
   },
   "Phú Yên": {
     "average_temp": 25.82,
@@ -4781,7 +4871,9 @@
     "average_srad": 18449.122222222228,
     "average_wind": 2.5497602363427485,
     "average_tmax": 28.973832995096842,
-    "average_tmin": 22.659036769866944
+    "average_tmin": 22.659036769866944,
+    "population": 395268,
+    "symbol_sort_key": 46
   },
   "Quảng Bình": {
     "average_temp": 24.52,
@@ -4885,7 +4977,9 @@
     "average_srad": 17380.186666666665,
     "average_wind": 2.1058194994926454,
     "average_tmax": 27.774369445800776,
-    "average_tmin": 21.26063055801392
+    "average_tmin": 21.26063055801392,
+    "population": 236159,
+    "symbol_sort_key": 47
   },
   "Quảng Nam": {
     "average_temp": 24.44,
@@ -4989,7 +5083,9 @@
     "average_srad": 18275.645833333332,
     "average_wind": 1.9893125894789894,
     "average_tmax": 27.73804439206918,
-    "average_tmin": 21.14331721464793
+    "average_tmin": 21.14331721464793,
+    "population": 213166,
+    "symbol_sort_key": 22
   },
   "Quảng Ngãi": {
     "average_temp": 25.73,
@@ -5093,7 +5189,9 @@
     "average_srad": 18473.45454545454,
     "average_wind": 2.276657763755683,
     "average_tmax": 28.773268404873942,
-    "average_tmin": 22.69416940862482
+    "average_tmin": 22.69416940862482,
+    "population": 474804,
+    "symbol_sort_key": 36
   },
   "Quảng Ninh": {
     "average_temp": 22.97,
@@ -5197,7 +5295,9 @@
     "average_srad": 15346.688888888888,
     "average_wind": 2.5061349100536767,
     "average_tmax": 25.928244988123577,
-    "average_tmin": 20.017555909686617
+    "average_tmin": 20.017555909686617,
+    "population": 660734,
+    "symbol_sort_key": 50
   },
   "Quảng Trị": {
     "average_temp": 24.85,
@@ -5301,7 +5401,9 @@
     "average_srad": 17987.240196078434,
     "average_wind": 2.154926151037216,
     "average_tmax": 28.219325972538368,
-    "average_tmin": 21.486924016241932
+    "average_tmin": 21.486924016241932,
+    "population": 269330,
+    "symbol_sort_key": 50
   },
   "Sóc Trăng": {
     "average_temp": 28.27,
@@ -5405,7 +5507,9 @@
     "average_srad": 17396.333333333332,
     "average_wind": 2.117803889292258,
     "average_tmax": 31.56289683094731,
-    "average_tmin": 24.98143187275639
+    "average_tmin": 24.98143187275639,
+    "population": 242555,
+    "symbol_sort_key": 21
   },
   "Sơn La": {
     "average_temp": 21.63,
@@ -5509,7 +5613,9 @@
     "average_srad": 15059.982954545456,
     "average_wind": 1.6324412838527647,
     "average_tmax": 25.635558712121213,
-    "average_tmin": 17.623484848484846
+    "average_tmin": 17.623484848484846,
+    "population": 254311,
+    "symbol_sort_key": 24
   },
   "Tây Ninh": {
     "average_temp": 27.79,
@@ -5613,7 +5719,9 @@
     "average_srad": 18338.29487179487,
     "average_wind": 1.6207195520401,
     "average_tmax": 31.447756410256407,
-    "average_tmin": 24.12235576923077
+    "average_tmin": 24.12235576923077,
+    "population": 550825,
+    "symbol_sort_key": 27
   },
   "Thái Bình": {
     "average_temp": 24.45,
@@ -5717,7 +5825,9 @@
     "average_srad": 15153.85,
     "average_wind": 2.2450851897398634,
     "average_tmax": 27.235218276977537,
-    "average_tmin": 21.665238081614174
+    "average_tmin": 21.665238081614174,
+    "population": 268167,
+    "symbol_sort_key": 16
   },
   "Thái Nguyên": {
     "average_temp": 23.37,
@@ -5821,7 +5931,9 @@
     "average_srad": 14516.972222222224,
     "average_wind": 1.409954864117834,
     "average_tmax": 26.78923611111111,
-    "average_tmin": 19.950260416666666
+    "average_tmin": 19.950260416666666,
+    "population": 456591,
+    "symbol_sort_key": 31
   },
   "Thanh Hóa": {
     "average_temp": 23.56,
@@ -5925,7 +6037,9 @@
     "average_srad": 15359.401041666666,
     "average_wind": 1.7461542673408985,
     "average_tmax": 26.717955733338997,
-    "average_tmin": 20.39292441854874
+    "average_tmin": 20.39292441854874,
+    "population": 846329,
+    "symbol_sort_key": 3
   },
   "Thừa Thiên Huế": {
     "average_temp": 24.84,
@@ -6029,7 +6143,9 @@
     "average_srad": 18194.44230769231,
     "average_wind": 2.2705893791638885,
     "average_tmax": 28.125912695664624,
-    "average_tmin": 21.559685610502196
+    "average_tmin": 21.559685610502196,
+    "population": 1229748,
+    "symbol_sort_key": 42
   },
   "Tiền Giang": {
     "average_temp": 28.11,
@@ -6133,7 +6249,9 @@
     "average_srad": 17735.416666666668,
     "average_wind": 1.8119994362195335,
     "average_tmax": 31.407486120859787,
-    "average_tmin": 24.803722222646076
+    "average_tmin": 24.803722222646076,
+    "population": 677549,
+    "symbol_sort_key": 17
   },
   "Trà Vinh": {
     "average_temp": 28.26,
@@ -6237,7 +6355,9 @@
     "average_srad": 17487.683333333334,
     "average_wind": 2.2559430499871573,
     "average_tmax": 31.416624997456875,
-    "average_tmin": 25.108930536905927
+    "average_tmin": 25.108930536905927,
+    "population": 348028,
+    "symbol_sort_key": 40
   },
   "Tuyên Quang": {
     "average_temp": 23.0,
@@ -6341,7 +6461,9 @@
     "average_srad": 14462.648148148148,
     "average_wind": 1.5060833322781102,
     "average_tmax": 26.491493055555555,
-    "average_tmin": 19.500115740740743
+    "average_tmin": 19.500115740740743,
+    "population": 62375,
+    "symbol_sort_key": 50
   },
   "Vĩnh Long": {
     "average_temp": 28.32,
@@ -6445,7 +6567,9 @@
     "average_srad": 17609.30555555556,
     "average_wind": 1.6217152708106568,
     "average_tmax": 31.630902777777777,
-    "average_tmin": 25.01597222222222
+    "average_tmin": 25.01597222222222,
+    "population": 291893,
+    "symbol_sort_key": 44
   },
   "Vĩnh Phúc": {
     "average_temp": 23.74,
@@ -6549,7 +6673,9 @@
     "average_srad": 14426.65,
     "average_wind": 1.3962666551272074,
     "average_tmax": 27.00729166666667,
-    "average_tmin": 20.465625
+    "average_tmin": 20.465625,
+    "population": 273946,
+    "symbol_sort_key": 25
   },
   "Yên Bái": {
     "average_temp": 21.79,
@@ -6653,6 +6779,8 @@
     "average_srad": 14596.488095238094,
     "average_wind": 1.5890386870929174,
     "average_tmax": 25.375843253968252,
-    "average_tmin": 18.20689484126984
+    "average_tmin": 18.20689484126984,
+    "population": 132826,
+    "symbol_sort_key": 48
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 17964.935833333337,
     "average_wind": 1.1529417045911152,
     "average_tmax": 32.007704857508344,
-    "average_tmin": 22.67222767718633
+    "average_tmin": 22.67222767718633,
+    "population": 1037876,
+    "symbol_sort_key": 3
   },
   "Chin": {
     "average_temp": 20.67,
@@ -205,7 +207,9 @@
     "average_srad": 18134.124637681158,
     "average_wind": 1.1773893132157949,
     "average_tmax": 25.082445652173913,
-    "average_tmin": 16.255896739130435
+    "average_tmin": 16.255896739130435,
+    "population": 242621,
+    "symbol_sort_key": 12
   },
   "Saigang": {
     "average_temp": 24.22,
@@ -309,7 +313,9 @@
     "average_srad": 17418.56081081081,
     "average_wind": 0.9763915435755038,
     "average_tmax": 29.518426238738737,
-    "average_tmin": 18.924563626126126
+    "average_tmin": 18.924563626126126,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Kachin": {
     "average_temp": 19.23,
@@ -413,7 +419,9 @@
     "average_srad": 16047.074630801688,
     "average_wind": 1.211964397616527,
     "average_tmax": 24.114873417721515,
-    "average_tmin": 14.35134493670886
+    "average_tmin": 14.35134493670886,
+    "population": 631217,
+    "symbol_sort_key": 7
   },
   "Kayah": {
     "average_temp": 24.65,
@@ -517,7 +525,9 @@
     "average_srad": 18592.03333333333,
     "average_wind": 0.9944648834921064,
     "average_tmax": 29.782380952380947,
-    "average_tmin": 19.526339285714286
+    "average_tmin": 19.526339285714286,
+    "population": 11000,
+    "symbol_sort_key": 13
   },
   "Kayin": {
     "average_temp": 25.88,
@@ -621,7 +631,9 @@
     "average_srad": 18216.373655913976,
     "average_wind": 0.9636890702350164,
     "average_tmax": 31.02860663082437,
-    "average_tmin": 20.726534498207887
+    "average_tmin": 20.726534498207887,
+    "population": 840646,
+    "symbol_sort_key": 10
   },
   "Magway": {
     "average_temp": 26.29,
@@ -725,7 +737,9 @@
     "average_srad": 18639.81115107914,
     "average_wind": 1.000183003751351,
     "average_tmax": 31.706737110311746,
-    "average_tmin": 20.86569994004796
+    "average_tmin": 20.86569994004796,
+    "population": 416440,
+    "symbol_sort_key": 6
   },
   "Mandalay": {
     "average_temp": 26.3,
@@ -829,7 +843,9 @@
     "average_srad": 18632.097222222223,
     "average_wind": 1.0514809047596323,
     "average_tmax": 31.934800347222225,
-    "average_tmin": 20.66018229166667
+    "average_tmin": 20.66018229166667,
+    "population": 4315945,
+    "symbol_sort_key": 2
   },
   "Mon": {
     "average_temp": 27.15,
@@ -933,7 +949,9 @@
     "average_srad": 18055.35606060606,
     "average_wind": 1.4001612190646355,
     "average_tmax": 32.07035655397358,
-    "average_tmin": 22.222577412923176
+    "average_tmin": 22.222577412923176,
+    "population": 770363,
+    "symbol_sort_key": 8
   },
   "Rakhine": {
     "average_temp": 25.36,
@@ -1037,7 +1055,9 @@
     "average_srad": 18350.407766990294,
     "average_wind": 1.4794341260657726,
     "average_tmax": 29.81101096008202,
-    "average_tmin": 20.906308524585466
+    "average_tmin": 20.906308524585466,
+    "population": 821774,
+    "symbol_sort_key": 9
   },
   "Tanitharyi": {
     "average_temp": 26.6,
@@ -1141,7 +1161,9 @@
     "average_srad": 18206.20497311828,
     "average_wind": 1.457269796881304,
     "average_tmax": 30.785649522145587,
-    "average_tmin": 22.42422956119884
+    "average_tmin": 22.42422956119884,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Bago": {
     "average_temp": 26.83,
@@ -1245,7 +1267,9 @@
     "average_srad": 18230.28036723164,
     "average_wind": 0.9082225922937109,
     "average_tmax": 32.18795021186441,
-    "average_tmin": 21.46302083333333
+    "average_tmin": 21.46302083333333,
+    "population": 938263,
+    "symbol_sort_key": 5
   },
   "Yangon": {
     "average_temp": 27.66,
@@ -1349,7 +1373,9 @@
     "average_srad": 17855.646464646466,
     "average_wind": 1.2431315208474796,
     "average_tmax": 32.723133411792794,
-    "average_tmin": 22.601578289571435
+    "average_tmin": 22.601578289571435,
+    "population": 5555427,
+    "symbol_sort_key": 0
   },
   "Shan": {
     "average_temp": 22.21,
@@ -1453,6 +1479,8 @@
     "average_srad": 17825.82711693548,
     "average_wind": 1.0732761287701227,
     "average_tmax": 27.774810987903223,
-    "average_tmin": 16.641593161962366
+    "average_tmin": 16.641593161962366,
+    "population": 1166670,
+    "symbol_sort_key": 1
   }
 }

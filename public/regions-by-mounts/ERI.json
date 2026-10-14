@@ -101,7 +101,9 @@
     "average_srad": 21448.564207650274,
     "average_wind": 2.2104016252554177,
     "average_tmax": 33.359921448087434,
-    "average_tmin": 20.067076502732238
+    "average_tmin": 20.067076502732238,
+    "population": 161500,
+    "symbol_sort_key": 4
   },
   "Gash-Barka Region": {
     "average_temp": 27.8,
@@ -205,7 +207,9 @@
     "average_srad": 21997.579166666666,
     "average_wind": 2.073620405395826,
     "average_tmax": 35.28505208333333,
-    "average_tmin": 20.31553125
+    "average_tmin": 20.31553125,
+    "population": 124110,
+    "symbol_sort_key": 2
   },
   "Debub Region": {
     "average_temp": 21.35,
@@ -309,7 +313,9 @@
     "average_srad": 22802.351190476194,
     "average_wind": 1.9535810929678734,
     "average_tmax": 28.325372023809525,
-    "average_tmin": 14.380357142857143
+    "average_tmin": 14.380357142857143,
+    "population": 64451,
+    "symbol_sort_key": 1
   },
   "Maekel Region": {
     "average_temp": 19.27,
@@ -413,7 +419,9 @@
     "average_srad": 22617.833333333332,
     "average_wind": 1.866135410964489,
     "average_tmax": 26.284635416666664,
-    "average_tmin": 12.263802083333333
+    "average_tmin": 12.263802083333333,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Northen Red Sea Region": {
     "average_temp": 24.87,
@@ -517,7 +525,9 @@
     "average_srad": 21371.199838187702,
     "average_wind": 2.8829731349999075,
     "average_tmax": 30.754426043859187,
-    "average_tmin": 18.995209682952243
+    "average_tmin": 18.995209682952243,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Southern Red Sea Region": {
     "average_temp": 28.63,
@@ -621,6 +631,8 @@
     "average_srad": 21082.27487562189,
     "average_wind": 3.3550619979699445,
     "average_tmax": 34.15037432096491,
-    "average_tmin": 23.109245664207496
+    "average_tmin": 23.109245664207496,
+    "population": 0,
+    "symbol_sort_key": 5
   }
 }

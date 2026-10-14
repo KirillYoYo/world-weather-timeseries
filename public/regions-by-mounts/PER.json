@@ -101,7 +101,9 @@
     "average_srad": 16072.777093596058,
     "average_wind": 2.205029143684212,
     "average_tmax": 17.320997536945814,
-    "average_tmin": 3.050923645320197
+    "average_tmin": 3.050923645320197,
+    "population": 574631,
+    "symbol_sort_key": 6
   },
   "Tumbes": {
     "average_temp": 24.58,
@@ -205,7 +207,9 @@
     "average_srad": 14417.083333333334,
     "average_wind": 2.909003830108887,
     "average_tmax": 29.721579153109815,
-    "average_tmin": 19.432390293708213
+    "average_tmin": 19.432390293708213,
+    "population": 127370,
+    "symbol_sort_key": 23
   },
   "Piura": {
     "average_temp": 22.06,
@@ -309,7 +313,9 @@
     "average_srad": 14869.364285714286,
     "average_wind": 3.156359582004093,
     "average_tmax": 27.892274217454215,
-    "average_tmin": 16.23173231276255
+    "average_tmin": 16.23173231276255,
+    "population": 1089689,
+    "symbol_sort_key": 2
   },
   "Lambayeque": {
     "average_temp": 22.12,
@@ -413,7 +419,9 @@
     "average_srad": 14939.94375,
     "average_wind": 3.189963259796302,
     "average_tmax": 27.74274132569631,
-    "average_tmin": 16.500781252384186
+    "average_tmin": 16.500781252384186,
+    "population": 713835,
+    "symbol_sort_key": 8
   },
   "Cajamarca": {
     "average_temp": 16.59,
@@ -517,7 +525,9 @@
     "average_srad": 14625.692708333334,
     "average_wind": 2.9008962662062707,
     "average_tmax": 22.690321180555557,
-    "average_tmin": 10.480381944444444
+    "average_tmin": 10.480381944444444,
+    "population": 566077,
+    "symbol_sort_key": 5
   },
   "Amazonas": {
     "average_temp": 21.49,
@@ -621,7 +631,9 @@
     "average_srad": 13734.413011695906,
     "average_wind": 1.9095910041652926,
     "average_tmax": 26.793768274853804,
-    "average_tmin": 16.179459064327485
+    "average_tmin": 16.179459064327485,
+    "population": 93550,
+    "symbol_sort_key": 18
   },
   "La Libertad": {
     "average_temp": 16.23,
@@ -725,7 +737,9 @@
     "average_srad": 15237.535714285712,
     "average_wind": 3.4001575912232016,
     "average_tmax": 22.37910336416005,
-    "average_tmin": 10.08345170970603
+    "average_tmin": 10.08345170970603,
+    "population": 1549301,
+    "symbol_sort_key": 1
   },
   "Ancash": {
     "average_temp": 12.22,
@@ -829,7 +843,9 @@
     "average_srad": 15647.810534591195,
     "average_wind": 3.6153068141367446,
     "average_tmax": 18.413859733845452,
-    "average_tmin": 6.034942234537136
+    "average_tmin": 6.034942234537136,
+    "population": 593142,
+    "symbol_sort_key": 9
   },
   "San Martín": {
     "average_temp": 22.84,
@@ -933,7 +949,9 @@
     "average_srad": 13969.075555555557,
     "average_wind": 1.4960290245877372,
     "average_tmax": 28.526458333333334,
-    "average_tmin": 17.158909722222223
+    "average_tmin": 17.158909722222223,
+    "population": 518427,
+    "symbol_sort_key": 11
   },
   "Huánuco": {
     "average_temp": 17.95,
@@ -1037,7 +1055,9 @@
     "average_srad": 13981.449999999999,
     "average_wind": 2.214879357543859,
     "average_tmax": 24.13992424242424,
-    "average_tmin": 11.767698863636362
+    "average_tmin": 11.767698863636362,
+    "population": 260258,
+    "symbol_sort_key": 13
   },
   "Pasco": {
     "average_temp": 18.4,
@@ -1141,7 +1161,9 @@
     "average_srad": 14002.451877934274,
     "average_wind": 1.993973294684025,
     "average_tmax": 24.5449970657277,
-    "average_tmin": 12.256220657276996
+    "average_tmin": 12.256220657276996,
+    "population": 83058,
+    "symbol_sort_key": 21
   },
   "Lima": {
     "average_temp": 11.42,
@@ -1245,7 +1267,9 @@
     "average_srad": 16656.708333333332,
     "average_wind": 3.3624904297925293,
     "average_tmax": 17.211049981834062,
-    "average_tmin": 5.625228590902939
+    "average_tmin": 5.625228590902939,
+    "population": 10539730,
+    "symbol_sort_key": 10
   },
   "El Callao": {
     "average_temp": null,
@@ -1349,7 +1373,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 22
   },
   "Municipalidad Metropolitana de Lima": {
     "average_temp": 18.55,
@@ -1453,7 +1479,9 @@
     "average_srad": 16260.697916666666,
     "average_wind": 3.2921886096398034,
     "average_tmax": 22.794694840908054,
-    "average_tmin": 14.314145948489509
+    "average_tmin": 14.314145948489509,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Ucayali": {
     "average_temp": 26.23,
@@ -1557,7 +1585,9 @@
     "average_srad": 14074.370607028754,
     "average_wind": 0.9193076421055423,
     "average_tmax": 31.657980564430247,
-    "average_tmin": 20.803963658146962
+    "average_tmin": 20.803963658146962,
+    "population": 338986,
+    "symbol_sort_key": 16
   },
   "Junín": {
     "average_temp": 15.24,
@@ -1661,7 +1691,9 @@
     "average_srad": 14460.06234567901,
     "average_wind": 2.227466510843348,
     "average_tmax": 21.500262345679015,
-    "average_tmin": 8.988202160493827
+    "average_tmin": 8.988202160493827,
+    "population": 553882,
+    "symbol_sort_key": 3
   },
   "Ica": {
     "average_temp": 18.13,
@@ -1765,7 +1797,9 @@
     "average_srad": 18232.13440860215,
     "average_wind": 3.058986170317537,
     "average_tmax": 23.44744270796417,
-    "average_tmin": 12.813015316122323
+    "average_tmin": 12.813015316122323,
+    "population": 489351,
+    "symbol_sort_key": 12
   },
   "Huancavelica": {
     "average_temp": 8.29,
@@ -1869,7 +1903,9 @@
     "average_srad": 16521.3984375,
     "average_wind": 2.964080727969607,
     "average_tmax": 15.197151692708331,
-    "average_tmin": 1.3764485677083333
+    "average_tmin": 1.3764485677083333,
+    "population": 91548,
+    "symbol_sort_key": 17
   },
   "Madre de Dios": {
     "average_temp": 25.03,
@@ -1973,7 +2009,9 @@
     "average_srad": 14397.058201058202,
     "average_wind": 1.207828541872678,
     "average_tmax": 30.315046296296302,
-    "average_tmin": 19.738632605820108
+    "average_tmin": 19.738632605820108,
+    "population": 85024,
+    "symbol_sort_key": 24
   },
   "Cusco": {
     "average_temp": 14.27,
@@ -2077,7 +2115,9 @@
     "average_srad": 14981.649769585252,
     "average_wind": 1.8342329047837749,
     "average_tmax": 21.12916186635945,
-    "average_tmin": 7.413445660522272
+    "average_tmin": 7.413445660522272,
+    "population": 608853,
+    "symbol_sort_key": 7
   },
   "Apurímac": {
     "average_temp": 9.26,
@@ -2181,7 +2221,9 @@
     "average_srad": 16165.591397849463,
     "average_wind": 2.528759065334515,
     "average_tmax": 16.67113575268817,
-    "average_tmin": 1.8505040322580648
+    "average_tmin": 1.8505040322580648,
+    "population": 156574,
+    "symbol_sort_key": 19
   },
   "Ayacucho": {
     "average_temp": 9.98,
@@ -2285,7 +2327,9 @@
     "average_srad": 17072.638888888887,
     "average_wind": 2.7953805540078953,
     "average_tmax": 17.06877314814815,
-    "average_tmin": 2.885848765432099
+    "average_tmin": 2.885848765432099,
+    "population": 271988,
+    "symbol_sort_key": 15
   },
   "Arequipa": {
     "average_temp": 11.74,
@@ -2389,7 +2433,9 @@
     "average_srad": 18557.06447368421,
     "average_wind": 2.9698656418867277,
     "average_tmax": 18.790785134466073,
-    "average_tmin": 4.697958222857693
+    "average_tmin": 4.697958222857693,
+    "population": 1071193,
+    "symbol_sort_key": 4
   },
   "Moquegua": {
     "average_temp": 11.77,
@@ -2493,7 +2539,9 @@
     "average_srad": 18975.641843971633,
     "average_wind": 2.6971449251716018,
     "average_tmax": 18.515004432624114,
-    "average_tmin": 5.029166666666667
+    "average_tmin": 5.029166666666667,
+    "population": 136000,
+    "symbol_sort_key": 25
   },
   "Tacna": {
     "average_temp": 13.18,
@@ -2597,7 +2645,9 @@
     "average_srad": 18513.888888888887,
     "average_wind": 2.6692064967420364,
     "average_tmax": 18.995609882142812,
-    "average_tmin": 7.355010439952214
+    "average_tmin": 7.355010439952214,
+    "population": 286240,
+    "symbol_sort_key": 20
   },
   "Loreto": {
     "average_temp": 26.83,
@@ -2701,6 +2751,8 @@
     "average_srad": 13407.06442512961,
     "average_wind": 0.8584478861922423,
     "average_tmax": 31.53093549862763,
-    "average_tmin": 22.121221218359253
+    "average_tmin": 22.121221218359253,
+    "population": 576506,
+    "symbol_sort_key": 14
   }
 }

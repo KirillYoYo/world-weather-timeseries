@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Aleppo": {
     "average_temp": 19.49,
@@ -205,7 +207,9 @@
     "average_srad": 17925.137387387385,
     "average_wind": 2.408061938377114,
     "average_tmax": 26.5535472972973,
-    "average_tmin": 12.416835585585588
+    "average_tmin": 12.416835585585588,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Rural Damascus": {
     "average_temp": 18.21,
@@ -309,7 +313,9 @@
     "average_srad": 18654.381720430105,
     "average_wind": 2.9714612425655447,
     "average_tmax": 25.363519265232977,
-    "average_tmin": 11.06322804659498
+    "average_tmin": 11.06322804659498,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Homs": {
     "average_temp": 19.31,
@@ -413,7 +419,9 @@
     "average_srad": 18381.694444444445,
     "average_wind": 2.8544270704852206,
     "average_tmax": 26.270909722222225,
-    "average_tmin": 12.34809722222222
+    "average_tmin": 12.34809722222222,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Hama": {
     "average_temp": 19.3,
@@ -517,7 +525,9 @@
     "average_srad": 17803.01754385965,
     "average_wind": 2.601399111904596,
     "average_tmax": 25.843366228070177,
-    "average_tmin": 12.764638157894737
+    "average_tmin": 12.764638157894737,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Lattakia": {
     "average_temp": 19.21,
@@ -621,7 +631,9 @@
     "average_srad": 16987.52380952381,
     "average_wind": 2.552047117834999,
     "average_tmax": 23.76701391992115,
-    "average_tmin": 14.65828373999823
+    "average_tmin": 14.65828373999823,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Idleb": {
     "average_temp": 19.77,
@@ -725,7 +737,9 @@
     "average_srad": 17625.69166666667,
     "average_wind": 2.3912177105744683,
     "average_tmax": 25.638229166666665,
-    "average_tmin": 13.893072916666666
+    "average_tmin": 13.893072916666666,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Al-Hasakeh": {
     "average_temp": 20.83,
@@ -829,7 +843,9 @@
     "average_srad": 17820.06960784314,
     "average_wind": 2.334269606950236,
     "average_tmax": 28.11219362745098,
-    "average_tmin": 13.557279411764705
+    "average_tmin": 13.557279411764705,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Deir-ez-Zor": {
     "average_temp": 21.51,
@@ -933,7 +949,9 @@
     "average_srad": 18397.754789272032,
     "average_wind": 2.752611582991721,
     "average_tmax": 28.598227969348667,
-    "average_tmin": 14.426472701149427
+    "average_tmin": 14.426472701149427,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Tartous": {
     "average_temp": 19.54,
@@ -1037,7 +1055,9 @@
     "average_srad": 16875.79761904762,
     "average_wind": 2.607391996043069,
     "average_tmax": 24.5994734332675,
-    "average_tmin": 14.472081060636611
+    "average_tmin": 14.472081060636611,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Ar-Raqqa": {
     "average_temp": 20.52,
@@ -1141,7 +1161,9 @@
     "average_srad": 17989.609375,
     "average_wind": 2.5102132111787796,
     "average_tmax": 27.927262369791666,
-    "average_tmin": 13.122102864583335
+    "average_tmin": 13.122102864583335,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Dar'a": {
     "average_temp": 18.99,
@@ -1245,7 +1267,9 @@
     "average_srad": 18713.8125,
     "average_wind": 2.895843752556377,
     "average_tmax": 25.72473958333333,
-    "average_tmin": 12.25512152777778
+    "average_tmin": 12.25512152777778,
+    "population": 513274,
+    "symbol_sort_key": 8
   },
   "As-Sweida": {
     "average_temp": 18.06,
@@ -1349,7 +1373,9 @@
     "average_srad": 18988.3115942029,
     "average_wind": 3.0074302545492198,
     "average_tmax": 25.157382246376812,
-    "average_tmin": 10.958016304347824
+    "average_tmin": 10.958016304347824,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Quneitra": {
     "average_temp": 18.31,
@@ -1453,6 +1479,8 @@
     "average_srad": 18343.726190476194,
     "average_wind": 2.874809530519304,
     "average_tmax": 24.1828869047619,
-    "average_tmin": 12.439583333333337
+    "average_tmin": 12.439583333333337,
+    "population": 0,
+    "symbol_sort_key": 13
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 15333.820175438595,
     "average_wind": 2.4290537217207118,
     "average_tmax": 11.369462719298246,
-    "average_tmin": 1.015844298245614
+    "average_tmin": 1.015844298245614,
+    "population": 80982,
+    "symbol_sort_key": 5
   },
   "Syunik": {
     "average_temp": 7.94,
@@ -205,7 +207,9 @@
     "average_srad": 15189.583333333334,
     "average_wind": 2.3749244709809623,
     "average_tmax": 13.274934895833333,
-    "average_tmin": 2.6132812500000004
+    "average_tmin": 2.6132812500000004,
+    "population": 64787,
+    "symbol_sort_key": 8
   },
   "Tavush": {
     "average_temp": 9.38,
@@ -309,7 +313,9 @@
     "average_srad": 14491.44696969697,
     "average_wind": 1.9708105948838324,
     "average_tmax": 14.523200757575756,
-    "average_tmin": 4.2285984848484865
+    "average_tmin": 4.2285984848484865,
+    "population": 45664,
+    "symbol_sort_key": 9
   },
   "Shirak": {
     "average_temp": 5.6,
@@ -413,7 +419,9 @@
     "average_srad": 15433.437499999998,
     "average_wind": 2.1980659597449828,
     "average_tmax": 10.963107638888891,
-    "average_tmin": 0.24123263888888888
+    "average_tmin": 0.24123263888888888,
+    "population": 149319,
+    "symbol_sort_key": 4
   },
   "Lori": {
     "average_temp": 7.1,
@@ -517,7 +525,9 @@
     "average_srad": 14763.26388888889,
     "average_wind": 2.1219079775942697,
     "average_tmax": 12.518229166666666,
-    "average_tmin": 1.691579861111111
+    "average_tmin": 1.691579861111111,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Kotayk": {
     "average_temp": 6.36,
@@ -621,7 +631,9 @@
     "average_srad": 15449.583333333334,
     "average_wind": 2.2813779583999088,
     "average_tmax": 11.47142857142857,
-    "average_tmin": 1.2421130952380954
+    "average_tmin": 1.2421130952380954,
+    "population": 147538,
+    "symbol_sort_key": 1
   },
   "Vayots Dzor": {
     "average_temp": 7.06,
@@ -725,7 +737,9 @@
     "average_srad": 15455.212962962964,
     "average_wind": 2.409798600055553,
     "average_tmax": 12.804629629629629,
-    "average_tmin": 1.3060185185185185
+    "average_tmin": 1.3060185185185185,
+    "population": 7944,
+    "symbol_sort_key": 10
   },
   "Armavir": {
     "average_temp": 12.4,
@@ -829,7 +843,9 @@
     "average_srad": 16099.520833333334,
     "average_wind": 1.6571510111292203,
     "average_tmax": 18.459374999999998,
-    "average_tmin": 6.346875000000001
+    "average_tmin": 6.346875000000001,
+    "population": 94366,
+    "symbol_sort_key": 2
   },
   "Aragatsotn": {
     "average_temp": 8.06,
@@ -933,7 +949,9 @@
     "average_srad": 15737.71212121212,
     "average_wind": 2.058026496208075,
     "average_tmax": 13.518371212121215,
-    "average_tmin": 2.5951704545454546
+    "average_tmin": 2.5951704545454546,
+    "population": 21600,
+    "symbol_sort_key": 7
   },
   "Yerevan": {
     "average_temp": 12.01,
@@ -1037,7 +1055,9 @@
     "average_srad": 15879.75,
     "average_wind": 1.7363124787807465,
     "average_tmax": 17.613541666666666,
-    "average_tmin": 6.406249999999999
+    "average_tmin": 6.406249999999999,
+    "population": 1106300,
+    "symbol_sort_key": 0
   },
   "Ararat": {
     "average_temp": 11.11,
@@ -1141,6 +1161,8 @@
     "average_srad": 15799.395833333334,
     "average_wind": 1.8960728955765564,
     "average_tmax": 16.565755208333332,
-    "average_tmin": 5.650000000000001
+    "average_tmin": 5.650000000000001,
+    "population": 56276,
+    "symbol_sort_key": 3
   }
 }

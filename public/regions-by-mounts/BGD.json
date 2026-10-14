@@ -101,7 +101,9 @@
     "average_srad": 18157.533333333336,
     "average_wind": 1.378180909184394,
     "average_tmax": 29.996992027847853,
-    "average_tmin": 21.038120997216968
+    "average_tmin": 21.038120997216968,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Dhaka": {
     "average_temp": 25.78,
@@ -205,7 +207,9 @@
     "average_srad": 17926.979166666668,
     "average_wind": 1.2811885830014944,
     "average_tmax": 30.473165817062064,
-    "average_tmin": 21.07899013509353
+    "average_tmin": 21.07899013509353,
+    "population": 25760930,
+    "symbol_sort_key": 0
   },
   "Mymensingh": {
     "average_temp": 25.57,
@@ -309,7 +313,9 @@
     "average_srad": 17865.47043010753,
     "average_wind": 1.2112963646650314,
     "average_tmax": 30.20806451612903,
-    "average_tmin": 20.925100806451614
+    "average_tmin": 20.925100806451614,
+    "population": 937617,
+    "symbol_sort_key": 5
   },
   "Rajshani": {
     "average_temp": 25.58,
@@ -413,7 +419,9 @@
     "average_srad": 18083.58898305085,
     "average_wind": 1.3058160251311663,
     "average_tmax": 30.58084392655367,
-    "average_tmin": 20.57876059322034
+    "average_tmin": 20.57876059322034,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Rangpur": {
     "average_temp": 25.38,
@@ -517,7 +525,9 @@
     "average_srad": 17651.70283018868,
     "average_wind": 1.2914025139696192,
     "average_tmax": 30.125373427672958,
-    "average_tmin": 20.63610455974843
+    "average_tmin": 20.63610455974843,
+    "population": 1393332,
+    "symbol_sort_key": 3
   },
   "Sylhet": {
     "average_temp": 25.29,
@@ -621,7 +631,9 @@
     "average_srad": 17666.459349593493,
     "average_wind": 1.1031885230080867,
     "average_tmax": 30.08389227642276,
-    "average_tmin": 20.504369918699187
+    "average_tmin": 20.504369918699187,
+    "population": 963469,
+    "symbol_sort_key": 6
   },
   "Khulna": {
     "average_temp": 26.19,
@@ -725,7 +737,9 @@
     "average_srad": 17902.481617647063,
     "average_wind": 1.7493921576031282,
     "average_tmax": 30.880488617747442,
-    "average_tmin": 21.495814953130832
+    "average_tmin": 21.495814953130832,
+    "population": 1879713,
+    "symbol_sort_key": 4
   },
   "Barisal": {
     "average_temp": 26.2,
@@ -829,6 +843,8 @@
     "average_srad": 17849.602564102563,
     "average_wind": 2.077601763682488,
     "average_tmax": 30.512077981997752,
-    "average_tmin": 21.893410791494905
+    "average_tmin": 21.893410791494905,
+    "population": 0,
+    "symbol_sort_key": 7
   }
 }

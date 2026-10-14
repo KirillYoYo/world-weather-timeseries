@@ -101,7 +101,9 @@
     "average_srad": 20000.64964157706,
     "average_wind": 3.5891740857778998,
     "average_tmax": 35.65416728106478,
-    "average_tmin": 22.309567087377953
+    "average_tmin": 22.309567087377953,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Najran Region": {
     "average_temp": 27.82,
@@ -205,7 +207,9 @@
     "average_srad": 19990.422794117647,
     "average_wind": 3.2602437943512315,
     "average_tmax": 34.61164598651961,
-    "average_tmin": 21.026160386029414
+    "average_tmin": 21.026160386029414,
+    "population": 401116,
+    "symbol_sort_key": 9
   },
   "Northern Borders Region": {
     "average_temp": 24.2,
@@ -309,7 +313,9 @@
     "average_srad": 19784.996339362613,
     "average_wind": 3.707421279641496,
     "average_tmax": 31.71320521102498,
-    "average_tmin": 16.689486434108527
+    "average_tmin": 16.689486434108527,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Hayel Region": {
     "average_temp": 24.17,
@@ -413,7 +419,9 @@
     "average_srad": 20012.85428051002,
     "average_wind": 3.532663191982523,
     "average_tmax": 31.944182604735882,
-    "average_tmin": 16.395898793260475
+    "average_tmin": 16.395898793260475,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Riyadh Region": {
     "average_temp": 28.11,
@@ -517,7 +525,9 @@
     "average_srad": 19183.88296979866,
     "average_wind": 3.4172067757054196,
     "average_tmax": 35.274584032438476,
-    "average_tmin": 20.943975461409398
+    "average_tmin": 20.943975461409398,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "'Asir Region": {
     "average_temp": 25.79,
@@ -621,7 +631,9 @@
     "average_srad": 20092.500351617444,
     "average_wind": 2.7313856377715635,
     "average_tmax": 32.77196290436005,
-    "average_tmin": 18.809282700421942
+    "average_tmin": 18.809282700421942,
+    "population": 2106007,
+    "symbol_sort_key": 4
   },
   "Makkah Region": {
     "average_temp": 28.31,
@@ -725,7 +737,9 @@
     "average_srad": 20055.97739463602,
     "average_wind": 2.8628779930629946,
     "average_tmax": 35.28650311269066,
-    "average_tmin": 21.329036209647224
+    "average_tmin": 21.329036209647224,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Tabuk Region": {
     "average_temp": 23.19,
@@ -829,7 +843,9 @@
     "average_srad": 19562.481379056044,
     "average_wind": 3.2254303886739204,
     "average_tmax": 29.947038767823074,
-    "average_tmin": 16.442303456616614
+    "average_tmin": 16.442303456616614,
+    "population": 969037,
+    "symbol_sort_key": 7
   },
   "Al Madinah Region": {
     "average_temp": 26.39,
@@ -933,7 +949,9 @@
     "average_srad": 20116.02149964463,
     "average_wind": 3.0898713908808912,
     "average_tmax": 33.543473286144085,
-    "average_tmin": 19.241283378418064
+    "average_tmin": 19.241283378418064,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Al-Qassim Region": {
     "average_temp": 26.41,
@@ -1037,7 +1055,9 @@
     "average_srad": 19743.01074074074,
     "average_wind": 3.6675657444530056,
     "average_tmax": 34.16892129629629,
-    "average_tmin": 18.651300925925927
+    "average_tmin": 18.651300925925927,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Al Bahah Region": {
     "average_temp": 26.09,
@@ -1141,7 +1161,9 @@
     "average_srad": 20312.221354166668,
     "average_wind": 2.6695677069947124,
     "average_tmax": 32.38600260416667,
-    "average_tmin": 19.788118489583336
+    "average_tmin": 19.788118489583336,
+    "population": 313840,
+    "symbol_sort_key": 11
   },
   "Jazan Region": {
     "average_temp": 26.98,
@@ -1245,7 +1267,9 @@
     "average_srad": 20214.565972222223,
     "average_wind": 3.300107956346538,
     "average_tmax": 33.25276527810604,
-    "average_tmin": 20.705628866168627
+    "average_tmin": 20.705628866168627,
+    "population": 882264,
+    "symbol_sort_key": 5
   },
   "Al Jawf Region": {
     "average_temp": 23.03,
@@ -1349,6 +1373,8 @@
     "average_srad": 19722.3785971223,
     "average_wind": 3.552320580116565,
     "average_tmax": 30.343416516786572,
-    "average_tmin": 15.7095660971223
+    "average_tmin": 15.7095660971223,
+    "population": 539193,
+    "symbol_sort_key": 10
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 9289.33962264151,
     "average_wind": 3.631240953064564,
     "average_tmax": 10.124527852565238,
-    "average_tmin": 2.5557093028025997
+    "average_tmin": 2.5557093028025997,
+    "population": 2471246,
+    "symbol_sort_key": 0
   },
   "Finland Proper": {
     "average_temp": 6.38,
@@ -205,7 +207,9 @@
     "average_srad": 9315.19494047619,
     "average_wind": 3.889758332144646,
     "average_tmax": 10.238399057451725,
-    "average_tmin": 2.531211558006526
+    "average_tmin": 2.531211558006526,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Southern Savonia": {
     "average_temp": 5.13,
@@ -309,7 +313,9 @@
     "average_srad": 8904.30720338983,
     "average_wind": 2.7326813244213493,
     "average_tmax": 8.839812853107345,
-    "average_tmin": 1.4202948446327683
+    "average_tmin": 1.4202948446327683,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Northern Savonia": {
     "average_temp": 4.32,
@@ -413,7 +419,9 @@
     "average_srad": 8612.684108527132,
     "average_wind": 2.8515801117093678,
     "average_tmax": 8.123546511627906,
-    "average_tmin": 0.515334302325582
+    "average_tmin": 0.515334302325582,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Tavastia Proper": {
     "average_temp": 5.67,
@@ -517,7 +525,9 @@
     "average_srad": 9093.914414414414,
     "average_wind": 2.808387964158445,
     "average_tmax": 9.857376126126125,
-    "average_tmin": 1.4825450450450444
+    "average_tmin": 1.4825450450450444,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Central Finland": {
     "average_temp": 4.75,
@@ -621,7 +631,9 @@
     "average_srad": 8669.048,
     "average_wind": 2.705599339326223,
     "average_tmax": 8.7604,
-    "average_tmin": 0.735558333333334
+    "average_tmin": 0.735558333333334,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Pirkanmaa": {
     "average_temp": 5.36,
@@ -725,7 +737,9 @@
     "average_srad": 8889.931034482759,
     "average_wind": 2.8625835799166066,
     "average_tmax": 9.567744252873565,
-    "average_tmin": 1.1555076628352485
+    "average_tmin": 1.1555076628352485,
+    "population": 598531,
+    "symbol_sort_key": 1
   },
   "South Ostrobothnia": {
     "average_temp": 4.9,
@@ -829,7 +843,9 @@
     "average_srad": 8660.631868131868,
     "average_wind": 2.9426488092530776,
     "average_tmax": 9.30867673992674,
-    "average_tmin": 0.4921359890109886
+    "average_tmin": 0.4921359890109886,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Keski-Pohjanmaa": {
     "average_temp": 4.23,
@@ -933,7 +949,9 @@
     "average_srad": 8487.986979166666,
     "average_wind": 2.8490427831808725,
     "average_tmax": 8.227150608156807,
-    "average_tmin": 0.23133680607036963
+    "average_tmin": 0.23133680607036963,
+    "population": 48338,
+    "symbol_sort_key": 17
   },
   "Päijät-Häme": {
     "average_temp": 5.59,
@@ -1037,7 +1055,9 @@
     "average_srad": 9029.39534883721,
     "average_wind": 2.718775683133177,
     "average_tmax": 9.558066860465116,
-    "average_tmin": 1.614946705426357
+    "average_tmin": 1.614946705426357,
+    "population": 206337,
+    "symbol_sort_key": 7
   },
   "Lapland": {
     "average_temp": 0.54,
@@ -1141,7 +1161,9 @@
     "average_srad": 7866.863696808512,
     "average_wind": 2.516104086837236,
     "average_tmax": 5.0078734485815595,
-    "average_tmin": -3.9184965093085107
+    "average_tmin": -3.9184965093085107,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Northern Ostrobothnia": {
     "average_temp": 2.92,
@@ -1245,7 +1267,9 @@
     "average_srad": 8296.629150066403,
     "average_wind": 2.7105379331792654,
     "average_tmax": 7.153959321298921,
-    "average_tmin": -1.3163218552649896
+    "average_tmin": -1.3163218552649896,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Kainuu": {
     "average_temp": 2.96,
@@ -1349,7 +1373,9 @@
     "average_srad": 8364.568686868686,
     "average_wind": 2.7639852238423894,
     "average_tmax": 7.024564393939393,
-    "average_tmin": -1.0952714646464645
+    "average_tmin": -1.0952714646464645,
+    "population": 46644,
+    "symbol_sort_key": 16
   },
   "North Karelia": {
     "average_temp": 3.96,
@@ -1453,7 +1479,9 @@
     "average_srad": 8716.754830917876,
     "average_wind": 2.9527574011669064,
     "average_tmax": 8.025105676328502,
-    "average_tmin": -0.11145078502415491
+    "average_tmin": -0.11145078502415491,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Ostrobothnia": {
     "average_temp": 5.24,
@@ -1557,7 +1585,9 @@
     "average_srad": 8697.644841269841,
     "average_wind": 4.222304233955959,
     "average_tmax": 8.853548279652992,
-    "average_tmin": 1.6297486776515606
+    "average_tmin": 1.6297486776515606,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Satakunta": {
     "average_temp": 5.86,
@@ -1661,7 +1691,9 @@
     "average_srad": 9052.515,
     "average_wind": 3.450120588938395,
     "average_tmax": 9.846608973900478,
-    "average_tmin": 1.8765016021778187
+    "average_tmin": 1.8765016021778187,
+    "population": 180699,
+    "symbol_sort_key": 6
   },
   "South Karelia": {
     "average_temp": 5.48,
@@ -1765,7 +1797,9 @@
     "average_srad": 9077.020325203252,
     "average_wind": 2.79362347697824,
     "average_tmax": 9.111839430894308,
-    "average_tmin": 1.8574441056910567
+    "average_tmin": 1.8574441056910567,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Kymenlaakso": {
     "average_temp": 5.79,
@@ -1869,7 +1903,9 @@
     "average_srad": 9131.119047619048,
     "average_wind": 3.13697210592883,
     "average_tmax": 9.650674958349695,
-    "average_tmin": 1.9298894562891558
+    "average_tmin": 1.9298894562891558,
+    "population": 194747,
+    "symbol_sort_key": 13
   },
   "Åland Islands": {
     "average_temp": 7.15,
@@ -1973,6 +2009,8 @@
     "average_srad": 9937.958333333332,
     "average_wind": 6.890493381023408,
     "average_tmax": 10.188881392677624,
-    "average_tmin": 4.111283997421464
+    "average_tmin": 4.111283997421464,
+    "population": 0,
+    "symbol_sort_key": 18
   }
 }

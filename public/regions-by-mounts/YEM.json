@@ -101,7 +101,9 @@
     "average_srad": 20637.375,
     "average_wind": 2.3931354035933814,
     "average_tmax": 26.45260416666667,
-    "average_tmin": 12.377604166666666
+    "average_tmin": 12.377604166666666,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Sanʿaʾ Governorate": {
     "average_temp": 21.21,
@@ -205,7 +207,9 @@
     "average_srad": 20749.288095238095,
     "average_wind": 2.776990474121911,
     "average_tmax": 27.37238095238095,
-    "average_tmin": 15.038601190476191
+    "average_tmin": 15.038601190476191,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Lahij Governorate": {
     "average_temp": 27.77,
@@ -309,7 +313,9 @@
     "average_srad": 21138.578828828828,
     "average_wind": 3.9720495901666246,
     "average_tmax": 32.851330704731986,
-    "average_tmin": 22.69659028955408
+    "average_tmin": 22.69659028955408,
+    "population": 30661,
+    "symbol_sort_key": 9
   },
   "‘Adan Governorate": {
     "average_temp": 29.78,
@@ -413,7 +419,9 @@
     "average_srad": 21371.666666666668,
     "average_wind": 4.4937402208646136,
     "average_tmax": 34.72878786722819,
-    "average_tmin": 24.82121206919352
+    "average_tmin": 24.82121206919352,
+    "population": 1477464,
+    "symbol_sort_key": 12
   },
   "Al Hudaydah Governorate": {
     "average_temp": 29.57,
@@ -517,7 +525,9 @@
     "average_srad": 19927.439922480622,
     "average_wind": 3.6650564786075623,
     "average_tmax": 34.624517661102054,
-    "average_tmin": 24.517321865318355
+    "average_tmin": 24.517321865318355,
+    "population": 772555,
+    "symbol_sort_key": 1
   },
   "Ta'izz Governorate": {
     "average_temp": 26.37,
@@ -621,7 +631,9 @@
     "average_srad": 20830.51149425287,
     "average_wind": 3.857621933536968,
     "average_tmax": 31.574346265025525,
-    "average_tmin": 21.168390806790057
+    "average_tmin": 21.168390806790057,
+    "population": 657545,
+    "symbol_sort_key": 0
   },
   "Shabwah Governorate": {
     "average_temp": 26.62,
@@ -725,7 +737,9 @@
     "average_srad": 21400.58695652174,
     "average_wind": 3.8317388137181605,
     "average_tmax": 32.01027061877043,
-    "average_tmin": 21.235949274422467
+    "average_tmin": 21.235949274422467,
+    "population": 32915,
+    "symbol_sort_key": 15
   },
   "Hadhramaut": {
     "average_temp": 27.53,
@@ -829,7 +843,9 @@
     "average_srad": 21005.51083333333,
     "average_wind": 3.769888869444529,
     "average_tmax": 33.12237264423371,
-    "average_tmin": 21.934423595873515
+    "average_tmin": 21.934423595873515,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Abyan Governorate": {
     "average_temp": 26.89,
@@ -933,7 +949,9 @@
     "average_srad": 21584.287414965987,
     "average_wind": 4.270875733320405,
     "average_tmax": 31.86540877608215,
-    "average_tmin": 21.911603934748644
+    "average_tmin": 21.911603934748644,
+    "population": 249813,
+    "symbol_sort_key": 16
   },
   "Al Jawf Governorate": {
     "average_temp": 26.84,
@@ -1037,7 +1055,9 @@
     "average_srad": 20599.414600550965,
     "average_wind": 3.367724169548549,
     "average_tmax": 33.10934917355372,
-    "average_tmin": 20.561957644628098
+    "average_tmin": 20.561957644628098,
+    "population": 16044,
+    "symbol_sort_key": 17
   },
   "Ibb Governorate": {
     "average_temp": 20.49,
@@ -1141,7 +1161,9 @@
     "average_srad": 20748.854166666668,
     "average_wind": 3.031194008886814,
     "average_tmax": 26.4435546875,
-    "average_tmin": 14.545833333333334
+    "average_tmin": 14.545833333333334,
+    "population": 661826,
+    "symbol_sort_key": 2
   },
   "Al Bayda' Governorate": {
     "average_temp": 21.43,
@@ -1245,7 +1267,9 @@
     "average_srad": 21051.23611111111,
     "average_wind": 3.2365624990728166,
     "average_tmax": 27.304548611111105,
-    "average_tmin": 15.557083333333331
+    "average_tmin": 15.557083333333331,
+    "population": 83054,
+    "symbol_sort_key": 11
   },
   "Ad Dali' Governorate": {
     "average_temp": 22.08,
@@ -1349,7 +1373,9 @@
     "average_srad": 21032.777777777777,
     "average_wind": 3.4573125160402722,
     "average_tmax": 27.595312500000002,
-    "average_tmin": 16.569184027777776
+    "average_tmin": 16.569184027777776,
+    "population": 73419,
+    "symbol_sort_key": 14
   },
   "Al Mahwit Governorate": {
     "average_temp": 23.81,
@@ -1453,7 +1479,9 @@
     "average_srad": 20854.116666666665,
     "average_wind": 3.2016249934832257,
     "average_tmax": 29.093125000000004,
-    "average_tmin": 18.519166666666667
+    "average_tmin": 18.519166666666667,
+    "population": 10593,
+    "symbol_sort_key": 13
   },
   "Sa'dah Governorate": {
     "average_temp": 22.78,
@@ -1557,7 +1585,9 @@
     "average_srad": 20561.002192982454,
     "average_wind": 2.7909605304400125,
     "average_tmax": 29.309100877192986,
-    "average_tmin": 16.255290570175436
+    "average_tmin": 16.255290570175436,
+    "population": 85829,
+    "symbol_sort_key": 10
   },
   "Hajjah Governorate": {
     "average_temp": 26.91,
@@ -1661,7 +1691,9 @@
     "average_srad": 20425.513333333332,
     "average_wind": 3.2748441712061567,
     "average_tmax": 32.48641666666666,
-    "average_tmin": 21.335708333333333
+    "average_tmin": 21.335708333333333,
+    "population": 46568,
+    "symbol_sort_key": 4
   },
   "Dhamar Governorate": {
     "average_temp": 20.83,
@@ -1765,7 +1797,9 @@
     "average_srad": 20738.840909090908,
     "average_wind": 2.8861145905473014,
     "average_tmax": 26.9592803030303,
-    "average_tmin": 14.694507575757575
+    "average_tmin": 14.694507575757575,
+    "population": 184821,
+    "symbol_sort_key": 5
   },
   "'Amran Governorate": {
     "average_temp": 21.84,
@@ -1869,7 +1903,9 @@
     "average_srad": 20840.73717948718,
     "average_wind": 2.8352812513326993,
     "average_tmax": 28.104407051282053,
-    "average_tmin": 15.568108974358973
+    "average_tmin": 15.568108974358973,
+    "population": 40048,
+    "symbol_sort_key": 7
   },
   "Al Mahrah Governorate": {
     "average_temp": 26.0,
@@ -1973,7 +2009,9 @@
     "average_srad": 21137.63184079602,
     "average_wind": 4.095312406075732,
     "average_tmax": 31.48748690097487,
-    "average_tmin": 20.503678481891182
+    "average_tmin": 20.503678481891182,
+    "population": 13987,
+    "symbol_sort_key": 20
   },
   "Ma'rib Governorate": {
     "average_temp": 26.62,
@@ -2077,7 +2115,9 @@
     "average_srad": 20861.677672955975,
     "average_wind": 3.5087079402035886,
     "average_tmax": 32.61442610062893,
-    "average_tmin": 20.629716981132077
+    "average_tmin": 20.629716981132077,
+    "population": 16794,
+    "symbol_sort_key": 19
   },
   "Raymah Governorate": {
     "average_temp": 24.35,
@@ -2181,7 +2221,9 @@
     "average_srad": 20704.214285714286,
     "average_wind": 3.430053580374945,
     "average_tmax": 29.40848214285715,
-    "average_tmin": 19.292708333333334
+    "average_tmin": 19.292708333333334,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Socotra": {
     "average_temp": 24.96,
@@ -2285,6 +2327,8 @@
     "average_srad": 21553.350000000002,
     "average_wind": 5.237119456132253,
     "average_tmax": 28.827454341252643,
-    "average_tmin": 21.092356163660686
+    "average_tmin": 21.092356163660686,
+    "population": 0,
+    "symbol_sort_key": 21
   }
 }

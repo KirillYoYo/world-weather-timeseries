@@ -101,7 +101,9 @@
     "average_srad": 19561.583333333332,
     "average_wind": 1.4518614156522611,
     "average_tmax": 32.708197463768116,
-    "average_tmin": 22.622282608695652
+    "average_tmin": 22.622282608695652,
+    "population": 55619,
+    "symbol_sort_key": 22
   },
   "Phayao Province": {
     "average_temp": 25.56,
@@ -205,7 +207,9 @@
     "average_srad": 17974.61111111111,
     "average_wind": 1.0246620368626382,
     "average_tmax": 31.25219907407408,
-    "average_tmin": 19.876851851851853
+    "average_tmin": 19.876851851851853,
+    "population": 73992,
+    "symbol_sort_key": 50
   },
   "Nakhon Sawan Province": {
     "average_temp": 28.5,
@@ -309,7 +313,9 @@
     "average_srad": 18812.780555555553,
     "average_wind": 1.0481937516066762,
     "average_tmax": 33.80916666666666,
-    "average_tmin": 23.185208333333335
+    "average_tmin": 23.185208333333335,
+    "population": 133403,
+    "symbol_sort_key": 21
   },
   "Nong Bua Lam Phu Province": {
     "average_temp": 26.94,
@@ -413,7 +419,9 @@
     "average_srad": 18397.974358974356,
     "average_wind": 1.247637817110771,
     "average_tmax": 32.214182692307695,
-    "average_tmin": 21.661778846153847
+    "average_tmin": 21.661778846153847,
+    "population": 0,
+    "symbol_sort_key": 48
   },
   "Chachoengsao Province": {
     "average_temp": 28.28,
@@ -517,7 +525,9 @@
     "average_srad": 18714.535087719298,
     "average_wind": 1.308497809788637,
     "average_tmax": 32.72889254385965,
-    "average_tmin": 23.828070175438594
+    "average_tmin": 23.828070175438594,
+    "population": 48927,
+    "symbol_sort_key": 30
   },
   "Surin Province": {
     "average_temp": 27.6,
@@ -621,7 +631,9 @@
     "average_srad": 19850.026785714286,
     "average_wind": 1.4926845314247268,
     "average_tmax": 32.77068452380953,
-    "average_tmin": 22.422284226190474
+    "average_tmin": 22.422284226190474,
+    "population": 39728,
+    "symbol_sort_key": 20
   },
   "Nakhon Ratchasima Province": {
     "average_temp": 27.26,
@@ -725,7 +737,9 @@
     "average_srad": 19109.49316939891,
     "average_wind": 1.2741342217055827,
     "average_tmax": 32.500648907103816,
-    "average_tmin": 22.02561475409836
+    "average_tmin": 22.02561475409836,
+    "population": 651222,
+    "symbol_sort_key": 3
   },
   "Sukhothai Province": {
     "average_temp": 27.9,
@@ -829,7 +843,9 @@
     "average_srad": 18511.924603174604,
     "average_wind": 0.97861210481515,
     "average_tmax": 33.17693452380953,
-    "average_tmin": 22.615525793650793
+    "average_tmin": 22.615525793650793,
+    "population": 48457,
+    "symbol_sort_key": 39
   },
   "Phetchaburi Province": {
     "average_temp": 26.99,
@@ -933,7 +949,9 @@
     "average_srad": 18341.67105263158,
     "average_wind": 1.391543600381466,
     "average_tmax": 31.068274854358872,
-    "average_tmin": 22.908055553101658
+    "average_tmin": 22.908055553101658,
+    "population": 134171,
+    "symbol_sort_key": 47
   },
   "Chaiyaphum Province": {
     "average_temp": 26.66,
@@ -1037,7 +1055,9 @@
     "average_srad": 18972.377083333333,
     "average_wind": 1.2675083336730797,
     "average_tmax": 31.943151041666663,
-    "average_tmin": 21.382057291666666
+    "average_tmin": 21.382057291666666,
+    "population": 75995,
+    "symbol_sort_key": 28
   },
   "Phetchabun Province": {
     "average_temp": 26.74,
@@ -1141,7 +1161,9 @@
     "average_srad": 18778.441441441442,
     "average_wind": 1.1839099159917317,
     "average_tmax": 32.07713963963964,
-    "average_tmin": 21.406193693693695
+    "average_tmin": 21.406193693693695,
+    "population": 72443,
+    "symbol_sort_key": 26
   },
   "Surat Thani Province": {
     "average_temp": 27.46,
@@ -1245,7 +1267,9 @@
     "average_srad": 18525.28846153846,
     "average_wind": 1.4248229253750582,
     "average_tmax": 31.96142956823365,
-    "average_tmin": 22.955430230523785
+    "average_tmin": 22.955430230523785,
+    "population": 299594,
+    "symbol_sort_key": 14
   },
   "Si Sa Ket Province": {
     "average_temp": 27.35,
@@ -1349,7 +1373,9 @@
     "average_srad": 19957.258928571428,
     "average_wind": 1.5812418180562202,
     "average_tmax": 32.493340773809514,
-    "average_tmin": 22.20186011904762
+    "average_tmin": 22.20186011904762,
+    "population": 82724,
+    "symbol_sort_key": 23
   },
   "Nong Khai Province": {
     "average_temp": 26.4,
@@ -1453,7 +1479,9 @@
     "average_srad": 17556.0,
     "average_wind": 1.2872065963844455,
     "average_tmax": 31.287586805555552,
-    "average_tmin": 21.511631944444446
+    "average_tmin": 21.511631944444446,
+    "population": 77572,
+    "symbol_sort_key": 50
   },
   "Bangkok": {
     "average_temp": 28.92,
@@ -1557,7 +1585,9 @@
     "average_srad": 18248.291666666668,
     "average_wind": 1.5437673578659694,
     "average_tmax": 33.25434027777778,
-    "average_tmin": 24.586805555555557
+    "average_tmin": 24.586805555555557,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Khon Kaen Province": {
     "average_temp": 27.35,
@@ -1661,7 +1691,9 @@
     "average_srad": 19005.572580645163,
     "average_wind": 1.2831700205482461,
     "average_tmax": 32.54808467741935,
-    "average_tmin": 22.160819892473118
+    "average_tmin": 22.160819892473118,
+    "population": 571582,
+    "symbol_sort_key": 8
   },
   "Loei Province": {
     "average_temp": 25.64,
@@ -1765,7 +1797,9 @@
     "average_srad": 18204.322916666668,
     "average_wind": 1.2401914064151545,
     "average_tmax": 31.055501302083332,
-    "average_tmin": 20.215397135416666
+    "average_tmin": 20.215397135416666,
+    "population": 34331,
+    "symbol_sort_key": 50
   },
   "Saraburi Province": {
     "average_temp": 27.81,
@@ -1869,7 +1903,9 @@
     "average_srad": 18589.89393939394,
     "average_wind": 1.0778238655942858,
     "average_tmax": 32.95132575757576,
-    "average_tmin": 22.664109848484845
+    "average_tmin": 22.664109848484845,
+    "population": 141115,
+    "symbol_sort_key": 25
   },
   "Uthai Thani Province": {
     "average_temp": 27.04,
@@ -1973,7 +2009,9 @@
     "average_srad": 18560.061403508775,
     "average_wind": 1.0461315781923763,
     "average_tmax": 32.478728070175436,
-    "average_tmin": 21.59468201754386
+    "average_tmin": 21.59468201754386,
+    "population": 24365,
+    "symbol_sort_key": 50
   },
   "Chumphon Province": {
     "average_temp": 27.12,
@@ -2077,7 +2115,9 @@
     "average_srad": 17783.84649122807,
     "average_wind": 1.5330487228276437,
     "average_tmax": 31.20456610897131,
-    "average_tmin": 23.035346190134685
+    "average_tmin": 23.035346190134685,
+    "population": 44766,
+    "symbol_sort_key": 50
   },
   "Kalasin": {
     "average_temp": 27.27,
@@ -2181,7 +2221,9 @@
     "average_srad": 19045.099206349205,
     "average_wind": 1.40874007533467,
     "average_tmax": 32.28844246031746,
-    "average_tmin": 22.25982142857143
+    "average_tmin": 22.25982142857143,
+    "population": 74011,
+    "symbol_sort_key": 37
   },
   "Phitsanulok Province": {
     "average_temp": 27.15,
@@ -2285,7 +2327,9 @@
     "average_srad": 18701.491379310344,
     "average_wind": 1.105345543773695,
     "average_tmax": 32.40053879310344,
-    "average_tmin": 21.90869252873563
+    "average_tmin": 21.90869252873563,
+    "population": 610865,
+    "symbol_sort_key": 18
   },
   "Ranong Province": {
     "average_temp": 26.89,
@@ -2389,7 +2433,9 @@
     "average_srad": 17867.041666666668,
     "average_wind": 1.6360847840706505,
     "average_tmax": 31.05779860496521,
-    "average_tmin": 22.72090177853902
+    "average_tmin": 22.72090177853902,
+    "population": 62877,
+    "symbol_sort_key": 50
   },
   "Udon Thani Province": {
     "average_temp": 26.88,
@@ -2493,7 +2539,9 @@
     "average_srad": 18169.388888888887,
     "average_wind": 1.2916950672262848,
     "average_tmax": 31.951862373737374,
-    "average_tmin": 21.813194444444445
+    "average_tmin": 21.813194444444445,
+    "population": 216933,
+    "symbol_sort_key": 15
   },
   "Sakon Nakhon Province": {
     "average_temp": 26.5,
@@ -2597,7 +2645,9 @@
     "average_srad": 18360.169444444444,
     "average_wind": 1.4006138801574703,
     "average_tmax": 31.405451388888892,
-    "average_tmin": 21.592222222222222
+    "average_tmin": 21.592222222222222,
+    "population": 72902,
+    "symbol_sort_key": 29
   },
   "Chiang Rai Province": {
     "average_temp": 25.35,
@@ -2701,7 +2751,9 @@
     "average_srad": 17969.129901960787,
     "average_wind": 0.9972567432651335,
     "average_tmax": 30.96035539215686,
-    "average_tmin": 19.73345588235294
+    "average_tmin": 19.73345588235294,
+    "population": 357274,
+    "symbol_sort_key": 13
   },
   "Tak Province": {
     "average_temp": 25.22,
@@ -2805,7 +2857,9 @@
     "average_srad": 18256.29333333333,
     "average_wind": 0.9805733344952264,
     "average_tmax": 30.598812499999998,
-    "average_tmin": 19.8476875
+    "average_tmin": 19.8476875,
+    "population": 49095,
+    "symbol_sort_key": 41
   },
   "Nakhon Pathom Province": {
     "average_temp": 28.73,
@@ -2909,7 +2963,9 @@
     "average_srad": 18514.083333333336,
     "average_wind": 1.14663690328598,
     "average_tmax": 33.20446428571429,
-    "average_tmin": 24.245684523809526
+    "average_tmin": 24.245684523809526,
+    "population": 117228,
+    "symbol_sort_key": 16
   },
   "Lamphun Province": {
     "average_temp": 25.92,
@@ -3013,7 +3069,9 @@
     "average_srad": 18226.756944444445,
     "average_wind": 0.9583576367133193,
     "average_tmax": 31.558072916666664,
-    "average_tmin": 20.278125
+    "average_tmin": 20.278125,
+    "population": 105158,
+    "symbol_sort_key": 50
   },
   "Trat Province": {
     "average_temp": 27.4,
@@ -3117,7 +3175,9 @@
     "average_srad": 18197.037037037036,
     "average_wind": 1.9589304482495347,
     "average_tmax": 31.44566416917024,
-    "average_tmin": 23.35119302890919
+    "average_tmin": 23.35119302890919,
+    "population": 10413,
+    "symbol_sort_key": 50
   },
   "Ratchaburi Province": {
     "average_temp": 27.56,
@@ -3221,7 +3281,9 @@
     "average_srad": 18312.189814814818,
     "average_wind": 1.154392367987721,
     "average_tmax": 32.21475694444444,
-    "average_tmin": 22.899768518518517
+    "average_tmin": 22.899768518518517,
+    "population": 190077,
+    "symbol_sort_key": 32
   },
   "Yasothon Province": {
     "average_temp": 27.49,
@@ -3325,7 +3387,9 @@
     "average_srad": 19687.972222222223,
     "average_wind": 1.5023125087221463,
     "average_tmax": 32.53463541666667,
-    "average_tmin": 22.442447916666666
+    "average_tmin": 22.442447916666666,
+    "population": 33921,
+    "symbol_sort_key": 50
   },
   "Phrae Province": {
     "average_temp": 26.41,
@@ -3429,7 +3493,9 @@
     "average_srad": 18346.013157894733,
     "average_wind": 1.0366206103772448,
     "average_tmax": 31.907510964912273,
-    "average_tmin": 20.91858552631579
+    "average_tmin": 20.91858552631579,
+    "population": 39411,
+    "symbol_sort_key": 46
   },
   "Yala Province": {
     "average_temp": 26.39,
@@ -3533,7 +3599,9 @@
     "average_srad": 17666.513888888887,
     "average_wind": 1.376062503291501,
     "average_tmax": 30.76414930555556,
-    "average_tmin": 22.023003472222225
+    "average_tmin": 22.023003472222225,
+    "population": 87890,
+    "symbol_sort_key": 50
   },
   "Uttaradit Province": {
     "average_temp": 26.62,
@@ -3637,7 +3705,9 @@
     "average_srad": 18365.034722222223,
     "average_wind": 1.10783680404226,
     "average_tmax": 31.980555555555554,
-    "average_tmin": 21.257725694444446
+    "average_tmin": 21.257725694444446,
+    "population": 64070,
+    "symbol_sort_key": 50
   },
   "Buri Ram Province": {
     "average_temp": 27.65,
@@ -3741,7 +3811,9 @@
     "average_srad": 19603.644444444446,
     "average_wind": 1.4143812553750144,
     "average_tmax": 32.85875000000001,
-    "average_tmin": 22.441527777777775
+    "average_tmin": 22.441527777777775,
+    "population": 80580,
+    "symbol_sort_key": 17
   },
   "Kamphaeng Phet Province": {
     "average_temp": 27.73,
@@ -3845,7 +3917,9 @@
     "average_srad": 18586.809999999998,
     "average_wind": 0.9934583344062169,
     "average_tmax": 33.07541666666666,
-    "average_tmin": 22.377416666666665
+    "average_tmin": 22.377416666666665,
+    "population": 47613,
+    "symbol_sort_key": 24
   },
   "Lampang Province": {
     "average_temp": 25.87,
@@ -3949,7 +4023,9 @@
     "average_srad": 18285.831395348836,
     "average_wind": 1.000276647334875,
     "average_tmax": 31.372117248062022,
-    "average_tmin": 20.369912790697672
+    "average_tmin": 20.369912790697672,
+    "population": 122907,
+    "symbol_sort_key": 38
   },
   "Nonthaburi Province": {
     "average_temp": 28.75,
@@ -4053,7 +4129,9 @@
     "average_srad": 18367.833333333332,
     "average_wind": 1.256208340326945,
     "average_tmax": 33.141666666666666,
-    "average_tmin": 24.364583333333332
+    "average_tmin": 24.364583333333332,
+    "population": 542339,
+    "symbol_sort_key": 5
   },
   "Bueng Kan Province": {
     "average_temp": 25.7,
@@ -4157,7 +4235,9 @@
     "average_srad": 17572.68055555555,
     "average_wind": 1.3513576495978568,
     "average_tmax": 30.346440972222226,
-    "average_tmin": 21.047569444444445
+    "average_tmin": 21.047569444444445,
+    "population": 56259,
+    "symbol_sort_key": 50
   },
   "Narathiwat Province": {
     "average_temp": 27.21,
@@ -4261,7 +4341,9 @@
     "average_srad": 17949.484848484848,
     "average_wind": 1.6273422132838855,
     "average_tmax": 31.49498106060606,
-    "average_tmin": 22.921969696969697
+    "average_tmin": 22.921969696969697,
+    "population": 101875,
+    "symbol_sort_key": 40
   },
   "Ubon Ratchathani Province": {
     "average_temp": 27.44,
@@ -4365,7 +4447,9 @@
     "average_srad": 19807.572916666668,
     "average_wind": 1.6139934967375462,
     "average_tmax": 32.38589409722223,
-    "average_tmin": 22.48797743055555
+    "average_tmin": 22.48797743055555,
+    "population": 141492,
+    "symbol_sort_key": 7
   },
   "Prachuap Khiri Khan Province": {
     "average_temp": 27.42,
@@ -4469,7 +4553,9 @@
     "average_srad": 18177.72685185185,
     "average_wind": 1.6057669926020832,
     "average_tmax": 31.349599153024183,
-    "average_tmin": 23.48119997624998
+    "average_tmin": 23.48119997624998,
+    "population": 103704,
+    "symbol_sort_key": 50
   },
   "Songkhla Province": {
     "average_temp": 27.58,
@@ -4573,7 +4659,9 @@
     "average_srad": 18047.05303030303,
     "average_wind": 1.5871917167396257,
     "average_tmax": 31.823361297087235,
-    "average_tmin": 23.34122248851892
+    "average_tmin": 23.34122248851892,
+    "population": 605220,
+    "symbol_sort_key": 9
   },
   "Phuket Province": {
     "average_temp": 28.17,
@@ -4677,7 +4765,9 @@
     "average_srad": 19054.583333333332,
     "average_wind": 1.8926587303479512,
     "average_tmax": 32.31111110051473,
-    "average_tmin": 24.03611125946045
+    "average_tmin": 24.03611125946045,
+    "population": 314927,
+    "symbol_sort_key": 19
   },
   "Ang Thong Province": {
     "average_temp": 28.5,
@@ -4781,7 +4871,9 @@
     "average_srad": 18877.75,
     "average_wind": 0.9652847250302633,
     "average_tmax": 33.312152777777776,
-    "average_tmin": 23.680208333333336
+    "average_tmin": 23.680208333333336,
+    "population": 45983,
+    "symbol_sort_key": 50
   },
   "Maha Sarakham Province": {
     "average_temp": 27.81,
@@ -4885,7 +4977,9 @@
     "average_srad": 19357.583333333332,
     "average_wind": 1.3598645875851314,
     "average_tmax": 32.9849537037037,
-    "average_tmin": 22.625925925925923
+    "average_tmin": 22.625925925925923,
+    "population": 61850,
+    "symbol_sort_key": 36
   },
   "Trang Province": {
     "average_temp": 27.73,
@@ -4989,7 +5083,9 @@
     "average_srad": 18564.869047619046,
     "average_wind": 1.7346037789469675,
     "average_tmax": 32.24389383452279,
-    "average_tmin": 23.21122024626959
+    "average_tmin": 23.21122024626959,
+    "population": 86026,
+    "symbol_sort_key": 43
   },
   "Suphan Buri Province": {
     "average_temp": 28.5,
@@ -5093,7 +5189,9 @@
     "average_srad": 18714.432291666668,
     "average_wind": 0.9933606805279851,
     "average_tmax": 33.55201822916666,
-    "average_tmin": 23.457942708333334
+    "average_tmin": 23.457942708333334,
+    "population": 52440,
+    "symbol_sort_key": 31
   },
   "Sing Buri Province": {
     "average_temp": 28.43,
@@ -5197,7 +5295,9 @@
     "average_srad": 18997.777777777777,
     "average_wind": 1.0012222362889183,
     "average_tmax": 33.220486111111114,
-    "average_tmin": 23.634027777777774
+    "average_tmin": 23.634027777777774,
+    "population": 32420,
+    "symbol_sort_key": 50
   },
   "Samut Songkhram Province": {
     "average_temp": 28.57,
@@ -5301,7 +5401,9 @@
     "average_srad": 18599.583333333332,
     "average_wind": 1.729857623577118,
     "average_tmax": 32.76770833333334,
-    "average_tmin": 24.37604166666667
+    "average_tmin": 24.37604166666667,
+    "population": 28493,
+    "symbol_sort_key": 50
   },
   "Rayong Province": {
     "average_temp": 28.13,
@@ -5405,7 +5507,9 @@
     "average_srad": 18581.891666666666,
     "average_wind": 1.787849830587705,
     "average_tmax": 32.27197916666666,
-    "average_tmin": 23.98114583333333
+    "average_tmin": 23.98114583333333,
+    "population": 200730,
+    "symbol_sort_key": 12
   },
   "Prachin Buri Province": {
     "average_temp": 27.26,
@@ -5509,7 +5613,9 @@
     "average_srad": 18773.3431372549,
     "average_wind": 1.1961862699073904,
     "average_tmax": 32.03970588235294,
-    "average_tmin": 22.48106617647059
+    "average_tmin": 22.48106617647059,
+    "population": 33233,
+    "symbol_sort_key": 33
   },
   "Phra Nakhon Si Ayutthaya Province": {
     "average_temp": 28.52,
@@ -5613,7 +5719,9 @@
     "average_srad": 18600.930555555555,
     "average_wind": 1.0155173689126968,
     "average_tmax": 33.18645833333333,
-    "average_tmin": 23.84583333333333
+    "average_tmin": 23.84583333333333,
+    "population": 83408,
+    "symbol_sort_key": 35
   },
   "Phichit Province": {
     "average_temp": 28.63,
@@ -5717,7 +5825,9 @@
     "average_srad": 18910.772727272728,
     "average_wind": 1.0469242370489873,
     "average_tmax": 33.830776515151506,
-    "average_tmin": 23.43560606060606
+    "average_tmin": 23.43560606060606,
+    "population": 56060,
+    "symbol_sort_key": 45
   },
   "Phatthalung Province": {
     "average_temp": 27.65,
@@ -5821,7 +5931,9 @@
     "average_srad": 18357.87962962963,
     "average_wind": 1.384182870388031,
     "average_tmax": 32.00150462962963,
-    "average_tmin": 23.30520833333333
+    "average_tmin": 23.30520833333333,
+    "population": 35039,
+    "symbol_sort_key": 50
   },
   "Phangnga Province": {
     "average_temp": 27.44,
@@ -5925,7 +6037,9 @@
     "average_srad": 18698.75,
     "average_wind": 1.6770334213207931,
     "average_tmax": 31.913481418903057,
-    "average_tmin": 22.974857731354543
+    "average_tmin": 22.974857731354543,
+    "population": 19227,
+    "symbol_sort_key": 50
   },
   "Pattani Province": {
     "average_temp": 27.87,
@@ -6029,7 +6143,9 @@
     "average_srad": 18242.76388888889,
     "average_wind": 1.8340496271848679,
     "average_tmax": 32.2183626598782,
-    "average_tmin": 23.521140453550554
+    "average_tmin": 23.521140453550554,
+    "population": 68148,
+    "symbol_sort_key": 44
   },
   "Pathum Thani Province": {
     "average_temp": 28.56,
@@ -6133,7 +6249,9 @@
     "average_srad": 18506.666666666668,
     "average_wind": 1.1048593757053216,
     "average_tmax": 33.12552083333333,
-    "average_tmin": 23.993750000000002
+    "average_tmin": 23.993750000000002,
+    "population": 470274,
+    "symbol_sort_key": 2
   },
   "Nakhon Si Thammarat Province": {
     "average_temp": 27.55,
@@ -6237,7 +6355,9 @@
     "average_srad": 18611.824712643676,
     "average_wind": 1.4699849875151427,
     "average_tmax": 32.05683087973759,
-    "average_tmin": 23.050094766726435
+    "average_tmin": 23.050094766726435,
+    "population": 190654,
+    "symbol_sort_key": 11
   },
   "Nakhon Nayok Province": {
     "average_temp": 27.83,
@@ -6341,7 +6461,9 @@
     "average_srad": 18537.916666666668,
     "average_wind": 1.1362430594033663,
     "average_tmax": 32.61059027777778,
-    "average_tmin": 23.05190972222222
+    "average_tmin": 23.05190972222222,
+    "population": 16195,
+    "symbol_sort_key": 50
   },
   "Mukdahan Province": {
     "average_temp": 26.77,
@@ -6445,7 +6567,9 @@
     "average_srad": 19319.104166666668,
     "average_wind": 1.499437503516674,
     "average_tmax": 31.593489583333326,
-    "average_tmin": 21.940104166666668
+    "average_tmin": 21.940104166666668,
+    "population": 33102,
+    "symbol_sort_key": 50
   },
   "Lopburi Province": {
     "average_temp": 28.33,
@@ -6549,7 +6673,9 @@
     "average_srad": 18728.77631578947,
     "average_wind": 1.0744331254248036,
     "average_tmax": 33.643969298245615,
-    "average_tmin": 23.013870614035085
+    "average_tmin": 23.013870614035085,
+    "population": 0,
+    "symbol_sort_key": 34
   },
   "Krabi Province": {
     "average_temp": 27.96,
@@ -6653,7 +6779,9 @@
     "average_srad": 18902.60714285714,
     "average_wind": 1.7643590406292962,
     "average_tmax": 32.65119945435297,
-    "average_tmin": 23.278040799640475
+    "average_tmin": 23.278040799640475,
+    "population": 44492,
+    "symbol_sort_key": 50
   },
   "Chon Buri Province": {
     "average_temp": 28.36,
@@ -6757,7 +6885,9 @@
     "average_srad": 18600.39880952381,
     "average_wind": 1.6495288599814686,
     "average_tmax": 32.65705296425592,
-    "average_tmin": 24.05483212471009
+    "average_tmin": 24.05483212471009,
+    "population": 1404144,
+    "symbol_sort_key": 4
   },
   "Chiang Mai Province": {
     "average_temp": 24.25,
@@ -6861,7 +6991,9 @@
     "average_srad": 18145.407142857144,
     "average_wind": 1.0047880968167668,
     "average_tmax": 29.73489583333333,
-    "average_tmin": 18.76669642857143
+    "average_tmin": 18.76669642857143,
+    "population": 1781212,
+    "symbol_sort_key": 6
   },
   "Chai Nat Province": {
     "average_temp": 28.62,
@@ -6965,7 +7097,9 @@
     "average_srad": 18945.739583333332,
     "average_wind": 1.027742192770044,
     "average_tmax": 33.66992187499999,
-    "average_tmin": 23.566536458333335
+    "average_tmin": 23.566536458333335,
+    "population": 12541,
+    "symbol_sort_key": 50
   },
   "Amnat Charoen Province": {
     "average_temp": 27.38,
@@ -7069,7 +7203,9 @@
     "average_srad": 19681.657407407405,
     "average_wind": 1.531162048931475,
     "average_tmax": 32.41400462962963,
-    "average_tmin": 22.355787037037036
+    "average_tmin": 22.355787037037036,
+    "population": 25858,
+    "symbol_sort_key": 50
   },
   "Samut Sakhon Province": {
     "average_temp": 28.7,
@@ -7173,7 +7309,9 @@
     "average_srad": 18492.125,
     "average_wind": 1.668707807858785,
     "average_tmax": 32.859375,
-    "average_tmin": 24.538541666666664
+    "average_tmin": 24.538541666666664,
+    "population": 134464,
+    "symbol_sort_key": 10
   },
   "Samut Prakan Province": {
     "average_temp": 29.02,
@@ -7277,7 +7415,9 @@
     "average_srad": 18359.416666666668,
     "average_wind": 1.9197571178277333,
     "average_tmax": 33.05625,
-    "average_tmin": 24.97760416666667
+    "average_tmin": 24.97760416666667,
+    "population": 441384,
+    "symbol_sort_key": 1
   },
   "Nan Province": {
     "average_temp": 25.11,
@@ -7381,7 +7521,9 @@
     "average_srad": 17771.385416666668,
     "average_wind": 1.1401072911918162,
     "average_tmax": 30.714375,
-    "average_tmin": 19.50705729166667
+    "average_tmin": 19.50705729166667,
+    "population": 50513,
+    "symbol_sort_key": 50
   },
   "Chanthaburi Province": {
     "average_temp": 27.2,
@@ -7485,7 +7627,9 @@
     "average_srad": 18591.426470588234,
     "average_wind": 1.5855950084971446,
     "average_tmax": 31.41956070731668,
-    "average_tmin": 22.98502545076258
+    "average_tmin": 22.98502545076258,
+    "population": 68088,
+    "symbol_sort_key": 50
   },
   "Nakhon Phanom Province": {
     "average_temp": 26.57,
@@ -7589,7 +7733,9 @@
     "average_srad": 18435.879629629628,
     "average_wind": 1.40299652075326,
     "average_tmax": 31.295370370370367,
-    "average_tmin": 21.837442129629633
+    "average_tmin": 21.837442129629633,
+    "population": 38597,
+    "symbol_sort_key": 49
   },
   "Kanchanaburi Province": {
     "average_temp": 26.79,
@@ -7693,7 +7839,9 @@
     "average_srad": 18419.54661016949,
     "average_wind": 0.9960226004069807,
     "average_tmax": 32.048358050847455,
-    "average_tmin": 21.529237288135594
+    "average_tmin": 21.529237288135594,
+    "population": 95511,
+    "symbol_sort_key": 27
   },
   "Mae Hong Son Province": {
     "average_temp": 24.38,
@@ -7797,7 +7945,9 @@
     "average_srad": 18300.31150793651,
     "average_wind": 0.9830257951740236,
     "average_tmax": 29.662872023809523,
-    "average_tmin": 19.10062003968254
+    "average_tmin": 19.10062003968254,
+    "population": 68114,
+    "symbol_sort_key": 50
   },
   "Sa Kaeo Province": {
     "average_temp": 27.7,
@@ -7901,7 +8051,9 @@
     "average_srad": 19110.441666666666,
     "average_wind": 1.2853062458336353,
     "average_tmax": 32.46427083333333,
-    "average_tmin": 22.93942708333333
+    "average_tmin": 22.93942708333333,
+    "population": 66123,
+    "symbol_sort_key": 42
   },
   "Satun Province": {
     "average_temp": 27.61,
@@ -8005,6 +8157,8 @@
     "average_srad": 18014.71875,
     "average_wind": 1.9067946337163448,
     "average_tmax": 31.855208333333337,
-    "average_tmin": 23.357942708333336
+    "average_tmin": 23.357942708333336,
+    "population": 23612,
+    "symbol_sort_key": 50
   }
 }

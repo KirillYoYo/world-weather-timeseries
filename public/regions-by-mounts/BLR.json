@@ -101,7 +101,9 @@
     "average_srad": 10636.798359240069,
     "average_wind": 2.9215525670784537,
     "average_tmax": 12.926824265975823,
-    "average_tmin": 4.0868307426597585
+    "average_tmin": 4.0868307426597585,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Vitebsk": {
     "average_temp": 7.26,
@@ -205,7 +207,9 @@
     "average_srad": 9964.480099502489,
     "average_wind": 3.0895351363256403,
     "average_tmax": 11.657675165837482,
-    "average_tmin": 2.8579861111111113
+    "average_tmin": 2.8579861111111113,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Grodno": {
     "average_temp": 8.0,
@@ -309,7 +313,9 @@
     "average_srad": 10292.467592592593,
     "average_wind": 3.3676956038941785,
     "average_tmax": 12.16782407407407,
-    "average_tmin": 3.8278439153439154
+    "average_tmin": 3.8278439153439154,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Brest": {
     "average_temp": 8.63,
@@ -413,7 +419,9 @@
     "average_srad": 10673.579520697169,
     "average_wind": 3.1183563464347572,
     "average_tmax": 12.877471405228759,
-    "average_tmin": 4.3875340413943364
+    "average_tmin": 4.3875340413943364,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Mogilev": {
     "average_temp": 7.63,
@@ -517,7 +525,9 @@
     "average_srad": 10283.406690140846,
     "average_wind": 3.194834662575117,
     "average_tmax": 12.016013791079812,
-    "average_tmin": 3.240918427230047
+    "average_tmin": 3.240918427230047,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Minsk": {
     "average_temp": 7.72,
@@ -621,7 +631,9 @@
     "average_srad": 10286.377525252525,
     "average_wind": 3.1183578498435747,
     "average_tmax": 11.799079335016835,
-    "average_tmin": 3.6431134259259252
+    "average_tmin": 3.6431134259259252,
+    "population": 2518586,
+    "symbol_sort_key": 0
   },
   "Minsk City": {
     "average_temp": 7.84,
@@ -725,6 +737,8 @@
     "average_srad": 10174.916666666666,
     "average_wind": 3.1489166418711343,
     "average_tmax": 11.80625,
-    "average_tmin": 3.867708333333333
+    "average_tmin": 3.867708333333333,
+    "population": 2518586,
+    "symbol_sort_key": 1
   }
 }

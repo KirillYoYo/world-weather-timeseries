@@ -101,7 +101,9 @@
     "average_srad": 15500.625,
     "average_wind": 2.0086249808470407,
     "average_tmax": 25.71979166666667,
-    "average_tmin": 15.064062499999999
+    "average_tmin": 15.064062499999999,
+    "population": 1558834,
+    "symbol_sort_key": 4
   },
   "Southern Province": {
     "average_temp": 19.2,
@@ -205,7 +207,9 @@
     "average_srad": 15056.824074074075,
     "average_wind": 1.9314178106961426,
     "average_tmax": 24.25815972222222,
-    "average_tmin": 14.15
+    "average_tmin": 14.15,
+    "population": 504968,
+    "symbol_sort_key": 1
   },
   "Northern Province": {
     "average_temp": 17.85,
@@ -309,7 +313,9 @@
     "average_srad": 14600.984848484848,
     "average_wind": 1.8156401361479901,
     "average_tmax": 23.09857954545455,
-    "average_tmin": 12.610416666666666
+    "average_tmin": 12.610416666666666,
+    "population": 351746,
+    "symbol_sort_key": 3
   },
   "Eastern Province": {
     "average_temp": 20.8,
@@ -413,7 +419,9 @@
     "average_srad": 15952.496794871795,
     "average_wind": 2.076534424836819,
     "average_tmax": 26.207291666666674,
-    "average_tmin": 15.39346955128205
+    "average_tmin": 15.39346955128205,
+    "population": 256390,
+    "symbol_sort_key": 0
   },
   "Western Province": {
     "average_temp": 17.73,
@@ -517,6 +525,8 @@
     "average_srad": 14646.777777777776,
     "average_wind": 1.8035462907067048,
     "average_tmax": 22.580787037037037,
-    "average_tmin": 12.871180555555554
+    "average_tmin": 12.871180555555554,
+    "population": 200043,
+    "symbol_sort_key": 2
   }
 }

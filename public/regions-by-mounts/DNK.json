@@ -101,7 +101,9 @@
     "average_srad": 9538.201086956524,
     "average_wind": 5.217390423667603,
     "average_tmax": 12.597021651095238,
-    "average_tmin": 5.560395005080795
+    "average_tmin": 5.560395005080795,
+    "population": 303567,
+    "symbol_sort_key": 4
   },
   "Midtjylland": {
     "average_temp": 9.5,
@@ -205,7 +207,9 @@
     "average_srad": 9487.587121212122,
     "average_wind": 5.01848791073067,
     "average_tmax": 13.013697736552267,
-    "average_tmin": 5.983496507597767
+    "average_tmin": 5.983496507597767,
+    "population": 787305,
+    "symbol_sort_key": 1
   },
   "Sjælland": {
     "average_temp": 10.17,
@@ -309,7 +313,9 @@
     "average_srad": 9825.363636363636,
     "average_wind": 5.359626346766347,
     "average_tmax": 12.767626822717261,
-    "average_tmin": 7.568776574268035
+    "average_tmin": 7.568776574268035,
+    "population": 349026,
+    "symbol_sort_key": 3
   },
   "Hovedstaden": {
     "average_temp": 9.63,
@@ -413,7 +419,9 @@
     "average_srad": 9912.444444444443,
     "average_wind": 5.1234238240453935,
     "average_tmax": 12.57015429430538,
-    "average_tmin": 6.695187281817198
+    "average_tmin": 6.695187281817198,
+    "population": 1786465,
+    "symbol_sort_key": 0
   },
   "Syddanmark": {
     "average_temp": 9.82,
@@ -517,6 +525,8 @@
     "average_srad": 9543.706284153004,
     "average_wind": 5.248211600089985,
     "average_tmax": 13.24119350193628,
-    "average_tmin": 6.40173768027599
+    "average_tmin": 6.40173768027599,
+    "population": 578505,
+    "symbol_sort_key": 2
   }
 }

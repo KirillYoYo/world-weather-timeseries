@@ -101,7 +101,9 @@
     "average_srad": 10980.668831168832,
     "average_wind": 2.921281112478925,
     "average_tmax": 14.199404761904761,
-    "average_tmin": 5.174959415584414
+    "average_tmin": 5.174959415584414,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Podlaskie Voivodeship": {
     "average_temp": 8.77,
@@ -205,7 +207,9 @@
     "average_srad": 10436.816326530612,
     "average_wind": 3.362156888457383,
     "average_tmax": 13.07544642857143,
-    "average_tmin": 4.460980017006802
+    "average_tmin": 4.460980017006802,
+    "population": 649186,
+    "symbol_sort_key": 13
   },
   "Łódź Voivodeship": {
     "average_temp": 10.08,
@@ -309,7 +313,9 @@
     "average_srad": 10413.370039682539,
     "average_wind": 3.5200535643195345,
     "average_tmax": 14.658457341269843,
-    "average_tmin": 5.5057663690476195
+    "average_tmin": 5.5057663690476195,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Lower Silesian Voivodeship": {
     "average_temp": 9.86,
@@ -413,7 +419,9 @@
     "average_srad": 10506.57427536232,
     "average_wind": 3.562393789490064,
     "average_tmax": 14.506442481884058,
-    "average_tmin": 5.2185801630434785
+    "average_tmin": 5.2185801630434785,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Opole Voivodeship": {
     "average_temp": 10.38,
@@ -517,7 +525,9 @@
     "average_srad": 10559.263565891473,
     "average_wind": 3.0220436121142185,
     "average_tmax": 15.368047480620156,
-    "average_tmin": 5.395251937984496
+    "average_tmin": 5.395251937984496,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Świętokrzyskie Voivodeship": {
     "average_temp": 9.83,
@@ -621,7 +631,9 @@
     "average_srad": 10601.210691823899,
     "average_wind": 3.0186033869314493,
     "average_tmax": 14.819103773584905,
-    "average_tmin": 4.843003144654088
+    "average_tmin": 4.843003144654088,
+    "population": 401942,
+    "symbol_sort_key": 12
   },
   "Masovian Voivodeship": {
     "average_temp": 9.75,
@@ -725,7 +737,9 @@
     "average_srad": 10446.633136094675,
     "average_wind": 3.4458976774761196,
     "average_tmax": 14.090224358974359,
-    "average_tmin": 5.416192061143984
+    "average_tmin": 5.416192061143984,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Greater Poland Voivodeship": {
     "average_temp": 10.33,
@@ -829,7 +843,9 @@
     "average_srad": 10307.02988505747,
     "average_wind": 3.434321544088166,
     "average_tmax": 14.816910919540227,
-    "average_tmin": 5.843692528735633
+    "average_tmin": 5.843692528735633,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Lesser Poland Voivodeship": {
     "average_temp": 9.51,
@@ -933,7 +949,9 @@
     "average_srad": 10659.5,
     "average_wind": 2.6980809522526603,
     "average_tmax": 14.903273809523808,
-    "average_tmin": 4.121458333333333
+    "average_tmin": 4.121458333333333,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Lubusz Voivodeship": {
     "average_temp": 10.67,
@@ -1037,7 +1055,9 @@
     "average_srad": 10352.992424242426,
     "average_wind": 3.25869380675181,
     "average_tmax": 15.038005050505054,
-    "average_tmin": 6.293386994949494
+    "average_tmin": 6.293386994949494,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Kuyavian-Pomeranian Voivodeship": {
     "average_temp": 9.92,
@@ -1141,7 +1161,9 @@
     "average_srad": 10227.707341269841,
     "average_wind": 3.361089529262649,
     "average_tmax": 14.21442212301587,
-    "average_tmin": 5.622718253968254
+    "average_tmin": 5.622718253968254,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Pomeranian Voivodeship": {
     "average_temp": 9.24,
@@ -1245,7 +1267,9 @@
     "average_srad": 10106.405677655677,
     "average_wind": 3.4290403014137625,
     "average_tmax": 13.049220143307695,
-    "average_tmin": 5.427098596390787
+    "average_tmin": 5.427098596390787,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "West Pomeranian Voivodeship": {
     "average_temp": 10.14,
@@ -1349,7 +1373,9 @@
     "average_srad": 10127.747747747748,
     "average_wind": 3.1398133227417055,
     "average_tmax": 14.179227692694278,
-    "average_tmin": 6.106217865913256
+    "average_tmin": 6.106217865913256,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Lublin Voivodeship": {
     "average_temp": 9.52,
@@ -1453,7 +1479,9 @@
     "average_srad": 10822.192307692307,
     "average_wind": 3.2201349692806556,
     "average_tmax": 13.9480146011396,
-    "average_tmin": 5.097952279202279
+    "average_tmin": 5.097952279202279,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Warmian-Masurian Voivodeship": {
     "average_temp": 9.13,
@@ -1557,7 +1585,9 @@
     "average_srad": 10268.060028248588,
     "average_wind": 3.1890128701083404,
     "average_tmax": 13.13617739978399,
-    "average_tmin": 5.121240765060493
+    "average_tmin": 5.121240765060493,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Silesian Voivodeship": {
     "average_temp": 9.85,
@@ -1661,6 +1691,8 @@
     "average_srad": 10536.447530864198,
     "average_wind": 2.9875470686841896,
     "average_tmax": 15.142322530864197,
-    "average_tmin": 4.560185185185185
+    "average_tmin": 4.560185185185185,
+    "population": 0,
+    "symbol_sort_key": 1
   }
 }

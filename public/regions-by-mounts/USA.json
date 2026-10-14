@@ -101,7 +101,9 @@
     "average_srad": 15840.73479462875,
     "average_wind": 2.8388149189110994,
     "average_tmax": 24.69612522505659,
-    "average_tmin": 12.627338693077908
+    "average_tmin": 12.627338693077908,
+    "population": 1521722,
+    "symbol_sort_key": 35
   },
   "North Carolina": {
     "average_temp": 16.36,
@@ -205,7 +207,9 @@
     "average_srad": 15166.756296296297,
     "average_wind": 2.668663793294518,
     "average_tmax": 22.575479732266178,
-    "average_tmin": 10.151569344028829
+    "average_tmin": 10.151569344028829,
+    "population": 8277464,
+    "symbol_sort_key": 8
   },
   "Oklahoma": {
     "average_temp": 16.61,
@@ -309,7 +313,9 @@
     "average_srad": 16287.326744186046,
     "average_wind": 4.281480909810818,
     "average_tmax": 23.64886950904393,
-    "average_tmin": 9.568331718346252
+    "average_tmin": 9.568331718346252,
+    "population": 3182843,
+    "symbol_sort_key": 27
   },
   "Virginia": {
     "average_temp": 14.38,
@@ -413,7 +419,9 @@
     "average_srad": 14465.429755671903,
     "average_wind": 2.5705167055650113,
     "average_tmax": 20.58449176275293,
-    "average_tmin": 8.169694771516555
+    "average_tmin": 8.169694771516555,
+    "population": 7508903,
+    "symbol_sort_key": 11
   },
   "West Virginia": {
     "average_temp": 12.35,
@@ -517,7 +525,9 @@
     "average_srad": 13549.24712643678,
     "average_wind": 2.832553964579242,
     "average_tmax": 18.547413793103452,
-    "average_tmin": 6.145128412356322
+    "average_tmin": 6.145128412356322,
+    "population": 639898,
+    "symbol_sort_key": 39
   },
   "Louisiana": {
     "average_temp": 20.25,
@@ -621,7 +631,9 @@
     "average_srad": 16045.279363110008,
     "average_wind": 2.867953406472754,
     "average_tmax": 25.876602856081508,
-    "average_tmin": 14.629261264907514
+    "average_tmin": 14.629261264907514,
+    "population": 3948712,
+    "symbol_sort_key": 24
   },
   "Michigan": {
     "average_temp": 8.64,
@@ -725,7 +737,9 @@
     "average_srad": 12545.856693989072,
     "average_wind": 3.8160679271963773,
     "average_tmax": 13.996444672131148,
-    "average_tmin": 3.288159153005464
+    "average_tmin": 3.288159153005464,
+    "population": 9332812,
+    "symbol_sort_key": 9
   },
   "Massachusetts": {
     "average_temp": 10.36,
@@ -829,7 +843,9 @@
     "average_srad": 13094.043750000003,
     "average_wind": 3.602176638444265,
     "average_tmax": 15.899397932837404,
-    "average_tmin": 4.8259247081276655
+    "average_tmin": 4.8259247081276655,
+    "population": 10772866,
+    "symbol_sort_key": 14
   },
   "Idaho": {
     "average_temp": 6.77,
@@ -933,7 +949,9 @@
     "average_srad": 14870.623955960515,
     "average_wind": 3.011272588053162,
     "average_tmax": 14.32684011958998,
-    "average_tmin": -0.7840511104783596
+    "average_tmin": -0.7840511104783596,
+    "population": 1604106,
+    "symbol_sort_key": 38
   },
   "Florida": {
     "average_temp": 22.65,
@@ -1037,7 +1055,9 @@
     "average_srad": 17049.71386583679,
     "average_wind": 3.000869341431647,
     "average_tmax": 28.41896995281283,
-    "average_tmin": 16.88547820759677
+    "average_tmin": 16.88547820759677,
+    "population": 29575804,
+    "symbol_sort_key": 2
   },
   "Nebraska": {
     "average_temp": 10.72,
@@ -1141,7 +1161,9 @@
     "average_srad": 15007.045768566493,
     "average_wind": 4.773279744366085,
     "average_tmax": 18.310810664939552,
-    "average_tmin": 3.133245628238342
+    "average_tmin": 3.133245628238342,
+    "population": 1533899,
+    "symbol_sort_key": 37
   },
   "Washington": {
     "average_temp": 8.73,
@@ -1245,7 +1267,9 @@
     "average_srad": 12886.57425852147,
     "average_wind": 2.99166814955846,
     "average_tmax": 14.517582483088985,
-    "average_tmin": 2.938486471756363
+    "average_tmin": 2.938486471756363,
+    "population": 9525150,
+    "symbol_sort_key": 13
   },
   "New Mexico": {
     "average_temp": 13.49,
@@ -1349,7 +1373,9 @@
     "average_srad": 18892.344905320108,
     "average_wind": 4.068860043893895,
     "average_tmax": 22.516650698827775,
-    "average_tmin": 4.467270626690712
+    "average_tmin": 4.467270626690712,
+    "population": 1604681,
+    "symbol_sort_key": 36
   },
   "Puerto Rico": {
     "average_temp": 25.03,
@@ -1453,7 +1479,9 @@
     "average_srad": 18671.78205128205,
     "average_wind": 3.66552728567368,
     "average_tmax": 30.354287875004307,
-    "average_tmin": 19.704787133290218
+    "average_tmin": 19.704787133290218,
+    "population": 0,
+    "symbol_sort_key": 31
   },
   "South Dakota": {
     "average_temp": 8.89,
@@ -1557,7 +1585,9 @@
     "average_srad": 14064.051422764227,
     "average_wind": 4.711373930200328,
     "average_tmax": 16.029427083333335,
-    "average_tmin": 1.7509756097560973
+    "average_tmin": 1.7509756097560973,
+    "population": 492473,
+    "symbol_sort_key": 46
   },
   "Texas": {
     "average_temp": 19.59,
@@ -1661,7 +1691,9 @@
     "average_srad": 17279.357683518996,
     "average_wind": 4.05044441644429,
     "average_tmax": 26.872462527386222,
-    "average_tmin": 12.30514533950138
+    "average_tmin": 12.30514533950138,
+    "population": 32896208,
+    "symbol_sort_key": 1
   },
   "California": {
     "average_temp": 15.23,
@@ -1765,7 +1797,9 @@
     "average_srad": 17644.739798181414,
     "average_wind": 3.2857064911507003,
     "average_tmax": 22.66107707253103,
-    "average_tmin": 7.790016495797144
+    "average_tmin": 7.790016495797144,
+    "population": 55642721,
+    "symbol_sort_key": 0
   },
   "Alabama": {
     "average_temp": 18.36,
@@ -1869,7 +1903,9 @@
     "average_srad": 15843.124553890078,
     "average_wind": 2.5235264091556364,
     "average_tmax": 24.589697197656132,
-    "average_tmin": 12.130159452164031
+    "average_tmin": 12.130159452164031,
+    "population": 3682652,
+    "symbol_sort_key": 23
   },
   "Georgia": {
     "average_temp": 18.8,
@@ -1973,7 +2009,9 @@
     "average_srad": 15958.082382762992,
     "average_wind": 2.5190090023179468,
     "average_tmax": 25.05320415400129,
-    "average_tmin": 12.546775202379479
+    "average_tmin": 12.546775202379479,
+    "population": 10144746,
+    "symbol_sort_key": 7
   },
   "Pennsylvania": {
     "average_temp": 10.92,
@@ -2077,7 +2115,9 @@
     "average_srad": 13037.204694323145,
     "average_wind": 3.391291298156569,
     "average_tmax": 16.64418213245997,
-    "average_tmin": 5.201273653566231
+    "average_tmin": 5.201273653566231,
+    "population": 16166656,
+    "symbol_sort_key": 5
   },
   "Missouri": {
     "average_temp": 13.94,
@@ -2181,7 +2221,9 @@
     "average_srad": 14728.692260138478,
     "average_wind": 3.629834965534663,
     "average_tmax": 20.193581540553907,
-    "average_tmin": 7.693850457467854
+    "average_tmin": 7.693850457467854,
+    "population": 6610197,
+    "symbol_sort_key": 19
   },
   "Colorado": {
     "average_temp": 8.14,
@@ -2285,7 +2327,9 @@
     "average_srad": 16762.08308531746,
     "average_wind": 3.8720729338231856,
     "average_tmax": 16.915347015542327,
-    "average_tmin": -0.6448784722222226
+    "average_tmin": -0.6448784722222226,
+    "population": 7067728,
+    "symbol_sort_key": 18
   },
   "Utah": {
     "average_temp": 10.03,
@@ -2389,7 +2433,9 @@
     "average_srad": 17143.99084138486,
     "average_wind": 3.237547878937829,
     "average_tmax": 17.959864382045087,
-    "average_tmin": 2.0911168981481487
+    "average_tmin": 2.0911168981481487,
+    "population": 5033550,
+    "symbol_sort_key": 30
   },
   "Tennessee": {
     "average_temp": 15.45,
@@ -2493,7 +2539,9 @@
     "average_srad": 14895.474358974361,
     "average_wind": 2.82294111497349,
     "average_tmax": 21.572472084367245,
-    "average_tmin": 9.329086538461537
+    "average_tmin": 9.329086538461537,
+    "population": 5654908,
+    "symbol_sort_key": 17
   },
   "Wyoming": {
     "average_temp": 6.08,
@@ -2597,7 +2645,9 @@
     "average_srad": 15313.80687830688,
     "average_wind": 3.906396822875769,
     "average_tmax": 13.997846395502648,
-    "average_tmin": -1.8351469494047619
+    "average_tmin": -1.8351469494047619,
+    "population": 309174,
+    "symbol_sort_key": 50
   },
   "New York": {
     "average_temp": 9.03,
@@ -2701,7 +2751,9 @@
     "average_srad": 12638.422021419008,
     "average_wind": 3.6356686153405477,
     "average_tmax": 14.442044211989904,
-    "average_tmin": 3.6235244564844202
+    "average_tmin": 3.6235244564844202,
+    "population": 42144037,
+    "symbol_sort_key": 3
   },
   "Kansas": {
     "average_temp": 13.74,
@@ -2805,7 +2857,9 @@
     "average_srad": 15898.612175393784,
     "average_wind": 4.835094531859272,
     "average_tmax": 21.199922839506176,
-    "average_tmin": 6.27975069178374
+    "average_tmin": 6.27975069178374,
+    "population": 2075988,
+    "symbol_sort_key": 33
   },
   "Alaska": {
     "average_temp": -3.48,
@@ -2909,7 +2963,9 @@
     "average_srad": 7772.161221449852,
     "average_wind": 3.265462808071265,
     "average_tmax": 0.7876720167693633,
-    "average_tmin": -7.741409080397229
+    "average_tmin": -7.741409080397229,
+    "population": 487260,
+    "symbol_sort_key": 49
   },
   "Nevada": {
     "average_temp": 11.12,
@@ -3013,7 +3069,9 @@
     "average_srad": 17771.53725850966,
     "average_wind": 3.5932600391455782,
     "average_tmax": 19.165303971174485,
-    "average_tmin": 3.0739592916283356
+    "average_tmin": 3.0739592916283356,
+    "population": 4757410,
+    "symbol_sort_key": 28
   },
   "Illinois": {
     "average_temp": 12.56,
@@ -3117,7 +3175,9 @@
     "average_srad": 13915.269299820466,
     "average_wind": 3.778585096878038,
     "average_tmax": 18.273668461998803,
-    "average_tmin": 6.845820242369839
+    "average_tmin": 6.845820242369839,
+    "population": 16298976,
+    "symbol_sort_key": 4
   },
   "Vermont": {
     "average_temp": 7.7,
@@ -3221,7 +3281,9 @@
     "average_srad": 12513.89465408805,
     "average_wind": 3.082003338719314,
     "average_tmax": 13.387283805031446,
-    "average_tmin": 2.0162441037735848
+    "average_tmin": 2.0162441037735848,
+    "population": 284561,
+    "symbol_sort_key": 50
   },
   "Montana": {
     "average_temp": 6.68,
@@ -3325,7 +3387,9 @@
     "average_srad": 13847.131769875332,
     "average_wind": 3.9940397072954212,
     "average_tmax": 14.118619711833233,
-    "average_tmin": -0.763772225628449
+    "average_tmin": -0.763772225628449,
+    "population": 514797,
+    "symbol_sort_key": 45
   },
   "Iowa": {
     "average_temp": 10.44,
@@ -3429,7 +3493,9 @@
     "average_srad": 13762.61463768116,
     "average_wind": 4.2203495304135314,
     "average_tmax": 16.453516304347826,
-    "average_tmin": 4.420114130434783
+    "average_tmin": 4.420114130434783,
+    "population": 2459432,
+    "symbol_sort_key": 32
   },
   "South Carolina": {
     "average_temp": 18.19,
@@ -3533,7 +3599,9 @@
     "average_srad": 15851.604609929078,
     "average_wind": 2.80568328763999,
     "average_tmax": 24.498082890860008,
-    "average_tmin": 11.882967642168062
+    "average_tmin": 11.882967642168062,
+    "population": 4293829,
+    "symbol_sort_key": 22
   },
   "New Hampshire": {
     "average_temp": 8.09,
@@ -3637,7 +3705,9 @@
     "average_srad": 12703.18855218855,
     "average_wind": 3.219926114636239,
     "average_tmax": 14.03265993265993,
-    "average_tmin": 2.156681397306397
+    "average_tmin": 2.156681397306397,
+    "population": 1150458,
+    "symbol_sort_key": 41
   },
   "Arizona": {
     "average_temp": 16.96,
@@ -3741,7 +3811,9 @@
     "average_srad": 19192.08380907073,
     "average_wind": 3.201892483132324,
     "average_tmax": 25.327316246431973,
-    "average_tmin": 8.59022260545512
+    "average_tmin": 8.59022260545512,
+    "population": 9343293,
+    "symbol_sort_key": 12
   },
   "District of Columbia": {
     "average_temp": 15.04,
@@ -3845,7 +3917,9 @@
     "average_srad": 14009.666666666666,
     "average_wind": 3.1149789094924927,
     "average_tmax": 20.76458333333333,
-    "average_tmin": 9.321875
+    "average_tmin": 9.321875,
+    "population": 5230370,
+    "symbol_sort_key": 48
   },
   "American Samoa": {
     "average_temp": null,
@@ -3949,7 +4023,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "United States Virgin Islands": {
     "average_temp": 27.23,
@@ -4053,7 +4129,9 @@
     "average_srad": 19863.166666666668,
     "average_wind": 4.566164642572403,
     "average_tmax": 30.680757522583008,
-    "average_tmin": 23.773484738667804
+    "average_tmin": 23.773484738667804,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "New Jersey": {
     "average_temp": 13.04,
@@ -4157,7 +4235,9 @@
     "average_srad": 13726.099099099098,
     "average_wind": 3.54840415850416,
     "average_tmax": 18.595942558844886,
-    "average_tmin": 7.477567103531983
+    "average_tmin": 7.477567103531983,
+    "population": 9114554,
+    "symbol_sort_key": 10
   },
   "Maryland": {
     "average_temp": 14.06,
@@ -4261,7 +4341,9 @@
     "average_srad": 13987.834259259262,
     "average_wind": 3.4396152442252195,
     "average_tmax": 19.648322463609556,
-    "average_tmin": 8.480899292241643
+    "average_tmin": 8.480899292241643,
+    "population": 6503998,
+    "symbol_sort_key": 16
   },
   "Maine": {
     "average_temp": 6.86,
@@ -4365,7 +4447,9 @@
     "average_srad": 12474.816955684008,
     "average_wind": 3.306151603285748,
     "average_tmax": 12.702069175388012,
-    "average_tmin": 1.0107635798359824
+    "average_tmin": 1.0107635798359824,
+    "population": 739377,
+    "symbol_sort_key": 42
   },
   "Hawaii": {
     "average_temp": 19.05,
@@ -4469,7 +4553,9 @@
     "average_srad": 18069.89756944445,
     "average_wind": 5.315335527476337,
     "average_tmax": 23.208444658238836,
-    "average_tmin": 14.887972746165934
+    "average_tmin": 14.887972746165934,
+    "population": 1139993,
+    "symbol_sort_key": 40
   },
   "Delaware": {
     "average_temp": 14.41,
@@ -4573,7 +4659,9 @@
     "average_srad": 14096.88596491228,
     "average_wind": 3.790668815897222,
     "average_tmax": 19.751963543891907,
-    "average_tmin": 9.073842591890381
+    "average_tmin": 9.073842591890381,
+    "population": 371834,
+    "symbol_sort_key": 44
   },
   "Guam": {
     "average_temp": 26.88,
@@ -4677,7 +4765,9 @@
     "average_srad": 17310.5,
     "average_wind": 4.761297315359116,
     "average_tmax": 29.38506506284078,
-    "average_tmin": 24.376569255193075
+    "average_tmin": 24.376569255193075,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Commonwealth of the Northern Mariana Islands": {
     "average_temp": null,
@@ -4781,7 +4871,9 @@
     "average_srad": 17516.0,
     "average_wind": 5.302401145299275,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 50
   },
   "Rhode Island": {
     "average_temp": 11.22,
@@ -4885,7 +4977,9 @@
     "average_srad": 13354.73484848485,
     "average_wind": 4.145227273305259,
     "average_tmax": 16.461559341893054,
-    "average_tmin": 5.974880053881894
+    "average_tmin": 5.974880053881894,
+    "population": 2181576,
+    "symbol_sort_key": 43
   },
   "Kentucky": {
     "average_temp": 14.45,
@@ -4989,7 +5083,9 @@
     "average_srad": 14294.773746701845,
     "average_wind": 2.854905344250963,
     "average_tmax": 20.545220426561126,
-    "average_tmin": 8.356409410729992
+    "average_tmin": 8.356409410729992,
+    "population": 2458146,
+    "symbol_sort_key": 26
   },
   "Ohio": {
     "average_temp": 12.02,
@@ -5093,7 +5189,9 @@
     "average_srad": 13206.455049261085,
     "average_wind": 3.54666045420667,
     "average_tmax": 17.61634595648604,
-    "average_tmin": 6.418229166666667
+    "average_tmin": 6.418229166666667,
+    "population": 12002822,
+    "symbol_sort_key": 6
   },
   "Wisconsin": {
     "average_temp": 7.88,
@@ -5197,7 +5295,9 @@
     "average_srad": 12751.684062850729,
     "average_wind": 3.406425887888128,
     "average_tmax": 13.586146184062853,
-    "average_tmin": 2.170975378787879
+    "average_tmin": 2.170975378787879,
+    "population": 4900109,
+    "symbol_sort_key": 20
   },
   "Oregon": {
     "average_temp": 9.26,
@@ -5301,7 +5401,9 @@
     "average_srad": 14555.989839396918,
     "average_wind": 3.1855594682443424,
     "average_tmax": 16.381299852473116,
-    "average_tmin": 2.14024792737558
+    "average_tmin": 2.14024792737558,
+    "population": 4700793,
+    "symbol_sort_key": 25
   },
   "North Dakota": {
     "average_temp": 6.2,
@@ -5405,7 +5507,9 @@
     "average_srad": 13214.89332460733,
     "average_wind": 4.715102478601753,
     "average_tmax": 12.866864365183247,
-    "average_tmin": -0.462311845549739
+    "average_tmin": -0.462311845549739,
+    "population": 582058,
+    "symbol_sort_key": 47
   },
   "Arkansas": {
     "average_temp": 17.04,
@@ -5509,7 +5613,9 @@
     "average_srad": 15412.361616161616,
     "average_wind": 2.9437587141990664,
     "average_tmax": 23.05989478114478,
-    "average_tmin": 11.024621212121211
+    "average_tmin": 11.024621212121211,
+    "population": 2130912,
+    "symbol_sort_key": 34
   },
   "Indiana": {
     "average_temp": 12.45,
@@ -5613,7 +5719,9 @@
     "average_srad": 13615.004225352115,
     "average_wind": 3.747094599685759,
     "average_tmax": 18.007042253521128,
-    "average_tmin": 6.893438967136152
+    "average_tmin": 6.893438967136152,
+    "population": 5461868,
+    "symbol_sort_key": 15
   },
   "Minnesota": {
     "average_temp": 6.49,
@@ -5717,7 +5825,9 @@
     "average_srad": 12727.99207207207,
     "average_wind": 3.7205516171884963,
     "average_tmax": 12.532879504504505,
-    "average_tmin": 0.4402804054054054
+    "average_tmin": 0.4402804054054054,
+    "population": 6449644,
+    "symbol_sort_key": 21
   },
   "Connecticut": {
     "average_temp": 11.13,
@@ -5821,6 +5931,8 @@
     "average_srad": 13259.10925925926,
     "average_wind": 3.5327722134413544,
     "average_tmax": 16.683529201260317,
-    "average_tmin": 5.5798272780549745
+    "average_tmin": 5.5798272780549745,
+    "population": 3904794,
+    "symbol_sort_key": 29
   }
 }

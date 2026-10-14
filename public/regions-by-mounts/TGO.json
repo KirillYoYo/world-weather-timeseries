@@ -101,7 +101,9 @@
     "average_srad": 18878.564814814818,
     "average_wind": 1.898103372550305,
     "average_tmax": 35.32480709876543,
-    "average_tmin": 23.242322530864197
+    "average_tmin": 23.242322530864197,
+    "population": 152466,
+    "symbol_sort_key": 2
   },
   "Kara Region": {
     "average_temp": 28.04,
@@ -205,7 +207,9 @@
     "average_srad": 17943.89950980392,
     "average_wind": 1.795668492130205,
     "average_tmax": 33.65162377450981,
-    "average_tmin": 22.423529411764708
+    "average_tmin": 22.423529411764708,
+    "population": 93615,
+    "symbol_sort_key": 3
   },
   "Centrale Region": {
     "average_temp": 27.24,
@@ -309,7 +313,9 @@
     "average_srad": 17270.34791666667,
     "average_wind": 1.6932104085882507,
     "average_tmax": 32.68611979166666,
-    "average_tmin": 21.789453124999998
+    "average_tmin": 21.789453124999998,
+    "population": 194994,
+    "symbol_sort_key": 4
   },
   "Plateaux Region": {
     "average_temp": 27.25,
@@ -413,7 +419,9 @@
     "average_srad": 16662.596405228756,
     "average_wind": 1.4944350424350477,
     "average_tmax": 32.09644607843138,
-    "average_tmin": 22.3953022875817
+    "average_tmin": 22.3953022875817,
+    "population": 307385,
+    "symbol_sort_key": 1
   },
   "Maritime Region": {
     "average_temp": 27.63,
@@ -517,6 +525,8 @@
     "average_srad": 16854.100877192985,
     "average_wind": 1.7540859023207114,
     "average_tmax": 31.742543859649118,
-    "average_tmin": 23.51008771762513
+    "average_tmin": 23.51008771762513,
+    "population": 2348671,
+    "symbol_sort_key": 0
   }
 }

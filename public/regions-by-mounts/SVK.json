@@ -101,7 +101,9 @@
     "average_srad": 11663.824074074073,
     "average_wind": 3.3736759335906417,
     "average_tmax": 16.40289351851852,
-    "average_tmin": 6.633217592592593
+    "average_tmin": 6.633217592592593,
+    "population": 688692,
+    "symbol_sort_key": 5
   },
   "Region of Trnava": {
     "average_temp": 11.54,
@@ -205,7 +207,9 @@
     "average_srad": 11673.877450980392,
     "average_wind": 3.246403192772585,
     "average_tmax": 16.98002450980392,
-    "average_tmin": 6.096752450980392
+    "average_tmin": 6.096752450980392,
+    "population": 220237,
+    "symbol_sort_key": 7
   },
   "Region of Trenčín": {
     "average_temp": 9.67,
@@ -309,7 +313,9 @@
     "average_srad": 11253.742063492064,
     "average_wind": 3.195585319920191,
     "average_tmax": 15.2453869047619,
-    "average_tmin": 4.101984126984127
+    "average_tmin": 4.101984126984127,
+    "population": 269772,
+    "symbol_sort_key": 6
   },
   "Region of Nitra": {
     "average_temp": 11.93,
@@ -413,7 +419,9 @@
     "average_srad": 11853.94540229885,
     "average_wind": 2.822265091298641,
     "average_tmax": 17.6641882183908,
-    "average_tmin": 6.198742816091954
+    "average_tmin": 6.198742816091954,
+    "population": 264964,
+    "symbol_sort_key": 3
   },
   "Region of Žilina": {
     "average_temp": 7.51,
@@ -517,7 +525,9 @@
     "average_srad": 10818.966666666667,
     "average_wind": 3.4729104167885256,
     "average_tmax": 13.0146875,
-    "average_tmin": 2.0086458333333335
+    "average_tmin": 2.0086458333333335,
+    "population": 288306,
+    "symbol_sort_key": 2
   },
   "Region of Banská Bystrica": {
     "average_temp": 9.52,
@@ -621,7 +631,9 @@
     "average_srad": 11376.868750000001,
     "average_wind": 2.658147396147251,
     "average_tmax": 14.916692708333331,
-    "average_tmin": 4.125677083333334
+    "average_tmin": 4.125677083333334,
+    "population": 246781,
+    "symbol_sort_key": 4
   },
   "Region of Prešov": {
     "average_temp": 8.83,
@@ -725,7 +737,9 @@
     "average_srad": 11046.959349593497,
     "average_wind": 2.8134217453681356,
     "average_tmax": 13.58996443089431,
-    "average_tmin": 4.071697154471545
+    "average_tmin": 4.071697154471545,
+    "population": 339279,
+    "symbol_sort_key": 0
   },
   "Region of Košice": {
     "average_temp": 10.09,
@@ -829,6 +843,8 @@
     "average_srad": 11339.094086021507,
     "average_wind": 2.506428756380594,
     "average_tmax": 15.010517473118277,
-    "average_tmin": 5.166599462365592
+    "average_tmin": 5.166599462365592,
+    "population": 375611,
+    "symbol_sort_key": 1
   }
 }

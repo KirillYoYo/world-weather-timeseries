@@ -101,7 +101,9 @@
     "average_srad": 13387.283333333331,
     "average_wind": 3.2017959117889405,
     "average_tmax": 21.108541666666664,
-    "average_tmin": 12.167916666666668
+    "average_tmin": 12.167916666666668,
+    "population": 21615975,
+    "symbol_sort_key": 2
   },
   "Oita": {
     "average_temp": 15.15,
@@ -205,7 +207,9 @@
     "average_srad": 13490.554166666667,
     "average_wind": 3.1262708524862926,
     "average_tmax": 18.85766412893931,
-    "average_tmin": 11.438308081775903
+    "average_tmin": 11.438308081775903,
+    "population": 1026164,
+    "symbol_sort_key": 33
   },
   "Hyogo Prefecture": {
     "average_temp": 15.05,
@@ -309,7 +313,9 @@
     "average_srad": 13205.374999999998,
     "average_wind": 3.1299533957526804,
     "average_tmax": 19.385621458292004,
-    "average_tmin": 10.717185372925762
+    "average_tmin": 10.717185372925762,
+    "population": 5360837,
+    "symbol_sort_key": 6
   },
   "Fukui Prefecture": {
     "average_temp": 13.5,
@@ -413,7 +419,9 @@
     "average_srad": 12605.666666666666,
     "average_wind": 3.5469647434850535,
     "average_tmax": 17.483793410162132,
-    "average_tmin": 9.507695311012988
+    "average_tmin": 9.507695311012988,
+    "population": 742794,
+    "symbol_sort_key": 42
   },
   "Shiga": {
     "average_temp": 15.04,
@@ -517,7 +525,9 @@
     "average_srad": 13087.970238095239,
     "average_wind": 2.8150520793029234,
     "average_tmax": 19.063839285714288,
-    "average_tmin": 11.016369047619046
+    "average_tmin": 11.016369047619046,
+    "population": 1382672,
+    "symbol_sort_key": 24
   },
   "Nara Prefecture": {
     "average_temp": 14.0,
@@ -621,7 +631,9 @@
     "average_srad": 13647.779761904761,
     "average_wind": 3.3324628032389145,
     "average_tmax": 18.11674107142857,
-    "average_tmin": 9.883407738095238
+    "average_tmin": 9.883407738095238,
+    "population": 1580363,
+    "symbol_sort_key": 26
   },
   "Gifu Prefecture": {
     "average_temp": 12.15,
@@ -725,7 +737,9 @@
     "average_srad": 13151.977642276424,
     "average_wind": 3.092203253652991,
     "average_tmax": 16.62090955284553,
-    "average_tmin": 7.6741107723577215
+    "average_tmin": 7.6741107723577215,
+    "population": 2018225,
+    "symbol_sort_key": 16
   },
   "Mie Prefecture": {
     "average_temp": 15.75,
@@ -829,7 +843,9 @@
     "average_srad": 13933.061403508771,
     "average_wind": 3.504679908877925,
     "average_tmax": 19.84029605848748,
-    "average_tmin": 11.650162915153464
+    "average_tmin": 11.650162915153464,
+    "population": 1729565,
+    "symbol_sort_key": 21
   },
   "Wakayama Prefecture": {
     "average_temp": 16.17,
@@ -933,7 +949,9 @@
     "average_srad": 14137.818627450979,
     "average_wind": 3.6312614772834038,
     "average_tmax": 19.807357039171105,
-    "average_tmin": 12.538782690436234
+    "average_tmin": 12.538782690436234,
+    "population": 868675,
+    "symbol_sort_key": 39
   },
   "Tokyo": {
     "average_temp": 15.98,
@@ -1037,7 +1055,9 @@
     "average_srad": 13072.1875,
     "average_wind": 3.520761117339134,
     "average_tmax": 20.403671876589456,
-    "average_tmin": 11.554505207637945
+    "average_tmin": 11.554505207637945,
+    "population": 52356308,
+    "symbol_sort_key": 0
   },
   "Fukuoka Prefecture": {
     "average_temp": 16.59,
@@ -1141,7 +1161,9 @@
     "average_srad": 13033.980392156865,
     "average_wind": 3.012489120165507,
     "average_tmax": 20.45483659201977,
-    "average_tmin": 12.725294122742673
+    "average_tmin": 12.725294122742673,
+    "population": 6111970,
+    "symbol_sort_key": 8
   },
   "Saitama": {
     "average_temp": 14.23,
@@ -1245,7 +1267,9 @@
     "average_srad": 13041.512820512819,
     "average_wind": 2.872168266620392,
     "average_tmax": 19.18397435897436,
-    "average_tmin": 9.273878205128208
+    "average_tmin": 9.273878205128208,
+    "population": 8947942,
+    "symbol_sort_key": 4
   },
   "Fukushima": {
     "average_temp": 11.33,
@@ -1349,7 +1373,9 @@
     "average_srad": 12616.29901960784,
     "average_wind": 3.2599908035565046,
     "average_tmax": 15.732536764705884,
-    "average_tmin": 6.933660130718953
+    "average_tmin": 6.933660130718953,
+    "population": 1716356,
+    "symbol_sort_key": 19
   },
   "Tochigi": {
     "average_temp": 12.63,
@@ -1453,7 +1479,9 @@
     "average_srad": 12788.50724637681,
     "average_wind": 2.786932050317958,
     "average_tmax": 17.453260869565216,
-    "average_tmin": 7.8164855072463775
+    "average_tmin": 7.8164855072463775,
+    "population": 3825442,
+    "symbol_sort_key": 17
   },
   "Aomori": {
     "average_temp": 10.48,
@@ -1557,7 +1585,9 @@
     "average_srad": 11975.9898989899,
     "average_wind": 3.7581966681913896,
     "average_tmax": 14.174371289469377,
-    "average_tmin": 6.788656166470563
+    "average_tmin": 6.788656166470563,
+    "population": 1401568,
+    "symbol_sort_key": 29
   },
   "Saga Prefecture": {
     "average_temp": 16.69,
@@ -1661,7 +1691,9 @@
     "average_srad": 13106.27380952381,
     "average_wind": 3.3244311610857644,
     "average_tmax": 20.198958333333334,
-    "average_tmin": 13.186309523809522
+    "average_tmin": 13.186309523809522,
+    "population": 771209,
+    "symbol_sort_key": 41
   },
   "Nagasaki Prefecture": {
     "average_temp": 17.1,
@@ -1765,7 +1797,9 @@
     "average_srad": 13351.27777777778,
     "average_wind": 3.6192883306079437,
     "average_tmax": 20.418702229393855,
-    "average_tmin": 13.776184809605281
+    "average_tmin": 13.776184809605281,
+    "population": 1509749,
+    "symbol_sort_key": 31
   },
   "Miyazaki Prefecture": {
     "average_temp": 15.67,
@@ -1869,7 +1903,9 @@
     "average_srad": 14173.604166666666,
     "average_wind": 3.128339132382756,
     "average_tmax": 19.49504216625577,
-    "average_tmin": 11.845362101566224
+    "average_tmin": 11.845362101566224,
+    "population": 1034433,
+    "symbol_sort_key": 35
   },
   "Kumamoto": {
     "average_temp": 15.51,
@@ -1973,7 +2009,9 @@
     "average_srad": 13643.02083333333,
     "average_wind": 3.106148452394539,
     "average_tmax": 19.43301598628362,
-    "average_tmin": 11.592119295688141
+    "average_tmin": 11.592119295688141,
+    "population": 1720384,
+    "symbol_sort_key": 22
   },
   "Kagoshima Prefecture": {
     "average_temp": 18.21,
@@ -2077,7 +2115,9 @@
     "average_srad": 14515.554597701148,
     "average_wind": 3.9221298927548296,
     "average_tmax": 21.855306566172633,
-    "average_tmin": 14.557571406405549
+    "average_tmin": 14.557571406405549,
+    "population": 1503251,
+    "symbol_sort_key": 23
   },
   "Gunma": {
     "average_temp": 12.07,
@@ -2181,7 +2221,9 @@
     "average_srad": 12831.48188405797,
     "average_wind": 2.8681820622388865,
     "average_tmax": 17.13727355072464,
-    "average_tmin": 7.009510869565218
+    "average_tmin": 7.009510869565218,
+    "population": 1862186,
+    "symbol_sort_key": 18
   },
   "Kyoto Prefecture": {
     "average_temp": 15.09,
@@ -2285,7 +2327,9 @@
     "average_srad": 12819.40625,
     "average_wind": 3.082618746906519,
     "average_tmax": 19.482103597124418,
-    "average_tmin": 10.695008682335418
+    "average_tmin": 10.695008682335418,
+    "population": 2518413,
+    "symbol_sort_key": 12
   },
   "Chiba": {
     "average_temp": 16.59,
@@ -2389,7 +2433,9 @@
     "average_srad": 13187.689814814816,
     "average_wind": 3.931362655427721,
     "average_tmax": 20.7023522845021,
-    "average_tmin": 12.469100427951801
+    "average_tmin": 12.469100427951801,
+    "population": 7290416,
+    "symbol_sort_key": 5
   },
   "Ibaraki": {
     "average_temp": 14.55,
@@ -2493,7 +2539,9 @@
     "average_srad": 13078.445652173914,
     "average_wind": 3.315856178601583,
     "average_tmax": 19.16901742202648,
-    "average_tmin": 9.922735508104813
+    "average_tmin": 9.922735508104813,
+    "population": 2867921,
+    "symbol_sort_key": 10
   },
   "Kanagawa": {
     "average_temp": 15.91,
@@ -2597,7 +2645,9 @@
     "average_srad": 13288.857142857145,
     "average_wind": 3.8903706471125283,
     "average_tmax": 20.420089285714287,
-    "average_tmin": 11.406994047619046
+    "average_tmin": 11.406994047619046,
+    "population": 9305381,
+    "symbol_sort_key": 1
   },
   "Hiroshima": {
     "average_temp": 15.15,
@@ -2701,7 +2751,9 @@
     "average_srad": 13470.032258064515,
     "average_wind": 3.084687763644803,
     "average_tmax": 18.97556537607665,
-    "average_tmin": 11.325423561789655
+    "average_tmin": 11.325423561789655,
+    "population": 2756268,
+    "symbol_sort_key": 11
   },
   "Tottori Prefecture": {
     "average_temp": 13.84,
@@ -2805,7 +2857,9 @@
     "average_srad": 13122.722222222224,
     "average_wind": 3.430922286378012,
     "average_tmax": 18.05040508641137,
-    "average_tmin": 9.622922449227834
+    "average_tmin": 9.622922449227834,
+    "population": 478879,
+    "symbol_sort_key": 46
   },
   "Shimane": {
     "average_temp": 15.05,
@@ -2909,7 +2963,9 @@
     "average_srad": 13064.805555555557,
     "average_wind": 3.3313534938626823,
     "average_tmax": 18.900031321909694,
-    "average_tmin": 11.191159753522113
+    "average_tmin": 11.191159753522113,
+    "population": 737613,
+    "symbol_sort_key": 45
   },
   "Niigata": {
     "average_temp": 12.43,
@@ -3013,7 +3069,9 @@
     "average_srad": 12289.844961240311,
     "average_wind": 3.6709059754083326,
     "average_tmax": 16.598584405396334,
-    "average_tmin": 8.264773122201015
+    "average_tmin": 8.264773122201015,
+    "population": 2461844,
+    "symbol_sort_key": 14
   },
   "Nagano": {
     "average_temp": 10.27,
@@ -3117,7 +3175,9 @@
     "average_srad": 13242.527210884355,
     "average_wind": 3.4130858904650427,
     "average_tmax": 15.370238095238093,
-    "average_tmin": 5.173235544217687
+    "average_tmin": 5.173235544217687,
+    "population": 1906091,
+    "symbol_sort_key": 15
   },
   "Aichi Prefecture": {
     "average_temp": 16.11,
@@ -3221,7 +3281,9 @@
     "average_srad": 13897.384259259261,
     "average_wind": 3.4029013017813363,
     "average_tmax": 20.36392895557262,
-    "average_tmin": 11.85656160811583
+    "average_tmin": 11.85656160811583,
+    "population": 14280572,
+    "symbol_sort_key": 3
   },
   "Yamanashi": {
     "average_temp": 11.38,
@@ -3325,7 +3387,9 @@
     "average_srad": 13444.529411764706,
     "average_wind": 3.8255208309958966,
     "average_tmax": 16.602696078431375,
-    "average_tmin": 6.166360294117646
+    "average_tmin": 6.166360294117646,
+    "population": 736577,
+    "symbol_sort_key": 40
   },
   "Miyagi": {
     "average_temp": 12.37,
@@ -3429,7 +3493,9 @@
     "average_srad": 12376.709876543211,
     "average_wind": 3.276574451246379,
     "average_tmax": 16.34235375854704,
-    "average_tmin": 8.399803427583826
+    "average_tmin": 8.399803427583826,
+    "population": 2236175,
+    "symbol_sort_key": 13
   },
   "Yamagata": {
     "average_temp": 11.3,
@@ -3533,7 +3599,9 @@
     "average_srad": 12004.335648148148,
     "average_wind": 3.3632338714820373,
     "average_tmax": 15.374725485620674,
-    "average_tmin": 7.2346634617523735
+    "average_tmin": 7.2346634617523735,
+    "population": 989985,
+    "symbol_sort_key": 34
   },
   "Akita": {
     "average_temp": 10.99,
@@ -3637,7 +3705,9 @@
     "average_srad": 11871.506802721087,
     "average_wind": 3.3220776579006994,
     "average_tmax": 14.848472378529658,
-    "average_tmin": 7.137012427444664
+    "average_tmin": 7.137012427444664,
+    "population": 1034958,
+    "symbol_sort_key": 37
   },
   "Iwate": {
     "average_temp": 9.97,
@@ -3741,7 +3811,9 @@
     "average_srad": 12167.668154761906,
     "average_wind": 3.186053066913571,
     "average_tmax": 14.29152689462616,
-    "average_tmin": 5.647521613174607
+    "average_tmin": 5.647521613174607,
+    "population": 1327854,
+    "symbol_sort_key": 30
   },
   "Toyama": {
     "average_temp": 11.4,
@@ -3845,7 +3917,9 @@
     "average_srad": 12525.260416666666,
     "average_wind": 4.02443311860164,
     "average_tmax": 15.66830233807365,
-    "average_tmin": 7.127354910946452
+    "average_tmin": 7.127354910946452,
+    "population": 1039452,
+    "symbol_sort_key": 36
   },
   "Shizuoka": {
     "average_temp": 14.81,
@@ -3949,7 +4023,9 @@
     "average_srad": 13798.163194444443,
     "average_wind": 4.026754984425174,
     "average_tmax": 19.24082043369611,
-    "average_tmin": 10.378421025392084
+    "average_tmin": 10.378421025392084,
+    "population": 3975344,
+    "symbol_sort_key": 9
   },
   "Ishikawa Prefecture": {
     "average_temp": 13.78,
@@ -4053,7 +4129,9 @@
     "average_srad": 12451.522222222222,
     "average_wind": 3.612731981277465,
     "average_tmax": 17.58858901023865,
-    "average_tmin": 9.962509070361653
+    "average_tmin": 9.962509070361653,
+    "population": 1106123,
+    "symbol_sort_key": 32
   },
   "Okayama Prefecture": {
     "average_temp": 14.75,
@@ -4157,7 +4235,9 @@
     "average_srad": 13599.391025641025,
     "average_wind": 2.9814318349728217,
     "average_tmax": 19.032251594616813,
-    "average_tmin": 10.465211001984203
+    "average_tmin": 10.465211001984203,
+    "population": 1881042,
+    "symbol_sort_key": 20
   },
   "Tokushima Prefecture": {
     "average_temp": 14.53,
@@ -4261,7 +4341,9 @@
     "average_srad": 14082.601190476189,
     "average_wind": 3.493117333877654,
     "average_tmax": 17.98899305434454,
-    "average_tmin": 11.069518842157862
+    "average_tmin": 11.069518842157862,
+    "population": 687152,
+    "symbol_sort_key": 43
   },
   "Kochi Prefecture": {
     "average_temp": 15.58,
@@ -4365,7 +4447,9 @@
     "average_srad": 14276.097222222224,
     "average_wind": 3.5685414340760975,
     "average_tmax": 19.128437838951747,
-    "average_tmin": 12.025384981681905
+    "average_tmin": 12.025384981681905,
+    "population": 600482,
+    "symbol_sort_key": 44
   },
   "Ehime Prefecture": {
     "average_temp": 15.38,
@@ -4469,7 +4553,9 @@
     "average_srad": 13918.42156862745,
     "average_wind": 3.6033926839921997,
     "average_tmax": 19.08703023078395,
-    "average_tmin": 11.67246673243011
+    "average_tmin": 11.67246673243011,
+    "population": 1302221,
+    "symbol_sort_key": 27
   },
   "Kagawa Prefecture": {
     "average_temp": 16.49,
@@ -4573,7 +4659,9 @@
     "average_srad": 14068.013888888889,
     "average_wind": 3.417775634262297,
     "average_tmax": 20.342484588093228,
-    "average_tmin": 12.636249990678495
+    "average_tmin": 12.636249990678495,
+    "population": 943996,
+    "symbol_sort_key": 38
   },
   "Okinawa Prefecture": {
     "average_temp": 23.92,
@@ -4677,7 +4765,9 @@
     "average_srad": 14932.944444444443,
     "average_wind": 4.709767589966456,
     "average_tmax": 26.1112168735928,
-    "average_tmin": 21.738267185952925
+    "average_tmin": 21.738267185952925,
+    "population": 1491029,
+    "symbol_sort_key": 25
   },
   "Hokkaido": {
     "average_temp": 6.96,
@@ -4781,7 +4871,9 @@
     "average_srad": 11911.456740976646,
     "average_wind": 3.573126178701465,
     "average_tmax": 10.870305935183495,
-    "average_tmin": 3.047909443514252
+    "average_tmin": 3.047909443514252,
+    "population": 4816416,
+    "symbol_sort_key": 7
   },
   "Yamaguchi": {
     "average_temp": 15.9,
@@ -4885,6 +4977,8 @@
     "average_srad": 13138.100694444445,
     "average_wind": 3.3134870529174805,
     "average_tmax": 19.473174564705953,
-    "average_tmin": 12.335920795425771
+    "average_tmin": 12.335920795425771,
+    "population": 1073019,
+    "symbol_sort_key": 28
   }
 }

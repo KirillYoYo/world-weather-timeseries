@@ -101,7 +101,9 @@
     "average_srad": 14858.25,
     "average_wind": 3.2978110710779824,
     "average_tmax": 19.169230779012047,
-    "average_tmin": 12.933333265781405
+    "average_tmin": 12.933333265781405,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Crete": {
     "average_temp": 18.25,
@@ -205,7 +207,9 @@
     "average_srad": 16304.9609375,
     "average_wind": 4.348762383684516,
     "average_tmax": 21.898599687218667,
-    "average_tmin": 14.596994863077997
+    "average_tmin": 14.596994863077997,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Attica": {
     "average_temp": 18.4,
@@ -309,7 +313,9 @@
     "average_srad": 15384.340277777781,
     "average_wind": 3.86656107670731,
     "average_tmax": 22.7780134095086,
-    "average_tmin": 14.027407144175633
+    "average_tmin": 14.027407144175633,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Macedonia-Thrace": {
     "average_temp": 14.92,
@@ -413,7 +419,9 @@
     "average_srad": 14463.546070460705,
     "average_wind": 2.358542676540571,
     "average_tmax": 19.94829523879984,
-    "average_tmin": 9.892634528616902
+    "average_tmin": 9.892634528616902,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Epirus-Western Macedonia": {
     "average_temp": 13.4,
@@ -517,7 +525,9 @@
     "average_srad": 14879.486111111111,
     "average_wind": 1.9957456649453553,
     "average_tmax": 18.567859146109335,
-    "average_tmin": 8.236203613932485
+    "average_tmin": 8.236203613932485,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Peloponisos-W. Greece & Ionian": {
     "average_temp": 16.3,
@@ -621,7 +631,9 @@
     "average_srad": 15428.399532710282,
     "average_wind": 3.19567660982735,
     "average_tmax": 21.471161841752004,
-    "average_tmin": 11.124809777755233
+    "average_tmin": 11.124809777755233,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Egean": {
     "average_temp": 18.85,
@@ -725,7 +737,9 @@
     "average_srad": 16640.07575757576,
     "average_wind": 4.224184859280634,
     "average_tmax": 22.391611998972266,
-    "average_tmin": 15.30575498161894
+    "average_tmin": 15.30575498161894,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Thessalia-Central Greece": {
     "average_temp": 15.59,
@@ -829,6 +843,8 @@
     "average_srad": 14942.162280701757,
     "average_wind": 2.6898008458621323,
     "average_tmax": 20.600789850915387,
-    "average_tmin": 10.585649172465004
+    "average_tmin": 10.585649172465004,
+    "population": 0,
+    "symbol_sort_key": 3
   }
 }

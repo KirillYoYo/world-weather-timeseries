@@ -101,7 +101,9 @@
     "average_srad": 9165.157679738562,
     "average_wind": 3.358643451449918,
     "average_tmax": 8.27152061617501,
-    "average_tmin": 0.9868940187484224
+    "average_tmin": 0.9868940187484224,
+    "population": 399202,
+    "symbol_sort_key": 5
   },
   "Agder": {
     "average_temp": 5.84,
@@ -205,7 +207,9 @@
     "average_srad": 9209.392730496455,
     "average_wind": 4.0628476333110894,
     "average_tmax": 8.981894507010777,
-    "average_tmin": 2.69008357830425
+    "average_tmin": 2.69008357830425,
+    "population": 259299,
+    "symbol_sort_key": 7
   },
   "Viken": {
     "average_temp": 4.33,
@@ -309,7 +313,9 @@
     "average_srad": 9150.63179669031,
     "average_wind": 2.887778082990195,
     "average_tmax": 8.308633063464969,
-    "average_tmin": 0.35030627343671533
+    "average_tmin": 0.35030627343671533,
+    "population": 1086561,
+    "symbol_sort_key": 0
   },
   "Rogaland": {
     "average_temp": 6.15,
@@ -413,7 +419,9 @@
     "average_srad": 8995.60849056604,
     "average_wind": 4.299810594357784,
     "average_tmax": 9.073119197888943,
-    "average_tmin": 3.2177092720432294
+    "average_tmin": 3.2177092720432294,
+    "population": 707545,
+    "symbol_sort_key": 3
   },
   "Nordland": {
     "average_temp": 2.74,
@@ -517,7 +525,9 @@
     "average_srad": 7900.423346055978,
     "average_wind": 4.545934527354082,
     "average_tmax": 5.64348741671587,
-    "average_tmin": -0.16847852674613853
+    "average_tmin": -0.16847852674613853,
+    "population": 101065,
+    "symbol_sort_key": 10
   },
   "Møre og Romsdal": {
     "average_temp": 4.72,
@@ -621,7 +631,9 @@
     "average_srad": 8459.475,
     "average_wind": 5.107438687483469,
     "average_tmax": 7.380840335358624,
-    "average_tmin": 2.0552857897002945
+    "average_tmin": 2.0552857897002945,
+    "population": 124343,
+    "symbol_sort_key": 8
   },
   "Vestland": {
     "average_temp": 3.66,
@@ -725,7 +737,9 @@
     "average_srad": 8651.070546737212,
     "average_wind": 4.804814664249487,
     "average_tmax": 6.200014383102746,
-    "average_tmin": 1.1273332390855386
+    "average_tmin": 1.1273332390855386,
+    "population": 501402,
+    "symbol_sort_key": 2
   },
   "Oslo": {
     "average_temp": 6.35,
@@ -829,7 +843,9 @@
     "average_srad": 9250.638888888889,
     "average_wind": 3.2039580212699046,
     "average_tmax": 10.132291666666667,
-    "average_tmin": 2.562847222222222
+    "average_tmin": 2.562847222222222,
+    "population": 1120520,
+    "symbol_sort_key": 1
   },
   "Trøndelag": {
     "average_temp": 3.91,
@@ -933,7 +949,9 @@
     "average_srad": 8448.158157276996,
     "average_wind": 3.876347505290743,
     "average_tmax": 7.29747774623413,
-    "average_tmin": 0.5245245240742407
+    "average_tmin": 0.5245245240742407,
+    "population": 302199,
+    "symbol_sort_key": 4
   },
   "Troms og Finnmark": {
     "average_temp": 0.78,
@@ -1037,7 +1055,9 @@
     "average_srad": 7498.301066666667,
     "average_wind": 3.739354758373896,
     "average_tmax": 4.250193607958885,
-    "average_tmin": -2.6938559623738585
+    "average_tmin": -2.6938559623738585,
+    "population": 137978,
+    "symbol_sort_key": 9
   },
   "Innlandet": {
     "average_temp": 2.0,
@@ -1141,6 +1161,8 @@
     "average_srad": 8836.503428270044,
     "average_wind": 3.0645891336826327,
     "average_tmax": 6.1343749999999995,
-    "average_tmin": -2.1422171677215185
+    "average_tmin": -2.1422171677215185,
+    "population": 207460,
+    "symbol_sort_key": 6
   }
 }

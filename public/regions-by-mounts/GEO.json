@@ -101,7 +101,9 @@
     "average_srad": 13207.87634408602,
     "average_wind": 2.332583737309261,
     "average_tmax": 14.954846592359644,
-    "average_tmin": 5.119011224541933
+    "average_tmin": 5.119011224541933,
+    "population": 91077,
+    "symbol_sort_key": 6
   },
   "Kakheti": {
     "average_temp": 11.68,
@@ -205,7 +207,9 @@
     "average_srad": 13835.344444444445,
     "average_wind": 1.7829009237112825,
     "average_tmax": 16.784189814814816,
-    "average_tmin": 6.581944444444445
+    "average_tmin": 6.581944444444445,
+    "population": 62981,
+    "symbol_sort_key": 3
   },
   "Kvemo Kartli": {
     "average_temp": 10.66,
@@ -309,7 +313,9 @@
     "average_srad": 14245.413194444447,
     "average_wind": 1.8761718666387923,
     "average_tmax": 16.130208333333332,
-    "average_tmin": 5.189322916666666
+    "average_tmin": 5.189322916666666,
+    "population": 174437,
+    "symbol_sort_key": 2
   },
   "Tbilisi": {
     "average_temp": 13.54,
@@ -413,7 +419,9 @@
     "average_srad": 14042.333333333334,
     "average_wind": 1.6885833442211151,
     "average_tmax": 19.017708333333335,
-    "average_tmin": 8.054166666666667
+    "average_tmin": 8.054166666666667,
+    "population": 1118035,
+    "symbol_sort_key": 0
   },
   "Mtskheta-Mtianeti": {
     "average_temp": 7.37,
@@ -517,7 +525,9 @@
     "average_srad": 13816.006666666668,
     "average_wind": 2.3190324922402703,
     "average_tmax": 12.512875,
-    "average_tmin": 2.2240416666666665
+    "average_tmin": 2.2240416666666665,
+    "population": 7606,
+    "symbol_sort_key": 9
   },
   "Samtskhe–Javakheti": {
     "average_temp": 6.55,
@@ -621,7 +631,9 @@
     "average_srad": 14768.701388888889,
     "average_wind": 2.1200303691956734,
     "average_tmax": 11.745442708333334,
-    "average_tmin": 1.3601128472222221
+    "average_tmin": 1.3601128472222221,
+    "population": 35764,
+    "symbol_sort_key": 8
   },
   "Adjara": {
     "average_temp": 10.67,
@@ -725,7 +737,9 @@
     "average_srad": 14234.229166666664,
     "average_wind": 2.057286723620362,
     "average_tmax": 15.497280097007753,
-    "average_tmin": 5.837905104623901
+    "average_tmin": 5.837905104623901,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Guria": {
     "average_temp": 13.6,
@@ -829,7 +843,9 @@
     "average_srad": 13743.708333333334,
     "average_wind": 1.8532139124969642,
     "average_tmax": 18.276562509934106,
-    "average_tmin": 8.928683037062486
+    "average_tmin": 8.928683037062486,
+    "population": 32420,
+    "symbol_sort_key": 10
   },
   "Shida Kartli": {
     "average_temp": 9.09,
@@ -933,7 +949,9 @@
     "average_srad": 14063.503623188406,
     "average_wind": 2.12723096643669,
     "average_tmax": 14.08002717391304,
-    "average_tmin": 4.098822463768115
+    "average_tmin": 4.098822463768115,
+    "population": 115131,
+    "symbol_sort_key": 7
   },
   "Imereti": {
     "average_temp": 12.63,
@@ -1037,7 +1055,9 @@
     "average_srad": 13907.231481481482,
     "average_wind": 1.679796285467383,
     "average_tmax": 17.50667438271605,
-    "average_tmin": 7.753317901234568
+    "average_tmin": 7.753317901234568,
+    "population": 266044,
+    "symbol_sort_key": 1
   },
   "Racha-Lechkhumi and Kvemo Svaneti": {
     "average_temp": 6.64,
@@ -1141,7 +1161,9 @@
     "average_srad": 13798.612745098037,
     "average_wind": 2.2480379828051027,
     "average_tmax": 11.086458333333335,
-    "average_tmin": 2.1975490196078424
+    "average_tmin": 2.1975490196078424,
+    "population": 2015,
+    "symbol_sort_key": 11
   },
   "Samegrelo-Zemo Svaneti": {
     "average_temp": 8.99,
@@ -1245,6 +1267,8 @@
     "average_srad": 13601.96212121212,
     "average_wind": 2.066881084381932,
     "average_tmax": 13.613562707708338,
-    "average_tmin": 4.367518939755179
+    "average_tmin": 4.367518939755179,
+    "population": 104590,
+    "symbol_sort_key": 5
   }
 }

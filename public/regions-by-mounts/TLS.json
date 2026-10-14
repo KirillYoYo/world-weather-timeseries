@@ -101,7 +101,9 @@
     "average_srad": 20384.541666666668,
     "average_wind": 2.3833529502153397,
     "average_tmax": 29.63733971913656,
-    "average_tmin": 21.896674648920694
+    "average_tmin": 21.896674648920694,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Aileu": {
     "average_temp": 21.92,
@@ -205,7 +207,9 @@
     "average_srad": 19340.666666666668,
     "average_wind": 2.249427075187365,
     "average_tmax": 26.334895833333338,
-    "average_tmin": 17.4953125
+    "average_tmin": 17.4953125,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Ainaro": {
     "average_temp": 23.84,
@@ -309,7 +313,9 @@
     "average_srad": 19880.520833333332,
     "average_wind": 2.2664061387379966,
     "average_tmax": 28.066666666666666,
-    "average_tmin": 19.608940879503887
+    "average_tmin": 19.608940879503887,
+    "population": 3085,
+    "symbol_sort_key": 5
   },
   "Baucau": {
     "average_temp": 25.13,
@@ -413,7 +419,9 @@
     "average_srad": 19908.316666666666,
     "average_wind": 2.4190418581167856,
     "average_tmax": 29.48645833333333,
-    "average_tmin": 20.781458333333333
+    "average_tmin": 20.781458333333333,
+    "population": 14961,
+    "symbol_sort_key": 4
   },
   "Bobonaro": {
     "average_temp": 24.67,
@@ -517,7 +525,9 @@
     "average_srad": 20038.805555555555,
     "average_wind": 1.9614152279165058,
     "average_tmax": 28.89652777777778,
-    "average_tmin": 20.437847222222224
+    "average_tmin": 20.437847222222224,
+    "population": 15800,
+    "symbol_sort_key": 3
   },
   "Cova Lima": {
     "average_temp": 24.65,
@@ -621,7 +631,9 @@
     "average_srad": 20200.055555555555,
     "average_wind": 2.2099597487184734,
     "average_tmax": 28.599675867292618,
-    "average_tmin": 20.70479170481364
+    "average_tmin": 20.70479170481364,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Dili": {
     "average_temp": 24.82,
@@ -725,7 +737,9 @@
     "average_srad": 19819.625,
     "average_wind": 2.3921701858441033,
     "average_tmax": 29.046428521474198,
-    "average_tmin": 20.592857074737548
+    "average_tmin": 20.592857074737548,
+    "population": 222323,
+    "symbol_sort_key": 0
   },
   "Ermera": {
     "average_temp": 22.23,
@@ -829,7 +843,9 @@
     "average_srad": 19493.5,
     "average_wind": 2.0390694439411163,
     "average_tmax": 26.442361111111115,
-    "average_tmin": 18.02673611111111
+    "average_tmin": 18.02673611111111,
+    "population": 8133,
+    "symbol_sort_key": 1
   },
   "Lautém": {
     "average_temp": 25.76,
@@ -933,7 +949,9 @@
     "average_srad": 19873.208333333336,
     "average_wind": 2.2519000950786805,
     "average_tmax": 29.859705135557387,
-    "average_tmin": 21.665016439225937
+    "average_tmin": 21.665016439225937,
+    "population": 12782,
+    "symbol_sort_key": 9
   },
   "Liquiçá": {
     "average_temp": 25.33,
@@ -1037,7 +1055,9 @@
     "average_srad": 19827.916666666668,
     "average_wind": 2.288710802793503,
     "average_tmax": 29.427777862548826,
-    "average_tmin": 21.24027779897054
+    "average_tmin": 21.24027779897054,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Manatuto": {
     "average_temp": 24.89,
@@ -1141,7 +1161,9 @@
     "average_srad": 19868.972222222223,
     "average_wind": 2.208761958612336,
     "average_tmax": 29.23697916666666,
-    "average_tmin": 20.535069444444442
+    "average_tmin": 20.535069444444442,
+    "population": 9022,
+    "symbol_sort_key": 11
   },
   "Manufahi": {
     "average_temp": 25.09,
@@ -1245,7 +1267,9 @@
     "average_srad": 20065.694444444445,
     "average_wind": 2.0249060425493455,
     "average_tmax": 29.377453645070393,
-    "average_tmin": 20.802777745988635
+    "average_tmin": 20.802777745988635,
+    "population": 2100,
+    "symbol_sort_key": 12
   },
   "Viqueque": {
     "average_temp": 25.14,
@@ -1349,6 +1373,8 @@
     "average_srad": 20023.472222222223,
     "average_wind": 2.017740112211969,
     "average_tmax": 29.448660071690878,
-    "average_tmin": 20.83018700811598
+    "average_tmin": 20.83018700811598,
+    "population": 6078,
+    "symbol_sort_key": 7
   }
 }

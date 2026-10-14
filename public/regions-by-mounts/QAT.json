@@ -101,7 +101,9 @@
     "average_srad": 19347.479166666668,
     "average_wind": 3.8952471017837524,
     "average_tmax": 33.84404758612315,
-    "average_tmin": 22.716852676868438
+    "average_tmin": 22.716852676868438,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Al Wakra": {
     "average_temp": 28.56,
@@ -205,7 +207,9 @@
     "average_srad": 19547.072916666668,
     "average_wind": 3.997788354754448,
     "average_tmax": 34.2610790292422,
-    "average_tmin": 22.865447378158574
+    "average_tmin": 22.865447378158574,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Al Shamal": {
     "average_temp": 28.28,
@@ -309,7 +313,9 @@
     "average_srad": 19287.25,
     "average_wind": 4.050635615984599,
     "average_tmax": 33.775,
-    "average_tmin": 22.779687500000005
+    "average_tmin": 22.779687500000005,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Al Rayyan": {
     "average_temp": 28.54,
@@ -413,7 +419,9 @@
     "average_srad": 19551.1875,
     "average_wind": 3.951183112959067,
     "average_tmax": 34.32083333333333,
-    "average_tmin": 22.75130208333334
+    "average_tmin": 22.75130208333334,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Al Sheehaniya": {
     "average_temp": 28.38,
@@ -517,7 +525,9 @@
     "average_srad": 19427.833333333332,
     "average_wind": 3.9091873024449213,
     "average_tmax": 34.04528238123113,
-    "average_tmin": 22.721392927747786
+    "average_tmin": 22.721392927747786,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Doha": {
     "average_temp": 28.72,
@@ -621,7 +631,9 @@
     "average_srad": 19325.75,
     "average_wind": 4.220775703589122,
     "average_tmax": 33.91666669845581,
-    "average_tmin": 23.53181816736857
+    "average_tmin": 23.53181816736857,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Umm Slal": {
     "average_temp": 28.5,
@@ -725,7 +737,9 @@
     "average_srad": 19452.5,
     "average_wind": 4.087006707986196,
     "average_tmax": 34.00416666666667,
-    "average_tmin": 22.986458333333335
+    "average_tmin": 22.986458333333335,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Al Daayen": {
     "average_temp": 28.4,
@@ -829,6 +843,8 @@
     "average_srad": 19452.166666666668,
     "average_wind": 4.1120419303576154,
     "average_tmax": 33.922916666666666,
-    "average_tmin": 22.868750000000002
+    "average_tmin": 22.868750000000002,
+    "population": 0,
+    "symbol_sort_key": 6
   }
 }

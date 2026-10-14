@@ -101,7 +101,9 @@
     "average_srad": 15106.020833333334,
     "average_wind": 3.318963552514712,
     "average_tmax": 21.928906249999997,
-    "average_tmin": 16.001562500000002
+    "average_tmin": 16.001562500000002,
+    "population": 1096699,
+    "symbol_sort_key": 8
   },
   "Miaoli County": {
     "average_temp": 20.1,
@@ -205,7 +207,9 @@
     "average_srad": 15487.366666666669,
     "average_wind": 3.40940230290095,
     "average_tmax": 23.24443912506103,
-    "average_tmin": 16.95459934870402
+    "average_tmin": 16.95459934870402,
+    "population": 511067,
+    "symbol_sort_key": 11
   },
   "Matsu Islands": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 21
   },
   "Kinmen": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 41159,
+    "symbol_sort_key": 20
   },
   "Chiayi County": {
     "average_temp": 21.74,
@@ -517,7 +525,9 @@
     "average_srad": 16068.714285714284,
     "average_wind": 2.6650437826202027,
     "average_tmax": 24.83095238095238,
-    "average_tmin": 18.643154761904764
+    "average_tmin": 18.643154761904764,
+    "population": 743292,
+    "symbol_sort_key": 12
   },
   "Yilan County": {
     "average_temp": 18.66,
@@ -621,7 +631,9 @@
     "average_srad": 14742.559523809525,
     "average_wind": 4.049889067808787,
     "average_tmax": 21.39555699711754,
-    "average_tmin": 15.91945153190976
+    "average_tmin": 15.91945153190976,
+    "population": 380778,
+    "symbol_sort_key": 15
   },
   "Nantou County": {
     "average_temp": 17.28,
@@ -725,7 +737,9 @@
     "average_srad": 15466.472222222224,
     "average_wind": 3.2937187411718902,
     "average_tmax": 20.270746527777778,
-    "average_tmin": 14.28168402777778
+    "average_tmin": 14.28168402777778,
+    "population": 503406,
+    "symbol_sort_key": 13
   },
   "Changhua County": {
     "average_temp": 23.44,
@@ -829,7 +843,9 @@
     "average_srad": 16227.770833333334,
     "average_wind": 2.8131647606690726,
     "average_tmax": 26.87518026034037,
-    "average_tmin": 20.008052917321525
+    "average_tmin": 20.008052917321525,
+    "population": 1216327,
+    "symbol_sort_key": 6
   },
   "Pingtung County": {
     "average_temp": 23.6,
@@ -933,7 +949,9 @@
     "average_srad": 16263.142857142855,
     "average_wind": 3.1328768332799277,
     "average_tmax": 26.351879260653543,
-    "average_tmin": 20.857352572395687
+    "average_tmin": 20.857352572395687,
+    "population": 708117,
+    "symbol_sort_key": 7
   },
   "Taitung County": {
     "average_temp": 20.65,
@@ -1037,7 +1055,9 @@
     "average_srad": 15573.618055555555,
     "average_wind": 3.977037654982673,
     "average_tmax": 23.184265584415858,
-    "average_tmin": 18.116187373797096
+    "average_tmin": 18.116187373797096,
+    "population": 142316,
+    "symbol_sort_key": 18
   },
   "Hualien County": {
     "average_temp": 17.89,
@@ -1141,7 +1161,9 @@
     "average_srad": 15061.77222222222,
     "average_wind": 4.399858062797122,
     "average_tmax": 20.646915594736736,
-    "average_tmin": 15.135540967517429
+    "average_tmin": 15.135540967517429,
+    "population": 297437,
+    "symbol_sort_key": 17
   },
   "Penghu": {
     "average_temp": null,
@@ -1245,7 +1267,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 63437,
+    "symbol_sort_key": 19
   },
   "Yunlin County": {
     "average_temp": 23.69,
@@ -1349,7 +1373,9 @@
     "average_srad": 16273.233333333337,
     "average_wind": 2.6183212916056315,
     "average_tmax": 27.029791666666668,
-    "average_tmin": 20.351249999999997
+    "average_tmin": 20.351249999999997,
+    "population": 616853,
+    "symbol_sort_key": 10
   },
   "Chiayi": {
     "average_temp": null,
@@ -1453,7 +1479,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 743292,
+    "symbol_sort_key": 16
   },
   "Hsinchu": {
     "average_temp": 22.82,
@@ -1557,7 +1585,9 @@
     "average_srad": 15395.25,
     "average_wind": 3.4144914150238037,
     "average_tmax": 26.12857125600179,
-    "average_tmin": 19.50595235824585
+    "average_tmin": 19.50595235824585,
+    "population": 1096699,
+    "symbol_sort_key": 14
   },
   "Keelung": {
     "average_temp": 22.12,
@@ -1661,7 +1691,9 @@
     "average_srad": 14561.0,
     "average_wind": 4.212657630443573,
     "average_tmax": 24.821875000000006,
-    "average_tmin": 19.425
+    "average_tmin": 19.425,
+    "population": 360429,
+    "symbol_sort_key": 9
   },
   "Taichung": {
     "average_temp": 17.65,
@@ -1765,7 +1797,9 @@
     "average_srad": 15394.595238095239,
     "average_wind": 3.497923791408539,
     "average_tmax": 20.849553571428572,
-    "average_tmin": 14.447470238095237
+    "average_tmin": 14.447470238095237,
+    "population": 3810927,
+    "symbol_sort_key": 1
   },
   "Taoyuan": {
     "average_temp": 21.27,
@@ -1869,7 +1903,9 @@
     "average_srad": 14916.75,
     "average_wind": 3.403368482987086,
     "average_tmax": 24.373784724871317,
-    "average_tmin": 18.15703127384186
+    "average_tmin": 18.15703127384186,
+    "population": 8535000,
+    "symbol_sort_key": 3
   },
   "New Taipei": {
     "average_temp": 21.13,
@@ -1973,7 +2009,9 @@
     "average_srad": 14675.819444444445,
     "average_wind": 3.727033727698856,
     "average_tmax": 23.92214784092373,
-    "average_tmin": 18.347544656859505
+    "average_tmin": 18.347544656859505,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Tainan": {
     "average_temp": 24.68,
@@ -2077,7 +2115,9 @@
     "average_srad": 16485.347222222223,
     "average_wind": 2.732896556456884,
     "average_tmax": 27.93956997659471,
-    "average_tmin": 21.414583351877
+    "average_tmin": 21.414583351877,
+    "population": 1205000,
+    "symbol_sort_key": 5
   },
   "Taipei": {
     "average_temp": 22.1,
@@ -2181,7 +2221,9 @@
     "average_srad": 14663.333333333334,
     "average_wind": 3.5279374718666077,
     "average_tmax": 25.001041666666666,
-    "average_tmin": 19.20416666666667
+    "average_tmin": 19.20416666666667,
+    "population": 2442991,
+    "symbol_sort_key": 4
   },
   "Kaohsiung": {
     "average_temp": 20.96,
@@ -2285,6 +2327,8 @@
     "average_srad": 16036.560606060606,
     "average_wind": 2.9999420227426477,
     "average_tmax": 23.966130034128824,
-    "average_tmin": 17.944823237621424
+    "average_tmin": 17.944823237621424,
+    "population": 2746763,
+    "symbol_sort_key": 2
   }
 }

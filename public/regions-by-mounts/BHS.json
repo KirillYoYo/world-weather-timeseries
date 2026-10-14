@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 20
   },
   "Biminis": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": 18462.083333333332,
     "average_wind": 4.644444425900777,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Berry Islands": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 26
   },
   "Black Point": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 22
   },
   "Cat Island": {
     "average_temp": null,
@@ -517,7 +525,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Central Abaco": {
     "average_temp": 25.67,
@@ -621,7 +631,9 @@
     "average_srad": 18194.791666666668,
     "average_wind": 5.085016151269277,
     "average_tmax": 28.72916669845581,
-    "average_tmin": 22.617261902491254
+    "average_tmin": 22.617261902491254,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Central Andros": {
     "average_temp": 26.35,
@@ -725,7 +737,9 @@
     "average_srad": 19042.041666666668,
     "average_wind": 3.4470087687174478,
     "average_tmax": 30.309375000000003,
-    "average_tmin": 22.389062500000005
+    "average_tmin": 22.389062500000005,
+    "population": 0,
+    "symbol_sort_key": 25
   },
   "Central Eleuthera": {
     "average_temp": null,
@@ -829,7 +843,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "City of Freeport": {
     "average_temp": null,
@@ -933,7 +949,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Crooked Island": {
     "average_temp": 26.83,
@@ -1037,7 +1055,9 @@
     "average_srad": 19365.375,
     "average_wind": 5.129621217648189,
     "average_tmax": 29.948718007405603,
-    "average_tmin": 23.71025638580322
+    "average_tmin": 23.71025638580322,
+    "population": 0,
+    "symbol_sort_key": 24
   },
   "East Grand Bahama": {
     "average_temp": null,
@@ -1141,7 +1161,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Exuma": {
     "average_temp": 26.78,
@@ -1245,7 +1267,9 @@
     "average_srad": 19650.666666666668,
     "average_wind": 4.310906827449799,
     "average_tmax": 30.092424170176187,
-    "average_tmin": 23.47575766245524
+    "average_tmin": 23.47575766245524,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Grand Cay": {
     "average_temp": null,
@@ -1349,7 +1373,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 31
   },
   "Harbour Island": {
     "average_temp": null,
@@ -1453,7 +1479,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Hope Town": {
     "average_temp": null,
@@ -1557,7 +1585,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Inagua": {
     "average_temp": 27.15,
@@ -1661,7 +1691,9 @@
     "average_srad": 18720.0,
     "average_wind": 3.7687413841485977,
     "average_tmax": 31.195121518770847,
-    "average_tmin": 23.10624999205271
+    "average_tmin": 23.10624999205271,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Long Island": {
     "average_temp": null,
@@ -1765,7 +1797,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Mangrove Cay": {
     "average_temp": 26.32,
@@ -1869,7 +1903,9 @@
     "average_srad": 19244.166666666668,
     "average_wind": 3.373346202903324,
     "average_tmax": 30.13036618762546,
-    "average_tmin": 22.50694440205892
+    "average_tmin": 22.50694440205892,
+    "population": 0,
+    "symbol_sort_key": 28
   },
   "Mayaguana": {
     "average_temp": 26.88,
@@ -1973,7 +2009,9 @@
     "average_srad": 18980.083333333332,
     "average_wind": 4.7508049209912615,
     "average_tmax": 30.40972213745118,
-    "average_tmin": 23.356944497426355
+    "average_tmin": 23.356944497426355,
+    "population": 0,
+    "symbol_sort_key": 23
   },
   "Moore's Island": {
     "average_temp": null,
@@ -2077,7 +2115,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 27
   },
   "New Providence": {
     "average_temp": null,
@@ -2181,7 +2221,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "North Abaco": {
     "average_temp": 25.61,
@@ -2285,7 +2327,9 @@
     "average_srad": 18112.833333333332,
     "average_wind": 5.291521509488423,
     "average_tmax": 28.471969699859617,
-    "average_tmin": 22.756818405787154
+    "average_tmin": 22.756818405787154,
+    "population": 9948,
+    "symbol_sort_key": 10
   },
   "North Andros": {
     "average_temp": 26.14,
@@ -2389,7 +2433,9 @@
     "average_srad": 18863.65740740741,
     "average_wind": 3.546326460661712,
     "average_tmax": 29.98684410872283,
-    "average_tmin": 22.291141958589908
+    "average_tmin": 22.291141958589908,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "North Eleuthera": {
     "average_temp": 25.99,
@@ -2493,7 +2539,9 @@
     "average_srad": 18975.916666666668,
     "average_wind": 4.543464044729869,
     "average_tmax": 29.022222232818603,
-    "average_tmin": 22.95740744272868
+    "average_tmin": 22.95740744272868,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Ragged Island": {
     "average_temp": null,
@@ -2597,7 +2645,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 30
   },
   "Rum Cay": {
     "average_temp": null,
@@ -2701,7 +2751,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 29
   },
   "San Salvador": {
     "average_temp": null,
@@ -2805,7 +2857,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "South Abaco": {
     "average_temp": 25.82,
@@ -2909,7 +2963,9 @@
     "average_srad": 18480.958333333332,
     "average_wind": 4.7154786586761475,
     "average_tmax": 29.224519141515092,
-    "average_tmin": 22.40945517222087
+    "average_tmin": 22.40945517222087,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "South Andros": {
     "average_temp": 26.48,
@@ -3013,7 +3069,9 @@
     "average_srad": 19422.68333333333,
     "average_wind": 3.251834758122762,
     "average_tmax": 30.422329648335776,
-    "average_tmin": 22.53832623163859
+    "average_tmin": 22.53832623163859,
+    "population": 0,
+    "symbol_sort_key": 21
   },
   "South Eleuthera": {
     "average_temp": 26.36,
@@ -3117,7 +3175,9 @@
     "average_srad": 19236.083333333332,
     "average_wind": 4.358635266621907,
     "average_tmax": 29.616666539510092,
-    "average_tmin": 23.093939463297527
+    "average_tmin": 23.093939463297527,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Spanish Wells": {
     "average_temp": null,
@@ -3221,7 +3281,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "West Grand Bahama": {
     "average_temp": 25.79,
@@ -3325,6 +3387,8 @@
     "average_srad": 17967.708333333332,
     "average_wind": 4.9648657739162445,
     "average_tmax": 29.462179438273115,
-    "average_tmin": 22.125641234715783
+    "average_tmin": 22.125641234715783,
+    "population": 106047,
+    "symbol_sort_key": 1
   }
 }

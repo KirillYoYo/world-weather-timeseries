@@ -101,7 +101,9 @@
     "average_srad": 11887.970588235294,
     "average_wind": 1.8864379026531395,
     "average_tmax": 15.930371732026144,
-    "average_tmin": 5.326817810457516
+    "average_tmin": 5.326817810457516,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Zahodna Slovenija": {
     "average_temp": 10.06,
@@ -205,6 +207,8 @@
     "average_srad": 11844.255376344088,
     "average_wind": 1.8919076653577946,
     "average_tmax": 15.01435328709182,
-    "average_tmin": 5.115004652161752
+    "average_tmin": 5.115004652161752,
+    "population": 0,
+    "symbol_sort_key": 1
   }
 }

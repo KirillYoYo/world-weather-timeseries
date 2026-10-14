@@ -101,7 +101,9 @@
     "average_srad": 13167.70019157088,
     "average_wind": 1.1172751490868829,
     "average_tmax": 29.76493055555555,
-    "average_tmin": 20.091965996168582
+    "average_tmin": 20.091965996168582,
+    "population": 33325,
+    "symbol_sort_key": 21
   },
   "Carchi": {
     "average_temp": 14.67,
@@ -205,7 +207,9 @@
     "average_srad": 14074.433333333334,
     "average_wind": 2.11587290763855,
     "average_tmax": 19.444270833333338,
-    "average_tmin": 9.905729166666667
+    "average_tmin": 9.905729166666667,
+    "population": 71216,
+    "symbol_sort_key": 20
   },
   "Loja": {
     "average_temp": 20.1,
@@ -309,7 +313,9 @@
     "average_srad": 14914.645833333334,
     "average_wind": 2.466589189134538,
     "average_tmax": 25.83707682291667,
-    "average_tmin": 14.366666666666667
+    "average_tmin": 14.366666666666667,
+    "population": 256151,
+    "symbol_sort_key": 9
   },
   "Zamora Chinchipe": {
     "average_temp": 18.6,
@@ -413,7 +419,9 @@
     "average_srad": 13224.33333333333,
     "average_wind": 2.385557590746412,
     "average_tmax": 23.72074142156863,
-    "average_tmin": 13.469362745098039
+    "average_tmin": 13.469362745098039,
+    "population": 30919,
+    "symbol_sort_key": 22
   },
   "El Oro": {
     "average_temp": 22.79,
@@ -517,7 +525,9 @@
     "average_srad": 13709.511111111111,
     "average_wind": 2.3888932274447545,
     "average_tmax": 28.004930555555557,
-    "average_tmin": 17.56527777777778
+    "average_tmin": 17.56527777777778,
+    "population": 516204,
+    "symbol_sort_key": 5
   },
   "Esmeraldas": {
     "average_temp": 24.36,
@@ -621,7 +631,9 @@
     "average_srad": 13004.829457364342,
     "average_wind": 1.6407751598099403,
     "average_tmax": 28.312504236827525,
-    "average_tmin": 20.406788848167242
+    "average_tmin": 20.406788848167242,
+    "population": 244576,
+    "symbol_sort_key": 11
   },
   "Imbabura": {
     "average_temp": 15.42,
@@ -725,7 +737,9 @@
     "average_srad": 14669.476190476189,
     "average_wind": 2.179063981487637,
     "average_tmax": 20.283258928571428,
-    "average_tmin": 10.554464285714285
+    "average_tmin": 10.554464285714285,
+    "population": 270086,
+    "symbol_sort_key": 12
   },
   "Sucumbios": {
     "average_temp": 23.7,
@@ -829,7 +843,9 @@
     "average_srad": 13491.83496732026,
     "average_wind": 1.1328378194103055,
     "average_tmax": 28.409599673202617,
-    "average_tmin": 18.98735702614379
+    "average_tmin": 18.98735702614379,
+    "population": 55627,
+    "symbol_sort_key": 15
   },
   "Santa Elena": {
     "average_temp": 24.26,
@@ -933,7 +949,9 @@
     "average_srad": 12954.591666666667,
     "average_wind": 2.5834567616383235,
     "average_tmax": 28.963304557800296,
-    "average_tmin": 19.551507940292357
+    "average_tmin": 19.551507940292357,
+    "population": 54565,
+    "symbol_sort_key": 13
   },
   "Santo Domingo de los Tsáchilas": {
     "average_temp": 22.28,
@@ -1037,7 +1055,9 @@
     "average_srad": 12902.818181818182,
     "average_wind": 1.5567329372420458,
     "average_tmax": 26.461553030303033,
-    "average_tmin": 18.098011363636363
+    "average_tmin": 18.098011363636363,
+    "population": 334826,
+    "symbol_sort_key": 7
   },
   "Pichincha": {
     "average_temp": 14.83,
@@ -1141,7 +1161,9 @@
     "average_srad": 14192.017857142857,
     "average_wind": 2.526408471167088,
     "average_tmax": 19.923809523809528,
-    "average_tmin": 9.743191964285716
+    "average_tmin": 9.743191964285716,
+    "population": 1978024,
+    "symbol_sort_key": 1
   },
   "Manabi": {
     "average_temp": 24.52,
@@ -1245,7 +1267,9 @@
     "average_srad": 12569.599415204679,
     "average_wind": 2.039681228803613,
     "average_tmax": 28.980698309446637,
-    "average_tmin": 20.053174088015194
+    "average_tmin": 20.053174088015194,
+    "population": 887847,
+    "symbol_sort_key": 2
   },
   "Azuay": {
     "average_temp": 13.22,
@@ -1349,7 +1373,9 @@
     "average_srad": 13939.363333333333,
     "average_wind": 2.8918033277988435,
     "average_tmax": 18.55183333333333,
-    "average_tmin": 7.878791666666667
+    "average_tmin": 7.878791666666667,
+    "population": 453617,
+    "symbol_sort_key": 4
   },
   "Cañar": {
     "average_temp": 15.01,
@@ -1453,7 +1479,9 @@
     "average_srad": 13560.324074074075,
     "average_wind": 2.529872683463273,
     "average_tmax": 20.165625,
-    "average_tmin": 9.85474537037037
+    "average_tmin": 9.85474537037037,
+    "population": 75363,
+    "symbol_sort_key": 14
   },
   "Guayas": {
     "average_temp": 25.12,
@@ -1557,7 +1585,9 @@
     "average_srad": 12784.645833333334,
     "average_wind": 1.8948515545238152,
     "average_tmax": 29.74519833434712,
-    "average_tmin": 20.4990027514371
+    "average_tmin": 20.4990027514371,
+    "population": 4233814,
+    "symbol_sort_key": 0
   },
   "Los Ríos": {
     "average_temp": 24.93,
@@ -1661,7 +1691,9 @@
     "average_srad": 11980.624999999998,
     "average_wind": 1.3921335077647008,
     "average_tmax": 29.321212121212124,
-    "average_tmin": 20.53953598484848
+    "average_tmin": 20.53953598484848,
+    "population": 438661,
+    "symbol_sort_key": 3
   },
   "Cotopaxi": {
     "average_temp": 13.62,
@@ -1765,7 +1797,9 @@
     "average_srad": 14127.697368421053,
     "average_wind": 2.795249988112533,
     "average_tmax": 18.567982456140356,
-    "average_tmin": 8.677741228070175
+    "average_tmin": 8.677741228070175,
+    "population": 204633,
+    "symbol_sort_key": 10
   },
   "Bolívar": {
     "average_temp": 15.98,
@@ -1869,7 +1903,9 @@
     "average_srad": 13902.55303030303,
     "average_wind": 2.356232956503377,
     "average_tmax": 20.73210227272727,
-    "average_tmin": 11.231723484848485
+    "average_tmin": 11.231723484848485,
+    "population": 69767,
+    "symbol_sort_key": 17
   },
   "Tungurahua": {
     "average_temp": 10.25,
@@ -1973,7 +2009,9 @@
     "average_srad": 13077.324999999999,
     "average_wind": 3.289895834525426,
     "average_tmax": 15.40625,
-    "average_tmin": 5.097708333333333
+    "average_tmin": 5.097708333333333,
+    "population": 212635,
+    "symbol_sort_key": 6
   },
   "Chimborazo": {
     "average_temp": 10.38,
@@ -2077,7 +2115,9 @@
     "average_srad": 13894.597222222224,
     "average_wind": 3.1264120235487263,
     "average_tmax": 15.5140625,
-    "average_tmin": 5.255092592592593
+    "average_tmin": 5.255092592592593,
+    "population": 212233,
+    "symbol_sort_key": 8
   },
   "Morona Santiago": {
     "average_temp": 20.75,
@@ -2181,7 +2221,9 @@
     "average_srad": 13034.31904761905,
     "average_wind": 1.7235732139576052,
     "average_tmax": 25.631919642857145,
-    "average_tmin": 15.871175595238098
+    "average_tmin": 15.871175595238098,
+    "population": 55429,
+    "symbol_sort_key": 18
   },
   "Napo": {
     "average_temp": 16.36,
@@ -2285,7 +2327,9 @@
     "average_srad": 12901.773148148148,
     "average_wind": 2.246252312152474,
     "average_tmax": 21.275491898148147,
-    "average_tmin": 11.441927083333333
+    "average_tmin": 11.441927083333333,
+    "population": 29724,
+    "symbol_sort_key": 19
   },
   "Orellana": {
     "average_temp": 25.32,
@@ -2389,7 +2433,9 @@
     "average_srad": 13274.43682795699,
     "average_wind": 1.006133397500361,
     "average_tmax": 30.083585349462364,
-    "average_tmin": 20.556266801075267
+    "average_tmin": 20.556266801075267,
+    "population": 51281,
+    "symbol_sort_key": 16
   },
   "Galápagos": {
     "average_temp": 23.04,
@@ -2493,6 +2539,8 @@
     "average_srad": 16090.865079365081,
     "average_wind": 4.177264635525052,
     "average_tmax": 27.589494469586537,
-    "average_tmin": 18.494866231843535
+    "average_tmin": 18.494866231843535,
+    "population": 33412,
+    "symbol_sort_key": 23
   }
 }

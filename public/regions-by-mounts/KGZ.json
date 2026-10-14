@@ -101,7 +101,9 @@
     "average_srad": 15276.278606965176,
     "average_wind": 2.3008417187638543,
     "average_tmax": 12.881047885572139,
-    "average_tmin": 0.8621735074626863
+    "average_tmin": 0.8621735074626863,
+    "population": 193159,
+    "symbol_sort_key": 3
   },
   "Osh Region": {
     "average_temp": 3.08,
@@ -205,7 +207,9 @@
     "average_srad": 15046.475757575756,
     "average_wind": 1.9736053025180647,
     "average_tmax": 9.739526515151516,
-    "average_tmin": -3.5741098484848486
+    "average_tmin": -3.5741098484848486,
+    "population": 1003581,
+    "symbol_sort_key": 1
   },
   "Talas Region": {
     "average_temp": 3.81,
@@ -309,7 +313,9 @@
     "average_srad": 14960.003787878786,
     "average_wind": 1.9764109739299978,
     "average_tmax": 10.805137310606058,
-    "average_tmin": -3.1770359848484855
+    "average_tmin": -3.1770359848484855,
+    "population": 55020,
+    "symbol_sort_key": 6
   },
   "Jalal-Abad Region": {
     "average_temp": 5.32,
@@ -413,7 +419,9 @@
     "average_srad": 15156.238505747126,
     "average_wind": 1.8075411221676172,
     "average_tmax": 12.184132543103447,
-    "average_tmin": -1.5448455459770116
+    "average_tmin": -1.5448455459770116,
+    "population": 410675,
+    "symbol_sort_key": 2
   },
   "Issyk-Kul Region": {
     "average_temp": 0.38,
@@ -517,7 +525,9 @@
     "average_srad": 14788.968875502009,
     "average_wind": 2.3611704261307733,
     "average_tmax": 6.506927710843374,
-    "average_tmin": -5.748857931726909
+    "average_tmin": -5.748857931726909,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Chuy Region": {
     "average_temp": 3.56,
@@ -621,7 +631,9 @@
     "average_srad": 14938.175105485236,
     "average_wind": 2.0020229343623552,
     "average_tmax": 10.13851529535865,
-    "average_tmin": -3.0115374472573837
+    "average_tmin": -3.0115374472573837,
+    "population": 372956,
+    "symbol_sort_key": 0
   },
   "Naryn Region": {
     "average_temp": -0.52,
@@ -725,6 +737,8 @@
     "average_srad": 14832.833767361111,
     "average_wind": 2.2113122801917293,
     "average_tmax": 6.037429470486113,
-    "average_tmin": -7.068305121527778
+    "average_tmin": -7.068305121527778,
+    "population": 70268,
+    "symbol_sort_key": 5
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 14437.35366506153,
     "average_wind": 2.3932258852061388,
     "average_tmax": 31.903616573033712,
-    "average_tmin": 21.149155631353665
+    "average_tmin": 21.149155631353665,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Chuquisaca": {
     "average_temp": 19.18,
@@ -205,7 +207,9 @@
     "average_srad": 16391.316561844866,
     "average_wind": 2.25561607571268,
     "average_tmax": 25.783012316561848,
-    "average_tmin": 12.578511530398323
+    "average_tmin": 12.578511530398323,
+    "population": 477914,
+    "symbol_sort_key": 4
   },
   "Cochabamba": {
     "average_temp": 18.96,
@@ -309,7 +313,9 @@
     "average_srad": 15586.22290388548,
     "average_wind": 2.307682762665251,
     "average_tmax": 25.9380304192229,
-    "average_tmin": 11.982406697341515
+    "average_tmin": 11.982406697341515,
+    "population": 1443686,
+    "symbol_sort_key": 2
   },
   "La Paz": {
     "average_temp": 17.38,
@@ -413,7 +419,9 @@
     "average_srad": 15545.290355125102,
     "average_wind": 2.066215535125201,
     "average_tmax": 23.59990163438256,
-    "average_tmin": 11.165168482647296
+    "average_tmin": 11.165168482647296,
+    "population": 3231256,
+    "symbol_sort_key": 1
   },
   "Oruro": {
     "average_temp": 8.35,
@@ -517,7 +525,9 @@
     "average_srad": 18223.54451345756,
     "average_wind": 2.6713152175487695,
     "average_tmax": 16.8588768115942,
-    "average_tmin": -0.16671195652173929
+    "average_tmin": -0.16671195652173929,
+    "population": 711325,
+    "symbol_sort_key": 5
   },
   "Pando": {
     "average_temp": 26.34,
@@ -621,7 +631,9 @@
     "average_srad": 13960.262719298247,
     "average_wind": 1.4343811389647032,
     "average_tmax": 31.480564692982455,
-    "average_tmin": 21.191584429824562
+    "average_tmin": 21.191584429824562,
+    "population": 88555,
+    "symbol_sort_key": 8
   },
   "Potosí": {
     "average_temp": 9.41,
@@ -725,7 +737,9 @@
     "average_srad": 18747.7106918239,
     "average_wind": 3.2244245848030197,
     "average_tmax": 17.5651448787062,
-    "average_tmin": 1.2455946765498656
+    "average_tmin": 1.2455946765498656,
+    "population": 511987,
+    "symbol_sort_key": 3
   },
   "Santa Cruz": {
     "average_temp": 25.72,
@@ -829,7 +843,9 @@
     "average_srad": 15285.422345132743,
     "average_wind": 2.7133870004288916,
     "average_tmax": 31.55773230088495,
-    "average_tmin": 19.888987831858405
+    "average_tmin": 19.888987831858405,
+    "population": 2691647,
+    "symbol_sort_key": 0
   },
   "Tarija": {
     "average_temp": 21.17,
@@ -933,6 +949,8 @@
     "average_srad": 16440.11884057971,
     "average_wind": 2.299681515279024,
     "average_tmax": 28.043885869565226,
-    "average_tmin": 14.286603260869567
+    "average_tmin": 14.286603260869567,
+    "population": 439582,
+    "symbol_sort_key": 6
   }
 }

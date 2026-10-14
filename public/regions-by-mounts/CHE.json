@@ -101,7 +101,9 @@
     "average_srad": 11539.020833333334,
     "average_wind": 2.196552058060964,
     "average_tmax": 15.838802083333334,
-    "average_tmin": 6.1312500000000005
+    "average_tmin": 6.1312500000000005,
+    "population": 277248,
+    "symbol_sort_key": 3
   },
   "Appenzell Ausserrhoden": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 15943,
+    "symbol_sort_key": 20
   },
   "Appenzell Innerrhoden": {
     "average_temp": 9.48,
@@ -309,7 +313,9 @@
     "average_srad": 11744.291666666666,
     "average_wind": 2.3652604023615518,
     "average_tmax": 13.733854166666667,
-    "average_tmin": 5.218749999999999
+    "average_tmin": 5.218749999999999,
+    "population": 6096,
+    "symbol_sort_key": 25
   },
   "Basel-Landschaft": {
     "average_temp": 10.31,
@@ -413,7 +419,9 @@
     "average_srad": 11668.208333333334,
     "average_wind": 2.55349995692571,
     "average_tmax": 14.995312499999999,
-    "average_tmin": 5.633854166666667
+    "average_tmin": 5.633854166666667,
+    "population": 162421,
+    "symbol_sort_key": 10
   },
   "Basel-Stadt": {
     "average_temp": null,
@@ -517,7 +525,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 209308,
+    "symbol_sort_key": 14
   },
   "Bern": {
     "average_temp": 7.45,
@@ -621,7 +631,9 @@
     "average_srad": 12669.719999999996,
     "average_wind": 3.1991158254941308,
     "average_tmax": 11.737666666666664,
-    "average_tmin": 3.163458333333334
+    "average_tmin": 3.163458333333334,
+    "population": 440050,
+    "symbol_sort_key": 1
   },
   "Fribourg": {
     "average_temp": 9.31,
@@ -725,7 +737,9 @@
     "average_srad": 12439.785714285712,
     "average_wind": 2.5029970166229067,
     "average_tmax": 13.938095238095237,
-    "average_tmin": 4.684970238095238
+    "average_tmin": 4.684970238095238,
+    "population": 106373,
+    "symbol_sort_key": 9
   },
   "Genève": {
     "average_temp": 11.73,
@@ -829,7 +843,9 @@
     "average_srad": 12468.666666666666,
     "average_wind": 2.1331666509310403,
     "average_tmax": 16.59375,
-    "average_tmin": 6.871875
+    "average_tmin": 6.871875,
+    "population": 430574,
+    "symbol_sort_key": 4
   },
   "Glarus": {
     "average_temp": 6.22,
@@ -933,7 +949,9 @@
     "average_srad": 12455.875,
     "average_wind": 3.341302047173182,
     "average_tmax": 10.105729166666666,
-    "average_tmin": 2.336979166666667
+    "average_tmin": 2.336979166666667,
+    "population": 5996,
+    "symbol_sort_key": 23
   },
   "Graubünden": {
     "average_temp": 3.12,
@@ -1037,7 +1055,9 @@
     "average_srad": 13132.27777777778,
     "average_wind": 3.267988633627843,
     "average_tmax": 7.371590909090909,
-    "average_tmin": -1.133017676767677
+    "average_tmin": -1.133017676767677,
+    "population": 58888,
+    "symbol_sort_key": 13
   },
   "Jura": {
     "average_temp": 9.66,
@@ -1141,7 +1161,9 @@
     "average_srad": 11856.194444444443,
     "average_wind": 2.8934513860278663,
     "average_tmax": 14.153819444444444,
-    "average_tmin": 5.174305555555556
+    "average_tmin": 5.174305555555556,
+    "population": 12813,
+    "symbol_sort_key": 19
   },
   "Luzern": {
     "average_temp": 9.73,
@@ -1245,7 +1267,9 @@
     "average_srad": 11969.04761904762,
     "average_wind": 2.463196420953387,
     "average_tmax": 14.355059523809524,
-    "average_tmin": 5.095089285714285
+    "average_tmin": 5.095089285714285,
+    "population": 204669,
+    "symbol_sort_key": 6
   },
   "Neuchâtel": {
     "average_temp": 8.7,
@@ -1349,7 +1373,9 @@
     "average_srad": 12073.033333333333,
     "average_wind": 2.951450010140737,
     "average_tmax": 12.983958333333334,
-    "average_tmin": 4.40625
+    "average_tmin": 4.40625,
+    "population": 103559,
+    "symbol_sort_key": 15
   },
   "Nidwalden": {
     "average_temp": 7.73,
@@ -1453,7 +1479,9 @@
     "average_srad": 12353.75,
     "average_wind": 3.1093958218892417,
     "average_tmax": 11.797916666666664,
-    "average_tmin": 3.665624999999999
+    "average_tmin": 3.665624999999999,
+    "population": 8508,
+    "symbol_sort_key": 21
   },
   "Obwalden": {
     "average_temp": 9.04,
@@ -1557,7 +1585,9 @@
     "average_srad": 12160.083333333334,
     "average_wind": 2.6824166576067605,
     "average_tmax": 13.388541666666667,
-    "average_tmin": 4.682291666666667
+    "average_tmin": 4.682291666666667,
+    "population": 10862,
+    "symbol_sort_key": 22
   },
   "Schaffhausen": {
     "average_temp": 9.82,
@@ -1661,7 +1691,9 @@
     "average_srad": 11322.833333333334,
     "average_wind": 2.58816667397817,
     "average_tmax": 14.656249999999998,
-    "average_tmin": 4.98125
+    "average_tmin": 4.98125,
+    "population": 49474,
+    "symbol_sort_key": 18
   },
   "Schwyz": {
     "average_temp": 7.9,
@@ -1765,7 +1797,9 @@
     "average_srad": 12186.933333333334,
     "average_wind": 2.992841657002767,
     "average_tmax": 11.942499999999997,
-    "average_tmin": 3.8614583333333337
+    "average_tmin": 3.8614583333333337,
+    "population": 99104,
+    "symbol_sort_key": 16
   },
   "Solothurn": {
     "average_temp": 10.11,
@@ -1869,7 +1903,9 @@
     "average_srad": 11801.75,
     "average_wind": 2.7119635492563248,
     "average_tmax": 14.608593749999999,
-    "average_tmin": 5.611718749999999
+    "average_tmin": 5.611718749999999,
+    "population": 70480,
+    "symbol_sort_key": 12
   },
   "St. Gallen": {
     "average_temp": 8.12,
@@ -1973,7 +2009,9 @@
     "average_srad": 12026.225,
     "average_wind": 2.7772166560093563,
     "average_tmax": 12.2571875,
-    "average_tmin": 3.9861458333333335
+    "average_tmin": 3.9861458333333335,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Thurgau": {
     "average_temp": 10.88,
@@ -2077,7 +2115,9 @@
     "average_srad": 11463.199999999999,
     "average_wind": 2.1796708226203916,
     "average_tmax": 15.131666666666668,
-    "average_tmin": 6.635208333333335
+    "average_tmin": 6.635208333333335,
+    "population": 106517,
+    "symbol_sort_key": 11
   },
   "Ticino": {
     "average_temp": 7.45,
@@ -2181,7 +2221,9 @@
     "average_srad": 13182.772727272728,
     "average_wind": 2.6084999911712883,
     "average_tmax": 11.81600378787879,
-    "average_tmin": 3.0904356060606055
+    "average_tmin": 3.0904356060606055,
+    "population": 149860,
+    "symbol_sort_key": 8
   },
   "Uri": {
     "average_temp": 4.11,
@@ -2285,7 +2327,9 @@
     "average_srad": 13028.763888888889,
     "average_wind": 4.030041641659207,
     "average_tmax": 7.703298611111111,
-    "average_tmin": 0.5157986111111116
+    "average_tmin": 0.5157986111111116,
+    "population": 10495,
+    "symbol_sort_key": 24
   },
   "Valais": {
     "average_temp": 3.3,
@@ -2389,7 +2433,9 @@
     "average_srad": 14051.435606060606,
     "average_wind": 4.129071032459085,
     "average_tmax": 7.051136363636362,
-    "average_tmin": -0.44303977272727285
+    "average_tmin": -0.44303977272727285,
+    "population": 142769,
+    "symbol_sort_key": 7
   },
   "Vaud": {
     "average_temp": 9.71,
@@ -2493,7 +2539,9 @@
     "average_srad": 12455.07738095238,
     "average_wind": 2.5216964249100005,
     "average_tmax": 14.145610119047618,
-    "average_tmin": 5.283928571428571
+    "average_tmin": 5.283928571428571,
+    "population": 421405,
+    "symbol_sort_key": 2
   },
   "Zug": {
     "average_temp": null,
@@ -2597,7 +2645,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 98727,
+    "symbol_sort_key": 17
   },
   "Zürich": {
     "average_temp": 10.95,
@@ -2701,6 +2751,8 @@
     "average_srad": 11511.625,
     "average_wind": 2.1449400981267295,
     "average_tmax": 15.531770833333331,
-    "average_tmin": 6.373046875
+    "average_tmin": 6.373046875,
+    "population": 1272966,
+    "symbol_sort_key": 0
   }
 }

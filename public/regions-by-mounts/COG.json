@@ -101,7 +101,9 @@
     "average_srad": 12482.849537037036,
     "average_wind": 1.1542123932805326,
     "average_tmax": 29.52806712962963,
-    "average_tmin": 21.030931712962964
+    "average_tmin": 21.030931712962964,
+    "population": 233806,
+    "symbol_sort_key": 3
   },
   "Cuvette": {
     "average_temp": 25.88,
@@ -205,7 +207,9 @@
     "average_srad": 14973.161577608145,
     "average_wind": 1.0793923351525045,
     "average_tmax": 30.67039599236642,
-    "average_tmin": 21.09372614503817
+    "average_tmin": 21.09372614503817,
+    "population": 170623,
+    "symbol_sort_key": 4
   },
   "Cuvette-Ouest": {
     "average_temp": 25.08,
@@ -309,7 +313,9 @@
     "average_srad": 14082.643939393938,
     "average_wind": 1.0336488112484739,
     "average_tmax": 30.067545995670997,
-    "average_tmin": 20.08639069264069
+    "average_tmin": 20.08639069264069,
+    "population": 20319,
+    "symbol_sort_key": 5
   },
   "Kouilou": {
     "average_temp": 25.66,
@@ -413,7 +419,9 @@
     "average_srad": 12341.878378378378,
     "average_wind": 1.500646119316419,
     "average_tmax": 29.078744369369364,
-    "average_tmin": 22.247100225225225
+    "average_tmin": 22.247100225225225,
+    "population": 295926,
+    "symbol_sort_key": 2
   },
   "Likouala": {
     "average_temp": 25.54,
@@ -517,7 +525,9 @@
     "average_srad": 16130.715811965814,
     "average_wind": 1.00978611567591,
     "average_tmax": 30.47552884615385,
-    "average_tmin": 20.61419871794872
+    "average_tmin": 20.61419871794872,
+    "population": 117632,
+    "symbol_sort_key": 1
   },
   "Lékoumou": {
     "average_temp": 24.18,
@@ -621,7 +631,9 @@
     "average_srad": 12498.277777777776,
     "average_wind": 1.1008829498101795,
     "average_tmax": 28.29341931216931,
-    "average_tmin": 20.072619047619046
+    "average_tmin": 20.072619047619046,
+    "population": 32296,
+    "symbol_sort_key": 6
   },
   "Niari": {
     "average_temp": 24.94,
@@ -725,7 +737,9 @@
     "average_srad": 12106.339015151514,
     "average_wind": 1.1069924291787725,
     "average_tmax": 28.864973958333337,
-    "average_tmin": 21.018572443181817
+    "average_tmin": 21.018572443181817,
+    "population": 132923,
+    "symbol_sort_key": 7
   },
   "Plateaux": {
     "average_temp": 25.6,
@@ -829,7 +843,9 @@
     "average_srad": 14427.42178362573,
     "average_wind": 1.196947006541386,
     "average_tmax": 30.5876096491228,
-    "average_tmin": 20.606012426900584
+    "average_tmin": 20.606012426900584,
+    "population": 50787,
+    "symbol_sort_key": 9
   },
   "Pool": {
     "average_temp": 25.09,
@@ -933,7 +949,9 @@
     "average_srad": 13404.540625000001,
     "average_wind": 1.2235557352503141,
     "average_tmax": 29.78471354166666,
-    "average_tmin": 20.394713541666665
+    "average_tmin": 20.394713541666665,
+    "population": 32564,
+    "symbol_sort_key": 11
   },
   "Sangha": {
     "average_temp": 25.27,
@@ -1037,7 +1055,9 @@
     "average_srad": 14885.025,
     "average_wind": 1.0355533156909196,
     "average_tmax": 30.517910539215688,
-    "average_tmin": 20.02323529411765
+    "average_tmin": 20.02323529411765,
+    "population": 67453,
+    "symbol_sort_key": 10
   },
   "Brazzaville": {
     "average_temp": 25.03,
@@ -1141,7 +1161,9 @@
     "average_srad": 13632.995833333334,
     "average_wind": 1.2563395865261555,
     "average_tmax": 29.831927083333337,
-    "average_tmin": 20.22458333333333
+    "average_tmin": 20.22458333333333,
+    "population": 2813480,
+    "symbol_sort_key": 0
   },
   "Pointe-Noire": {
     "average_temp": null,
@@ -1245,6 +1267,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 1420612,
+    "symbol_sort_key": 8
   }
 }

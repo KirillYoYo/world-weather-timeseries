@@ -101,7 +101,9 @@
     "average_srad": 16000.420317460317,
     "average_wind": 1.2112423855444743,
     "average_tmax": 31.72363888888889,
-    "average_tmin": 20.853591269841267
+    "average_tmin": 20.853591269841267,
+    "population": 122046,
+    "symbol_sort_key": 23
   },
   "Anzoátegui": {
     "average_temp": 27.17,
@@ -205,7 +207,9 @@
     "average_srad": 17646.185851318944,
     "average_wind": 2.763344622701764,
     "average_tmax": 32.44180276330998,
-    "average_tmin": 21.89467397753855
+    "average_tmin": 21.89467397753855,
+    "population": 1429303,
+    "symbol_sort_key": 7
   },
   "Apure": {
     "average_temp": 27.8,
@@ -309,7 +313,9 @@
     "average_srad": 16863.273592085232,
     "average_wind": 1.93854318679377,
     "average_tmax": 32.484665144596654,
-    "average_tmin": 23.111620053272457
+    "average_tmin": 23.111620053272457,
+    "population": 447826,
+    "symbol_sort_key": 19
   },
   "Aragua": {
     "average_temp": 24.2,
@@ -413,7 +419,9 @@
     "average_srad": 17813.84523809524,
     "average_wind": 2.287637168452853,
     "average_tmax": 29.465277777777775,
-    "average_tmin": 18.943749999999998
+    "average_tmin": 18.943749999999998,
+    "population": 2493005,
+    "symbol_sort_key": 5
   },
   "Barinas": {
     "average_temp": 27.69,
@@ -517,7 +525,9 @@
     "average_srad": 17009.324923547403,
     "average_wind": 2.0776358822799237,
     "average_tmax": 32.42072821100918,
-    "average_tmin": 22.954386467889908
+    "average_tmin": 22.954386467889908,
+    "population": 535791,
+    "symbol_sort_key": 12
   },
   "Bolívar": {
     "average_temp": 25.9,
@@ -621,7 +631,9 @@
     "average_srad": 17148.795020463844,
     "average_wind": 1.9982832767248915,
     "average_tmax": 30.901777796725778,
-    "average_tmin": 20.891653876762163
+    "average_tmin": 20.891653876762163,
+    "population": 1598806,
+    "symbol_sort_key": 6
   },
   "Carabobo": {
     "average_temp": 24.18,
@@ -725,7 +737,9 @@
     "average_srad": 18050.96111111111,
     "average_wind": 2.467662043703927,
     "average_tmax": 29.304444444444442,
-    "average_tmin": 19.04798611111111
+    "average_tmin": 19.04798611111111,
+    "population": 3318901,
+    "symbol_sort_key": 2
   },
   "Cojedes": {
     "average_temp": 27.05,
@@ -829,7 +843,9 @@
     "average_srad": 17944.27564102564,
     "average_wind": 2.3581137705562463,
     "average_tmax": 32.21274038461538,
-    "average_tmin": 21.888221153846157
+    "average_tmin": 21.888221153846157,
+    "population": 244044,
+    "symbol_sort_key": 20
   },
   "Delta Amacuro": {
     "average_temp": 26.81,
@@ -933,7 +949,9 @@
     "average_srad": 18160.249228395063,
     "average_wind": 2.495007707932849,
     "average_tmax": 30.9522929524198,
-    "average_tmin": 22.666236496854708
+    "average_tmin": 22.666236496854708,
+    "population": 96487,
+    "symbol_sort_key": 21
   },
   "Distrito Capital": {
     "average_temp": 19.62,
@@ -1037,7 +1055,9 @@
     "average_srad": 17573.041666666668,
     "average_wind": 2.259020815292994,
     "average_tmax": 24.515104166666664,
-    "average_tmin": 14.715104166666668
+    "average_tmin": 14.715104166666668,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Falcón": {
     "average_temp": 26.33,
@@ -1141,7 +1161,9 @@
     "average_srad": 19031.991279069767,
     "average_wind": 3.9033506376336713,
     "average_tmax": 30.428662379582715,
-    "average_tmin": 22.23910726138524
+    "average_tmin": 22.23910726138524,
+    "population": 718392,
+    "symbol_sort_key": 10
   },
   "Guárico": {
     "average_temp": 27.36,
@@ -1245,7 +1267,9 @@
     "average_srad": 17523.08894645941,
     "average_wind": 2.4420275126611215,
     "average_tmax": 32.496551165803105,
-    "average_tmin": 22.221686096718475
+    "average_tmin": 22.221686096718475,
+    "population": 587224,
+    "symbol_sort_key": 15
   },
   "La Guaira": {
     "average_temp": 23.01,
@@ -1349,7 +1373,9 @@
     "average_srad": 18019.483333333334,
     "average_wind": 2.888228440284729,
     "average_tmax": 27.45143646876018,
-    "average_tmin": 18.565253966649376
+    "average_tmin": 18.565253966649376,
+    "population": 1020502,
+    "symbol_sort_key": 22
   },
   "Lara": {
     "average_temp": 24.03,
@@ -1453,7 +1479,9 @@
     "average_srad": 18165.35233918129,
     "average_wind": 2.7070464186849654,
     "average_tmax": 28.516465643274856,
-    "average_tmin": 19.537280701754387
+    "average_tmin": 19.537280701754387,
+    "population": 1455432,
+    "symbol_sort_key": 3
   },
   "Mérida": {
     "average_temp": 17.77,
@@ -1557,7 +1585,9 @@
     "average_srad": 16738.756944444445,
     "average_wind": 1.8349525453867734,
     "average_tmax": 21.76472800925926,
-    "average_tmin": 13.768431712962965
+    "average_tmin": 13.768431712962965,
+    "population": 370472,
+    "symbol_sort_key": 14
   },
   "Miranda": {
     "average_temp": 25.37,
@@ -1661,7 +1691,9 @@
     "average_srad": 17888.402777777777,
     "average_wind": 2.6363598679502807,
     "average_tmax": 30.272761648231082,
-    "average_tmin": 20.46717509958479
+    "average_tmin": 20.46717509958479,
+    "population": 5194643,
+    "symbol_sort_key": 1
   },
   "Monagas": {
     "average_temp": 26.65,
@@ -1765,7 +1797,9 @@
     "average_srad": 17954.781372549023,
     "average_wind": 2.7142866891973156,
     "average_tmax": 31.578112745098036,
-    "average_tmin": 21.717855392156864
+    "average_tmin": 21.717855392156864,
+    "population": 977453,
+    "symbol_sort_key": 9
   },
   "Nueva Esparta": {
     "average_temp": 27.71,
@@ -1869,7 +1903,9 @@
     "average_srad": 19974.375,
     "average_wind": 4.278386836250623,
     "average_tmax": 31.686775167783097,
-    "average_tmin": 23.742012198766073
+    "average_tmin": 23.742012198766073,
+    "population": 433007,
+    "symbol_sort_key": 18
   },
   "Portuguesa": {
     "average_temp": 27.34,
@@ -1973,7 +2009,9 @@
     "average_srad": 17501.9591503268,
     "average_wind": 2.4224832426099216,
     "average_tmax": 32.26599264705882,
-    "average_tmin": 22.411172385620915
+    "average_tmin": 22.411172385620915,
+    "population": 616296,
+    "symbol_sort_key": 11
   },
   "Sucre": {
     "average_temp": 25.7,
@@ -2077,7 +2115,9 @@
     "average_srad": 19095.118279569895,
     "average_wind": 3.536813892984903,
     "average_tmax": 30.611425556675083,
-    "average_tmin": 20.779547604181435
+    "average_tmin": 20.779547604181435,
+    "population": 718565,
+    "symbol_sort_key": 13
   },
   "Táchira": {
     "average_temp": 22.14,
@@ -2181,7 +2221,9 @@
     "average_srad": 16434.055555555555,
     "average_wind": 1.563078472349379,
     "average_tmax": 26.528715277777778,
-    "average_tmin": 17.75274305555556
+    "average_tmin": 17.75274305555556,
+    "population": 771365,
+    "symbol_sort_key": 8
   },
   "Trujillo": {
     "average_temp": 22.35,
@@ -2285,7 +2327,9 @@
     "average_srad": 17378.676666666663,
     "average_wind": 2.314195824464162,
     "average_tmax": 26.675375000000003,
-    "average_tmin": 18.022208333333335
+    "average_tmin": 18.022208333333335,
+    "population": 727766,
+    "symbol_sort_key": 16
   },
   "Yaracuy": {
     "average_temp": 24.79,
@@ -2389,7 +2433,9 @@
     "average_srad": 18181.81944444444,
     "average_wind": 2.6445347219705577,
     "average_tmax": 29.49328703703704,
-    "average_tmin": 20.08761574074074
+    "average_tmin": 20.08761574074074,
+    "population": 518343,
+    "symbol_sort_key": 17
   },
   "Zulia": {
     "average_temp": 27.66,
@@ -2493,7 +2539,9 @@
     "average_srad": 17612.979643765906,
     "average_wind": 2.948497374473334,
     "average_tmax": 32.29799632710658,
-    "average_tmin": 23.02274355172504
+    "average_tmin": 23.02274355172504,
+    "population": 2276425,
+    "symbol_sort_key": 0
   },
   "Dependencias Federales": {
     "average_temp": null,
@@ -2597,6 +2645,8 @@
     "average_srad": 19276.916666666668,
     "average_wind": 4.090368906656901,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 24
   }
 }

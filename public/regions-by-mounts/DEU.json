@@ -101,7 +101,9 @@
     "average_srad": 11103.84722222222,
     "average_wind": 2.8760140173351814,
     "average_tmax": 14.905928497942385,
-    "average_tmin": 5.504642489711935
+    "average_tmin": 5.504642489711935,
+    "population": 10292536,
+    "symbol_sort_key": 2
   },
   "Bayern": {
     "average_temp": 9.74,
@@ -205,7 +207,9 @@
     "average_srad": 10845.54180151025,
     "average_wind": 2.733189049115587,
     "average_tmax": 14.518187028047466,
-    "average_tmin": 4.956890507011867
+    "average_tmin": 4.956890507011867,
+    "population": 9846139,
+    "symbol_sort_key": 1
   },
   "Berlin": {
     "average_temp": 11.23,
@@ -309,7 +313,9 @@
     "average_srad": 10114.433333333332,
     "average_wind": 3.684937493006388,
     "average_tmax": 15.570624999999998,
-    "average_tmin": 6.887291666666666
+    "average_tmin": 6.887291666666666,
+    "population": 4679500,
+    "symbol_sort_key": 7
   },
   "Brandenburg": {
     "average_temp": 10.88,
@@ -413,7 +419,9 @@
     "average_srad": 10162.619791666666,
     "average_wind": 3.533451971356515,
     "average_tmax": 15.339655671296297,
-    "average_tmin": 6.41175491898148
+    "average_tmin": 6.41175491898148,
+    "population": 1681722,
+    "symbol_sort_key": 9
   },
   "Bremen": {
     "average_temp": 10.88,
@@ -517,7 +525,9 @@
     "average_srad": 9545.305555555557,
     "average_wind": 4.114529728889465,
     "average_tmax": 14.805555555555555,
-    "average_tmin": 6.954513888888887
+    "average_tmin": 6.954513888888887,
+    "population": 706645,
+    "symbol_sort_key": 15
   },
   "Hamburg": {
     "average_temp": 10.89,
@@ -621,7 +631,9 @@
     "average_srad": 9600.816666666668,
     "average_wind": 3.7062333265940346,
     "average_tmax": 14.963333333333336,
-    "average_tmin": 6.808541666666666
+    "average_tmin": 6.808541666666666,
+    "population": 2532231,
+    "symbol_sort_key": 12
   },
   "Hessen": {
     "average_temp": 10.39,
@@ -725,7 +737,9 @@
     "average_srad": 10169.065972222223,
     "average_wind": 3.298281032592058,
     "average_tmax": 14.84462890625,
-    "average_tmin": 5.927571614583333
+    "average_tmin": 5.927571614583333,
+    "population": 6363678,
+    "symbol_sort_key": 4
   },
   "Mecklenburg-Vorpommern": {
     "average_temp": 10.32,
@@ -829,7 +843,9 @@
     "average_srad": 9932.050757575758,
     "average_wind": 4.0611911125255356,
     "average_tmax": 14.299010689258575,
-    "average_tmin": 6.337890158706542
+    "average_tmin": 6.337890158706542,
+    "population": 788288,
+    "symbol_sort_key": 13
   },
   "Niedersachsen": {
     "average_temp": 10.74,
@@ -933,7 +949,9 @@
     "average_srad": 9667.798913043478,
     "average_wind": 3.8239745454511778,
     "average_tmax": 14.920835447726043,
-    "average_tmin": 6.551949836170112
+    "average_tmin": 6.551949836170112,
+    "population": 6350904,
+    "symbol_sort_key": 3
   },
   "Nordrhein-Westfalen": {
     "average_temp": 10.94,
@@ -1037,7 +1055,9 @@
     "average_srad": 9768.099683544306,
     "average_wind": 3.632926949091601,
     "average_tmax": 15.172705696202533,
-    "average_tmin": 6.701938291139242
+    "average_tmin": 6.701938291139242,
+    "population": 21581521,
+    "symbol_sort_key": 0
   },
   "Rheinland-Pfalz": {
     "average_temp": 10.65,
@@ -1141,7 +1161,9 @@
     "average_srad": 10477.278079710142,
     "average_wind": 3.275392891488213,
     "average_tmax": 15.084057971014493,
-    "average_tmin": 6.2207201086956525
+    "average_tmin": 6.2207201086956525,
+    "population": 1910758,
+    "symbol_sort_key": 5
   },
   "Saarland": {
     "average_temp": 10.67,
@@ -1245,7 +1267,9 @@
     "average_srad": 10812.780303030304,
     "average_wind": 3.4001912853934546,
     "average_tmax": 15.18399621212121,
-    "average_tmin": 6.153503787878788
+    "average_tmin": 6.153503787878788,
+    "population": 1051574,
+    "symbol_sort_key": 14
   },
   "Sachsen": {
     "average_temp": 10.36,
@@ -1349,7 +1373,9 @@
     "average_srad": 10236.252008032128,
     "average_wind": 3.908205571184197,
     "average_tmax": 14.760228413654616,
-    "average_tmin": 5.954605923694778
+    "average_tmin": 5.954605923694778,
+    "population": 3090929,
+    "symbol_sort_key": 6
   },
   "Sachsen-Anhalt": {
     "average_temp": 10.87,
@@ -1453,7 +1479,9 @@
     "average_srad": 10014.991039426523,
     "average_wind": 3.6585394173967374,
     "average_tmax": 15.414359318996416,
-    "average_tmin": 6.323006272401433
+    "average_tmin": 6.323006272401433,
+    "population": 1709451,
+    "symbol_sort_key": 10
   },
   "Schleswig-Holstein": {
     "average_temp": 10.15,
@@ -1557,7 +1585,9 @@
     "average_srad": 9599.4649122807,
     "average_wind": 4.469024689312567,
     "average_tmax": 13.966017566595163,
-    "average_tmin": 6.334030364757697
+    "average_tmin": 6.334030364757697,
+    "population": 1733632,
+    "symbol_sort_key": 8
   },
   "Thüringen": {
     "average_temp": 9.88,
@@ -1661,6 +1691,8 @@
     "average_srad": 10080.419871794871,
     "average_wind": 3.4972983384743714,
     "average_tmax": 14.361084401709403,
-    "average_tmin": 5.4006143162393165
+    "average_tmin": 5.4006143162393165,
+    "population": 1061279,
+    "symbol_sort_key": 11
   }
 }

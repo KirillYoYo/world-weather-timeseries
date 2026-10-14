@@ -101,7 +101,9 @@
     "average_srad": 12206.508333333333,
     "average_wind": 2.6516888876756033,
     "average_tmax": 17.27204861111111,
-    "average_tmin": 7.507847222222222
+    "average_tmin": 7.507847222222222,
+    "population": 877869,
+    "symbol_sort_key": 0
   },
   "Szabolcs-Szatmár-Bereg": {
     "average_temp": 11.84,
@@ -205,7 +207,9 @@
     "average_srad": 11924.153333333334,
     "average_wind": 2.1567258258660633,
     "average_tmax": 17.146124999999998,
-    "average_tmin": 6.534375
+    "average_tmin": 6.534375,
+    "population": 64968,
+    "symbol_sort_key": 3
   },
   "Hajdú-Bihar": {
     "average_temp": 12.22,
@@ -309,7 +313,9 @@
     "average_srad": 12158.522435897436,
     "average_wind": 2.3427307617205844,
     "average_tmax": 17.69551282051282,
-    "average_tmin": 6.75176282051282
+    "average_tmin": 6.75176282051282,
+    "population": 96942,
+    "symbol_sort_key": 2
   },
   "Borsod-Abaúj-Zemplén": {
     "average_temp": 11.41,
@@ -413,7 +419,9 @@
     "average_srad": 11700.913888888887,
     "average_wind": 2.2303340173429915,
     "average_tmax": 16.590868055555557,
-    "average_tmin": 6.2370833333333335
+    "average_tmin": 6.2370833333333335,
+    "population": 115245,
+    "symbol_sort_key": 1
   },
   "Nógrád": {
     "average_temp": 11.32,
@@ -517,7 +525,9 @@
     "average_srad": 11823.703703703703,
     "average_wind": 2.3376087745030727,
     "average_tmax": 16.4869212962963,
-    "average_tmin": 6.153819444444445
+    "average_tmin": 6.153819444444445,
+    "population": 24762,
+    "symbol_sort_key": 18
   },
   "Heves": {
     "average_temp": 11.73,
@@ -621,7 +631,9 @@
     "average_srad": 11925.630208333334,
     "average_wind": 2.270972645531098,
     "average_tmax": 16.897851562499998,
-    "average_tmin": 6.563085937500001
+    "average_tmin": 6.563085937500001,
+    "population": 56669,
+    "symbol_sort_key": 12
   },
   "Békés": {
     "average_temp": 12.55,
@@ -725,7 +737,9 @@
     "average_srad": 12647.42391304348,
     "average_wind": 2.539072458294854,
     "average_tmax": 18.24963768115942,
-    "average_tmin": 6.854166666666667
+    "average_tmin": 6.854166666666667,
+    "population": 87601,
+    "symbol_sort_key": 11
   },
   "Csongrád-Csanád": {
     "average_temp": 12.57,
@@ -829,7 +843,9 @@
     "average_srad": 12800.057291666666,
     "average_wind": 2.735041666775942,
     "average_tmax": 18.141210937500002,
-    "average_tmin": 6.996223958333332
+    "average_tmin": 6.996223958333332,
+    "population": 61502,
+    "symbol_sort_key": 8
   },
   "Jász-Nagykun-Szolnok": {
     "average_temp": 12.65,
@@ -933,7 +949,9 @@
     "average_srad": 12356.229999999998,
     "average_wind": 2.386234165827433,
     "average_tmax": 18.108916666666666,
-    "average_tmin": 7.1855833333333345
+    "average_tmin": 7.1855833333333345,
+    "population": 107606,
+    "symbol_sort_key": 7
   },
   "Komárom-Esztergom": {
     "average_temp": 12.22,
@@ -1037,7 +1055,9 @@
     "average_srad": 12110.212962962964,
     "average_wind": 2.912386580749794,
     "average_tmax": 17.073263888888885,
-    "average_tmin": 7.369907407407407
+    "average_tmin": 7.369907407407407,
+    "population": 100828,
+    "symbol_sort_key": 16
   },
   "Győr-Moson-Sopron": {
     "average_temp": 12.16,
@@ -1141,7 +1161,9 @@
     "average_srad": 11978.033333333333,
     "average_wind": 3.0459750043021305,
     "average_tmax": 17.195833333333333,
-    "average_tmin": 7.123611111111111
+    "average_tmin": 7.123611111111111,
+    "population": 53289,
+    "symbol_sort_key": 4
   },
   "Vas": {
     "average_temp": 11.78,
@@ -1245,7 +1267,9 @@
     "average_srad": 12013.477777777776,
     "average_wind": 2.6190027740266593,
     "average_tmax": 16.964097222222225,
-    "average_tmin": 6.590972222222221
+    "average_tmin": 6.590972222222221,
+    "population": 45235,
+    "symbol_sort_key": 14
   },
   "Zala": {
     "average_temp": 12.08,
@@ -1349,7 +1373,9 @@
     "average_srad": 12218.307017543857,
     "average_wind": 2.5021644747048093,
     "average_tmax": 17.215460526315788,
-    "average_tmin": 6.944133771929825
+    "average_tmin": 6.944133771929825,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Veszprém": {
     "average_temp": 12.0,
@@ -1453,7 +1479,9 @@
     "average_srad": 12190.000000000002,
     "average_wind": 2.997760418057442,
     "average_tmax": 16.662031250000002,
-    "average_tmin": 7.331875
+    "average_tmin": 7.331875,
+    "population": 261648,
+    "symbol_sort_key": 10
   },
   "Baranya": {
     "average_temp": 12.85,
@@ -1557,7 +1585,9 @@
     "average_srad": 12625.205882352939,
     "average_wind": 2.615495090391122,
     "average_tmax": 17.693749999999998,
-    "average_tmin": 8.001102941176471
+    "average_tmin": 8.001102941176471,
+    "population": 56607,
+    "symbol_sort_key": 9
   },
   "Somogy": {
     "average_temp": 12.78,
@@ -1661,7 +1691,9 @@
     "average_srad": 12432.510869565218,
     "average_wind": 2.6474066938179126,
     "average_tmax": 17.46766304347826,
-    "average_tmin": 8.09266304347826
+    "average_tmin": 8.09266304347826,
+    "population": 52851,
+    "symbol_sort_key": 13
   },
   "Tolna": {
     "average_temp": 12.79,
@@ -1765,7 +1797,9 @@
     "average_srad": 12567.863095238097,
     "average_wind": 2.7721607160000574,
     "average_tmax": 17.447098214285717,
-    "average_tmin": 8.128050595238095
+    "average_tmin": 8.128050595238095,
+    "population": 56931,
+    "symbol_sort_key": 17
   },
   "Bács-Kiskun": {
     "average_temp": 12.66,
@@ -1869,7 +1903,9 @@
     "average_srad": 12642.850490196077,
     "average_wind": 2.743143394297245,
     "average_tmax": 17.834712009803923,
-    "average_tmin": 7.4893688725490195
+    "average_tmin": 7.4893688725490195,
+    "population": 335867,
+    "symbol_sort_key": 5
   },
   "Fejér": {
     "average_temp": 12.67,
@@ -1973,6 +2009,8 @@
     "average_srad": 12331.908333333333,
     "average_wind": 2.8714864542086915,
     "average_tmax": 17.343437499999997,
-    "average_tmin": 7.991145833333334
+    "average_tmin": 7.991145833333334,
+    "population": 49711,
+    "symbol_sort_key": 6
   }
 }

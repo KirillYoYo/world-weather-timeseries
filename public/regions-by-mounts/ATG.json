@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Saint Philip": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Saint John": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 21394,
+    "symbol_sort_key": 0
   },
   "Barbuda": {
     "average_temp": 27.38,
@@ -413,7 +419,9 @@
     "average_srad": 20302.833333333332,
     "average_wind": 5.290128231048584,
     "average_tmax": 30.58703695933025,
-    "average_tmin": 24.16296294530233
+    "average_tmin": 24.16296294530233,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Saint Mary": {
     "average_temp": null,
@@ -517,7 +525,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Saint Paul": {
     "average_temp": null,
@@ -621,7 +631,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Saint Peter": {
     "average_temp": 27.33,
@@ -725,7 +737,9 @@
     "average_srad": 20061.75,
     "average_wind": 5.1710054477055865,
     "average_tmax": 30.441110738118493,
-    "average_tmin": 24.227777767181397
+    "average_tmin": 24.227777767181397,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Saint George": {
     "average_temp": null,
@@ -829,6 +843,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 1
   }
 }

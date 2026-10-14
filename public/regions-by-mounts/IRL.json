@@ -101,7 +101,9 @@
     "average_srad": 8947.7581300813,
     "average_wind": 5.005987215817458,
     "average_tmax": 12.877025081084026,
-    "average_tmin": 6.969667475834126
+    "average_tmin": 6.969667475834126,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Leinster": {
     "average_temp": 10.32,
@@ -205,7 +207,9 @@
     "average_srad": 9447.409649122808,
     "average_wind": 4.08789725721928,
     "average_tmax": 13.778662754359994,
-    "average_tmin": 6.855940171522007
+    "average_tmin": 6.855940171522007,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Munster": {
     "average_temp": 10.56,
@@ -309,7 +313,9 @@
     "average_srad": 9636.426426426426,
     "average_wind": 4.773240115907457,
     "average_tmax": 13.683006425090026,
-    "average_tmin": 7.432712666122048
+    "average_tmin": 7.432712666122048,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Connacht": {
     "average_temp": 10.32,
@@ -413,6 +419,8 @@
     "average_srad": 9207.944444444447,
     "average_wind": 4.694656482173337,
     "average_tmax": 13.514097697370582,
-    "average_tmin": 7.119763829227952
+    "average_tmin": 7.119763829227952,
+    "population": 0,
+    "symbol_sort_key": 2
   }
 }

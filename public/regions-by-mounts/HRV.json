@@ -101,7 +101,9 @@
     "average_srad": 12762.765625,
     "average_wind": 2.3130286348362765,
     "average_tmax": 18.447721354166667,
-    "average_tmin": 7.527994791666665
+    "average_tmin": 7.527994791666665,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Vukovar-Syrmia": {
     "average_temp": 13.25,
@@ -205,7 +207,9 @@
     "average_srad": 12942.272727272728,
     "average_wind": 2.172899602037488,
     "average_tmax": 18.973200757575757,
-    "average_tmin": 7.517897727272728
+    "average_tmin": 7.517897727272728,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Brod-Posavina": {
     "average_temp": 12.7,
@@ -309,7 +313,9 @@
     "average_srad": 12811.527777777776,
     "average_wind": 1.9253958264986675,
     "average_tmax": 18.187673611111112,
-    "average_tmin": 7.204166666666666
+    "average_tmin": 7.204166666666666,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Virovitica-Podravina": {
     "average_temp": 13.11,
@@ -413,7 +419,9 @@
     "average_srad": 12637.483333333332,
     "average_wind": 2.2996937493483225,
     "average_tmax": 18.022187499999998,
-    "average_tmin": 8.2003125
+    "average_tmin": 8.2003125,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Požega-Slavonia": {
     "average_temp": 12.27,
@@ -517,7 +525,9 @@
     "average_srad": 12746.130952380954,
     "average_wind": 2.1471398813383917,
     "average_tmax": 17.457738095238096,
-    "average_tmin": 7.081845238095238
+    "average_tmin": 7.081845238095238,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "Sisak-Moslavina": {
     "average_temp": 13.04,
@@ -621,7 +631,9 @@
     "average_srad": 12721.966666666667,
     "average_wind": 1.8557552019755044,
     "average_tmax": 18.245052083333334,
-    "average_tmin": 7.828385416666666
+    "average_tmin": 7.828385416666666,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Bjelovar-Bilogora": {
     "average_temp": 13.16,
@@ -725,7 +737,9 @@
     "average_srad": 12631.431818181818,
     "average_wind": 2.198378773349704,
     "average_tmax": 18.166098484848483,
-    "average_tmin": 8.154829545454545
+    "average_tmin": 8.154829545454545,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Međimurje": {
     "average_temp": 12.21,
@@ -829,7 +843,9 @@
     "average_srad": 12192.041666666666,
     "average_wind": 2.1922603895266852,
     "average_tmax": 17.65833333333333,
-    "average_tmin": 6.763541666666666
+    "average_tmin": 6.763541666666666,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Koprivnica-Križevci": {
     "average_temp": 12.8,
@@ -933,7 +949,9 @@
     "average_srad": 12409.083333333334,
     "average_wind": 2.3195025846362114,
     "average_tmax": 17.831380208333332,
-    "average_tmin": 7.773046875000001
+    "average_tmin": 7.773046875000001,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Varaždin": {
     "average_temp": 11.88,
@@ -1037,7 +1055,9 @@
     "average_srad": 12193.650000000001,
     "average_wind": 2.1157416502634683,
     "average_tmax": 16.966666666666665,
-    "average_tmin": 6.788125000000002
+    "average_tmin": 6.788125000000002,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Krapina-Zagorje": {
     "average_temp": 12.13,
@@ -1141,7 +1161,9 @@
     "average_srad": 12177.0,
     "average_wind": 1.947421873609225,
     "average_tmax": 17.25859375,
-    "average_tmin": 7.006510416666668
+    "average_tmin": 7.006510416666668,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "City of Zagreb": {
     "average_temp": 12.5,
@@ -1245,7 +1267,9 @@
     "average_srad": 12264.75,
     "average_wind": 1.9152604242165883,
     "average_tmax": 17.266145833333336,
-    "average_tmin": 7.736979166666667
+    "average_tmin": 7.736979166666667,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Zagreb County": {
     "average_temp": 12.36,
@@ -1349,7 +1373,9 @@
     "average_srad": 12330.378205128209,
     "average_wind": 1.9243333293841431,
     "average_tmax": 17.443589743589747,
-    "average_tmin": 7.280208333333333
+    "average_tmin": 7.280208333333333,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Karlovac": {
     "average_temp": 12.18,
@@ -1453,7 +1479,9 @@
     "average_srad": 12397.872549019608,
     "average_wind": 1.754379905322019,
     "average_tmax": 17.504656862745097,
-    "average_tmin": 6.851286764705882
+    "average_tmin": 6.851286764705882,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Istria": {
     "average_temp": 14.66,
@@ -1557,7 +1585,9 @@
     "average_srad": 12560.848484848486,
     "average_wind": 2.331863611033469,
     "average_tmax": 19.253137637629653,
-    "average_tmin": 10.062702015674477
+    "average_tmin": 10.062702015674477,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Primorje-Gorski Kotar": {
     "average_temp": 12.19,
@@ -1661,7 +1691,9 @@
     "average_srad": 12436.473958333334,
     "average_wind": 2.9563375587264695,
     "average_tmax": 16.804353023568794,
-    "average_tmin": 7.579623298820418
+    "average_tmin": 7.579623298820418,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Lika-Senj": {
     "average_temp": 10.53,
@@ -1765,7 +1797,9 @@
     "average_srad": 12817.24275362319,
     "average_wind": 2.7372201927330178,
     "average_tmax": 15.553950832201087,
-    "average_tmin": 5.5111831063917585
+    "average_tmin": 5.5111831063917585,
+    "population": 0,
+    "symbol_sort_key": 20
   },
   "Zadar County": {
     "average_temp": 13.82,
@@ -1869,7 +1903,9 @@
     "average_srad": 13530.922619047618,
     "average_wind": 2.5339884083895456,
     "average_tmax": 18.811755963734218,
-    "average_tmin": 8.832435520631927
+    "average_tmin": 8.832435520631927,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Šibenik-Knin": {
     "average_temp": 14.5,
@@ -1973,7 +2009,9 @@
     "average_srad": 13772.941666666668,
     "average_wind": 2.1569834768772127,
     "average_tmax": 19.275520833333335,
-    "average_tmin": 9.718645833333332
+    "average_tmin": 9.718645833333332,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Split-Dalmatia": {
     "average_temp": 14.17,
@@ -2077,7 +2115,9 @@
     "average_srad": 13893.122549019607,
     "average_wind": 2.8403396659037647,
     "average_tmax": 18.47301407140844,
-    "average_tmin": 9.86248082354957
+    "average_tmin": 9.86248082354957,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Dubrovnik-Neretva": {
     "average_temp": 17.49,
@@ -2181,6 +2221,8 @@
     "average_srad": 14361.97727272727,
     "average_wind": 3.394129590554671,
     "average_tmax": 21.044065462459216,
-    "average_tmin": 13.944535264101896
+    "average_tmin": 13.944535264101896,
+    "population": 0,
+    "symbol_sort_key": 16
   }
 }

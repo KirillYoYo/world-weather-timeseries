@@ -101,7 +101,9 @@
     "average_srad": 15763.583333333334,
     "average_wind": 2.3286848068237305,
     "average_tmax": 28.64696963628133,
-    "average_tmin": 22.14545453389486
+    "average_tmin": 22.14545453389486,
+    "population": 1300,
+    "symbol_sort_key": 1
   },
   "São Tomé Province": {
     "average_temp": 21.7,
@@ -205,6 +207,8 @@
     "average_srad": 15289.333333333334,
     "average_wind": 2.8753133018811545,
     "average_tmax": 24.865624999999998,
-    "average_tmin": 18.542708333333334
+    "average_tmin": 18.542708333333334,
+    "population": 0,
+    "symbol_sort_key": 0
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 20452.208333333332,
     "average_wind": 3.6973827878634133,
     "average_tmax": 31.070757548014324,
-    "average_tmin": 21.12126256624858
+    "average_tmin": 21.12126256624858,
+    "population": 3394474,
+    "symbol_sort_key": 0
   },
   "Diourbel": {
     "average_temp": 28.35,
@@ -205,7 +207,9 @@
     "average_srad": 20089.666666666668,
     "average_wind": 2.218784718381034,
     "average_tmax": 35.63798611111111,
-    "average_tmin": 21.066458333333333
+    "average_tmin": 21.066458333333333,
+    "population": 735049,
+    "symbol_sort_key": 2
   },
   "Fatick": {
     "average_temp": 28.3,
@@ -309,7 +313,9 @@
     "average_srad": 20341.325,
     "average_wind": 2.608602706094583,
     "average_tmax": 34.82330358028412,
-    "average_tmin": 21.774702374140418
+    "average_tmin": 21.774702374140418,
+    "population": 97134,
+    "symbol_sort_key": 6
   },
   "Kaffrine": {
     "average_temp": 28.69,
@@ -413,7 +419,9 @@
     "average_srad": 20467.770833333332,
     "average_wind": 2.0784108005464077,
     "average_tmax": 35.99889322916667,
-    "average_tmin": 21.374381510416665
+    "average_tmin": 21.374381510416665,
+    "population": 113716,
+    "symbol_sort_key": 9
   },
   "Kaolack": {
     "average_temp": 28.74,
@@ -517,7 +525,9 @@
     "average_srad": 20251.455128205125,
     "average_wind": 2.226616981701973,
     "average_tmax": 35.921554487179485,
-    "average_tmin": 21.565464743589743
+    "average_tmin": 21.565464743589743,
+    "population": 304498,
+    "symbol_sort_key": 3
   },
   "Kolda": {
     "average_temp": 28.09,
@@ -621,7 +631,9 @@
     "average_srad": 20068.089430894306,
     "average_wind": 1.7573069043275782,
     "average_tmax": 34.80536077235772,
-    "average_tmin": 21.37634654471545
+    "average_tmin": 21.37634654471545,
+    "population": 86033,
+    "symbol_sort_key": 8
   },
   "Louga": {
     "average_temp": 28.89,
@@ -725,7 +737,9 @@
     "average_srad": 20532.857594936708,
     "average_wind": 2.589824315364854,
     "average_tmax": 36.030414671837526,
-    "average_tmin": 21.747269370083064
+    "average_tmin": 21.747269370083064,
+    "population": 205295,
+    "symbol_sort_key": 5
   },
   "Matam": {
     "average_temp": 29.87,
@@ -829,7 +843,9 @@
     "average_srad": 20878.81976744186,
     "average_wind": 2.4369692271069963,
     "average_tmax": 37.02463662790698,
-    "average_tmin": 22.711518895348835
+    "average_tmin": 22.711518895348835,
+    "population": 104592,
+    "symbol_sort_key": 10
   },
   "Saint Louis": {
     "average_temp": 29.55,
@@ -933,7 +949,9 @@
     "average_srad": 20875.546130952378,
     "average_wind": 2.9012343810782544,
     "average_tmax": 36.507961309523814,
-    "average_tmin": 22.596949404761904
+    "average_tmin": 22.596949404761904,
+    "population": 406869,
+    "symbol_sort_key": 4
   },
   "Sedhiou": {
     "average_temp": 27.96,
@@ -1037,7 +1055,9 @@
     "average_srad": 20017.20634920635,
     "average_wind": 1.877561513393644,
     "average_tmax": 34.474355158730155,
-    "average_tmin": 21.446279761904762
+    "average_tmin": 21.446279761904762,
+    "population": 67288,
+    "symbol_sort_key": 12
   },
   "Tambacounda": {
     "average_temp": 28.95,
@@ -1141,7 +1161,9 @@
     "average_srad": 20340.328244274813,
     "average_wind": 2.0713377840646348,
     "average_tmax": 35.718805661577605,
-    "average_tmin": 22.18819179389313
+    "average_tmin": 22.18819179389313,
+    "population": 169499,
+    "symbol_sort_key": 7
   },
   "Thies": {
     "average_temp": 27.48,
@@ -1245,7 +1267,9 @@
     "average_srad": 20436.641666666666,
     "average_wind": 2.963277598222097,
     "average_tmax": 34.02348412672679,
-    "average_tmin": 20.940713292757668
+    "average_tmin": 20.940713292757668,
+    "population": 1265489,
+    "symbol_sort_key": 1
   },
   "Ziguinchor": {
     "average_temp": 27.45,
@@ -1349,7 +1373,9 @@
     "average_srad": 20032.117424242428,
     "average_wind": 2.4920057085427376,
     "average_tmax": 33.31785124865445,
-    "average_tmin": 21.57750544981523
+    "average_tmin": 21.57750544981523,
+    "population": 242325,
+    "symbol_sort_key": 11
   },
   "Kedougou": {
     "average_temp": 29.22,
@@ -1453,6 +1479,8 @@
     "average_srad": 20212.066666666666,
     "average_wind": 1.9040554034709931,
     "average_tmax": 35.455375,
-    "average_tmin": 22.991875000000004
+    "average_tmin": 22.991875000000004,
+    "population": 52162,
+    "symbol_sort_key": 13
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Gezira": {
     "average_temp": 29.13,
@@ -205,7 +207,9 @@
     "average_srad": 21635.501984126986,
     "average_wind": 2.544745532647958,
     "average_tmax": 37.26933283730159,
-    "average_tmin": 20.99655257936508
+    "average_tmin": 20.99655257936508,
+    "population": 527970,
+    "symbol_sort_key": 2
   },
   "Blue Nile": {
     "average_temp": 28.53,
@@ -309,7 +313,9 @@
     "average_srad": 19104.81465517241,
     "average_wind": 2.128020105433875,
     "average_tmax": 36.00014367816092,
-    "average_tmin": 21.054265445402297
+    "average_tmin": 21.054265445402297,
+    "population": 665857,
+    "symbol_sort_key": 13
   },
   "Central Darfur": {
     "average_temp": 24.69,
@@ -413,7 +419,9 @@
     "average_srad": 19461.948028673836,
     "average_wind": 2.264032480003159,
     "average_tmax": 33.43932571684588,
-    "average_tmin": 15.947894265232975
+    "average_tmin": 15.947894265232975,
+    "population": 27258,
+    "symbol_sort_key": 17
   },
   "East Darfur": {
     "average_temp": 27.3,
@@ -517,7 +525,9 @@
     "average_srad": 18744.513157894737,
     "average_wind": 2.1742121609940863,
     "average_tmax": 34.67691200657895,
-    "average_tmin": 19.931722861842104
+    "average_tmin": 19.931722861842104,
+    "population": 264734,
+    "symbol_sort_key": 8
   },
   "Gedaref": {
     "average_temp": 28.08,
@@ -621,7 +631,9 @@
     "average_srad": 21400.502354048967,
     "average_wind": 2.2860435429827195,
     "average_tmax": 35.74206096986818,
-    "average_tmin": 20.416178201506593
+    "average_tmin": 20.416178201506593,
+    "population": 379419,
+    "symbol_sort_key": 11
   },
   "Kassala": {
     "average_temp": 29.89,
@@ -725,7 +737,9 @@
     "average_srad": 21586.375838926175,
     "average_wind": 2.4201751918067336,
     "average_tmax": 37.95160794183445,
-    "average_tmin": 21.826817673378077
+    "average_tmin": 21.826817673378077,
+    "population": 536009,
+    "symbol_sort_key": 6
   },
   "Khartoum": {
     "average_temp": 29.47,
@@ -829,7 +843,9 @@
     "average_srad": 22104.628109452737,
     "average_wind": 2.673412933871521,
     "average_tmax": 37.202596393034824,
-    "average_tmin": 21.736380597014925
+    "average_tmin": 21.736380597014925,
+    "population": 11610745,
+    "symbol_sort_key": 0
   },
   "North Darfur": {
     "average_temp": 24.91,
@@ -933,7 +949,9 @@
     "average_srad": 21727.00546305931,
     "average_wind": 3.0007235283368665,
     "average_tmax": 33.09949163198058,
-    "average_tmin": 16.713980662504337
+    "average_tmin": 16.713980662504337,
+    "population": 562550,
+    "symbol_sort_key": 3
   },
   "North Kordofan": {
     "average_temp": 27.42,
@@ -1037,7 +1055,9 @@
     "average_srad": 21196.93321299639,
     "average_wind": 2.7439687501293943,
     "average_tmax": 35.158004287003614,
-    "average_tmin": 19.674439681107103
+    "average_tmin": 19.674439681107103,
+    "population": 729304,
+    "symbol_sort_key": 4
   },
   "Northern": {
     "average_temp": 26.54,
@@ -1141,7 +1161,9 @@
     "average_srad": 22246.54229295609,
     "average_wind": 3.448390253887323,
     "average_tmax": 35.227989610963746,
-    "average_tmin": 17.854645593869733
+    "average_tmin": 17.854645593869733,
+    "population": 153431,
+    "symbol_sort_key": 14
   },
   "Red Sea": {
     "average_temp": 27.46,
@@ -1245,7 +1267,9 @@
     "average_srad": 21146.587562189055,
     "average_wind": 2.8450360734664386,
     "average_tmax": 34.30975034006793,
-    "average_tmin": 20.60986843154205
+    "average_tmin": 20.60986843154205,
+    "population": 661330,
+    "symbol_sort_key": 5
   },
   "River Nile": {
     "average_temp": 29.36,
@@ -1349,7 +1373,9 @@
     "average_srad": 21788.9512345679,
     "average_wind": 2.9539395065955176,
     "average_tmax": 37.42011316872428,
-    "average_tmin": 21.307106481481483
+    "average_tmin": 21.307106481481483,
+    "population": 394431,
+    "symbol_sort_key": 12
   },
   "Sennar": {
     "average_temp": 28.98,
@@ -1453,7 +1479,9 @@
     "average_srad": 20443.207971014494,
     "average_wind": 2.364622640782508,
     "average_tmax": 37.06890398550724,
-    "average_tmin": 20.899664855072462
+    "average_tmin": 20.899664855072462,
+    "population": 393059,
+    "symbol_sort_key": 10
   },
   "South Darfur": {
     "average_temp": 25.94,
@@ -1557,7 +1585,9 @@
     "average_srad": 18911.242307692304,
     "average_wind": 2.08956521940537,
     "average_tmax": 33.72136618589743,
-    "average_tmin": 18.14979166666667
+    "average_tmin": 18.14979166666667,
+    "population": 492984,
+    "symbol_sort_key": 1
   },
   "South Kordofan": {
     "average_temp": 27.79,
@@ -1661,7 +1691,9 @@
     "average_srad": 19000.820567375886,
     "average_wind": 2.301171715758371,
     "average_tmax": 34.73312943262412,
-    "average_tmin": 20.844596631205672
+    "average_tmin": 20.844596631205672,
+    "population": 92674,
+    "symbol_sort_key": 15
   },
   "West Darfur": {
     "average_temp": 25.67,
@@ -1765,7 +1797,9 @@
     "average_srad": 20194.516414141417,
     "average_wind": 2.4846360480243512,
     "average_tmax": 34.15140467171717,
-    "average_tmin": 17.19580176767677
+    "average_tmin": 17.19580176767677,
+    "population": 200000,
+    "symbol_sort_key": 16
   },
   "West Kordofan": {
     "average_temp": 27.78,
@@ -1869,7 +1903,9 @@
     "average_srad": 19216.9791005291,
     "average_wind": 2.3494732834359326,
     "average_tmax": 35.13339616402116,
-    "average_tmin": 20.426279761904762
+    "average_tmin": 20.426279761904762,
+    "population": 140767,
+    "symbol_sort_key": 9
   },
   "White Nile": {
     "average_temp": 29.23,
@@ -1973,6 +2009,8 @@
     "average_srad": 20194.96264367816,
     "average_wind": 2.5455483150208136,
     "average_tmax": 37.009105603448276,
-    "average_tmin": 21.458961925287355
+    "average_tmin": 21.458961925287355,
+    "population": 642419,
+    "symbol_sort_key": 7
   }
 }

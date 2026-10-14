@@ -101,7 +101,9 @@
     "average_srad": 14300.166666666666,
     "average_wind": 3.176500757535299,
     "average_tmax": 20.92738100687663,
-    "average_tmin": 13.290476075808206
+    "average_tmin": 13.290476075808206,
+    "population": 19536,
+    "symbol_sort_key": 9
   },
   "Plav Municipality": {
     "average_temp": 6.28,
@@ -205,7 +207,9 @@
     "average_srad": 13742.666666666666,
     "average_wind": 2.9588541388511658,
     "average_tmax": 10.927604166666669,
-    "average_tmin": 1.6234374999999999
+    "average_tmin": 1.6234374999999999,
+    "population": 3717,
+    "symbol_sort_key": 17
   },
   "Rožaje Municipality": {
     "average_temp": 8.04,
@@ -309,7 +313,9 @@
     "average_srad": 13618.166666666666,
     "average_wind": 2.616927077372869,
     "average_tmax": 13.175520833333332,
-    "average_tmin": 2.9125
+    "average_tmin": 2.9125,
+    "population": 13608,
+    "symbol_sort_key": 6
   },
   "Andrijevica Municipality": {
     "average_temp": 8.24,
@@ -413,7 +419,9 @@
     "average_srad": 13694.0,
     "average_wind": 2.3786250154177346,
     "average_tmax": 13.05625,
-    "average_tmin": 3.4322916666666674
+    "average_tmin": 3.4322916666666674,
+    "population": 988,
+    "symbol_sort_key": 18
   },
   "Berane Municipality": {
     "average_temp": 8.37,
@@ -517,7 +525,9 @@
     "average_srad": 13700.958333333334,
     "average_wind": 2.416729152202606,
     "average_tmax": 13.24479166666667,
-    "average_tmin": 3.4973958333333335
+    "average_tmin": 3.4973958333333335,
+    "population": 9532,
+    "symbol_sort_key": 4
   },
   "Podgorica Municipality": {
     "average_temp": 13.28,
@@ -621,7 +631,9 @@
     "average_srad": 14246.904761904763,
     "average_wind": 1.7617797553539276,
     "average_tmax": 17.960565476190478,
-    "average_tmin": 8.599702380952381
+    "average_tmin": 8.599702380952381,
+    "population": 175249,
+    "symbol_sort_key": 0
   },
   "Bar Municipality": {
     "average_temp": 15.61,
@@ -725,7 +737,9 @@
     "average_srad": 14530.777777777781,
     "average_wind": 2.2807620598210225,
     "average_tmax": 19.925208298365277,
-    "average_tmin": 11.29243058231142
+    "average_tmin": 11.29243058231142,
+    "population": 15868,
+    "symbol_sort_key": 2
   },
   "Bijelo Polje Municipality": {
     "average_temp": 8.86,
@@ -829,7 +843,9 @@
     "average_srad": 13535.229166666666,
     "average_wind": 2.329427070915699,
     "average_tmax": 14.00130208333333,
-    "average_tmin": 3.720572916666667
+    "average_tmin": 3.720572916666667,
+    "population": 12900,
+    "symbol_sort_key": 3
   },
   "Budva Municipality": {
     "average_temp": 15.07,
@@ -933,7 +949,9 @@
     "average_srad": 14339.416666666666,
     "average_wind": 2.914908846219381,
     "average_tmax": 19.306410185496013,
-    "average_tmin": 10.835897477467855
+    "average_tmin": 10.835897477467855,
+    "population": 17479,
+    "symbol_sort_key": 8
   },
   "Cetinje Municipality": {
     "average_temp": 12.24,
@@ -1037,7 +1055,9 @@
     "average_srad": 14132.861111111111,
     "average_wind": 2.8875887195269265,
     "average_tmax": 16.668750000000003,
-    "average_tmin": 7.820486111111111
+    "average_tmin": 7.820486111111111,
+    "population": 25807,
+    "symbol_sort_key": 12
   },
   "Danilovgrad Municipality": {
     "average_temp": 14.51,
@@ -1141,7 +1161,9 @@
     "average_srad": 14212.083333333334,
     "average_wind": 1.7344374855359395,
     "average_tmax": 19.272916666666664,
-    "average_tmin": 9.755208333333334
+    "average_tmin": 9.755208333333334,
+    "population": 5156,
+    "symbol_sort_key": 7
   },
   "Kolašin Municipality": {
     "average_temp": 8.85,
@@ -1245,7 +1267,9 @@
     "average_srad": 13785.055555555557,
     "average_wind": 2.3285555409060583,
     "average_tmax": 13.514930555555557,
-    "average_tmin": 4.186458333333333
+    "average_tmin": 4.186458333333333,
+    "population": 2725,
+    "symbol_sort_key": 16
   },
   "Kotor Municipality": {
     "average_temp": 12.91,
@@ -1349,7 +1373,9 @@
     "average_srad": 14124.666666666666,
     "average_wind": 3.393890619277954,
     "average_tmax": 16.932291666666668,
-    "average_tmin": 8.896354166666667
+    "average_tmin": 8.896354166666667,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Mojkovac Municipality": {
     "average_temp": 7.83,
@@ -1453,7 +1479,9 @@
     "average_srad": 13571.125,
     "average_wind": 2.605489601691564,
     "average_tmax": 12.607291666666667,
-    "average_tmin": 3.0515625000000006
+    "average_tmin": 3.0515625000000006,
+    "population": 2506,
+    "symbol_sort_key": 14
   },
   "Nikšić Municipality": {
     "average_temp": 11.05,
@@ -1557,7 +1585,9 @@
     "average_srad": 13937.630952380952,
     "average_wind": 2.425991061187926,
     "average_tmax": 15.59672619047619,
-    "average_tmin": 6.504613095238096
+    "average_tmin": 6.504613095238096,
+    "population": 32046,
+    "symbol_sort_key": 1
   },
   "Pljevlja Municipality": {
     "average_temp": 8.97,
@@ -1661,7 +1691,9 @@
     "average_srad": 13390.91666666667,
     "average_wind": 2.319220823049545,
     "average_tmax": 13.551249999999998,
-    "average_tmin": 4.385208333333333
+    "average_tmin": 4.385208333333333,
+    "population": 16111,
+    "symbol_sort_key": 5
   },
   "Plužine Municipality": {
     "average_temp": 8.14,
@@ -1765,7 +1797,9 @@
     "average_srad": 13500.25,
     "average_wind": 2.6711979111035666,
     "average_tmax": 12.486197916666669,
-    "average_tmin": 3.798958333333333
+    "average_tmin": 3.798958333333333,
+    "population": 1102,
+    "symbol_sort_key": 20
   },
   "Tivat Municipality": {
     "average_temp": null,
@@ -1869,7 +1903,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 9367,
+    "symbol_sort_key": 13
   },
   "Ulcinj Municipality": {
     "average_temp": 16.98,
@@ -1973,7 +2009,9 @@
     "average_srad": 14702.666666666666,
     "average_wind": 2.149701019128164,
     "average_tmax": 21.540909322102863,
-    "average_tmin": 12.412121208508813
+    "average_tmin": 12.412121208508813,
+    "population": 11488,
+    "symbol_sort_key": 11
   },
   "Šavnik Municipality": {
     "average_temp": 7.77,
@@ -2077,7 +2115,9 @@
     "average_srad": 13634.25,
     "average_wind": 2.6593229174613953,
     "average_tmax": 12.441145833333335,
-    "average_tmin": 3.1046874999999994
+    "average_tmin": 3.1046874999999994,
+    "population": 364,
+    "symbol_sort_key": 21
   },
   "Žabljak Municipality": {
     "average_temp": 6.88,
@@ -2181,7 +2221,9 @@
     "average_srad": 13428.375,
     "average_wind": 2.869041681289673,
     "average_tmax": 11.386979166666668,
-    "average_tmin": 2.3828125
+    "average_tmin": 2.3828125,
+    "population": 1723,
+    "symbol_sort_key": 19
   },
   "Gusinje Municipality": {
     "average_temp": null,
@@ -2285,7 +2327,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 1673,
+    "symbol_sort_key": 15
   },
   "Petnjica Municipality": {
     "average_temp": 9.9,
@@ -2389,6 +2433,8 @@
     "average_srad": 13706.416666666666,
     "average_wind": 2.0027291675408683,
     "average_tmax": 15.283333333333339,
-    "average_tmin": 4.526041666666667
+    "average_tmin": 4.526041666666667,
+    "population": 5482,
+    "symbol_sort_key": 22
   }
 }

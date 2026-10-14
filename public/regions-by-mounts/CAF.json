@@ -101,7 +101,9 @@
     "average_srad": 17814.220445736435,
     "average_wind": 1.1896733299995115,
     "average_tmax": 31.28616763565891,
-    "average_tmin": 19.027695009689925
+    "average_tmin": 19.027695009689925,
+    "population": 63552,
+    "symbol_sort_key": 9
   },
   "Sangha-Mbaéré": {
     "average_temp": 24.88,
@@ -205,7 +207,9 @@
     "average_srad": 16926.16975308642,
     "average_wind": 1.1268298713329397,
     "average_tmax": 30.02297453703704,
-    "average_tmin": 19.742091049382715
+    "average_tmin": 19.742091049382715,
+    "population": 40248,
+    "symbol_sort_key": 12
   },
   "Mambéré-Kadéï": {
     "average_temp": 24.97,
@@ -309,7 +313,9 @@
     "average_srad": 17783.070736434107,
     "average_wind": 1.2213161479710608,
     "average_tmax": 30.38339389534883,
-    "average_tmin": 19.55640746124031
+    "average_tmin": 19.55640746124031,
+    "population": 135387,
+    "symbol_sort_key": 2
   },
   "Lobaye": {
     "average_temp": 25.0,
@@ -413,7 +419,9 @@
     "average_srad": 17809.445000000003,
     "average_wind": 1.1252379202842713,
     "average_tmax": 30.30820833333333,
-    "average_tmin": 19.685
+    "average_tmin": 19.685,
+    "population": 62096,
+    "symbol_sort_key": 6
   },
   "Nana-Mambéré": {
     "average_temp": 24.35,
@@ -517,7 +525,9 @@
     "average_srad": 18024.734375,
     "average_wind": 1.374115890264511,
     "average_tmax": 29.82419270833333,
-    "average_tmin": 18.876835937499997
+    "average_tmin": 18.876835937499997,
+    "population": 287084,
+    "symbol_sort_key": 7
   },
   "Ombella-M'Poko": {
     "average_temp": 25.41,
@@ -621,7 +631,9 @@
     "average_srad": 18816.032986111113,
     "average_wind": 1.2016862022380035,
     "average_tmax": 31.081955295138886,
-    "average_tmin": 19.732877604166667
+    "average_tmin": 19.732877604166667,
+    "population": 30358,
+    "symbol_sort_key": 5
   },
   "Ouham-Pendé": {
     "average_temp": 25.0,
@@ -725,7 +737,9 @@
     "average_srad": 19135.063157894732,
     "average_wind": 1.5618938517152217,
     "average_tmax": 30.764802631578945,
-    "average_tmin": 19.24247807017544
+    "average_tmin": 19.24247807017544,
+    "population": 53779,
+    "symbol_sort_key": 1
   },
   "Ouham": {
     "average_temp": 25.98,
@@ -829,7 +843,9 @@
     "average_srad": 19940.54112554113,
     "average_wind": 1.4850422042659865,
     "average_tmax": 32.20037202380952,
-    "average_tmin": 19.767593344155845
+    "average_tmin": 19.767593344155845,
+    "population": 82759,
+    "symbol_sort_key": 3
   },
   "Nana-Grébizi": {
     "average_temp": 25.12,
@@ -933,7 +949,9 @@
     "average_srad": 20001.81920903955,
     "average_wind": 1.493709389688605,
     "average_tmax": 31.36867937853107,
-    "average_tmin": 18.86248234463277
+    "average_tmin": 18.86248234463277,
+    "population": 24661,
+    "symbol_sort_key": 10
   },
   "Kémo": {
     "average_temp": 25.26,
@@ -1037,7 +1055,9 @@
     "average_srad": 19408.959183673465,
     "average_wind": 1.2356126789941269,
     "average_tmax": 31.112393707482994,
-    "average_tmin": 19.398639455782313
+    "average_tmin": 19.398639455782313,
+    "population": 34866,
+    "symbol_sort_key": 11
   },
   "Vakaga": {
     "average_temp": 26.58,
@@ -1141,7 +1161,9 @@
     "average_srad": 19524.91964285714,
     "average_wind": 1.8967586179574332,
     "average_tmax": 34.20279017857144,
-    "average_tmin": 18.949419642857148
+    "average_tmin": 18.949419642857148,
+    "population": 6019,
+    "symbol_sort_key": 15
   },
   "Bamingui-Bangoran": {
     "average_temp": 26.57,
@@ -1245,7 +1267,9 @@
     "average_srad": 19959.80357142857,
     "average_wind": 1.6847316403651522,
     "average_tmax": 33.28865327380952,
-    "average_tmin": 19.849727182539684
+    "average_tmin": 19.849727182539684,
+    "population": 10850,
+    "symbol_sort_key": 16
   },
   "Ouaka": {
     "average_temp": 25.1,
@@ -1349,7 +1373,9 @@
     "average_srad": 19268.072695035455,
     "average_wind": 1.2433930272963032,
     "average_tmax": 31.21408096926714,
-    "average_tmin": 18.987581264775415
+    "average_tmin": 18.987581264775415,
+    "population": 67376,
+    "symbol_sort_key": 4
   },
   "Basse-Kotto": {
     "average_temp": 25.43,
@@ -1453,7 +1479,9 @@
     "average_srad": 18325.76086956522,
     "average_wind": 1.0939447448953339,
     "average_tmax": 31.51861413043478,
-    "average_tmin": 19.33589221014493
+    "average_tmin": 19.33589221014493,
+    "population": 30743,
+    "symbol_sort_key": 8
   },
   "Haute-Kotto": {
     "average_temp": 24.82,
@@ -1557,7 +1585,9 @@
     "average_srad": 18391.544921875,
     "average_wind": 1.5199488943908364,
     "average_tmax": 31.369140625,
-    "average_tmin": 18.2614501953125
+    "average_tmin": 18.2614501953125,
+    "population": 40638,
+    "symbol_sort_key": 13
   },
   "Haut-Mbomou": {
     "average_temp": 25.07,
@@ -1661,7 +1691,9 @@
     "average_srad": 17207.727366255145,
     "average_wind": 1.436972090000969,
     "average_tmax": 31.28744855967078,
-    "average_tmin": 18.846129115226336
+    "average_tmin": 18.846129115226336,
+    "population": 24610,
+    "symbol_sort_key": 14
   },
   "Bangui": {
     "average_temp": 26.0,
@@ -1765,6 +1797,8 @@
     "average_srad": 18005.5,
     "average_wind": 1.1002083321412404,
     "average_tmax": 31.413541666666664,
-    "average_tmin": 20.59375
+    "average_tmin": 20.59375,
+    "population": 1013407,
+    "symbol_sort_key": 0
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 12595.008928571428,
     "average_wind": 1.0311633282385413,
     "average_tmax": 28.97179129464286,
-    "average_tmin": 19.898707217261908
+    "average_tmin": 19.898707217261908,
+    "population": 93534,
+    "symbol_sort_key": 2
   },
   "Estuaire": {
     "average_temp": 26.07,
@@ -205,7 +207,9 @@
     "average_srad": 12857.774425287358,
     "average_wind": 1.4019732151565878,
     "average_tmax": 29.57094588060488,
-    "average_tmin": 22.56657806758223
+    "average_tmin": 22.56657806758223,
+    "population": 1030254,
+    "symbol_sort_key": 0
   },
   "Moyen-Ogooué": {
     "average_temp": 26.18,
@@ -309,7 +313,9 @@
     "average_srad": 12120.067307692307,
     "average_wind": 0.977439503543652,
     "average_tmax": 29.92189503205128,
-    "average_tmin": 22.428946314102564
+    "average_tmin": 22.428946314102564,
+    "population": 38909,
+    "symbol_sort_key": 5
   },
   "Ogooué-Lolo": {
     "average_temp": 24.95,
@@ -413,7 +419,9 @@
     "average_srad": 12381.14846743295,
     "average_wind": 1.0065519663565918,
     "average_tmax": 29.047258141762455,
-    "average_tmin": 20.855016762452106
+    "average_tmin": 20.855016762452106,
+    "population": 25651,
+    "symbol_sort_key": 4
   },
   "Haut-Ogooué": {
     "average_temp": 24.89,
@@ -517,7 +525,9 @@
     "average_srad": 13267.647766323025,
     "average_wind": 1.057836773674103,
     "average_tmax": 29.400579896907217,
-    "average_tmin": 20.38567439862543
+    "average_tmin": 20.38567439862543,
+    "population": 160002,
+    "symbol_sort_key": 1
   },
   "Ngounié": {
     "average_temp": 25.17,
@@ -621,7 +631,9 @@
     "average_srad": 11820.588095238096,
     "average_wind": 1.0269355196801444,
     "average_tmax": 28.988948412698416,
-    "average_tmin": 21.351319444444442
+    "average_tmin": 21.351319444444442,
+    "population": 42083,
+    "symbol_sort_key": 3
   },
   "Ogooué-Maritime": {
     "average_temp": 26.2,
@@ -725,7 +737,9 @@
     "average_srad": 12490.264784946236,
     "average_wind": 1.5179092268789969,
     "average_tmax": 29.433086117365026,
-    "average_tmin": 22.95879176201359
+    "average_tmin": 22.95879176201359,
+    "population": 167448,
+    "symbol_sort_key": 8
   },
   "Nyanga": {
     "average_temp": 25.56,
@@ -829,7 +843,9 @@
     "average_srad": 11886.456140350878,
     "average_wind": 1.4336545255623365,
     "average_tmax": 29.1953637524655,
-    "average_tmin": 21.925581312458416
+    "average_tmin": 21.925581312458416,
+    "population": 48227,
+    "symbol_sort_key": 7
   },
   "Ogooué-Ivindo\t": {
     "average_temp": 24.91,
@@ -933,6 +949,8 @@
     "average_srad": 12529.807539682539,
     "average_wind": 0.979700894385734,
     "average_tmax": 29.59207175925926,
-    "average_tmin": 20.220329034391533
+    "average_tmin": 20.220329034391533,
+    "population": 25544,
+    "symbol_sort_key": 6
   }
 }

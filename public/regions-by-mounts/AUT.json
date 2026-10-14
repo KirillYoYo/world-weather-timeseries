@@ -101,7 +101,9 @@
     "average_srad": 11795.0,
     "average_wind": 2.8563700861790604,
     "average_tmax": 16.54669117647059,
-    "average_tmin": 6.438296568627451
+    "average_tmin": 6.438296568627451,
+    "population": 77774,
+    "symbol_sort_key": 8
   },
   "Kärnten": {
     "average_temp": 6.96,
@@ -205,7 +207,9 @@
     "average_srad": 11607.276315789473,
     "average_wind": 2.303744517528174,
     "average_tmax": 12.124396929824561,
-    "average_tmin": 1.80219298245614
+    "average_tmin": 1.80219298245614,
+    "population": 263578,
+    "symbol_sort_key": 5
   },
   "Niederösterreich": {
     "average_temp": 10.17,
@@ -309,7 +313,9 @@
     "average_srad": 11211.99031007752,
     "average_wind": 2.779850046301997,
     "average_tmax": 15.119561531007754,
-    "average_tmin": 5.2275920542635665
+    "average_tmin": 5.2275920542635665,
+    "population": 614662,
+    "symbol_sort_key": 1
   },
   "Oberösterreich": {
     "average_temp": 9.42,
@@ -413,7 +419,9 @@
     "average_srad": 10810.648692810457,
     "average_wind": 2.159772864159416,
     "average_tmax": 14.221446078431372,
-    "average_tmin": 4.609803921568628
+    "average_tmin": 4.609803921568628,
+    "population": 537086,
+    "symbol_sort_key": 2
   },
   "Salzburg": {
     "average_temp": 5.82,
@@ -517,7 +525,9 @@
     "average_srad": 11386.383333333333,
     "average_wind": 2.9848124934567353,
     "average_tmax": 10.385243055555556,
-    "average_tmin": 1.2470138888888893
+    "average_tmin": 1.2470138888888893,
+    "population": 224873,
+    "symbol_sort_key": 6
   },
   "Steiermark": {
     "average_temp": 8.0,
@@ -621,7 +631,9 @@
     "average_srad": 11339.469483568073,
     "average_wind": 2.585934565520622,
     "average_tmax": 13.05020539906103,
-    "average_tmin": 2.956484741784038
+    "average_tmin": 2.956484741784038,
+    "population": 486295,
+    "symbol_sort_key": 3
   },
   "Tirol": {
     "average_temp": 4.88,
@@ -725,7 +737,9 @@
     "average_srad": 12131.87962962963,
     "average_wind": 3.1740594086823637,
     "average_tmax": 9.10846836419753,
-    "average_tmin": 0.660590277777778
+    "average_tmin": 0.660590277777778,
+    "population": 252268,
+    "symbol_sort_key": 4
   },
   "Vorarlberg": {
     "average_temp": 6.59,
@@ -829,7 +843,9 @@
     "average_srad": 12220.431818181822,
     "average_wind": 2.6018409151019473,
     "average_tmax": 10.978787878787879,
-    "average_tmin": 2.200189393939394
+    "average_tmin": 2.200189393939394,
+    "population": 437216,
+    "symbol_sort_key": 7
   },
   "Wien": {
     "average_temp": 12.24,
@@ -933,6 +949,8 @@
     "average_srad": 11387.083333333334,
     "average_wind": 3.1536874969800315,
     "average_tmax": 16.895833333333332,
-    "average_tmin": 7.58125
+    "average_tmin": 7.58125,
+    "population": 2235394,
+    "symbol_sort_key": 0
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": 17491.109330484334,
     "average_wind": 1.810219880607393,
     "average_tmax": 31.15116980354331,
-    "average_tmin": 20.76377059251834
+    "average_tmin": 20.76377059251834,
+    "population": 399557,
+    "symbol_sort_key": 7
   },
   "Nampula": {
     "average_temp": 25.26,
@@ -205,7 +207,9 @@
     "average_srad": 18012.812589413446,
     "average_wind": 1.745425125432117,
     "average_tmax": 30.910294301929387,
-    "average_tmin": 19.60334099727298
+    "average_tmin": 19.60334099727298,
+    "population": 1265795,
+    "symbol_sort_key": 0
   },
   "Niassa": {
     "average_temp": 24.14,
@@ -309,7 +313,9 @@
     "average_srad": 17260.426949443015,
     "average_wind": 1.9007627357247558,
     "average_tmax": 29.36123875321337,
-    "average_tmin": 18.920712832047986
+    "average_tmin": 18.920712832047986,
+    "population": 348950,
+    "symbol_sort_key": 6
   },
   "Gaza": {
     "average_temp": 24.72,
@@ -413,7 +419,9 @@
     "average_srad": 17599.750345781464,
     "average_wind": 1.6351517478047894,
     "average_tmax": 31.4396684481725,
-    "average_tmin": 18.00871169821026
+    "average_tmin": 18.00871169821026,
+    "population": 309426,
+    "symbol_sort_key": 8
   },
   "Inhambane": {
     "average_temp": 24.41,
@@ -517,7 +525,9 @@
     "average_srad": 17580.2377675841,
     "average_wind": 1.8238671234487027,
     "average_tmax": 30.670614334858886,
-    "average_tmin": 18.158781931378428
+    "average_tmin": 18.158781931378428,
+    "population": 295573,
+    "symbol_sort_key": 9
   },
   "Manica": {
     "average_temp": 23.8,
@@ -621,7 +631,9 @@
     "average_srad": 18205.320512820515,
     "average_wind": 1.7050408097413872,
     "average_tmax": 30.048579059829063,
-    "average_tmin": 17.543012820512818
+    "average_tmin": 17.543012820512818,
+    "population": 304545,
+    "symbol_sort_key": 4
   },
   "Maputo": {
     "average_temp": 23.29,
@@ -725,7 +737,9 @@
     "average_srad": 16846.210000000003,
     "average_wind": 2.085233553250631,
     "average_tmax": 29.869399202134876,
-    "average_tmin": 16.701421561559037
+    "average_tmin": 16.701421561559037,
+    "population": 2276269,
+    "symbol_sort_key": 3
   },
   "Sofala": {
     "average_temp": 25.48,
@@ -829,7 +843,9 @@
     "average_srad": 17500.36626984127,
     "average_wind": 1.8259338082302186,
     "average_tmax": 31.544700067156835,
-    "average_tmin": 19.418727282493837
+    "average_tmin": 19.418727282493837,
+    "population": 601977,
+    "symbol_sort_key": 5
   },
   "Tete": {
     "average_temp": 24.48,
@@ -933,7 +949,9 @@
     "average_srad": 18150.261202185793,
     "average_wind": 1.9779974667752374,
     "average_tmax": 30.995358606557378,
-    "average_tmin": 17.958934426229508
+    "average_tmin": 17.958934426229508,
+    "population": 286814,
+    "symbol_sort_key": 2
   },
   "Zambézia": {
     "average_temp": 24.82,
@@ -1037,6 +1055,8 @@
     "average_srad": 17216.64335476956,
     "average_wind": 1.5396142454552368,
     "average_tmax": 30.599547119181512,
-    "average_tmin": 19.049566141457674
+    "average_tmin": 19.049566141457674,
+    "population": 663263,
+    "symbol_sort_key": 1
   }
 }

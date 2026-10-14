@@ -101,7 +101,9 @@
     "average_srad": 8838.629050925927,
     "average_wind": 2.574555352192234,
     "average_tmax": 8.209564635905231,
-    "average_tmin": -0.8911170092213005
+    "average_tmin": -0.8911170092213005,
+    "population": 0,
+    "symbol_sort_key": 16
   },
   "Västerbottens län": {
     "average_temp": 1.95,
@@ -205,7 +207,9 @@
     "average_srad": 8371.197840260798,
     "average_wind": 2.9904417425224037,
     "average_tmax": 6.333360949430094,
-    "average_tmin": -2.4234612772622257
+    "average_tmin": -2.4234612772622257,
+    "population": 0,
+    "symbol_sort_key": 13
   },
   "Jämtlands län": {
     "average_temp": 2.5,
@@ -309,7 +313,9 @@
     "average_srad": 8641.18227665706,
     "average_wind": 3.048722921943115,
     "average_tmax": 6.930187319884728,
-    "average_tmin": -1.931298030739673
+    "average_tmin": -1.931298030739673,
+    "population": 0,
+    "symbol_sort_key": 19
   },
   "Gävleborgs län": {
     "average_temp": 5.22,
@@ -413,7 +419,9 @@
     "average_srad": 9186.935897435898,
     "average_wind": 2.768042895698819,
     "average_tmax": 9.765911172856802,
-    "average_tmin": 0.6761656324408332
+    "average_tmin": 0.6761656324408332,
+    "population": 0,
+    "symbol_sort_key": 10
   },
   "Dalarnas län": {
     "average_temp": 4.19,
@@ -517,7 +525,9 @@
     "average_srad": 9127.317850637524,
     "average_wind": 2.6458859235753995,
     "average_tmax": 9.051724726775953,
-    "average_tmin": -0.6689435336976324
+    "average_tmin": -0.6689435336976324,
+    "population": 0,
+    "symbol_sort_key": 9
   },
   "Uppsala län": {
     "average_temp": 7.07,
@@ -621,7 +631,9 @@
     "average_srad": 9639.713333333331,
     "average_wind": 3.2681398073832195,
     "average_tmax": 11.249496211469173,
-    "average_tmin": 2.898315908625721
+    "average_tmin": 2.898315908625721,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Västmanlands län": {
     "average_temp": 6.84,
@@ -725,7 +737,9 @@
     "average_srad": 9527.299019607844,
     "average_wind": 2.856905635665445,
     "average_tmax": 11.214430147058822,
-    "average_tmin": 2.4632659313725487
+    "average_tmin": 2.4632659313725487,
+    "population": 0,
+    "symbol_sort_key": 12
   },
   "Örebro län": {
     "average_temp": 6.87,
@@ -829,7 +843,9 @@
     "average_srad": 9523.12037037037,
     "average_wind": 2.856253862748911,
     "average_tmax": 11.050057870370372,
-    "average_tmin": 2.693171296296297
+    "average_tmin": 2.693171296296297,
+    "population": 0,
+    "symbol_sort_key": 7
   },
   "Värmlands län": {
     "average_temp": 6.08,
@@ -933,7 +949,9 @@
     "average_srad": 9417.309620596207,
     "average_wind": 2.661421236630055,
     "average_tmax": 10.596832655826557,
-    "average_tmin": 1.5569021002710024
+    "average_tmin": 1.5569021002710024,
+    "population": 0,
+    "symbol_sort_key": 11
   },
   "Västra Götalands län": {
     "average_temp": 7.76,
@@ -1037,7 +1055,9 @@
     "average_srad": 9592.975490196079,
     "average_wind": 3.6276646988843777,
     "average_tmax": 11.61195079852991,
-    "average_tmin": 3.9010757079473763
+    "average_tmin": 3.9010757079473763,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Hallands län": {
     "average_temp": 8.17,
@@ -1141,7 +1161,9 @@
     "average_srad": 9659.5078125,
     "average_wind": 3.382311342904965,
     "average_tmax": 12.188096508756281,
-    "average_tmin": 4.152072763644779
+    "average_tmin": 4.152072763644779,
+    "population": 0,
+    "symbol_sort_key": 6
   },
   "Skåne län": {
     "average_temp": 8.94,
@@ -1245,7 +1267,9 @@
     "average_srad": 9844.572033898306,
     "average_wind": 3.6912717051425226,
     "average_tmax": 12.641757427231743,
-    "average_tmin": 5.246505567984982
+    "average_tmin": 5.246505567984982,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Kronobergs län": {
     "average_temp": 7.74,
@@ -1349,7 +1373,9 @@
     "average_srad": 9755.772727272728,
     "average_wind": 2.806662401015108,
     "average_tmax": 11.948792613636362,
-    "average_tmin": 3.5231770833333336
+    "average_tmin": 3.5231770833333336,
+    "population": 0,
+    "symbol_sort_key": 17
   },
   "Blekinge län": {
     "average_temp": 8.57,
@@ -1453,7 +1479,9 @@
     "average_srad": 9926.272222222224,
     "average_wind": 4.11911691294776,
     "average_tmax": 12.54840277777778,
-    "average_tmin": 4.5898611111111105
+    "average_tmin": 4.5898611111111105,
+    "population": 0,
+    "symbol_sort_key": 18
   },
   "Kalmar län": {
     "average_temp": 8.16,
@@ -1557,7 +1585,9 @@
     "average_srad": 9932.384114583334,
     "average_wind": 3.37347441414992,
     "average_tmax": 12.497335736670841,
-    "average_tmin": 3.814348432425565
+    "average_tmin": 3.814348432425565,
+    "population": 0,
+    "symbol_sort_key": 15
   },
   "Jönköpings län": {
     "average_temp": 7.25,
@@ -1661,7 +1691,9 @@
     "average_srad": 9680.416666666666,
     "average_wind": 3.1565721160326254,
     "average_tmax": 11.48397435897436,
-    "average_tmin": 3.0124038461538465
+    "average_tmin": 3.0124038461538465,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Stockholms län": {
     "average_temp": 7.63,
@@ -1765,7 +1797,9 @@
     "average_srad": 9875.952702702703,
     "average_wind": 4.182331952962789,
     "average_tmax": 11.40119214713372,
-    "average_tmin": 3.850354151031724
+    "average_tmin": 3.850354151031724,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Östergötlands län": {
     "average_temp": 7.79,
@@ -1869,7 +1903,9 @@
     "average_srad": 9749.369047619048,
     "average_wind": 3.221432016955482,
     "average_tmax": 11.940509259259258,
-    "average_tmin": 3.6487764550264554
+    "average_tmin": 3.6487764550264554,
+    "population": 0,
+    "symbol_sort_key": 3
   },
   "Södermanlands län": {
     "average_temp": 7.69,
@@ -1973,7 +2009,9 @@
     "average_srad": 9741.041666666666,
     "average_wind": 3.259367547432582,
     "average_tmax": 11.820572916672875,
-    "average_tmin": 3.5551413694707055
+    "average_tmin": 3.5551413694707055,
+    "population": 0,
+    "symbol_sort_key": 8
   },
   "Norrbottens län": {
     "average_temp": 0.49,
@@ -2077,7 +2115,9 @@
     "average_srad": 8007.588046272494,
     "average_wind": 3.0774807919649967,
     "average_tmax": 4.959609908201344,
-    "average_tmin": -3.9726319647931216
+    "average_tmin": -3.9726319647931216,
+    "population": 0,
+    "symbol_sort_key": 14
   },
   "Gotlands län": {
     "average_temp": 8.48,
@@ -2181,6 +2221,8 @@
     "average_srad": 10328.949999999999,
     "average_wind": 5.46211326320966,
     "average_tmax": 11.988647758165996,
-    "average_tmin": 4.98075884308666
+    "average_tmin": 4.98075884308666,
+    "population": 0,
+    "symbol_sort_key": 20
   }
 }

@@ -101,7 +101,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 1
   },
   "Saint Andrew": {
     "average_temp": null,
@@ -205,7 +207,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 2
   },
   "Saint David": {
     "average_temp": null,
@@ -309,7 +313,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 5
   },
   "Saint George": {
     "average_temp": null,
@@ -413,7 +419,9 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 48723,
+    "symbol_sort_key": 0
   },
   "Saint Patrick": {
     "average_temp": 26.01,
@@ -517,7 +525,9 @@
     "average_srad": 19164.25,
     "average_wind": 4.592638234297435,
     "average_tmax": 28.90151510238648,
-    "average_tmin": 23.124242305755615
+    "average_tmin": 23.124242305755615,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Grenadines": {
     "average_temp": null,
@@ -621,6 +631,8 @@
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
-    "average_tmin": null
+    "average_tmin": null,
+    "population": 0,
+    "symbol_sort_key": 3
   }
 }

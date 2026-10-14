@@ -101,7 +101,9 @@
     "average_srad": 9920.60648148148,
     "average_wind": 3.274157406555282,
     "average_tmax": 12.021990740740742,
-    "average_tmin": 3.5589120370370373
+    "average_tmin": 3.5589120370370373,
+    "population": 25608,
+    "symbol_sort_key": 8
   },
   "Marijampole County": {
     "average_temp": 8.57,
@@ -205,7 +207,9 @@
     "average_srad": 10171.420833333334,
     "average_wind": 3.627661430835724,
     "average_tmax": 12.629687500000001,
-    "average_tmin": 4.503385416666666
+    "average_tmin": 4.503385416666666,
+    "population": 36807,
+    "symbol_sort_key": 5
   },
   "Vilnius County": {
     "average_temp": 7.89,
@@ -309,7 +313,9 @@
     "average_srad": 10020.763888888889,
     "average_wind": 3.447131064616972,
     "average_tmax": 12.086545138888887,
-    "average_tmin": 3.697612847222222
+    "average_tmin": 3.697612847222222,
+    "population": 0,
+    "symbol_sort_key": 0
   },
   "Panevezys County": {
     "average_temp": 8.19,
@@ -413,7 +419,9 @@
     "average_srad": 9870.891666666668,
     "average_wind": 3.197069270908832,
     "average_tmax": 12.2896875,
-    "average_tmin": 4.0886458333333335
+    "average_tmin": 4.0886458333333335,
+    "population": 0,
+    "symbol_sort_key": 4
   },
   "Kaunas County": {
     "average_temp": 8.25,
@@ -517,7 +525,9 @@
     "average_srad": 10003.562015503876,
     "average_wind": 3.5201710134513617,
     "average_tmax": 12.350072674418605,
-    "average_tmin": 4.144476744186046
+    "average_tmin": 4.144476744186046,
+    "population": 10110,
+    "symbol_sort_key": 1
   },
   "Alytus County": {
     "average_temp": 8.24,
@@ -621,7 +631,9 @@
     "average_srad": 10161.833333333336,
     "average_wind": 3.580651633739471,
     "average_tmax": 12.636416666666667,
-    "average_tmin": 3.834
+    "average_tmin": 3.834,
+    "population": 10489,
+    "symbol_sort_key": 7
   },
   "Klaipeda County": {
     "average_temp": 8.68,
@@ -725,7 +737,9 @@
     "average_srad": 10163.066666666668,
     "average_wind": 3.602040933767954,
     "average_tmax": 12.109638889292876,
-    "average_tmin": 5.259208333194256
+    "average_tmin": 5.259208333194256,
+    "population": 15932,
+    "symbol_sort_key": 2
   },
   "Telsiai County": {
     "average_temp": 7.96,
@@ -829,7 +843,9 @@
     "average_srad": 10040.518939393938,
     "average_wind": 3.440965897206104,
     "average_tmax": 11.640861742424242,
-    "average_tmin": 4.285795454545456
+    "average_tmin": 4.285795454545456,
+    "population": 22261,
+    "symbol_sort_key": 6
   },
   "Siauliai County": {
     "average_temp": 8.13,
@@ -933,7 +949,9 @@
     "average_srad": 9960.128787878788,
     "average_wind": 3.2824346536036693,
     "average_tmax": 11.99855587121212,
-    "average_tmin": 4.268631628787879
+    "average_tmin": 4.268631628787879,
+    "population": 10651,
+    "symbol_sort_key": 3
   },
   "Taurage County": {
     "average_temp": 8.45,
@@ -1037,6 +1055,8 @@
     "average_srad": 10116.60333333333,
     "average_wind": 3.4860066548983255,
     "average_tmax": 12.331833333333334,
-    "average_tmin": 4.560624999999999
+    "average_tmin": 4.560624999999999,
+    "population": 21416,
+    "symbol_sort_key": 9
   }
 }
