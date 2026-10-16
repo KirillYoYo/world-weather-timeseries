@@ -1,4 +1,4 @@
-export type WeatherMetric = 'temp' | 'prec' | 'wind' | 'srad'
+export type WeatherMetric = 'temp' | 'prec' | 'wind' | 'srad' | 'sunny'
 
 export type WeatherFilter = {
     metric: WeatherMetric
@@ -19,6 +19,7 @@ export const METRICS: { value: WeatherMetric; label: string }[] = [
     { value: 'prec', label: 'Осадки' },
     { value: 'wind', label: 'Ветер' },
     { value: 'srad', label: 'Солн. радиация' },
+    { value: 'sunny', label: 'Солнечные дни' },
 ]
 
 export const MONTHS: { value: number | null; label: string }[] = [
@@ -42,6 +43,7 @@ const PROPERTY_PREFIX: Record<WeatherMetric, { average: string; month: string }>
     prec: { average: 'average_prec', month: 'p' },
     wind: { average: 'average_wind', month: 'w' },
     srad: { average: 'average_srad', month: 's' },
+    sunny: { average: 'sunny_days_year', month: 'sd' },
 }
 
 export function monthTitle(month: number | null): string {
@@ -57,6 +59,7 @@ export function metricTitle(filter: WeatherFilter): string {
         if (filter.metric === 'temp') return 'Средняя температура'
         if (filter.metric === 'prec') return 'Средние осадки'
         if (filter.metric === 'wind') return 'Средний ветер'
+        if (filter.metric === 'sunny') return 'Солнечные дни'
         return 'Средняя солнечная радиация'
     }
     return `${metricLabel(filter.metric)} · ${monthTitle(filter.month)}`
@@ -66,6 +69,7 @@ export function metricUnit(metric: WeatherMetric): string {
     if (metric === 'prec') return 'мм'
     if (metric === 'wind') return 'м/с'
     if (metric === 'srad') return 'кДж'
+    if (metric === 'sunny') return ' дн'
     return '°'
 }
 
@@ -104,7 +108,8 @@ export type LegendScale = {
     ticks: string[]
 }
 
-export function legendScale(metric: WeatherMetric): LegendScale {
+export function legendScale(filter: Pick<WeatherFilter, 'metric' | 'month'>): LegendScale {
+    const metric = filter.metric
     if (metric === 'prec') {
         return {
             className: 'weather-scale weather-scale-prec',
@@ -121,6 +126,18 @@ export function legendScale(metric: WeatherMetric): LegendScale {
         return {
             className: 'weather-scale weather-scale-srad',
             ticks: ['0', '10k', '20k', '30k', '40k'],
+        }
+    }
+    if (metric === 'sunny') {
+        if (filter.month == null) {
+            return {
+                className: 'weather-scale weather-scale-sunny',
+                ticks: ['0', '100', '200', '300', '365 дн'],
+            }
+        }
+        return {
+            className: 'weather-scale weather-scale-sunny',
+            ticks: ['0', '8', '16', '24', '31 дн'],
         }
     }
     return {

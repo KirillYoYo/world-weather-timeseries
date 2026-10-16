@@ -8,6 +8,7 @@ export type MonthTminKey = `tn${MonthNumber}`
 export type MonthTmaxKey = `tx${MonthNumber}`
 export type MonthWindKey = `w${MonthNumber}`
 export type MonthSradKey = `s${MonthNumber}`
+export type MonthSunnyKey = `sd${MonthNumber}`
 
 export type MapFeatureProperties = {
     name: string
@@ -18,11 +19,19 @@ export type MapFeatureProperties = {
     average_tmax?: number
     average_wind?: number
     average_srad?: number
+    sunny_days_year?: number
+    symbol_sort_key?: number
     label?: string
     labelrank?: number
 } & Partial<
     Record<
-        MonthTempKey | MonthPrecKey | MonthTminKey | MonthTmaxKey | MonthWindKey | MonthSradKey,
+        | MonthTempKey
+        | MonthPrecKey
+        | MonthTminKey
+        | MonthTmaxKey
+        | MonthWindKey
+        | MonthSradKey
+        | MonthSunnyKey,
         number
     >
 >

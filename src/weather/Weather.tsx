@@ -61,7 +61,7 @@ export default function Weather() {
     )
     const provinceFill = useMemo(() => provinceFillLayer(filter), [filter])
     const provinceLabelsStyle = useMemo(() => provinceLabelLayer(filter), [filter])
-    const scale = legendScale(filter.metric)
+    const scale = legendScale(filter)
 
     useEffect(() => {
         let cancelled = false

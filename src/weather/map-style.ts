@@ -139,11 +139,24 @@ function sradColor(property: string): ExpressionSpecification {
     ]
 }
 
+function sunnyColor(property: string, yearly: boolean): ExpressionSpecification {
+    const stops = yearly
+        ? [0, '#d6e4f0', 100, '#fff3bf', 200, '#ffe066', 300, '#ffb703', 365, '#e85d04']
+        : [0, '#d6e4f0', 8, '#fff3bf', 16, '#ffe066', 24, '#ffb703', 31, '#e85d04']
+    return [
+        'case',
+        ['has', property],
+        ['interpolate', ['linear'], ['to-number', ['get', property]], ...stops],
+        '#d0d0d0',
+    ]
+}
+
 function metricColor(filter: WeatherFilter): ExpressionSpecification {
     const property = metricProperty(filter)
     if (filter.metric === 'prec') return precipitationColor(property)
     if (filter.metric === 'wind') return windColor(property)
     if (filter.metric === 'srad') return sradColor(property)
+    if (filter.metric === 'sunny') return sunnyColor(property, filter.month == null)
     return temperatureColor(property)
 }
 

@@ -143,6 +143,17 @@
     );
 }
 
+.weather-scale-sunny {
+    background: linear-gradient(
+        90deg,
+        #d6e4f0 0%,
+        #fff3bf 25%,
+        #ffe066 50%,
+        #ffb703 75%,
+        #e85d04 100%
+    );
+}
+
 .weather-scale-srad {
     background: linear-gradient(
         90deg,

@@ -10,6 +10,7 @@ import type {
     MapFeatureProperties,
     MonthPrecKey,
     MonthSradKey,
+    MonthSunnyKey,
     MonthTempKey,
     MonthTmaxKey,
     MonthTminKey,
@@ -21,7 +22,7 @@ export type ProvinceLayers = {
     labels: MapFeatureCollection
 }
 
-type MonthField = 'temp' | 'prec' | 'tmin' | 'tmax' | 'wind' | 'srad'
+type MonthField = 'temp' | 'prec' | 'tmin' | 'tmax' | 'wind' | 'srad' | 'sunny_days_real'
 
 type MonthWeather = Partial<Record<MonthField, number>>
 
@@ -32,6 +33,9 @@ type WeatherRecord = {
     average_tmax?: number
     average_wind?: number
     average_srad?: number
+    sunny_days_year?: number
+    population?: number
+    symbol_sort_key?: number
     [month: string]: number | MonthWeather | undefined
 }
 
@@ -49,6 +53,23 @@ export { WORLD_VIEW }
 
 function asFinite(value: unknown): number | undefined {
     return typeof value === 'number' && Number.isFinite(value) ? value : undefined
+}
+
+function readSunnyDays(record: WeatherRecord | undefined, month: number): number | undefined {
+    if (!record) return undefined
+    const bucket = record[String(month)]
+    if (!bucket || typeof bucket === 'number') return undefined
+    const sunny = asFinite(bucket.sunny_days_real)
+    if (sunny == null) return undefined
+    if (sunny > 0) return sunny
+    const srad = asFinite(bucket.srad)
+    return srad != null && srad > 0 ? sunny : undefined
+}
+
+function readSunnyYear(record: WeatherRecord | undefined): number | undefined {
+    const year = asFinite(record?.sunny_days_year)
+    if (year == null || year <= 0) return undefined
+    return year
 }
 
 function readMonthValue(
@@ -88,6 +109,9 @@ function withWeather(
     setAverage(properties, 'average_tmax', asFinite(record?.average_tmax))
     setAverage(properties, 'average_wind', asFinite(record?.average_wind))
     setAverage(properties, 'average_srad', asFinite(record?.average_srad))
+    setAverage(properties, 'sunny_days_year', readSunnyYear(record))
+    const symbolSortKey = asFinite(record?.symbol_sort_key)
+    if (symbolSortKey != null) properties.symbol_sort_key = symbolSortKey
 
     for (let month = 1; month <= 12; month += 1) {
         const temp = readMonthValue(record, month, 'temp')
@@ -102,6 +126,8 @@ function withWeather(
         if (wind != null) properties[`w${month}` as MonthWindKey] = wind
         const srad = readMonthValue(record, month, 'srad')
         if (srad != null) properties[`s${month}` as MonthSradKey] = srad
+        const sunny = readSunnyDays(record, month)
+        if (sunny != null) properties[`sd${month}` as MonthSunnyKey] = sunny
     }
     return properties
 }
@@ -154,6 +180,7 @@ export async function loadWorld(): Promise<{
     const labels: MapFeatureCollection = {
         type: 'FeatureCollection',
         features: world.features.flatMap(feature => {
+            console.log('feature.properties', feature.properties)
             const iso = feature.properties?.adm0_iso
             const name = feature.properties?.name
             const longitude = feature.properties?.label_x

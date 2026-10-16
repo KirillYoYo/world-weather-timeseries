@@ -8,7 +8,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 27.7
     },
     "2": {
       "temp": null,
@@ -16,7 +17,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 25.2
     },
     "3": {
       "temp": null,
@@ -24,7 +26,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 27.6
     },
     "4": {
       "temp": null,
@@ -32,7 +35,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 26.8
     },
     "5": {
       "temp": null,
@@ -40,7 +44,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.4
     },
     "6": {
       "temp": null,
@@ -48,7 +53,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.0
     },
     "7": {
       "temp": null,
@@ -56,7 +62,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.9
     },
     "8": {
       "temp": null,
@@ -64,7 +71,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.9
     },
     "9": {
       "temp": null,
@@ -72,7 +80,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.0
     },
     "10": {
       "temp": null,
@@ -80,7 +89,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.9
     },
     "11": {
       "temp": null,
@@ -88,7 +98,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 27.4
     },
     "12": {
       "temp": null,
@@ -96,14 +107,16 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 29.1
     },
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
     "average_tmin": null,
     "population": 0,
-    "symbol_sort_key": 2
+    "symbol_sort_key": 2,
+    "sunny_days_year": 346.9
   },
   "Southern Governorate": {
     "average_temp": 28.23,
@@ -114,7 +127,8 @@
       "srad": 13915.666666666666,
       "wind": 4.272666772206624,
       "tmax": 22.177222315470377,
-      "tmin": 13.711111132303873
+      "tmin": 13.711111132303873,
+      "sunny_days": 28.6
     },
     "2": {
       "temp": 19.46,
@@ -122,7 +136,8 @@
       "srad": 16224.666666666666,
       "wind": 4.736457983652751,
       "tmax": 23.789444478352863,
-      "tmin": 15.123333295186361
+      "tmin": 15.123333295186361,
+      "sunny_days": 26.8
     },
     "3": {
       "temp": 22.76,
@@ -130,7 +145,8 @@
       "srad": 18358.333333333332,
       "wind": 4.577868779500325,
       "tmax": 27.53833338419596,
-      "tmin": 17.97555567423503
+      "tmin": 17.97555567423503,
+      "sunny_days": 29.1
     },
     "4": {
       "temp": 27.38,
@@ -138,7 +154,8 @@
       "srad": 21044.0,
       "wind": 4.878280480702718,
       "tmax": 32.7944440205892,
-      "tmin": 21.96000022888183
+      "tmin": 21.96000022888183,
+      "sunny_days": 28.0
     },
     "5": {
       "temp": 32.22,
@@ -146,7 +163,8 @@
       "srad": 23325.666666666668,
       "wind": 4.4087808926900225,
       "tmax": 37.98722203572591,
-      "tmin": 26.456111399332677
+      "tmin": 26.456111399332677,
+      "sunny_days": 30.6
     },
     "6": {
       "temp": 36.1,
@@ -154,7 +172,8 @@
       "srad": 24816.0,
       "wind": 4.707856973012288,
       "tmax": 42.12833302815755,
-      "tmin": 30.068888854980468
+      "tmin": 30.068888854980468,
+      "sunny_days": 30.0
     },
     "7": {
       "temp": 36.97,
@@ -162,7 +181,8 @@
       "srad": 24047.666666666668,
       "wind": 4.538544336954753,
       "tmax": 42.741111246744794,
-      "tmin": 31.19222221374512
+      "tmin": 31.19222221374512,
+      "sunny_days": 30.9
     },
     "8": {
       "temp": 36.44,
@@ -170,7 +190,8 @@
       "srad": 23669.0,
       "wind": 4.315475622812907,
       "tmax": 41.73833338419597,
-      "tmin": 31.138333384195967
+      "tmin": 31.138333384195967,
+      "sunny_days": 31.0
     },
     "9": {
       "temp": 34.14,
@@ -178,7 +199,8 @@
       "srad": 21067.0,
       "wind": 3.6639136473337808,
       "tmax": 39.89500020345052,
-      "tmin": 28.375
+      "tmin": 28.375,
+      "sunny_days": 30.0
     },
     "10": {
       "temp": 30.22,
@@ -186,7 +208,8 @@
       "srad": 18546.666666666668,
       "wind": 3.6275178591410318,
       "tmax": 35.836666870117185,
-      "tmin": 24.60111083984375
+      "tmin": 24.60111083984375,
+      "sunny_days": 30.9
     },
     "11": {
       "temp": 25.34,
@@ -194,7 +217,8 @@
       "srad": 15314.333333333334,
       "wind": 3.906787395477295,
       "tmax": 30.017222213745118,
-      "tmin": 20.666666666666664
+      "tmin": 20.666666666666664,
+      "sunny_days": 28.6
     },
     "12": {
       "temp": 19.79,
@@ -202,14 +226,16 @@
       "srad": 13298.0,
       "wind": 4.060852527618408,
       "tmax": 23.903888829549153,
-      "tmin": 15.683333333333334
+      "tmin": 15.683333333333334,
+      "sunny_days": 30.0
     },
     "average_srad": 19468.916666666668,
     "average_wind": 4.3079169392585746,
     "average_tmax": 33.37893516752455,
     "average_tmin": 23.079305585225423,
     "population": 0,
-    "symbol_sort_key": 1
+    "symbol_sort_key": 1,
+    "sunny_days_year": 354.6
   },
   "Capital Governorate": {
     "average_temp": 28.26,
@@ -220,7 +246,8 @@
       "srad": 13757.0,
       "wind": 4.234814643859863,
       "tmax": 21.85999984741211,
-      "tmin": 13.800000190734863
+      "tmin": 13.800000190734863,
+      "sunny_days": 27.7
     },
     "2": {
       "temp": 19.51,
@@ -228,7 +255,8 @@
       "srad": 15970.0,
       "wind": 4.694814682006836,
       "tmax": 23.620000076293945,
-      "tmin": 15.4
+      "tmin": 15.4,
+      "sunny_days": 25.2
     },
     "3": {
       "temp": 22.63,
@@ -236,7 +264,8 @@
       "srad": 18201.0,
       "wind": 4.5496296882629395,
       "tmax": 27.34000015258789,
-      "tmin": 17.920000076293945
+      "tmin": 17.920000076293945,
+      "sunny_days": 27.6
     },
     "4": {
       "temp": 27.41,
@@ -244,7 +273,8 @@
       "srad": 20784.0,
       "wind": 4.7214813232421875,
       "tmax": 32.599999618530276,
-      "tmin": 22.220000076293946
+      "tmin": 22.220000076293946,
+      "sunny_days": 26.8
     },
     "5": {
       "temp": 32.27,
@@ -252,7 +282,8 @@
       "srad": 23393.0,
       "wind": 4.430370330810547,
       "tmax": 37.73999938964844,
-      "tmin": 26.8
+      "tmin": 26.8,
+      "sunny_days": 30.4
     },
     "6": {
       "temp": 36.25,
@@ -260,7 +291,8 @@
       "srad": 25112.0,
       "wind": 4.739259243011475,
       "tmax": 42.01999969482422,
-      "tmin": 30.479999923706053
+      "tmin": 30.479999923706053,
+      "sunny_days": 30.0
     },
     "7": {
       "temp": 37.16,
@@ -268,7 +300,8 @@
       "srad": 24282.0,
       "wind": 4.375555515289307,
       "tmax": 42.74000015258789,
-      "tmin": 31.579999923706055
+      "tmin": 31.579999923706055,
+      "sunny_days": 30.9
     },
     "8": {
       "temp": 36.55,
@@ -276,7 +309,8 @@
       "srad": 23857.0,
       "wind": 4.134814739227295,
       "tmax": 41.74000015258789,
-      "tmin": 31.35999984741211
+      "tmin": 31.35999984741211,
+      "sunny_days": 30.9
     },
     "9": {
       "temp": 34.3,
@@ -284,7 +318,8 @@
       "srad": 21308.0,
       "wind": 3.7651851177215576,
       "tmax": 39.78000030517578,
-      "tmin": 28.81999969482422
+      "tmin": 28.81999969482422,
+      "sunny_days": 30.0
     },
     "10": {
       "temp": 30.21,
@@ -292,7 +327,8 @@
       "srad": 18493.0,
       "wind": 3.6081480979919434,
       "tmax": 35.66000061035156,
-      "tmin": 24.75999984741211
+      "tmin": 24.75999984741211,
+      "sunny_days": 30.9
     },
     "11": {
       "temp": 25.43,
@@ -300,7 +336,8 @@
       "srad": 15087.0,
       "wind": 3.912592649459839,
       "tmax": 29.780000305175783,
-      "tmin": 21.079999923706055
+      "tmin": 21.079999923706055,
+      "sunny_days": 27.4
     },
     "12": {
       "temp": 19.61,
@@ -308,14 +345,16 @@
       "srad": 13095.0,
       "wind": 3.9844443798065186,
       "tmax": 23.640000534057616,
-      "tmin": 15.580000305175782
+      "tmin": 15.580000305175782,
+      "sunny_days": 29.1
     },
     "average_srad": 19444.916666666668,
     "average_wind": 4.262592534224193,
     "average_tmax": 33.21000006993612,
     "average_tmin": 23.316666650772092,
     "population": 0,
-    "symbol_sort_key": 0
+    "symbol_sort_key": 0,
+    "sunny_days_year": 346.9
   },
   "Muharraq Governorate": {
     "average_temp": null,
@@ -326,7 +365,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 27.7
     },
     "2": {
       "temp": null,
@@ -334,7 +374,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 25.2
     },
     "3": {
       "temp": null,
@@ -342,7 +383,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 27.6
     },
     "4": {
       "temp": null,
@@ -350,7 +392,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 26.8
     },
     "5": {
       "temp": null,
@@ -358,7 +401,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.4
     },
     "6": {
       "temp": null,
@@ -366,7 +410,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.0
     },
     "7": {
       "temp": null,
@@ -374,7 +419,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.9
     },
     "8": {
       "temp": null,
@@ -382,7 +428,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.9
     },
     "9": {
       "temp": null,
@@ -390,7 +437,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.0
     },
     "10": {
       "temp": null,
@@ -398,7 +446,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 30.9
     },
     "11": {
       "temp": null,
@@ -406,7 +455,8 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 27.4
     },
     "12": {
       "temp": null,
@@ -414,13 +464,15 @@
       "srad": null,
       "wind": null,
       "tmax": null,
-      "tmin": null
+      "tmin": null,
+      "sunny_days": 29.1
     },
     "average_srad": null,
     "average_wind": null,
     "average_tmax": null,
     "average_tmin": null,
     "population": 0,
-    "symbol_sort_key": 3
+    "symbol_sort_key": 3,
+    "sunny_days_year": 346.9
   }
 }
